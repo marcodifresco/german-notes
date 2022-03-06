@@ -1,5 +1,9 @@
 ___
+<<<<<<< HEAD
 Tags: #Languages/German/Grammar/Verbs 
+=======
+Tags: #Languages/German/Grammar/Verbs/Irregular  
+>>>>>>> 6170f97 (Restored all missing verbs.)
 Links: [[Verbs]]
 ___
 # Conjugation Präsens
@@ -13,5 +17,9 @@ Ihr | lasst
 Sie | lassen
 
 
+<<<<<<< HEAD
 # [[Languages/German/Verbs/Conjugation Perfekt]]
+=======
+# [[Conjugation Perfekt]]
+>>>>>>> 6170f97 (Restored all missing verbs.)
 [[Pronouns]] + [[Haben]] + gelassen

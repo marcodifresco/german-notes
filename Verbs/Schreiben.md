@@ -13,5 +13,9 @@ Ihr | schreibt
 Sie | schreiben
 
 
+<<<<<<< HEAD
 # [[Languages/German/Verbs/Conjugation Perfekt]]
+=======
+# [[Conjugation Perfekt]]
+>>>>>>> 6170f97 (Restored all missing verbs.)
 [[Pronouns]] + [[Haben]] + geschrieben
