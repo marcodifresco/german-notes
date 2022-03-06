@@ -5,13 +5,13 @@ ___
 # Conjugation Präsens
 Pronoun|Conjugation
 ------------ | ------------
-Ich | trinke
-Du | trinkst
-Er/Sie/Es | trinkt
-Wir | trinken
-Ihr | trinkt
-Sie | trinken
+Ich | lasse
+Du | lässt
+Er/Sie/Es | lässt
+Wir | lassen
+Ihr | lasst
+Sie | lassen
 
 
 # [[Conjugation Perfekt]]
-[[Pronouns]] + [[Haben]] + getrunken
+[[Pronouns]] + [[Haben]] + gelassen

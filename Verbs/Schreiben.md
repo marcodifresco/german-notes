@@ -5,13 +5,13 @@ ___
 # Conjugation Präsens
 Pronoun|Conjugation
 ------------ | ------------
-Ich | trinke
-Du | trinkst
-Er/Sie/Es | trinkt
-Wir | trinken
-Ihr | trinkt
-Sie | trinken
+Ich | schreibe
+Du | schreibst
+Er/Sie/Es | schreibt
+Wir | schreiben
+Ihr | schreibt
+Sie | schreiben
 
 
 # [[Conjugation Perfekt]]
-[[Pronouns]] + [[Haben]] + getrunken
+[[Pronouns]] + [[Haben]] + geschrieben
