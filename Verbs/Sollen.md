@@ -13,5 +13,5 @@ Ihr | sollt
 Sie | sollen
 
 
-# [[Languages/German/Verbs/Conjugation Perfekt]]
+# [[Conjugation Perfekt]]
 [[Pronouns]] + [[Haben]]  gesollt

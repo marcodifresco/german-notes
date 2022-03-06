@@ -5,13 +5,13 @@ ___
 # Conjugation Präsens
 Pronoun|Conjugation
 ------------ | ------------
-Ich | höre
-Du | hörst
-Er/Sie/Es | hört
-Wir | hören
-Ihr | hört
-Sie | hören
+Ich | suche
+Du | suchst
+Er/Sie/Es | sucht
+Wir | suchen
+Ihr | sucht
+Sie | suchen
 
 
 # [[Conjugation Perfekt]]
-[[Pronouns]] + [[Haben]] + gehört
+[[Pronouns]] + [[Haben]] + gesucht

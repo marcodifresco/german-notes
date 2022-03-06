@@ -13,5 +13,5 @@ Ihr | beschwert
 Sie | beschweren
 
 
-# [[Languages/German/Verbs/Conjugation Perfekt]]
+# [[Conjugation Perfekt]]
 [[Pronouns]] + [[Haben]] + beschwert

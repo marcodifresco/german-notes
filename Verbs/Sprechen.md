@@ -13,5 +13,5 @@ Ihr | sprecht
 Sie | sprechen
 
 
-# [[Languages/German/Verbs/Conjugation Perfekt]]
+# [[Conjugation Perfekt]]
 [[Pronouns]] + [[Haben]] + gesprochen

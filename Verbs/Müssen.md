@@ -13,5 +13,5 @@ Ihr | müsst
 Sie | müssen
 
 
-# [[Languages/German/Verbs/Conjugation Perfekt]]
+# [[Conjugation Perfekt]]
 [[Pronouns]] + [[Haben]] + gemusst

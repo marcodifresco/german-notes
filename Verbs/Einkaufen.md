@@ -13,5 +13,5 @@ Ihr | kauft ein
 Sie | kaufen ein
 
 
-# [[Languages/German/Verbs/Conjugation Perfekt]]
+# [[Conjugation Perfekt]]
 [[Pronouns]] + [[Haben]] +  eingekauft

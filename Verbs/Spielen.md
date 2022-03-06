@@ -13,5 +13,5 @@ Ihr | spielt
 Sie | spielen
 
 
-# [[Languages/German/Verbs/Conjugation Perfekt]]
+# [[Conjugation Perfekt]]
 [[Pronouns]] + [[Haben]] + gespielt

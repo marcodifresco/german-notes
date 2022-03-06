@@ -13,5 +13,5 @@ Ihr | dürft
 Sie | dürfen
 
 
-# [[Languages/German/Verbs/Conjugation Perfekt]]
+# [[Conjugation Perfekt]]
 [[Pronouns]] + [[Haben]] + gedurft

@@ -13,5 +13,5 @@ Ihr | erkennt
 Sie | erkennen
 
 
-# [[Languages/German/Verbs/Conjugation Perfekt]]
+# [[Conjugation Perfekt]]
 [[Pronouns]] + [[Haben]] + erkennen

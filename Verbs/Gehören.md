@@ -13,5 +13,5 @@ Ihr | gehört
 Sie | gehören
 
 
-# [[Languages/German/Verbs/Conjugation Perfekt]]
+# [[Conjugation Perfekt]]
 [[Pronouns]] + [[Haben]] + gehört

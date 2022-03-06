@@ -5,13 +5,13 @@ ___
 # Conjugation Präsens
 Pronoun|Conjugation
 ------------ | ------------
-Ich | mag
-Du | magst
-Er/Sie/Es | mag
-Wir | mögen
-Ihr | mögt
-Sie | mögen
+Ich | trinke
+Du | trinkst
+Er/Sie/Es | trinkt
+Wir | trinken
+Ihr | trinkt
+Sie | trinken
 
 
 # [[Conjugation Perfekt]]
-[[Pronouns]] + [[Haben]]+ gemocht
+[[Pronouns]] + [[Haben]] / [[Sein]] + geVERB

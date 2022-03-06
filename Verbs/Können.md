@@ -13,5 +13,5 @@ Ihr | könnt
 Sie | können
 
 
-# [[Languages/German/Verbs/Conjugation Perfekt]]
+# [[Conjugation Perfekt]]
 [[Pronouns]] + [[Haben]] + gekonnt

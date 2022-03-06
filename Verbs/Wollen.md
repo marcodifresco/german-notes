@@ -13,5 +13,5 @@ Ihr | wollt
 Sie | wollen
 
 
-# [[Languages/German/Verbs/Conjugation Perfekt]]
+# [[Conjugation Perfekt]]
 [[Pronouns]] + [[Haben]] + gewollt

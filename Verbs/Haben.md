@@ -24,7 +24,7 @@ Ihr | hattet
 Sie | hatten
 
 
-# [[Languages/German/Verbs/Conjugation Perfekt]]
+# [[Conjugation Perfekt]]
 Pronoun|Conjugation
 ------------ | ------------
 Ich | habe gehabt

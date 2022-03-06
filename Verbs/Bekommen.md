@@ -13,5 +13,5 @@ Ihr | bekommt
 Sie | bekommen
 
 
-# [[Languages/German/Verbs/Conjugation Perfekt]]
+# [[Conjugation Perfekt]]
 [[Pronouns]] + [[Haben]] + bekommen

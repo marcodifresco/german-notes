@@ -13,5 +13,5 @@ Ihr | fallt
 Sie | fallen
 
 
-# [[Languages/German/Verbs/Conjugation Perfekt]]
+# [[Conjugation Perfekt]]
 [[Pronouns]] + [[Sein]] + gefallen

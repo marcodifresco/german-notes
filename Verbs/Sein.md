@@ -24,7 +24,7 @@ Ihr | wart
 Sie | waren
 
 
-# [[Languages/German/Verbs/Conjugation Perfekt]]
+# [[Conjugation Perfekt]]
 Pronoun|Conjugation
 ------------ | ------------
 Ich | bin gewesen

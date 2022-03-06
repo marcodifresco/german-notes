@@ -13,5 +13,5 @@ Ihr | lest
 Sie | lesen
 
 
-# [[Languages/German/Verbs/Conjugation Perfekt]]
+# [[Conjugation Perfekt]]
 [[Pronouns]] + [[Haben]] +  gelesen

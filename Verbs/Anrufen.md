@@ -13,5 +13,5 @@ Ihr | habt
 Sie | haben
 
 
-# [[Languages/German/Verbs/Conjugation Perfekt]]
+# [[Conjugation Perfekt]]
 [[Pronouns]] + [[Haben]] +  angerufen

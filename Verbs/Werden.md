@@ -13,5 +13,5 @@ Ihr | wedet
 Sie | werden
 
 
-# [[Languages/German/Verbs/Conjugation Perfekt]]
+# [[Conjugation Perfekt]]
 [[Pronouns]] + [[Sein]]+  geworden

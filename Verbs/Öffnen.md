@@ -13,5 +13,5 @@ Ihr | öffnet
 Sie | öffnen
 
 
-# [[Languages/German/Verbs/Conjugation Perfekt]]
+# [[Conjugation Perfekt]]
 [[Pronouns]] + [[Haben]] + geöffnet

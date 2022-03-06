@@ -13,5 +13,5 @@ Ihr | mietet
 Sie | mieten
 
 
-# [[Languages/German/Verbs/Conjugation Perfekt]]
+# [[Conjugation Perfekt]]
 [[Pronouns]] + [[Haben]] + gemietet

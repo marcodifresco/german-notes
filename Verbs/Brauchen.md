@@ -13,5 +13,5 @@ Ihr | bestellt
 Sie | bestellen
 
 
-# [[Languages/German/Verbs/Conjugation Perfekt]]
+# [[Conjugation Perfekt]]
 [[Pronouns]] + [[Haben]] + gebraucht

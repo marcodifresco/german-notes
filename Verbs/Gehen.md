@@ -13,5 +13,5 @@ Ihr | geht
 Sie | gehen
 
 
-# [[Languages/German/Verbs/Conjugation Perfekt]]
+# [[Conjugation Perfekt]]
 [[Pronouns]] + [[Sein]] + egangen

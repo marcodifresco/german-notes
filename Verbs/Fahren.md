@@ -13,5 +13,5 @@ Ihr | fahrt
 Sie | fahren
 
 
-# [[Languages/German/Verbs/Conjugation Perfekt]]
+# [[Conjugation Perfekt]]
 [[Pronouns]] + [[Haben]] +  gefahren

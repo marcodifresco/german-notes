@@ -13,5 +13,4 @@ Ihr | besucht
 Sie | besuchen
 
 
-# [[Languages/German/Verbs/Conjugation Perfekt]]
-[[Pronouns]] + [[Haben]] + besucht
+# [[Conjugation Perfekt]][[Pronouns]] + [[Haben]] + besucht

@@ -13,5 +13,5 @@ Ihr | kommt
 Sie | kommen
 
 
-# [[Languages/German/Verbs/Conjugation Perfekt]]
+# [[Conjugation Perfekt]]
 [[Pronouns]] + [[Sein]] +  gekommen

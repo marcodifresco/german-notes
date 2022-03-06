@@ -13,5 +13,5 @@ Ihr | vergesst
 Sie | vergessen
 
 
-# [[Languages/German/Verbs/Conjugation Perfekt]]
+# [[Conjugation Perfekt]]
 [[Pronouns]] + [[Haben]] +  vergessen

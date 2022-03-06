@@ -13,5 +13,5 @@ Ihr | fangt an
 Sie | fangen an
 
 
-# [[Languages/German/Verbs/Conjugation Perfekt]]
+# [[Conjugation Perfekt]]
 [[Pronouns]] + [[Haben]] + angefangen
