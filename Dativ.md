@@ -5,4 +5,10 @@ With mit
 
 English | German
 ------------ | ------------
-Placeholder | Placeholder
+Placeholder
+
+| Placeholder
+
+# Examples
+ Der Tisch --> Auf dem Tisch
+Die Tasche --> Auf der Tasche
