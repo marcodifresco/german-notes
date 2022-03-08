@@ -1,0 +1,4 @@
+[[Nominativ]]
+[[Akkusativ]]
+[[Dativ]]
+[[Genitiv]]

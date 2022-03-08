@@ -41,5 +41,6 @@ The whole time | Die ganze Zeit
 # Festivities
 English | German
 ------------ | ------------
+December, 24th | Der Heiliger Abend
 December, 31st | Silvester
 January, 1st | Neu Jahr
