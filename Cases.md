@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ___
 Tags: #Languages/German/Grammar 
 Links: [[Vokabular]]
@@ -26,3 +27,9 @@ Aber! In Inseraten, kurzen Mitteilungen, und in Überscriften in Zeitungen, Werb
 **Rotes** Auto macht Unfal auf der Autobahn
 **Moderner** Computer gratis abzugeben
 **Junger** Mann am Bahnhof betrunken
+=======
+[[Nominativ]]
+[[Akkusativ]]
+[[Dativ]]
+[[Genitiv]]
+>>>>>>> c32c1b0 (Catch-all changes on 09 03 2022.)

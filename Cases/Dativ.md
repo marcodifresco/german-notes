@@ -1,6 +1,7 @@
 ___
 Tags: #Languages/German/Cases 
 ___
+<<<<<<< HEAD
 The dative case is used to indicate the recipient or beneficiary of an action. The normal word order in German is to put the dative in front of the accusative. However, since the German dative is marked in form, it can also be put after the accusative: Ich schickte das Buch dem Mann(e).
 
 # Artikel
@@ -115,3 +116,33 @@ Die Tasche --> Auf der Tasche
 Von Beiden
 Ich war letzte in den Ferien in den Ferien / Im Urlaub.
 Es geht mir ([[Dativ]]) gut
+=======
+# [[Pronouns]]
+English | German
+------------ | ------------
+I | Mir
+You | Dir
+He/She/It | Ihm/Ihr/Ihm
+We | Uns
+You | Euch
+They | Ihnem
+
+# [[Verbs]]
+[[Antworten]]
+[[Bringen]]
+[[Einkaufen]]
+[[Glauben]]
+[[Geben]]
+[[Helfen]]
+[[Leihen]]
+[[Schenken]]
+[[Schmecken]]
+[[Zeigen]]
+
+# Situations
+With "mit"....
+
+# Examples
+Der Tisch --> Auf dem Tisch
+Die Tasche --> Auf der Tasche
+>>>>>>> c32c1b0 (Catch-all changes on 09 03 2022.)

@@ -1,4 +1,5 @@
 ___
+<<<<<<< HEAD
 Created: 2023-07-03 20:14
 Tags: #
 Links: [[]]
@@ -129,3 +130,32 @@ Ich  gehe nächsten Monat in die Ferien / in den Urlaub.
 Ich warte auf (not für) den bus
 Ich  ärgere mich ... über
 er freut sich auf die Ferien
+=======
+Tags: #Languages/German/Cases 
+___
+# [[Pronouns]]
+English | German
+------------ | ------------
+I | Mich
+You | Dich
+He/She/It | Ihn/Sie/Es
+We | Uns
+You | Euch
+They | Sie
+
+# [[Verbs]]
+[[Abholen]]
+[[Anrufen]]
+[[Besuchen]]
+[[Brauchen]]
+[[Einladen]]
+[[Fragen]]
+[[Sehen]]
+[[Suchen]]
+
+# Situations
+placeholder
+
+# Examples
+placeholder
+>>>>>>> c32c1b0 (Catch-all changes on 09 03 2022.)
