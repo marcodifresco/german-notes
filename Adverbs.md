@@ -1,6 +1,7 @@
 # Adverbs
 ___
-Tags: #Languages/German/Vocabulary
+Tags: #Languages/German/Vocabulary 
+Links: [[Vocabulary]]
 ___
 English | German
 ------------ | ------------
@@ -15,11 +16,13 @@ Every | Jeden
 From | Vor
 Immediately | Sofort
 How | Wie
+Next | Nächstes
 Now | Jetzt
 On | Am (date) / Um (time)
 Some | Etwas
 Sometime | Manchmal
 Still | Noch
+Than | Als
 Too | Zu
 What | Was
 When | Wann

@@ -1,5 +1,6 @@
 ___
 Tags: #Languages/German/Vocabulary 
+Links: [[Vocabulary]]
 ___
 # Time
 English | German

@@ -17,29 +17,21 @@ Must | [[Müssen]]
 Should | [[Sollen]]
 Want | [[Wollen]]
 
-# Regular
-English | German
------------- | ------------
-Ask | [[Fragen]]
-Belive | [[Glauben]]
-Belong | [[Gehören]]
-Complain | [[Beschweren]]
-Demonstrate | [[Zeigen]]
-Give a gift | [[Schenken]]
-Hear | [[Hören]]
-Keep | [[Bewahren]]
-Need | [[Brauchen]]
-Open | [[Öffnen]]
-Pay | [[Bezahlen]]
-Play | [[Spielen]]
-Recognize | [[Erkennen]]
-Rent | [[Mieten]]
-Reply | [[Antworten]]
-Search | [[Suchen]]
-Speak | [[Sprechen]]
-Taste | [[Schmecken]]
-Visit | [[Besuchen]]
+# [[Regular verben]]
+# [[Irregular verben]]
+# [[Trennbare verben]]
+---
+#TODO need to reformatting the following as it look bad in reading mode
+# Mood
+## [[Modus Indikativ]]
+### [[Indikativ - Präsens|Präsens]]
+### [[Indikativ - Perfekt|Perfekt]]
+### [[Indikativ - Präteritum|Präteritum]]
+### [[Indikativ - Plusquamperfekt|Plusquamperfekt]]
+### [[Indikativ - Futur I|Futur I]]
+### [[Indikativ - Futur II|Futur II]]
 
+<<<<<<< HEAD
 # Irregular
 English | German
 ------------ | ------------
@@ -71,6 +63,8 @@ Collect | [[Abholen]] (R)
 Invite | [[Einladen]] (R)
 Start | [[Anfangen]] (I)
  
+=======
+>>>>>>> 27b923b (Catch-all changes on 10 03 2022.)
 ---
 <<<<<<< HEAD
 # Footnotes

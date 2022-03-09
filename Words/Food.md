@@ -1,5 +1,6 @@
 ___
 Tags: #Languages/German/Vocabulary
+ Links: [[Vocabulary]]
 ___
 English | German
 ------------ | ------------
@@ -7,3 +8,8 @@ English | German
 Orange | Die Orange(-n)
 Water | Das Wasser
 Cucumber | Die Gurke(-n)
+
+English | German
+------------ | ------------
+Bottle | Die Flasche
+Plate | Der Teller
