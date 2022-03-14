@@ -1,6 +1,11 @@
-Created: 2022-03-09 19:55
-Tags: #Languages/German #TODO
+Created: 2022-03-14 20:01
+Tags: #Languages/German #TODO 
 Links: [[]]
+___
+page 30 tabella Adjectivedeklination
+Compiti: chaper 5 pag 39 n4
+
+
 ___
 Angaben = Informationen
 mager = ohne fett
