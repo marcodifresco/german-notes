@@ -11,4 +11,5 @@ Glasses | Die Brille
 People | Die Leute
 Stomach | Der Bauch
 Task | Die Aufgabe(-n)
+Skinny | Mager
 Vacation | Urlaub
