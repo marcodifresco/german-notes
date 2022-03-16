@@ -1,3 +1,12 @@
+Created: 2022-03-16 20:08
+Tags: #
+Links: [[]]
+___
+# Argument
+
+
+
+
 Created: 2022-03-14 20:01
 Tags: #Languages/German #TODO 
 Links: [[]]
