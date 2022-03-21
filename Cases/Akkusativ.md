@@ -143,6 +143,12 @@ We | Uns
 You | Euch
 They | Sie
 
+# [[Adjectives]]
+Der --> Einem ...*en*
+Das --> Einem ...*es*
+Sie --> Einem ...*e*
+Plural -->  ...*e*
+
 # [[Verbs]]
 [[Abholen]]
 [[Anrufen]]

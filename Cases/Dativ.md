@@ -127,6 +127,12 @@ We | Uns
 You | Euch
 They | Ihnem
 
+# [[Adjectives]]
+Der --> Einem ...*en*
+Das --> Einem ...*en*
+Sie --> Einem ...*en*
+Plural -->  ...*en*
+
 # [[Verbs]]
 [[Antworten]]
 [[Bringen]]
@@ -145,4 +151,9 @@ With "mit"....
 # Examples
 Der Tisch --> Auf dem Tisch
 Die Tasche --> Auf der Tasche
+<<<<<<< HEAD
 >>>>>>> c32c1b0 (Catch-all changes on 09 03 2022.)
+=======
+2 Lieter von jeder (Milch) -> [[Dativ]]
+Von Beiden -> [[Dativ]]
+>>>>>>> 3d438a1 (Catch-all changes on 22 03 2022.)
