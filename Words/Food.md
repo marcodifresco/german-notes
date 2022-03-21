@@ -5,9 +5,10 @@ ___
 English | German
 ------------ | ------------
 (fruit)juice | Der (Frucht)saft
+Cucumber | Die Gurke(-n)
+Ham | Der Schinken
 Orange | Die Orange(-n)
 Water | Das Wasser
-Cucumber | Die Gurke(-n)
 
 English | German
 ------------ | ------------

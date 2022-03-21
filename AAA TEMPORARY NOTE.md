@@ -1,10 +1,33 @@
+Created: 2022-03-21 20:22
+Tags: #Languages/German #TODO
+Links: [[]]
+___
+die Fastnacht = Der Fashcing = carnival;
+Die Maske = das Kostu:m
+sich verklliden
+Die Veranstaltung = der Event
+Die Bu:hne =  stage
+Erleben = experience
+
+
+
+
+
+Created: 2022-03-14 20:01
+Tags: #Languages/German #TODO 
+Links: [[]]
+___
+page 30 tabella Adjectivedeklination
+Compiti: chaper 5 pag 39 n4
+
 Created: 2022-03-16 20:08
 Tags: #
 Links: [[]]
 ___
 # Argument
 
-
+Sich um|ziehen
+gehen nach Hause uns [[Umziehen|um**zu**ziehen]]
 
 
 Created: 2022-03-14 20:01
