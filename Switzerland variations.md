@@ -9,3 +9,4 @@ Hallo | Grüetzi
 Guten Appetit | En Guete
 Danke | Merci Vilmal
 Grillen | Grillieren
+Von Morgen an | Ab morgen

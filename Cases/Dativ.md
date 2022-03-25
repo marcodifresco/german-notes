@@ -2,6 +2,7 @@ ___
 Tags: #Languages/German/Cases 
 ___
 <<<<<<< HEAD
+<<<<<<< HEAD
 The dative case is used to indicate the recipient or beneficiary of an action. The normal word order in German is to put the dative in front of the accusative. However, since the German dative is marked in form, it can also be put after the accusative: Ich schickte das Buch dem Mann(e).
 
 # Artikel
@@ -117,6 +118,13 @@ Von Beiden
 Ich war letzte in den Ferien in den Ferien / Im Urlaub.
 Es geht mir ([[Dativ]]) gut
 =======
+=======
+# Articles
+Der --> Dem/Einem
+Das --> Dem/Einem
+Die --> Der/Einer
+
+>>>>>>> 43eb891 (Catch-all changes on 26 03 2022.)
 # [[Pronouns]]
 English | German
 ------------ | ------------
@@ -126,6 +134,9 @@ He/She/It | Ihm/Ihr/Ihm
 We | Uns
 You | Euch
 They | Ihnem
+
+# [[Vocabulary|Nouns]]
+Plural --> ...n
 
 # [[Adjectives]]
 Der --> Einem ...*en*
@@ -147,13 +158,19 @@ Plural -->  ...*en*
 
 # Situations
 With "mit"....
+With "seirt"/"vor"....
 
 # Examples
 Der Tisch --> Auf dem Tisch
 Die Tasche --> Auf der Tasche
+<<<<<<< HEAD
 <<<<<<< HEAD
 >>>>>>> c32c1b0 (Catch-all changes on 09 03 2022.)
 =======
 2 Lieter von jeder (Milch) -> [[Dativ]]
 Von Beiden -> [[Dativ]]
 >>>>>>> 3d438a1 (Catch-all changes on 22 03 2022.)
+=======
+2 Lieter von jeder (Milch)
+Von Beiden
+>>>>>>> 43eb891 (Catch-all changes on 26 03 2022.)
