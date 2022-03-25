@@ -1,6 +1,11 @@
 ___
 Tags: #Languages/German/Cases 
 ___
+# Articles
+Der --> Dem/Einem
+Das --> Dem/Einem
+Die --> Der/Einer
+
 # [[Pronouns]]
 English | German
 ------------ | ------------
@@ -10,6 +15,9 @@ He/She/It | Ihm/Ihr/Ihm
 We | Uns
 You | Euch
 They | Ihnem
+
+# [[Vocabulary|Nouns]]
+Plural --> ...n
 
 # [[Adjectives]]
 Der --> Einem ...*en*
@@ -31,9 +39,10 @@ Plural -->  ...*en*
 
 # Situations
 With "mit"....
+With "seirt"/"vor"....
 
 # Examples
 Der Tisch --> Auf dem Tisch
 Die Tasche --> Auf der Tasche
-2 Lieter von jeder (Milch) -> [[Dativ]]
-Von Beiden -> [[Dativ]]
+2 Lieter von jeder (Milch)
+Von Beiden

@@ -1,3 +1,15 @@
+Created: 2022-03-23 20:00
+Tags: #Languages/German #TODO 
+Links: [[]]
+___
+vom -> von dem
+all months have "der" article
+Ich wohne **seit** zwei wochen in Zurich -> azione ancora in corso
+Ich bin **vor** zwei Wochen nach Zurich gekommen -> 1 time action
+
+
+
+
 Created: 2022-03-21 20:22
 Tags: #Languages/German #TODO
 Links: [[]]
