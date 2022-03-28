@@ -2,6 +2,12 @@ ___
 Tags: #Languages/German/Vocabulary 
 Links: [[Vocabulary]]
 ___
+# General
+All months have "der" article.
+Ich wohne **seit** zwei wochen in Zurich -> action still in progress
+Ich bin **vor** zwei Wochen nach Zurich gekommen -> one time action
+Seit wann ... schon .... --> Wann ... (no schon)
+
 # Time
 English | German
 ------------ | ------------

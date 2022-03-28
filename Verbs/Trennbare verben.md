@@ -12,7 +12,7 @@ Prefix-verb --> [[Pronouns]] + [[Haben]]/[[Sein]] + prefix + **ge** + verb konju
 # Verbs
 English | German
 ------------ | ------------
-Be located | [[Stattfinden]] (I) #TODO 
+Be located | [[Stattfinden]] (I)
 Buy | [[Einkaufen]] (R)
 Call | [[Anrufen]] (I)
 Collect | [[Abholen]] (R)

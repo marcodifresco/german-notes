@@ -31,4 +31,9 @@ Plural -->  ...*e*
 placeholder
 
 # Examples
-placeholder
+Ein roh**en** Schinken (der)
+Ein frisch**es** Poulet (das)
+Ein gut**e** Pizza (die)
+2, 3 klein**e** Doesen Bier (die)
+Ein~~es~~ gut**es** Auto
+(pl) keine + ...en
