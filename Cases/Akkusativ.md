@@ -163,5 +163,14 @@ Plural -->  ...*e*
 placeholder
 
 # Examples
+<<<<<<< HEAD
 placeholder
 >>>>>>> c32c1b0 (Catch-all changes on 09 03 2022.)
+=======
+Ein roh**en** Schinken (der)
+Ein frisch**es** Poulet (das)
+Ein gut**e** Pizza (die)
+2, 3 klein**e** Doesen Bier (die)
+Ein~~es~~ gut**es** Auto
+(pl) keine + ...en
+>>>>>>> 49ef0fc (Catch-all changes on 29 03 2022.)

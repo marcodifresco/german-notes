@@ -22,8 +22,8 @@ Want | [[Wollen]]
 # [[Trennbare verben]]
 ---
 #TODO need to reformatting the following as it look bad in reading mode
-# Mood
-## [[Modus Indikativ]]
+
+# Modus Indikativ
 ### [[Indikativ - Präsens|Präsens]]
 ### [[Indikativ - Perfekt|Perfekt]]
 ### [[Indikativ - Präteritum|Präteritum]]

@@ -1,4 +1,4 @@
-# Adverbs
+# Adverbs and prepositions
 ___
 Tags: #Languages/German/Vocabulary 
 Links: [[Vocabulary]]
@@ -34,3 +34,7 @@ Who | Wer
 Why | Warum
 With | Mit
 Without | Ohne
+
+
+# Modifications
+vom -> von dem

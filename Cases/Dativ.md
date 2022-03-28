@@ -173,4 +173,7 @@ Von Beiden -> [[Dativ]]
 =======
 2 Lieter von jeder (Milch)
 Von Beiden
+<<<<<<< HEAD
 >>>>>>> 43eb891 (Catch-all changes on 26 03 2022.)
+=======
+>>>>>>> 49ef0fc (Catch-all changes on 29 03 2022.)
