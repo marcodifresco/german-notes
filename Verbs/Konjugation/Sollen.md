@@ -13,5 +13,16 @@ Ihr | sollt
 Sie | sollen
 
 
+# [[Modus Konjunktiv II]]
+Pronoun|Conjugation
+------------ | ------------
+Ich | sollte
+Du | solltest
+Er/Sie/Es | sollte
+Wir | sollten
+Ihr | solltet
+Sie | sollten
+
+
 # [[Indikativ - Perfekt]]
 [[Pronouns]] + [[Haben]]  gesollt
