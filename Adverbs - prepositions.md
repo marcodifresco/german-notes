@@ -9,6 +9,7 @@ Already | Schon
 Almost | Fast
 Always | Immer
 Also | Auch
+Between | Zwischen
 But | Aber
 Both | Beide
 Early | Frühzeitig

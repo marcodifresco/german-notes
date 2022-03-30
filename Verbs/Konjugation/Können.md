@@ -12,6 +12,15 @@ Wir | können
 Ihr | könnt
 Sie | können
 
+# [[Modus Konjunktiv II]]
+Pronoun|Conjugation
+------------ | ------------
+Ich | könnte
+Du | könntest
+Er/Sie/Es | könnte
+Wir | könnten
+Ihr | könntet
+Sie | könnten
 
 <<<<<<< HEAD:Verbs/Können.md
 # [[Languages/German/Verbs/Conjugation Perfekt]]
