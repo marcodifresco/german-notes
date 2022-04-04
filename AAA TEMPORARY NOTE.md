@@ -1,3 +1,12 @@
+Created: 2022-04-04 20:03
+Tags: #
+Links: [[]]
+___
+beitreten = become
+Fru:hlingdmud:digkeit
+
+
+
 Created: 2022-03-30 20:02
 Tags: #Languages/German 
 Links: [[]]
