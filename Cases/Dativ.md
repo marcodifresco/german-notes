@@ -19,6 +19,10 @@ They | Ihnem
 # [[Vocabulary|Nouns]]
 Plural --> ...n
 
+# Preposition
+zum -> zu dem (der / das)
+zur -> zu der (die)
+
 # [[Adjectives]]
 Der --> Einem ...*en*
 Das --> Einem ...*en*
@@ -40,6 +44,8 @@ Plural -->  ...*en*
 # Situations
 With "mit"....
 With "seirt"/"vor"....
+With "wo" --> in ...
+With "woher" --> aus/von ...
 
 # Examples
 Der Tisch --> Auf dem Tisch

@@ -39,3 +39,5 @@ Without | Ohne
 
 # Modifications
 vom -> von dem
+Im / aus = for building
+Bei = for persons

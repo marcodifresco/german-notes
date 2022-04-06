@@ -7,6 +7,8 @@ All months have "der" article.
 Ich wohne **seit** zwei wochen in Zurich -> action still in progress
 Ich bin **vor** zwei Wochen nach Zurich gekommen -> one time action
 Seit wann ... schon .... --> Wann ... (no schon)
+All days in date end with "Punkt".
+Am --> day | Um --> hour
 
 # Time
 English | German
@@ -43,6 +45,7 @@ English | German
 ------------ | ------------
 Year | Jahr
 Time | Zeit
+Future | Zukunft
 The whole time | Die ganze Zeit
 
 # Festivities

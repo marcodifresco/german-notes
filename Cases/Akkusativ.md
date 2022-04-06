@@ -28,7 +28,7 @@ Plural -->  ...*e*
 [[Suchen]]
 
 # Situations
-placeholder
+With "hin" --> in ...
 
 # Examples
 Ein roh**en** Schinken (der)

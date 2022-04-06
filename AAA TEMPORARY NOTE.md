@@ -1,28 +1,26 @@
-Created: 2022-04-04 20:03
+Created: 2022-04-06 20:50
 Tags: #
 Links: [[]]
 ___
-beitreten = become
-Fru:hlingdmud:digkeit
 
+die Bauchgegend
+Die herzerkrankung
+die Untersuchung
+schlimm
+Dauernd
+etwas hört  ganz von selbst auf (aufhören)
+Die Wahrheit 
+die Lüge
 
+---
+the feeling of pressure
+the abdominal area
+The heart disease
+the investigation
+terrible
+constantly
+something stops by itself (stop)
+The truth
+The lie
 
-Created: 2022-03-30 20:02
-Tags: #Languages/German 
-Links: [[]]
-___
-munter = countrary of mu:de
-erscho:pft =keine energie
-das u:bergewiant = overweight
-was machst du am Vormittag? Singular morining
-was machst du Vormittags? all mornings
-
-
-
-Created: 2022-03-28 20:06
-Tags: #Languages/German 
-Links: [[]]
-___
-zum -> zu dem [[Dativ]] (der / das)
-zur -> zu der [[Dativ]] (die)
-Da la:uft's (es) nicht mehr
+Deshalb = Aus diesem Grund = for that reason 
