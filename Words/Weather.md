@@ -4,4 +4,7 @@ Links: [[Vocabulary]]
 ___
 English | German
 ------------ | ------------
-It's raining | Es regnet
+It is cold | Es ist kalt
+It is raining | Es regnet
+It's snowing | Es schneit 
+It is stormy | Es ist stürmisch

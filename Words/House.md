@@ -16,4 +16,6 @@ Table | Der Tisch(-e)
 # Other
 English | German
 ------------ | ------------
+House | Haus
+Home | Hause
 Glass | Das Glas(-er)

@@ -12,12 +12,22 @@ Details | Angaben
 Dress up | Sich verklliden
 Experience | Erleben
 Event | Die Veranstaltung / Der Event
-Future | Zukunft
+... is as old as | ... ist genauso alt wie
 Glasses | Die Brille
 Mask | Die Maske / Das Kostüm
 People | Die Leute
 Stage | Die Bühne
 Stomach | Der Bauch
 Task | Die Aufgabe(-n)
-Skinny | Mager
 Vacation | Urlaub
+
+
+English | German
+------------ | ------------
+Nord | Der Norden
+East | Der Osten
+West | Der Westen
+South | der Süden
+
+
+[[Food]] [[Health]] [[House]] [[Synonyms]] [[Time]] [[Weather]] [[Common phrases]] [[Switzerland variations]]

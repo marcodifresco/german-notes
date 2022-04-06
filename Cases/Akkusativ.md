@@ -160,7 +160,7 @@ Plural -->  ...*e*
 [[Suchen]]
 
 # Situations
-placeholder
+With "hin" --> in ...
 
 # Examples
 <<<<<<< HEAD

@@ -16,7 +16,7 @@ Give | [[Geben]]
 Help | [[Helfen]]
 Lend | [[Leihen]]
 Order | [[Bestellen]]
-Permit | [[Lassen]][^1]
+Permit | [[Lassen]]
 Read  | [[Lesen]]
 See | [[Sehen]]
 Walk | [[Gehen]]
@@ -24,3 +24,4 @@ Wear | [[Tragen]]
 Write | [[Schreiben]]
 
 [^1]: also _"to will"_ something (to be)
+[^2]: also become
