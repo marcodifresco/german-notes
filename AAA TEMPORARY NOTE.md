@@ -1,3 +1,26 @@
+Created: 2022-04-11 20:07
+Tags: #Languages/German #TODO 
+Links: [[]]
+___
+Ich bin glücklich, denn ich habe Geburtstag
+Ich bin glücklich, weil ich Geburtstag habe
+Ich bin glücklich, da ich Geburtstag habe
+Oft: da ich Geburtstag habe, ich bin glücklich,
+
+Denn --> second verb in second position;
+Weil --> second verb at the end of the sentence;
+Da --> second verb at the end of the sentence.
+
+bleiben =  to stay
+
+Die Folge = conseguence
+Der Grund =  the reason
+
+Das Wetter ist schlecht, deshalb / darum, / deswegen bleibe ich zu hause
+
+AB S63 4,5,7
+
+
 Created: 2022-04-06 20:50
 Tags: #
 Links: [[]]
