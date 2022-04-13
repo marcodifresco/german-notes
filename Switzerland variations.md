@@ -11,3 +11,4 @@ Danke | Merci Vilmal
 Grillen | Grillieren
 Von Morgen an | Ab morgen
 Hühnchen | Poulet
+Der Krankenwagen | Die Ambulanz
