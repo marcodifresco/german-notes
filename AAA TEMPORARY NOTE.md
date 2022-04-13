@@ -1,3 +1,16 @@
+Created: 2022-04-13 20:04
+Tags: #Languages/German 
+Links: [[]]
+___
+Das Wetter ist gut, deshalb gehe ich spazieren;
+Ich liebe Pizza, deshalb bin Ich Italiener;
+Ich habe keine Zeit, denn Ich lese den Bock nicht
+
+Der Vogel fällt auf die Straße und die Katze hat ihn angegriffen. Jetzt ist er verletzt und muss operiert werden. Der Notarzt sagte, es sei ein Unfall gewesen.
+
+
+
+
 Created: 2022-04-11 20:07
 Tags: #Languages/German #TODO 
 Links: [[]]
