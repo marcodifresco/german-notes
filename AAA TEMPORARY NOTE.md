@@ -1,62 +1,40 @@
-Created: 2022-04-13 20:04
+Created: 2022-04-20 20:05
 Tags: #Languages/German 
 Links: [[]]
 ___
-Das Wetter ist gut, deshalb gehe ich spazieren;
-Ich liebe Pizza, deshalb bin Ich Italiener;
-Ich habe keine Zeit, denn Ich lese den Bock nicht
-
-Der Vogel fällt auf die Straße und die Katze hat ihn angegriffen. Jetzt ist er verletzt und muss operiert werden. Der Notarzt sagte, es sei ein Unfall gewesen.
-
-
+ganz vorn = the best
+der Wagen = auto
+Ich fahre mit eine**m** Audi = Precise, this moment - besides Fahrer oder Passagier
+Ich fahre eine**n** Audi = general - nur der Fahrer
+a:ndern
 
 
-Created: 2022-04-11 20:07
-Tags: #Languages/German #TODO 
-Links: [[]]
-___
-Ich bin glücklich, denn ich habe Geburtstag
-Ich bin glücklich, weil ich Geburtstag habe
-Ich bin glücklich, da ich Geburtstag habe
-Oft: da ich Geburtstag habe, ich bin glücklich,
 
-Denn --> second verb in second position;
-Weil --> second verb at the end of the sentence;
-Da --> second verb at the end of the sentence.
-
-bleiben =  to stay
-
-Die Folge = conseguence
-Der Grund =  the reason
-
-Das Wetter ist schlecht, deshalb / darum, / deswegen bleibe ich zu hause
-
-AB S63 4,5,7
-
-
-Created: 2022-04-06 20:50
+Created: 2022-04-04 20:03
 Tags: #
 Links: [[]]
 ___
+beitreten = become
+Fru:hlingdmud:digkeit
 
-die Bauchgegend
-Die herzerkrankung
-die Untersuchung
-schlimm
-Dauernd
-etwas hört  ganz von selbst auf (aufhören)
-Die Wahrheit 
-die Lüge
 
----
-the feeling of pressure
-the abdominal area
-The heart disease
-the investigation
-terrible
-constantly
-something stops by itself (stop)
-The truth
-The lie
 
-Deshalb = Aus diesem Grund = for that reason 
+Created: 2022-03-30 20:02
+Tags: #Languages/German 
+Links: [[]]
+___
+munter = countrary of mu:de
+erscho:pft =keine energie
+das u:bergewiant = overweight
+was machst du am Vormittag? Singular morining
+was machst du Vormittags? all mornings
+
+
+
+Created: 2022-03-28 20:06
+Tags: #Languages/German 
+Links: [[]]
+___
+zum -> zu dem [[Dativ]] (der / das)
+zur -> zu der [[Dativ]] (die)
+Da la:uft's (es) nicht mehr
