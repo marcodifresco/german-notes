@@ -11,4 +11,4 @@ Danke | Merci Vilmal
 Grillen | Grillieren
 Von Morgen an | Ab morgen
 Hühnchen | Poulet
-Der LKW (der Lastwagen) | Der Camion
+Der Krankenwagen | Die Ambulanz
