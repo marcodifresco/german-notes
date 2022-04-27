@@ -6,18 +6,22 @@ ___
 English | German
 ------------ | ------------
 All clear? | Alles klar?
+Apply now | Bewirb dich
 Correct | Stimmt.
 For example: | Zum Beispiel:
 How are you? | Wie geht es dir?
 How old is ...? | Wie alt ist ...?
 I do it myself | ich mache das selbst.
-I don't know. | Ich weiss es nicht.
-I don't remember. | Ich erinnere mich nicht.
+I don't know | Ich weiss es nicht
+I don't remember | Ich erinnere mich nicht
 It doesn't work anymore | Da läufts (es) nicht mehr
-It fits. | Das passt.
-Nice to know you. | Freut Mich.
-Not yet. | Noch nicht.
-Once more. | Noch mal.
+It fits | Das passt
+... is as old as | ... ist genauso alt wie
+Nice to know you | Freut Mich.
+Not yet | Noch nicht
+Once more | Noch mal
+Something stops by itself | Etwas hört  ganz von selbst auf
+The best ... | Ganz vorn
 What is your name (Form.) | Wie heissen sie?
 What is your name (Inform.) | Wie heisst du?
 What time is it? | Wie spät ist es?

@@ -1,7 +1,13 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 ___
 Tags: #Languages/German/Grammar 
 Links: [[Vokabular]]
+=======
+___
+Tags: #Languages/German/Grammar 
+Links: [[Vocabulary]]
+>>>>>>> b8a9998 (Fixed sync conflict duplicates)
 ___
 # Cases
 [[Nominativ]]
@@ -9,6 +15,7 @@ ___
 [[Dativ]]
 [[Genitiv]]
 
+<<<<<<< HEAD
 # Rules
 Order: [[Dativ]] -> [[Akkusativ]]
 Ich wäre gern -> Wie? [[Adjektive]] | Wer? [[Nominativ]]
@@ -33,3 +40,8 @@ Aber! In Inseraten, kurzen Mitteilungen, und in Überscriften in Zeitungen, Werb
 [[Dativ]]
 [[Genitiv]]
 >>>>>>> c32c1b0 (Catch-all changes on 09 03 2022.)
+=======
+# Examples
+Ich fahre mit eine**m** Audi = Precise, this moment (Fahrer oder Passagier)
+Ich fahre eine**n** Audi = general (nur der Fahrer)
+>>>>>>> b8a9998 (Fixed sync conflict duplicates)

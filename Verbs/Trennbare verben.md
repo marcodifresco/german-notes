@@ -21,6 +21,7 @@ Inaugurate | [[Einweihen]] (I)
 Invite | [[Einladen]] (R)
 Relocate[^1] | [[Umziehen]] (I)
 Start | [[Anfangen]] (I)
+Stop | [[Aufhören]] (R)
 Wear | [[Anhaben]] (R)
 
 
