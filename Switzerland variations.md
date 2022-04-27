@@ -12,3 +12,4 @@ Grillen | Grillieren
 Von Morgen an | Ab morgen
 Hühnchen | Poulet
 Der LKW (der Lastwagen) | Der Camion
+Pu:ree #TODO  | Der Stock
