@@ -16,11 +16,14 @@ ___
 [[Genitiv]]
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Rules
 Order: [[Dativ]] -> [[Akkusativ]]
 Ich wäre gern -> Wie? [[Adjektive]] | Wer? [[Nominativ]]
 
 ![[case-labels 1.png]]
+=======
+>>>>>>> ba5103c (Cleared AAA TEMPORARY NOTE)
 
 # Examples
 Ich fahre mit eine**m** Audi = Precise, this moment (Fahrer oder Passagier)
@@ -33,6 +36,7 @@ Aber! In Inseraten, kurzen Mitteilungen, und in Überscriften in Zeitungen, Werb
 **Neues** Auto zu verkaufen!
 **Rotes** Auto macht Unfal auf der Autobahn
 **Moderner** Computer gratis abzugeben
+<<<<<<< HEAD
 **Junger** Mann am Bahnhof betrunken
 =======
 [[Nominativ]]
@@ -45,3 +49,6 @@ Aber! In Inseraten, kurzen Mitteilungen, und in Überscriften in Zeitungen, Werb
 Ich fahre mit eine**m** Audi = Precise, this moment (Fahrer oder Passagier)
 Ich fahre eine**n** Audi = general (nur der Fahrer)
 >>>>>>> b8a9998 (Fixed sync conflict duplicates)
+=======
+**Junger** Mann am Bahnhof betrunken
+>>>>>>> ba5103c (Cleared AAA TEMPORARY NOTE)

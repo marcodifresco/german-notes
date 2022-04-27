@@ -7,8 +7,10 @@ English | German
 ------------ | ------------
 All clear? | Alles klar?
 Apply now | Bewirb dich
-Correct | Stimmt.
+Correct | Stimmt
+Dress up | Sich verklliden
 For example: | Zum Beispiel:
+For this reason | Deshalb
 How are you? | Wie geht es dir?
 How old is ...? | Wie alt ist ...?
 I do it myself | ich mache das selbst.
@@ -17,6 +19,7 @@ I don't remember | Ich erinnere mich nicht
 It doesn't work anymore | Da läufts (es) nicht mehr
 It fits | Das passt
 ... is as old as | ... ist genauso alt wie
+M/W | männlich and weiblich
 Nice to know you | Freut Mich.
 Not yet | Noch nicht
 Once more | Noch mal

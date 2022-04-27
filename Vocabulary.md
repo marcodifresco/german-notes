@@ -7,22 +7,23 @@ About this | Davon
 Beard | Der Bart
 Carnival | Die Fastnacht / Der Fashcing
 Consequence | Die Folge
-Details | Angaben
-Dress up | Sich verklliden
+Department | Die Abteilung
 Experience | Erleben
 Event | Die Veranstaltung / Der Event
-For this reason | Deshalb
 Glasses | Die Brille
 Investigation | Die Untersuchung
 Lie | Die Lüge
 Mask | Die Maske / Das Kostüm
+Offer | Das angebot
 People | Die Leute
+Permanent job | Die Festanstellung
 Reason | Der Grund
 Stage | Die Bühne
 Stomach | Der Bauch
 Task | Die Aufgabe(-n)
 Truth | Die Wahrheit
-Vacation | Urlaub
+Vacation | Der Urlaub
+
 
 
 
