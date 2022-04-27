@@ -7,6 +7,7 @@ English | German
 Ask | [[Fragen]]
 Believe | [[Glauben]]
 Belong | [[Gehören]]
+Change | [[Ändern]]
 Complain | [[Beschweren]]
 Demonstrate | [[Zeigen]]
 Dive | [[Tauchen]]

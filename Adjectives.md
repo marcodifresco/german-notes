@@ -9,13 +9,7 @@ Thin | Mager[^2]
 Tired | Müde
 Short | Kurz
 Sweet | Süss
-
-
-
-
-
-
-
+Terrible| Schlimm
 
 
 #Examples

@@ -1,4 +1,3 @@
-# Adverbs and prepositions
 ___
 Tags: #Languages/German/Vocabulary 
 Links: [[Vocabulary]]
@@ -12,6 +11,7 @@ Also | Auch
 Between | Zwischen
 But | Aber
 Both | Beide
+Constantly | Dauernd
 Early | Frühzeitig
 Every | Jeden
 From | Vor
