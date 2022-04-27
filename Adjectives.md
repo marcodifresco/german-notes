@@ -10,6 +10,7 @@ Tired | Müde
 Short | Kurz
 Sweet | Süss
 Terrible| Schlimm
+Urgent | Sofort
 
 
 #Examples
