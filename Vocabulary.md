@@ -5,12 +5,14 @@ English | German
 ------------ | ------------
 About this | Davon
 Beard | Der Bart
+Blind date | Das Blinddate
 Carnival | Die Fastnacht / Der Fashcing
 Consequence | Die Folge
 Department | Die Abteilung
 Experience | Erleben
 Event | Die Veranstaltung / Der Event
 Glasses | Die Brille
+
 Investigation | Die Untersuchung
 Lie | Die Lüge
 Mask | Die Maske / Das Kostüm

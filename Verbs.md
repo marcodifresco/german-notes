@@ -67,7 +67,15 @@ Start | [[Anfangen]] (I)
 >>>>>>> 27b923b (Catch-all changes on 10 03 2022.)
 ---
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Footnotes
 =======
 >>>>>>> c32c1b0 (Catch-all changes on 09 03 2022.)
+=======
+# Rules
+Ich glaube, Ich denke, Ich vermute, dass ... [verb am ende]
+
+---
+
+>>>>>>> 34564f0 (Added 27-05 lesson notes.)
 [^1]: also leave something behind.
