@@ -20,6 +20,7 @@ How | Wie
 Next | Nächstes
 Now | Jetzt
 On | Am (date) / Um (time)
+Others | Anderen
 Some | Etwas
 Sometime | Manchmal
 Still | Noch

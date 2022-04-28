@@ -4,12 +4,18 @@ Links: [[Vocabulary]]
 ___
 English | German
 ------------ | ------------
+Annoyed | Genervt
+Happy | Glücklich
 Last | Letzte[^1]
+Relaxed | Entspannt
+Sad | Traurig
+Short | Kurz
+Stressed | Gestresst
+Sweet | Süss
+Tense | Gespannt
+Terrible| Schlimm
 Thin | Mager[^2]
 Tired | Müde
-Short | Kurz
-Sweet | Süss
-Terrible| Schlimm
 Urgent | Sofort
 
 

@@ -32,4 +32,9 @@ Want | [[Wollen]]
 ### [[Indikativ - Futur II|Futur II]]
 
 ---
+# Rules
+Ich glaube, Ich denke, Ich vermute, dass ... [verb am ende]
+
+---
+
 [^1]: also leave something behind.
