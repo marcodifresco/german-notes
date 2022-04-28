@@ -12,22 +12,32 @@ We | Wir
 You | Ihr
 They | Sie
 
+# Possessivpronomen
+English | German
+------------ | ------------
+My | Mein(e)
+Your | Dein(e)
+His/Her | Sein(e)/Ihr(e)
+Our | Unser(e)
+Your | 
+Their | Ihr(e)
+
 # [[Dativ]]
 English | German
 ------------ | ------------
-I | Mir
-You | Dir
-He/She/It | Ihm/Ihr/Ihm
-We | Uns
-You | Euch
-They | Ihnem
+To me | Mir
+To you | Dir
+To him/her/it | Ihm/Ihr/Ihm
+To us | Uns
+To you | Euch
+To them | Ihnem
 
 # [[Akkusativ]]
 English | German
 ------------ | ------------
-I | Mich
+Me | Mich
 You | Dich
-He/She/It | Ihn/Sie/Es
-We | Uns
+Him/Her/Its | Ihn/Sie/Es
+Us | Uns
 You | Euch
-They | Sie
+Them | Sie

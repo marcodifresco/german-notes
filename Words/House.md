@@ -5,7 +5,7 @@ ___
 # Rooms
 English | German
 ------------ | ------------
-I | Ich
+Room | Das Zimmer (-)
 
 # Furniture
 English | German

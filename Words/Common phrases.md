@@ -25,6 +25,7 @@ Not yet | Noch nicht
 Once more | Noch mal
 Something stops by itself | Etwas hört  ganz von selbst auf
 The best ... | Ganz vorn
+That is nice | Das ist so lieb
 What is your name (Form.) | Wie heissen sie?
 What is your name (Inform.) | Wie heisst du?
 What time is it? | Wie spät ist es?

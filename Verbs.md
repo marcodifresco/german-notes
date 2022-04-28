@@ -21,8 +21,6 @@ Want | [[Wollen]]
 # [[Irregular verben]]
 # [[Trennbare verben]]
 ---
-#TODO need to reformatting the following as it look bad in reading mode
-
 # Modus Indikativ
 ### [[Indikativ - Präsens|Präsens]]
 ### [[Indikativ - Perfekt|Perfekt]]
@@ -32,7 +30,7 @@ Want | [[Wollen]]
 ### [[Indikativ - Futur II|Futur II]]
 
 ---
-# Rules
+# Various rules
 Ich glaube, Ich denke, Ich vermute, dass ... [verb am ende]
 
 ---

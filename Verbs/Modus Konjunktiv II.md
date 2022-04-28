@@ -1,5 +1,5 @@
 ___
-Tags: #Languages/German/Grammar/Verbs #TODO 
+Tags: #Languages/German/Grammar/Verbs 
 Links: [[Verbs]]
 ___
 Ich möchte einen kaffee bitte

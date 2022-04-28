@@ -13,8 +13,8 @@ Am --> day | Um --> hour
 # Time
 English | German
 ------------ | ------------
-Hour | die Uhr
-Hour | die Stunde(-n)
+Hour | die Uhr (precise hour)
+Hour | die Stunde(-n) (length of time)
 Minute | die Minute(-n)
 Second | Die Sekunde(-n)
 
