@@ -23,7 +23,7 @@ Want | [[Wollen]]
 ---
 # Modus Indikativ
 ### [[Indikativ - Präsens|Präsens]]
-### [[Indikativ - Perfekt|Perfekt]]
+### [[Languages/German/Verbs/Indikativ - Perfekt|Perfekt]]
 ### [[Indikativ - Präteritum|Präteritum]]
 ### [[Indikativ - Plusquamperfekt|Plusquamperfekt]]
 ### [[Indikativ - Futur I|Futur I]]

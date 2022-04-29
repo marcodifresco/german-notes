@@ -13,5 +13,5 @@ Ihr | kennt
 Sie | kennen
 
 
-# [[Indikativ - Perfekt]]
+# [[Languages/German/Verbs/Indikativ - Perfekt]]
 [[Pronouns]] + [[Haben]] + gekannt

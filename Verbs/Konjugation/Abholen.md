@@ -13,5 +13,5 @@ Ihr | holt ab
 Sie | holen ab
 
 
-# [[Indikativ - Perfekt]]
+# [[Languages/German/Verbs/Indikativ - Perfekt]]
 [[Pronouns]] + [[Haben]] + abgeholt

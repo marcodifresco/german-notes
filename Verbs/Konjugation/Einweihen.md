@@ -13,5 +13,5 @@ Ihr | weiht ein
 Sie | weihen ein
 
 
-# [[Indikativ - Perfekt]]
+# [[Languages/German/Verbs/Indikativ - Perfekt]]
 [[Pronouns]] + [[Haben]] + eingeweiht

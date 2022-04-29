@@ -13,5 +13,5 @@ Ihr | liegt
 Sie | liegen
 
 
-# [[Indikativ - Perfekt]]
+# [[Languages/German/Verbs/Indikativ - Perfekt]]
 [[Pronouns]] + [[Haben]] + gelegen

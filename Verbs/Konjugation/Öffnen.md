@@ -13,5 +13,5 @@ Ihr | öffnet
 Sie | öffnen
 
 
-# [[Indikativ - Perfekt]]
+# [[Languages/German/Verbs/Indikativ - Perfekt]]
 [[Pronouns]] + [[Haben]] + geöffnet

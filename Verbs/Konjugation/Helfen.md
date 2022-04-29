@@ -13,5 +13,5 @@ Ihr | hilft
 Sie | helfen
 
 
-# [[Indikativ - Perfekt]]
+# [[Languages/German/Verbs/Indikativ - Perfekt]]
 [[Pronouns]] + [[Haben]] + geholfen

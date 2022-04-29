@@ -13,5 +13,5 @@ Ihr | schmeckt
 Sie | schmecken
 
 
-# [[Indikativ - Perfekt]]
+# [[Languages/German/Verbs/Indikativ - Perfekt]]
 [[Pronouns]] + [[Haben]] + geschmeckt

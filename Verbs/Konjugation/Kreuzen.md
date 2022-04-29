@@ -13,5 +13,5 @@ Ihr | kreuzt
 Sie | kreuzen
 
 
-# [[Indikativ - Perfekt]]
+# [[Languages/German/Verbs/Indikativ - Perfekt]]
 [[Pronouns]] + [[Sein]] + gekreuzt

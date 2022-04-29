@@ -13,5 +13,5 @@ Ihr | hängt
 Sie | hängen
 
 
-# [[Indikativ - Perfekt]]
+# [[Languages/German/Verbs/Indikativ - Perfekt]]
 [[Pronouns]] + [[Haben]] + gehangen

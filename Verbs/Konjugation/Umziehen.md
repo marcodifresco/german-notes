@@ -13,7 +13,7 @@ Ihr | zieht um
 Sie | haben um
 
 
-# [[Indikativ - Perfekt]]
+# [[Languages/German/Verbs/Indikativ - Perfekt]]
 [[Pronouns]] + [[Haben]] + umzogen
 
 

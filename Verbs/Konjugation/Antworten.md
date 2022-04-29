@@ -13,5 +13,5 @@ Ihr | antwortet
 Sie | antworten
 
 
-# [[Indikativ - Perfekt]]
+# [[Languages/German/Verbs/Indikativ - Perfekt]]
 [[Pronouns]] + [[Haben]] + geantwortet

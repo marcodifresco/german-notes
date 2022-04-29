@@ -13,5 +13,5 @@ Ihr | hört
 Sie | hören
 
 
-# [[Indikativ - Perfekt]]
+# [[Languages/German/Verbs/Indikativ - Perfekt]]
 [[Pronouns]] + [[Haben]] + gehört

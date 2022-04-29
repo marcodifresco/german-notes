@@ -13,5 +13,5 @@ Ihr | wollt
 Sie | wollen
 
 
-# [[Indikativ - Perfekt]]
+# [[Languages/German/Verbs/Indikativ - Perfekt]]
 [[Pronouns]] + [[Haben]] + gewollt

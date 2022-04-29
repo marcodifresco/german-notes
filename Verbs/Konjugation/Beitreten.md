@@ -13,5 +13,5 @@ Ihr | tretet bei
 Sie | treten bei
 
 
-# [[Indikativ - Perfekt]]
+# [[Languages/German/Verbs/Indikativ - Perfekt]]
 [[Pronouns]] + [[Sein]] + beigetreten

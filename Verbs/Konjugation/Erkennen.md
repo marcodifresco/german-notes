@@ -13,5 +13,5 @@ Ihr | erkennt
 Sie | erkennen
 
 
-# [[Indikativ - Perfekt]]
+# [[Languages/German/Verbs/Indikativ - Perfekt]]
 [[Pronouns]] + [[Haben]] + erkennen

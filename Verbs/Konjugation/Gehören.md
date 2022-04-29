@@ -13,5 +13,5 @@ Ihr | gehört
 Sie | gehören
 
 
-# [[Indikativ - Perfekt]]
+# [[Languages/German/Verbs/Indikativ - Perfekt]]
 [[Pronouns]] + [[Haben]] + gehört

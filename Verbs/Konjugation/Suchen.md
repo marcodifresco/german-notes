@@ -13,5 +13,5 @@ Ihr | sucht
 Sie | suchen
 
 
-# [[Indikativ - Perfekt]]
+# [[Languages/German/Verbs/Indikativ - Perfekt]]
 [[Pronouns]] + [[Haben]] + gesucht

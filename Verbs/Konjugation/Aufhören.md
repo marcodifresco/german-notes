@@ -13,5 +13,5 @@ Ihr | hört auf
 Sie | hören auf
 
 
-# [[Indikativ - Perfekt]]
+# [[Languages/German/Verbs/Indikativ - Perfekt]]
 [[Pronouns]] + [[Haben]] + aufgehört

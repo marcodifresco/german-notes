@@ -13,5 +13,5 @@ Ihr | trinkt
 Sie | trinken
 
 
-# [[Indikativ - Perfekt]]
+# [[Languages/German/Verbs/Indikativ - Perfekt]]
 [[Pronouns]] + [[Haben]] + getrunken

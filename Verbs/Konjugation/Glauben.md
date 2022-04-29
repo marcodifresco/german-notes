@@ -13,5 +13,5 @@ Ihr | glaubt
 Sie | glauben
 
 
-# [[Indikativ - Perfekt]]
+# [[Languages/German/Verbs/Indikativ - Perfekt]]
 [[Pronouns]] + [[Haben]] + geglaubt

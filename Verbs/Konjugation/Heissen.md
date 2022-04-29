@@ -13,5 +13,5 @@ Ihr | heisst
 Sie | heissen
 
 
-# [[Indikativ - Perfekt]]
+# [[Languages/German/Verbs/Indikativ - Perfekt]]
 [[Pronouns]] + [[Haben]] + geheissen

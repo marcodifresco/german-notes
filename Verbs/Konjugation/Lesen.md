@@ -13,5 +13,5 @@ Ihr | lest
 Sie | lesen
 
 
-# [[Indikativ - Perfekt]]
+# [[Languages/German/Verbs/Indikativ - Perfekt]]
 [[Pronouns]] + [[Haben]] +  gelesen

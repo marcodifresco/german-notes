@@ -13,5 +13,5 @@ Ihr | lasst
 Sie | lassen
 
 
-# [[Indikativ - Perfekt]]
+# [[Languages/German/Verbs/Indikativ - Perfekt]]
 [[Pronouns]] + [[Haben]] + gelassen

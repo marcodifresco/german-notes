@@ -13,5 +13,5 @@ Ihr | sagt
 Sie | sagen
 
 
-# [[Indikativ - Perfekt]]
+# [[Languages/German/Verbs/Indikativ - Perfekt]]
 [[Pronouns]] + [[Haben]] + gesagt

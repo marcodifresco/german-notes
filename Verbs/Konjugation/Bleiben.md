@@ -13,5 +13,5 @@ Ihr | bleibt
 Sie | bleiben
 
 
-# [[Indikativ - Perfekt]]
+# [[Languages/German/Verbs/Indikativ - Perfekt]]
 [[Pronouns]] + [[Sein]] + geblieben

@@ -13,5 +13,5 @@ Ihr | bewahrt
 Sie | bewahren
 
 
-# [[Indikativ - Perfekt]]
+# [[Languages/German/Verbs/Indikativ - Perfekt]]
 [[Pronouns]] + [[Haben]] + bewahrt

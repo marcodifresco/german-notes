@@ -13,5 +13,5 @@ Ihr | sitzt
 Sie | sitzen
 
 
-# [[Indikativ - Perfekt]]
+# [[Languages/German/Verbs/Indikativ - Perfekt]]
 [[Pronouns]] + [[Haben]]  + gesessen

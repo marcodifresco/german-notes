@@ -13,5 +13,5 @@ Ihr | läutet
 Sie | läuten
 
 
-# [[Indikativ - Perfekt]]
+# [[Languages/German/Verbs/Indikativ - Perfekt]]
 [[Pronouns]] + [[Haben]] + geläutet

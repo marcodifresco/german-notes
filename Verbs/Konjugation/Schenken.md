@@ -13,5 +13,5 @@ Ihr | schenkt
 Sie | schenkt
 
 
-# [[Indikativ - Perfekt]]
+# [[Languages/German/Verbs/Indikativ - Perfekt]]
 [[Pronouns]] + [[Haben]] + geschenkt

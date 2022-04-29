@@ -13,5 +13,5 @@ Ihr | schreibt
 Sie | schreiben
 
 
-# [[Indikativ - Perfekt]]
+# [[Languages/German/Verbs/Indikativ - Perfekt]]
 [[Pronouns]] + [[Haben]] + geschrieben

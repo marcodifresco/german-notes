@@ -13,5 +13,5 @@ Ihr | erlebt
 Sie | erleben
 
 
-# [[Indikativ - Perfekt]]
+# [[Languages/German/Verbs/Indikativ - Perfekt]]
 [[Pronouns]] + [[Haben]] + erlebt

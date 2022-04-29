@@ -13,5 +13,5 @@ Ihr | bezahlt
 Sie | bezahlen
 
 
-# [[Indikativ - Perfekt]]
+# [[Languages/German/Verbs/Indikativ - Perfekt]]
 [[Pronouns]] + [[Haben]] + bezahlt

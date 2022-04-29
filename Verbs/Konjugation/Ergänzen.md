@@ -13,5 +13,5 @@ Ihr | ergänzt
 Sie | ergänzen
 
 
-# [[Indikativ - Perfekt]]
+# [[Languages/German/Verbs/Indikativ - Perfekt]]
 [[Pronouns]] + [[Haben]] + ergänzt

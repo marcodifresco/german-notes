@@ -24,5 +24,5 @@ Ihr | könntet
 Sie | könnten
 
 
-# [[Indikativ - Perfekt]]
+# [[Languages/German/Verbs/Indikativ - Perfekt]]
 [[Pronouns]] + [[Haben]] + gekonnt

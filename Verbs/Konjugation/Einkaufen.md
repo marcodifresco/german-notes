@@ -13,5 +13,5 @@ Ihr | kauft ein
 Sie | kaufen ein
 
 
-# [[Indikativ - Perfekt]]
+# [Indikativ - Perfekt]]
 [[Pronouns]] + [[Haben]] +  eingekauft

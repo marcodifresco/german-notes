@@ -13,5 +13,5 @@ Ihr | ladet ein
 Sie | laden ein
 
 
-# [[Indikativ - Perfekt]]
+# [[Languages/German/Verbs/Indikativ - Perfekt]]
 [[Pronouns]] + [[Haben]] + eingeladen

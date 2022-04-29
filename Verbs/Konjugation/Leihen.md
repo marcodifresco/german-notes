@@ -13,5 +13,5 @@ Ihr | leiht
 Sie | leihen
 
 
-# [[Indikativ - Perfekt]]
+# [[Languages/German/Verbs/Indikativ - Perfekt]]
 [[Pronouns]] + [[Haben]] + geliehen

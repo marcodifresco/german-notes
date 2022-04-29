@@ -13,5 +13,5 @@ Ihr | steht
 Sie | stehen
 
 
-# [[Indikativ - Perfekt]]
+# [[Languages/German/Verbs/Indikativ - Perfekt]]
 [[Pronouns]] + [[Sein]] + gestanden

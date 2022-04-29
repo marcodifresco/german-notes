@@ -13,5 +13,5 @@ Ihr | geht
 Sie | gehen
 
 
-# [[Indikativ - Perfekt]]
+# [[Languages/German/Verbs/Indikativ - Perfekt]]
 [[Pronouns]] + [[Sein]] + egangen

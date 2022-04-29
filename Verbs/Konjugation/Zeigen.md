@@ -13,5 +13,5 @@ Ihr | zeigt
 Sie | zeigen
 
 
-# [[Indikativ - Perfekt]]
+# [[Languages/German/Verbs/Indikativ - Perfekt]]
 [[Pronouns]] + [[Haben]] + gezeigt

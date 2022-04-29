@@ -13,5 +13,5 @@ Ihr | bestellt
 Sie | bestellen
 
 
-# [[Indikativ - Perfekt]]
+# [[Languages/German/Verbs/Indikativ - Perfekt]]
 [[Pronouns]] + [[Haben]] +  bestellt

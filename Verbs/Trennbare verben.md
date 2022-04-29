@@ -6,7 +6,7 @@ ___
 [[Indikativ - Präsens]]
 Prefix-verb --> [[Pronouns]] +[[Verbs]] + bla bla + prefix.
 
-[[Indikativ - Perfekt]]
+[[Languages/German/Verbs/Indikativ - Perfekt]]
 Prefix-verb --> [[Pronouns]] + [[Haben]]/[[Sein]] + prefix + **ge** + verb konjugation
 
 # Verbs

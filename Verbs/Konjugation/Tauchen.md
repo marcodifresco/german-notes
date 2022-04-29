@@ -13,5 +13,5 @@ Ihr | taucht
 Sie | tauchen
 
 
-# [[Indikativ - Perfekt]]
+# [[Languages/German/Verbs/Indikativ - Perfekt]]
 [[Pronouns]] + [[Sein]] + getaucht

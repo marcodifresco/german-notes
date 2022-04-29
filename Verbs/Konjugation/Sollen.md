@@ -24,5 +24,5 @@ Ihr | solltet
 Sie | sollten
 
 
-# [[Indikativ - Perfekt]]
+# [[Languages/German/Verbs/Indikativ - Perfekt]]
 [[Pronouns]] + [[Haben]]  gesollt

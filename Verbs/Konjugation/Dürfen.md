@@ -13,5 +13,5 @@ Ihr | dürft
 Sie | dürfen
 
 
-# [[Indikativ - Perfekt]]
+# [[Languages/German/Verbs/Indikativ - Perfekt]]
 [[Pronouns]] + [[Haben]] + gedurft

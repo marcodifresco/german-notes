@@ -13,5 +13,5 @@ Ihr | gebt
 Sie | geben
 
 
-# [[Indikativ - Perfekt]]
+# [[Languages/German/Verbs/Indikativ - Perfekt]]
 [[Pronouns]] + [[Haben]] + gegeben
