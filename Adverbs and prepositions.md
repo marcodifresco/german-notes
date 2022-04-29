@@ -17,6 +17,7 @@ Every | Jeden
 From | Vor
 Immediately | Sofort
 How | Wie
+Most | Meisten 
 Next | Nächstes
 Now | Jetzt
 On | Am (date) / Um (time)

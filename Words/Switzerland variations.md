@@ -2,8 +2,7 @@ ___
 Tags: #Languages/German/Vocabulary 
 Links: [[Vocabulary]] 
 ___
-# Translation
-German | Swiss
+German | Swiss German
 ------------ | ------------
 Hallo | Grüetzi
 Guten Appetit | En Guete

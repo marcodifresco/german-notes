@@ -9,8 +9,3 @@ Cucumber | Die Gurke(-n)
 Ham | Der Schinken
 Orange | Die Orange(-n)
 Water | Das Wasser
-
-English | German
------------- | ------------
-Bottle | Die Flasche
-Plate | Der Teller

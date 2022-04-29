@@ -1,10 +1,17 @@
+# Body
 English | German
 ------------ | ------------
-Abdominal area | Die Bauchgegend
+Abdominal area | Die Bauchgegend (-)
+Beard | Der Bart (Bärte)
+Belly | Der Bauch (Bäuche)
+Heart | Die Herz (-en)
+
+# Conditions
+English | German
+------------ | ------------
 Cough | Der Husten
 Exhausted | Erschöpft
 Energetic | Munter
-Heart | Die Herz
 heart disease | Die herzerkrankung
 Pressure | das Druckgefühl
 Overweight| das Übergewicht

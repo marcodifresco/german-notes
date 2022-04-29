@@ -10,6 +10,17 @@ Seit wann ... schon .... --> Wann ... (no schon)
 All days in date end with "Punkt".
 Am --> day | Um --> hour
 
+# Salutations
+English | German
+------------ | ------------
+Hello | Hallo
+Bye | Tschüss
+Good bye | Auf Wiedersehen
+Good day | Guten Tag
+Good morning | Guten Morgen
+Good evening | Guten Abend
+Good night | Gute Nacht
+
 # Time
 English | German
 ------------ | ------------

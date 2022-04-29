@@ -13,9 +13,15 @@ English | German
 Door | Die Tür(-en)
 Table | Der Tisch(-e)
 
+# General objects
+English | German
+------------ | ------------
+Bottle | Die Flasche (-en)
+Plate | Der Teller (-)
+Glass | Das Glas(-er)
+
 # Other
 English | German
 ------------ | ------------
 House | Haus
 Home | Hause
-Glass | Das Glas(-er)

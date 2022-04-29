@@ -5,13 +5,13 @@ ___
 # [[Indikativ - Präsens]]
 Pronoun|Conjugation
 ------------ | ------------
-Ich | schmecke
-Du | schmeckst
-Er/Sie/Es | schmeckt
-Wir | schmecken
-Ihr | schmeckt
-Sie | schmecken
+Ich | erlebe
+Du | erlebst
+Er/Sie/Es | erlebt
+Wir | erleben
+Ihr | erlebt
+Sie | erleben
 
 
 # [[Indikativ - Perfekt]]
-[[Pronouns]] + [[Haben]] + geschmeckt
+[[Pronouns]] + [[Haben]] + erlebt

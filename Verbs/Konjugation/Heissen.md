@@ -5,13 +5,13 @@ ___
 # [[Indikativ - Präsens]]
 Pronoun|Conjugation
 ------------ | ------------
-Ich | liege
-Du | liegst
-Er/Sie/Es | liegt
-Wir | liegen
-Ihr | liegt
-Sie | liegen
+Ich | heisse
+Du | heisst
+Er/Sie/Es | heisst
+Wir | heissen
+Ihr | heisst
+Sie | heissen
 
 
 # [[Indikativ - Perfekt]]
-[[Pronouns]] + [[Haben]] + gelegen
+[[Pronouns]] + [[Haben]] + geheissen

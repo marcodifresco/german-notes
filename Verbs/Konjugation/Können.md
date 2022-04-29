@@ -12,6 +12,7 @@ Wir | können
 Ihr | könnt
 Sie | können
 
+
 # [[Modus Konjunktiv II]]
 Pronoun|Conjugation
 ------------ | ------------
@@ -21,6 +22,7 @@ Er/Sie/Es | könnte
 Wir | könnten
 Ihr | könntet
 Sie | könnten
+
 
 # [[Indikativ - Perfekt]]
 [[Pronouns]] + [[Haben]] + gekonnt

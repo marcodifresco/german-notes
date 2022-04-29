@@ -5,13 +5,13 @@ ___
 # [[Indikativ - Präsens]]
 Pronoun|Conjugation
 ------------ | ------------
-Ich | liege
-Du | liegst
-Er/Sie/Es | liegt
-Wir | liegen
-Ihr | liegt
-Sie | liegen
+Ich | kenne
+Du | kennst
+Er/Sie/Es | kennt
+Wir | kennen
+Ihr | kennt
+Sie | kennen
 
 
 # [[Indikativ - Perfekt]]
-[[Pronouns]] + [[Haben]] + gelegen
+[[Pronouns]] + [[Haben]] + gekannt
