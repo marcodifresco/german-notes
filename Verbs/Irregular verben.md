@@ -30,5 +30,7 @@ Walk | [[Gehen]]
 Wear | [[Tragen]]
 Write | [[Schreiben]]
 
+^5057b3
+
 [^1]: also _"to will"_ something (to be)
 [^2]: also become

@@ -2,14 +2,6 @@ ___
 Tags: #Languages/German/Grammar/Verbs 
 Links: [[Verbs]]
 ___
-# Rule
-[[Indikativ - Präsens]]
-Prefix-verb --> [[Pronouns]] +[[Verbs]] + bla bla + prefix.
-
-[[Languages/German/Verbs/Indikativ - Perfekt]]
-Prefix-verb --> [[Pronouns]] + [[Haben]]/[[Sein]] + prefix + **ge** + verb konjugation
-
-# Verbs
 English | German
 ------------ | ------------
 Be located | [[Stattfinden]] (I)
@@ -24,6 +16,8 @@ Relocate[^1] | [[Umziehen]] (I)
 Start | [[Anfangen]] (I)
 Stop | [[Aufhören]] (R)
 Wear | [[Anhaben]] (R)
+
+^ba9865
 
 
 [^1]: also change to (like change clothing).

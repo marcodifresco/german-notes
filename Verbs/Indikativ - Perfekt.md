@@ -9,5 +9,5 @@ For [[Verbs]] in one place:
 For [[Verbs]] that indicate movement to another place:
 [[Pronouns]] + [[Sein]] + **ge**VERB
 
-**ge**VERB can have the following formats:
-* placeholder
+For [[Modal verben]]:
+Prefix-verb --> [[Pronouns]] + [[Haben]]/[[Sein]] + prefix + **ge** + verb konjugation

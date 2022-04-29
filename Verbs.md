@@ -1,38 +1,28 @@
 ___
 Tags: #Languages/German/Grammar/Verbs 
 ___
-# Basic 
-English | German
------------- | ------------
-Be | [[Sein]]
-Have | [[Haben]]
+# Type
+## [[Basic verbs]]
+![[Basic verbs#^3ed54c]]
 
-# Modal
-English | German
------------- | ------------
-Can | [[Können]]
-Like | [[Mögen]]
-May | [[Dürfen]]
-Must | [[Müssen]]
-Should | [[Sollen]]
-Want | [[Wollen]]
+## [[Modal verben]]
+![[Modal verben#^bbf3f0]]
 
-# [[Regular verben]]
-# [[Irregular verben]]
-# [[Trennbare verben]]
+## [[Regular verben]]
+![[Regular verben#^057e90]]
+
+## [[Irregular verben]]
+![[Irregular verben#^5057b3]]
+
+## [[Trennbare verben]]
+![[Trennbare verben#^ba9865]]
+
 ---
-# Modus Indikativ
-### [[Indikativ - Präsens|Präsens]]
-### [[Languages/German/Verbs/Indikativ - Perfekt|Perfekt]]
-### [[Indikativ - Präteritum|Präteritum]]
-### [[Indikativ - Plusquamperfekt|Plusquamperfekt]]
-### [[Indikativ - Futur I|Futur I]]
-### [[Indikativ - Futur II|Futur II]]
+
+# Modes
+## [[Modus Indikativ]]
+![[Modus Indikativ]]
 
 ---
 # Various rules
 Ich glaube, Ich denke, Ich vermute, dass ... [verb am ende]
-
----
-
-[^1]: also leave something behind.
