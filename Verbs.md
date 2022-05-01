@@ -9,7 +9,7 @@ ___
 ![[Modal verben#^bbf3f0]]
 
 ## [[Regular verben]]
-![[Regular verben#^057e90]]
+![[Regular verben#^5ef5c7]]
 
 ## [[Irregular verben]]
 ![[Irregular verben#^5057b3]]

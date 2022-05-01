@@ -20,6 +20,7 @@ Keep | [[Bewahren]]
 Marry | [[Heiraten]]
 Need | [[Brauchen]]
 Open | [[Öffnen]]
+Order (a list) | [[Ordnen]]
 Pay | [[Bezahlen]]
 Play | [[Spielen]]
 Recognize | [[Erkennen]]
@@ -31,6 +32,6 @@ Search | [[Suchen]]
 Speak | [[Sprechen]]
 Taste | [[Schmecken]]
 Visit | [[Besuchen]]
+Work | [[Arbaiten]]
 
-^057e90
-
+^5ef5c7
