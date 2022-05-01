@@ -7,6 +7,7 @@ English | German
 Be | [[Sein]]
 Have | [[Haben]]
 
+<<<<<<< HEAD
 # Modal
 English | German
 ------------ | ------------
@@ -16,6 +17,19 @@ May | [[Dürfen]]
 Must | [[Müssen]]
 Should | [[Sollen]]
 Want | [[Wollen]]
+=======
+## [[Modal verben]]
+![[Modal verben#^bbf3f0]]
+
+## [[Regular verben]]
+![[Regular verben#^5ef5c7]]
+
+## [[Irregular verben]]
+![[Irregular verben#^5057b3]]
+
+## [[Trennbare verben]]
+![[Trennbare verben#^ba9865]]
+>>>>>>> 0bb0c32 (Catch-all changes on 02 05 2022.)
 
 # [[Regular verben]]
 # [[Irregular verben]]

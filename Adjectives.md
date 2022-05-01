@@ -7,6 +7,7 @@ English | German
 Annoyed | Genervt
 Happy | Glücklich
 Last | Letzte[^1]
+Married | Verheiratet
 Relaxed | Entspannt
 Sad | Traurig
 Short | Kurz

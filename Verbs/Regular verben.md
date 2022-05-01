@@ -17,6 +17,7 @@ Keep | [[Bewahren]]
 Marry | [[Heiraten]]
 Need | [[Brauchen]]
 Open | [[Öffnen]]
+Order (a list) | [[Ordnen]]
 Pay | [[Bezahlen]]
 Play | [[Spielen]]
 Recognize | [[Erkennen]]
@@ -26,4 +27,11 @@ Reply | [[Antworten]]
 Search | [[Suchen]]
 Speak | [[Sprechen]]
 Taste | [[Schmecken]]
+<<<<<<< HEAD
 Visit | [[Besuchen]]
+=======
+Visit | [[Besuchen]]
+Work | [[Arbaiten]]
+
+^5ef5c7
+>>>>>>> 0bb0c32 (Catch-all changes on 02 05 2022.)
