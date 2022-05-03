@@ -11,6 +11,8 @@ Happy | Glücklich
 Last | Letzte[^2]
 Married | Verheiratet
 Old | Alt
+Oversalted | Versalzen
+Polite | Höflich (opposite: un-)
 Professional | Beruflich
 Relaxed | Entspannt
 Sad | Traurig

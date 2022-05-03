@@ -4,11 +4,15 @@ Tags: #Languages/German/Vocabulary
 ___
 English | German
 ------------ | ------------
-(fruit)juice | Der (Frucht)saft
 Beer | Das Bier (-e)
 Bread | Das Brot (-e)
+Coffee | Der Kaffee (-)[^1]
 Cucumber | Die Gurke(-n)
 Egg | Das Ei (-er)
 Ham | Der Schinken
+(fruit)juice | Der (Frucht)saft
 Orange | Die Orange(-n)
 Water | Das Wasser
+
+
+[^1]: Only for the drink - for the Café: Das Café:

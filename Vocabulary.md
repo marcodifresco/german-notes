@@ -13,6 +13,7 @@ English | German
 About this | Davon
 Answer | Die Antwort (-en)
 Blind date | Das Blinddate (-s)
+Café | Das Café[^1]
 Carnival | Die Fastnacht / Der Fashcing
 Change | Der Wechsel
 Consequence | Die Folge (-n)
@@ -37,6 +38,7 @@ Truth | Die Wahrheit (-en)
 Vacation | Der Urlaub (-e)
 Woman | Die Frau (-en)
 
+
 # Specific combination
 English | German
 ------------ | ------------
@@ -44,3 +46,6 @@ Turn off | **Aus**machen
 Turn on | **An**machen
 Open | **Auf**machen
 Close | **Zu**machen
+
+
+[^1]: only for the place; for the drink: Der Kaffee.

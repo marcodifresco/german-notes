@@ -6,3 +6,4 @@ ___
 Deshalb = Aus diesem Grund
 Deshalb = darum = deswegen
 Der Wagen = Das Auto
+Zählen = [[Bezahlen]]

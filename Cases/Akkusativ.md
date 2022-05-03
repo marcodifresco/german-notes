@@ -37,3 +37,6 @@ Ein gut**e** Pizza (die)
 2, 3 klein**e** Doesen Bier (die)
 Ein~~es~~ gut**es** Auto
 (pl) keine + ...en
+Ich brauche (der) einen Lo:ftel
+... (das) ein Glas
+... (die) eine Tasse
