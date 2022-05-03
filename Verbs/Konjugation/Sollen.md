@@ -13,7 +13,7 @@ Ihr | sollt
 Sie | sollen
 
 
-# [[Modus Konjunktiv II]]
+# [[Modus - Konjunktiv II]]
 Pronoun|Conjugation
 ------------ | ------------
 Ich | sollte

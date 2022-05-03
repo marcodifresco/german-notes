@@ -4,10 +4,14 @@ Links: [[Vocabulary]]
 ___
 English | German
 ------------ | ------------
+Alone | Allein[^1]
 Annoyed | Genervt
+Divorced | Geschieden
 Happy | Glücklich
-Last | Letzte[^1]
+Last | Letzte[^2]
 Married | Verheiratet
+Old | Alt
+Professional | Beruflich
 Relaxed | Entspannt
 Sad | Traurig
 Short | Kurz
@@ -15,12 +19,12 @@ Stressed | Gestresst
 Sweet | Süss
 Tense | Gespannt
 Terrible| Schlimm
-Thin | Mager[^2]
+Thin | Mager[^3]
 Tired | Müde
 Urgent | Sofort
 
 
-#Examples
+# Examples
 Ein roh**en** Schinken (der)
 Ein frisch**es** Poulet (das)
 Ein gut**e** Pizza (die)
@@ -30,5 +34,6 @@ Ein~~es~~ gut**es** Auto
 
 
 
-[^1]: also as "previous" or "latest".
-[^2]: also "ohne fett".
+[^1]: also gh"single";
+[^2]: also as "previous" or "latest"
+[^3]: also "ohne fett".

@@ -1,6 +1,6 @@
 ___
 Tags: #Languages/German/Grammar/Verbs/Regular  
-Links: [[Verbs]] [[Trennbare verben]]
+Links: [[Verbs]] [[Typ - Trennbare verben]]
 ___
 # [[Indikativ - Präsens]]
 Pronoun|Conjugation

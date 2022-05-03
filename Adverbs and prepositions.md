@@ -8,6 +8,7 @@ Already | Schon
 Almost | Fast
 Always | Immer
 Also | Auch
+As | Als
 Between | Zwischen
 But | Aber
 Both | Beide
