@@ -4,8 +4,14 @@ ___
 English | German
 ------------ | ------------
 About this | Davon
+<<<<<<< HEAD
 Beard | Der Bart
 Blind date | Das Blinddate
+=======
+Answer | Die Antwort (-en)
+Blind date | Das Blinddate (-s)
+Café | Das Café[^1]
+>>>>>>> 362ad76 (Integrated notes from 03-05-22 lesson)
 Carnival | Die Fastnacht / Der Fashcing
 Consequence | Die Folge
 Department | Die Abteilung
@@ -13,6 +19,7 @@ Experience | Erleben
 Event | Die Veranstaltung / Der Event
 Glasses | Die Brille
 
+<<<<<<< HEAD
 Investigation | Die Untersuchung
 Lie | Die Lüge
 Mask | Die Maske / Das Kostüm
@@ -30,3 +37,16 @@ Vacation | Der Urlaub
 
 
 | [[Food]] | [[Geography]] | [[Health]] | [[House]] | [[Synonyms]] | [[Time]] | [[Weather]] | [[Common phrases]] | [[Switzerland variations]]
+=======
+
+# Specific combination
+English | German
+------------ | ------------
+Turn off | **Aus**machen
+Turn on | **An**machen
+Open | **Auf**machen
+Close | **Zu**machen
+
+
+[^1]: only for the place; for the drink: Der Kaffee.
+>>>>>>> 362ad76 (Integrated notes from 03-05-22 lesson)

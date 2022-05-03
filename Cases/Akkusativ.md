@@ -173,4 +173,10 @@ Ein gut**e** Pizza (die)
 2, 3 klein**e** Doesen Bier (die)
 Ein~~es~~ gut**es** Auto
 (pl) keine + ...en
+<<<<<<< HEAD
 >>>>>>> 49ef0fc (Catch-all changes on 29 03 2022.)
+=======
+Ich brauche (der) einen Lo:ftel
+... (das) ein Glas
+... (die) eine Tasse
+>>>>>>> 362ad76 (Integrated notes from 03-05-22 lesson)

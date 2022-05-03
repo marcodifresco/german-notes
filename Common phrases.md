@@ -19,6 +19,7 @@ I don't remember | Ich erinnere mich nicht
 It doesn't work anymore | Da läufts (es) nicht mehr
 It fits | Das passt
 ... is as old as | ... ist genauso alt wie
+Leave a tip | Trinkgeld geben
 M/W | männlich and weiblich
 Nice to know you | Freut Mich.
 Not yet | Noch nicht

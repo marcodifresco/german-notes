@@ -8,6 +8,13 @@ Annoyed | Genervt
 Happy | Glücklich
 Last | Letzte[^1]
 Married | Verheiratet
+<<<<<<< HEAD
+=======
+Old | Alt
+Oversalted | Versalzen
+Polite | Höflich (opposite: un-)
+Professional | Beruflich
+>>>>>>> 362ad76 (Integrated notes from 03-05-22 lesson)
 Relaxed | Entspannt
 Sad | Traurig
 Short | Kurz
