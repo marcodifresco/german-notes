@@ -36,6 +36,7 @@ Spelling | Buchstabiere
 Task | Die Aufgabe(-n)
 Truth | Die Wahrheit (-en)
 Vacation | Der Urlaub (-e)
+Wishes | Wünsche #TODO 
 Woman | Die Frau (-en)
 
 
