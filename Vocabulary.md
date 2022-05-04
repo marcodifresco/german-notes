@@ -18,6 +18,24 @@ Department | Die Abteilung
 Experience | Erleben
 Event | Die Veranstaltung / Der Event
 Glasses | Die Brille
+<<<<<<< HEAD
+=======
+Investigation | Die Untersuchung
+Lie | Die Lüge (-n)
+Man | Der Mann (Männer)
+Mask | Die Maske / Das Kostüm
+Mister | Herr
+Offer | Das angebot
+People | Die Leute (Lügen)
+Question | Die Frage (-n)
+Reason | Der Grund (Gründe)
+Spelling | Buchstabiere
+Task | Die Aufgabe(-n)
+Truth | Die Wahrheit (-en)
+Vacation | Der Urlaub (-e)
+Wishes | Wünsche #TODO 
+Woman | Die Frau (-en)
+>>>>>>> 2d7e0e3 (Catch-all changes on 05 05 2022.)
 
 <<<<<<< HEAD
 Investigation | Die Untersuchung
