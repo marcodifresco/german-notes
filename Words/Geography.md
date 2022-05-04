@@ -24,14 +24,21 @@ Great Britain |Grossbritannien
 India | Indien
 Italy | Italien
 Spain | Spanien
+Swedish | Schwedisch
 Turkey | Türkei
 
-# Languages
+# Languages (Sprachen)
 English | German
 ------------ | ------------
+Dutch | Niederländisch
 English | Englisch
+Finish | Finnisch
 French | Französisch
 German | Deutsch
 Italian | Italienisch
+Luxemburgisch | Luxemburgisch
+Polish | Polnisch
+Slovak | Slowakisch
 Spanish | Spanish
+Russian | Russisch
 Turkish | Türkisch

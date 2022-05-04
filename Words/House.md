@@ -19,6 +19,7 @@ English | German
 Bottle | Die Flasche (-en)
 Plate | Der Teller (-)
 Glass | Das Glas(-er)
+Painting | Das Bild (-er)
 
 # Other
 English | German

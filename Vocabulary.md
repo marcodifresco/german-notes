@@ -2,10 +2,10 @@ ___
 Tags: #Languages/German/Vocabulary 
 ___
 # Specific categories:
-| [[Food]] | [[Geography]] | [[Health]] | [[House]] | [[Synonyms]] | [[Time]] | [[Weather]] | 
+| [[Family]] | [[Food]] | [[Geography]] | [[Health]] | [[House]] | [[Time]] | [[Weather]] | 
 
 # Phrases
-| [[Common phrases]] | [[Switzerland variations]]|
+| [[Common phrases]] | [[Synonyms]] | [[Switzerland variations]]  |
 
 # General list
 English | German

@@ -27,6 +27,7 @@ Seller | Der Verkäufer (-)
 Stage | Die Bühne (-n)
 Student | Der Student (-en)
 Teacher | Der Lehrer (-)
+Unemployed | Arbeitslos (adj)
 University | Die Universität (-en)
 Waiter | Der Kellner (-)
 

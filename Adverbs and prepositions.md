@@ -16,18 +16,21 @@ Constantly | Dauernd
 Early | Frühzeitig
 Every | Jeden
 From | Vor
+Good | Gut
 Immediately | Sofort
 How | Wie
 Most | Meisten 
 Next | Nächstes
 Now | Jetzt
 On | Am (date) / Um (time)
+Once | Einmal
 Others | Anderen
 Some | Etwas
 Sometime | Manchmal
 Still | Noch
 Than | Als
 Too | Zu
+Very | Sehr
 What | Was
 When | Wann
 Where | Wo
