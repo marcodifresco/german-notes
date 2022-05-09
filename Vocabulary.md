@@ -9,6 +9,7 @@ Beard | Der Bart
 Blind date | Das Blinddate
 =======
 Answer | Die Antwort (-en)
+Anyone | Man #TODO 
 Blind date | Das Blinddate (-s)
 Café | Das Café[^1]
 >>>>>>> 362ad76 (Integrated notes from 03-05-22 lesson)

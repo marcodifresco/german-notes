@@ -18,4 +18,8 @@ Pu:ree #TODO  | Der Stock
 Püree | Der Stock
 [[Umziehen]] | Umzügeln
 Müll | Der Abfall
+<<<<<<< HEAD:Switzerland variations.md
 >>>>>>> c05f8f5 (Added notes from April, 4th):Words/Switzerland variations.md
+=======
+Der Briefumschlag | Das Kuvert
+>>>>>>> 96263e5 (Catch-all changes on 10 05 2022.):Words/Switzerland variations.md
