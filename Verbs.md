@@ -26,3 +26,4 @@ ___
 ---
 # Various rules
 Ich glaube, Ich denke, Ich vermute, dass ... [verb am ende]
+with *dass* the second verb goes at the end.

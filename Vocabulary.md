@@ -32,10 +32,13 @@ Offer | Das angebot
 People | Die Leute (Lügen)
 Question | Die Frage (-n)
 Reason | Der Grund (Gründe)
+Rest | Der Rest (-e)
+Restless | Restlos
 Spelling | Buchstabiere
 Task | Die Aufgabe(-n)
 Truth | Die Wahrheit (-en)
 Vacation | Der Urlaub (-e)
+View | Meinung
 Wishes | Wünsche #TODO 
 Woman | Die Frau (-en)
 
@@ -48,5 +51,6 @@ Turn on | **An**machen
 Open | **Auf**machen
 Close | **Zu**machen
 
+...los | ohne ...
 
 [^1]: only for the place; for the drink: Der Kaffee.

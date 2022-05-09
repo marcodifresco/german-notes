@@ -16,6 +16,7 @@ How old is ...? | Wie alt ist ...?
 I do it myself | ich mache das selbst.
 I don't know | Ich weiss es nicht
 I don't remember | Ich erinnere mich nicht
+[IDEA] go through the head | Durch den kopf gehen
 It doesn't work anymore | Da läufts (es) nicht mehr
 It fits | Das passt
 ... is as old as | ... ist genauso alt wie
