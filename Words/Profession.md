@@ -7,6 +7,7 @@ English | German
 Actor | Der Schauspieler (-)
 Architect | Der Architekt (-en)
 Buyer | Der Käufer (-)
+Company (small) | Der Betribe (-e)
 Department | Die Abteilung (-en)
 Doctor | Der Arzt (-e)
 Employee | Der Angestellte (-en)

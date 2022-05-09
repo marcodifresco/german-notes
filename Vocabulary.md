@@ -12,6 +12,7 @@ English | German
 ------------ | ------------
 About this | Davon
 Answer | Die Antwort (-en)
+Anyone | Man #TODO 
 Blind date | Das Blinddate (-s)
 Café | Das Café[^1]
 Carnival | Die Fastnacht / Der Fashcing

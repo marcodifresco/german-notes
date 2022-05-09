@@ -15,3 +15,4 @@ Der LKW (der Lastwagen) | Der Camion
 Püree | Der Stock
 [[Umziehen]] | Umzügeln
 Müll | Der Abfall
+Der Briefumschlag | Das Kuvert
