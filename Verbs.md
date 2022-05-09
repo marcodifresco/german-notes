@@ -88,8 +88,12 @@ Start | [[Anfangen]] (I)
 =======
 # Rules
 Ich glaube, Ich denke, Ich vermute, dass ... [verb am ende]
+<<<<<<< HEAD
 
 ---
 
 >>>>>>> 34564f0 (Added 27-05 lesson notes.)
 [^1]: also leave something behind.
+=======
+with *dass* the second verb goes at the end.
+>>>>>>> c05f8f5 (Added notes from April, 4th)

@@ -19,6 +19,12 @@ Order | [[Bestellen]]
 Permit | [[Lassen]]
 Read  | [[Lesen]]
 See | [[Sehen]]
+<<<<<<< HEAD:Verbs/Irregular verben.md
+=======
+Sign | [[Unterschreiben]]
+Sit | [[Sitzen]]
+Stand | [[Stehen]]
+>>>>>>> c05f8f5 (Added notes from April, 4th):Verbs/Typ - Irregular verben.md
 Stay | [[Bleiben]]
 Walk | [[Gehen]]
 Wear | [[Tragen]]
