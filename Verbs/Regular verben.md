@@ -12,6 +12,11 @@ Change | [[Ändern]]
 Complain | [[Beschweren]]
 Demonstrate | [[Zeigen]]
 Dive | [[Tauchen]]
+<<<<<<< HEAD:Verbs/Regular verben.md
+=======
+Eat | [[Ernähren]]
+Experience | [[Erleben]]
+>>>>>>> c6020ee (Catch-all changes on 12 05 2022.):Verbs/Typ - Regular verben.md
 Give a gift | [[Schenken]]
 Hear | [[Hören]]
 Keep | [[Bewahren]]

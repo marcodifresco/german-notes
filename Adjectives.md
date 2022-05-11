@@ -5,6 +5,11 @@ ___
 English | German
 ------------ | ------------
 Annoyed | Genervt
+<<<<<<< HEAD
+=======
+Balanced | Ausgeglichen
+Divorced | Geschieden
+>>>>>>> c6020ee (Catch-all changes on 12 05 2022.)
 Happy | Glücklich
 Last | Letzte[^1]
 Married | Verheiratet
