@@ -16,3 +16,4 @@ Püree | Der Stock
 [[Umziehen]] | Umzügeln
 Müll | Der Abfall
 Der Briefumschlag | Das Kuvert
+Das Obst | Die Fruchte

@@ -6,6 +6,7 @@ English | German
 ------------ | ------------
 Alone | Allein[^1]
 Annoyed | Genervt
+Balanced | Ausgeglichen
 Divorced | Geschieden
 Happy | Glücklich
 Last | Letzte[^2]
