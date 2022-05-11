@@ -21,6 +21,7 @@ Immediately | Sofort
 How | Wie
 Most | Meisten 
 Next | Nächstes
+Nevertheless | Trotzdem
 Now | Jetzt
 On | Am (date) / Um (time)
 Once | Einmal

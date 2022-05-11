@@ -11,3 +11,4 @@ Meinung = Ansicht
 einseitig=monoton
 vielseitig=abwechslungsreid
 Meinung = Ansicht
+[[Verwenden]] = [[Benutzen]]
