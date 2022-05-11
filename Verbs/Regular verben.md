@@ -4,6 +4,7 @@ Links: [[Verbs]]
 ___
 English | German
 ------------ | ------------
+Annoy | [[Ärgern]]
 Ask | [[Fragen]]
 Believe | [[Glauben]]
 Belong | [[Gehören]]
@@ -21,15 +22,26 @@ Order (a list) | [[Ordnen]]
 Pay | [[Bezahlen]]
 Play | [[Spielen]]
 Recognize | [[Erkennen]]
-Ring | [[Läute]]
+Remember | [[Erinnern]]
 Rent | [[Mieten]]
 Reply | [[Antworten]]
+<<<<<<< HEAD:Verbs/Regular verben.md
+=======
+Reside | [[Wohnen]]
+Ring | [[Läute]]
+Say | [[Sagen]]
+>>>>>>> e0cf672 (Added notes from April, 9th):Verbs/Typ - Regular verben.md
 Search | [[Suchen]]
 Speak | [[Sprechen]]
 Taste | [[Schmecken]]
+<<<<<<< HEAD:Verbs/Regular verben.md
 <<<<<<< HEAD
 Visit | [[Besuchen]]
 =======
+=======
+Use | [[Benutzen]]
+Use | [[Verwenden]]
+>>>>>>> e0cf672 (Added notes from April, 9th):Verbs/Typ - Regular verben.md
 Visit | [[Besuchen]]
 Work | [[Arbaiten]]
 

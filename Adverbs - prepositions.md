@@ -18,6 +18,7 @@ From | Vor
 Immediately | Sofort
 How | Wie
 Next | Nächstes
+Nevertheless | Trotzdem
 Now | Jetzt
 On | Am (date) / Um (time)
 Others | Anderen
