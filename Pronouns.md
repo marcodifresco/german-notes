@@ -41,3 +41,13 @@ Him/Her/Its | Ihn/Sie/Es
 Us | Uns
 You | Euch
 Them | Sie
+
+# Reflexivpronomen
+English | German
+------------ | ------------
+Me | Mich
+You | Dich
+Him/Her/Its | 
+Us | Uns
+You | Euch
+Them | Sie

@@ -9,7 +9,9 @@ Annoyed | Genervt
 Balanced | Ausgeglichen
 Divorced | Geschieden
 Happy | Glücklich
+Hardly (/ just a bit) | Kaum
 Last | Letzte[^2]
+Little (quantity) | Wenig
 Married | Verheiratet
 Old | Alt
 Oversalted | Versalzen
@@ -19,6 +21,7 @@ Relaxed | Entspannt
 Sad | Traurig
 Short | Kurz
 Stressed | Gestresst
+Standard (average) | Durchschnittlich
 Sweet | Süss
 Tense | Gespannt
 Terrible| Schlimm

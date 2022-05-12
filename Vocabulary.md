@@ -32,6 +32,7 @@ Offer | Das angebot
 Person | Der Man
 People | Die Leute (Lügen)
 Question | Die Frage (-n)
+Quantity | Die Menge
 Reason | Der Grund (Gründe)
 Rest | Der Rest (-e)
 Restless | Restlos

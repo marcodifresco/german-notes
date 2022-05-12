@@ -8,6 +8,7 @@ Already | Schon
 Almost | Fast
 Always | Immer
 Also | Auch
+Also | Ausserdem
 As | Als
 Between | Zwischen
 But | Aber
@@ -26,6 +27,7 @@ Now | Jetzt
 On | Am (date) / Um (time)
 Once | Einmal
 Others | Anderen
+Otherwise | Ansonsten
 Some | Etwas
 Sometime | Manchmal
 Still | Noch
