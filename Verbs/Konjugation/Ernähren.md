@@ -1,5 +1,5 @@
 ___
-Tags: #Languages/German/Grammar/Verbs/Regular  #TODO 
+Tags: #Languages/German/Grammar/Verbs/Regular
 Links: [[Verbs]] [[Typ - Reflexive Verben]]
 ___
 # [[Indikativ - Präsens]]

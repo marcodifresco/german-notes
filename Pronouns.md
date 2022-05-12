@@ -30,4 +30,18 @@ You | Dich
 He/She/It | Ihn/Sie/Es
 We | Uns
 You | Euch
+<<<<<<< HEAD
 They | Sie
+=======
+Them | Sie
+
+# Reflexivpronomen
+English | German
+------------ | ------------
+Me | Mich
+You | Dich
+Him/Her/Its | 
+Us | Uns
+You | Euch
+Them | Sie
+>>>>>>> eb8faaa (Added notes from April, 11th)

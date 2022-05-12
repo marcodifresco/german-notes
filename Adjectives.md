@@ -11,7 +11,13 @@ Balanced | Ausgeglichen
 Divorced | Geschieden
 >>>>>>> c6020ee (Catch-all changes on 12 05 2022.)
 Happy | Glücklich
+<<<<<<< HEAD
 Last | Letzte[^1]
+=======
+Hardly (/ just a bit) | Kaum
+Last | Letzte[^2]
+Little (quantity) | Wenig
+>>>>>>> eb8faaa (Added notes from April, 11th)
 Married | Verheiratet
 <<<<<<< HEAD
 =======
@@ -24,6 +30,7 @@ Relaxed | Entspannt
 Sad | Traurig
 Short | Kurz
 Stressed | Gestresst
+Standard (average) | Durchschnittlich
 Sweet | Süss
 Tense | Gespannt
 Terrible| Schlimm

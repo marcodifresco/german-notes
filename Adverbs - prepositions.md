@@ -8,6 +8,11 @@ Already | Schon
 Almost | Fast
 Always | Immer
 Also | Auch
+<<<<<<< HEAD:Adverbs - prepositions.md
+=======
+Also | Ausserdem
+As | Als
+>>>>>>> eb8faaa (Added notes from April, 11th):Adverbs and prepositions.md
 Between | Zwischen
 But | Aber
 Both | Beide
@@ -22,6 +27,7 @@ Nevertheless | Trotzdem
 Now | Jetzt
 On | Am (date) / Um (time)
 Others | Anderen
+Otherwise | Ansonsten
 Some | Etwas
 Sometime | Manchmal
 Still | Noch
