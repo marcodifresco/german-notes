@@ -12,8 +12,12 @@ Divorced | Geschieden
 >>>>>>> c6020ee (Catch-all changes on 12 05 2022.)
 Happy | Glücklich
 <<<<<<< HEAD
+<<<<<<< HEAD
 Last | Letzte[^1]
 =======
+=======
+Happy | Frah
+>>>>>>> aad3df3 (Catch-all changes on 17 05 2022.)
 Hardly (/ just a bit) | Kaum
 Last | Letzte[^2]
 Little (quantity) | Wenig
