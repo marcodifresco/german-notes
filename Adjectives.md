@@ -13,11 +13,15 @@ Divorced | Geschieden
 Happy | Glücklich
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 Last | Letzte[^1]
 =======
 =======
 Happy | Frah
 >>>>>>> aad3df3 (Catch-all changes on 17 05 2022.)
+=======
+Happy | Froh
+>>>>>>> 0e023cb (Added notes from April, 16th)
 Hardly (/ just a bit) | Kaum
 Last | Letzte[^2]
 Little (quantity) | Wenig

@@ -18,6 +18,7 @@ Lend | [[Leihen]]
 Order | [[Bestellen]]
 Permit | [[Lassen]]
 Read  | [[Lesen]]
+Roast | [[Braten]]
 See | [[Sehen]]
 <<<<<<< HEAD:Verbs/Irregular verben.md
 =======

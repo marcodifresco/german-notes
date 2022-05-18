@@ -4,7 +4,8 @@ Links: [[Verbs]]
 ___
 English | German
 ------------ | ------------
-Feed | [[Ernähren]]
+Feed | [[Ernähren]] (R)
+Relax | [[Entspannen]] (R)
 
 
 # Rule
