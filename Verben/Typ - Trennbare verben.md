@@ -35,16 +35,24 @@ Imagine | [[Vorstellen]] (R)
 Insert | [[Einwerfen]] (R)
 Inaugurate | [[Einweihen]] (I)
 Invite | [[Einladen]] (R)
+<<<<<<< HEAD
 Lock | [[Abschliessen]] (I)
+=======
+Look at | [[Anschauen]] #TODO 
+>>>>>>> 58603f5 (Catch-all changes on 19 05 2022.)
 Offer | [[Anbieten]] (R)
 Pull (object) off | [[Abziehen]] (I)
 Recite | [[Vortragen]] (R)
 Relocate[^1] | [[Umziehen]] (I)
+<<<<<<< HEAD
 Repeat | [[Wiederholen]] (R)
 Request | [[Aufforderung]] (R)
 Send | [[Absenden]] (R)
 Set free | [[Freilassen]] (I)
 Spend the night | [[Übernachten]] (R)
+=======
+Repeat | [[Wiedenholen]] #TODO 
+>>>>>>> 58603f5 (Catch-all changes on 19 05 2022.)
 Start | [[Anfangen]] (I)
 Stop | [[Aufhören]] (R)
 Switch | [[Umsteigen]] (I)

@@ -46,12 +46,17 @@ Experience | Die Erfahrung (-en)
 Fun | Spass
 First name | Der Vorname (-n)
 Last name | Der Nachname (-n)
+<<<<<<< HEAD
 Host family | Die Gastfamilie
 Glass  | Das Glas
 Homework | Die Hausaufgabe (-n)
 Position | das Aufzwingen
 Joker  | Der Spassvogel (-)
 Key | Der Schlüssel (-)
+=======
+Glasses | Die Brille
+Joker | Der Spassvogel (-)
+>>>>>>> 58603f5 (Catch-all changes on 19 05 2022.)
 Investigation | Die Untersuchung
 Invoice [^2]  | Die Rechnung (-en)
 Kettle | Der Kessel (-)

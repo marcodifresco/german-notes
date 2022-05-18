@@ -188,7 +188,11 @@ von Italien -> ferien / kurze zeit
 Wenn -> when in statements. Sort of "if". Ob = if .
 Wann -> when in questions
 EX: *Wenn ich zeit habe, dann treffe ich Freunde.*
+<<<<<<< HEAD
 ![[wann-wenn-als.jpg]]
+=======
+![[wann-wenn-als 1.jpg]]
+>>>>>>> 58603f5 (Catch-all changes on 19 05 2022.)
 
 Dann = then
 Denn = because
