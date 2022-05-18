@@ -55,6 +55,7 @@ Bei = for persons
 Wenn -> when in statements. Sort of "if". Ob = if .
 Wann -> when in questions
 EX: *Wenn ich zeit habe, dann treffe ich Freunde.*
+![[wann-wenn-als 1.jpg]]
 
 Dann = then
 Denn = becuse

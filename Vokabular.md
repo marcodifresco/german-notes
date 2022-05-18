@@ -23,6 +23,7 @@ Event | Die Veranstaltung (-en) / Der Event (-s)
 First name | Der Vorname (-n)
 Last name | Der Nachname (-n)
 Glasses | Die Brille
+Joker | Der Spassvogel (-)
 Investigation | Die Untersuchung
 Lie | Die Lüge (-n)
 Man | Der Mann (Männer)
