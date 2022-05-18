@@ -7,6 +7,7 @@ English | German
 Be located | [[Stattfinden]] (I)
 Buy | [[Einkaufen]] (R)
 Call | [[Anrufen]] (I)
+Choose | [[Aussuchen]] (R)
 Collect | [[Abholen]] (R)
 Join | [[Beitreten]] (I)
 Inaugurate | [[Einweihen]] (I)

@@ -46,7 +46,15 @@ With | Mit
 Without | Ohne
 
 
-# Modifications
+# Notes
 vom -> von dem
 Im / aus = for building
 Bei = for persons
+
+Wenn -> when in statements. Sort of "if". Ob = if .
+Wann -> when in questions
+EX: *Wenn ich zeit habe, dann treffe ich Freunde.*
+
+Dann = then
+Denn = becuse
+EX: *Ich trinke einen kaffee und dann gehe zu arbeit*

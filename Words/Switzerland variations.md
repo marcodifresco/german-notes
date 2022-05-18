@@ -17,3 +17,6 @@ Püree | Der Stock
 Müll | Der Abfall
 Der Briefumschlag | Das Kuvert
 Das Obst | Die Fruchte
+[[Park]] | Parkiren
+Um vier Uhr | Das Zvieri
+Um 9 Uhr | Das Znu:ni (CH)

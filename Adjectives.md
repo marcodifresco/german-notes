@@ -9,7 +9,7 @@ Annoyed | Genervt
 Balanced | Ausgeglichen
 Divorced | Geschieden
 Happy | Glücklich
-Happy | Frah
+Happy | Froh
 Hardly (/ just a bit) | Kaum
 Last | Letzte[^2]
 Little (quantity) | Wenig
