@@ -7,4 +7,4 @@ Upper case | Lower case
 Ö | ö
 Ü | ü
 
-See [[Pronunciation]] for correct pronunciation.
+See [[Aussprache]] for correct pronunciation.

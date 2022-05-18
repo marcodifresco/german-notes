@@ -1,6 +1,6 @@
 ___
 Tags: #Languages/German/Grammar 
-Links: [[Vocabulary]]
+Links: [[Vokabular]]
 ___
 # Cases
 [[Nominativ]]

@@ -6,7 +6,7 @@ Der --> Dem/Einem
 Das --> Dem/Einem
 Die --> Der/Einer
 
-# [[Pronouns]]
+# [[Pronomen]]
 English | German
 ------------ | ------------
 I | Mir
@@ -16,20 +16,20 @@ We | Uns
 You | Euch
 They | Ihnem
 
-# [[Vocabulary|Nouns]]
+# [[Vokabular|Nouns]]
 Plural --> ...n
 
 # Preposition
 zum -> zu dem (der / das)
 zur -> zu der (die)
 
-# [[Adjectives]]
+# [[Adjektive]]
 Der --> Einem ...*en*
 Das --> Einem ...*en*
 Sie --> Einem ...*en*
 Plural -->  ...*en*
 
-# [[Verbs]]
+# [[Verben]]
 [[Antworten]]
 [[Bringen]]
 [[Einkaufen]]

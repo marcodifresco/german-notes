@@ -1,7 +1,7 @@
 ___
 Tags: #Languages/German/Cases 
 ___
-# [[Pronouns]]
+# [[Pronomen]]
 English | German
 ------------ | ------------
 I | Mich
@@ -11,13 +11,13 @@ We | Uns
 You | Euch
 They | Sie
 
-# [[Adjectives]]
+# [[Adjektive]]
 Der --> Einem ...*en*
 Das --> Einem ...*es*
 Sie --> Einem ...*e*
 Plural -->  ...*e*
 
-# [[Verbs]]
+# [[Verben]]
 [[Abholen]]
 [[Anrufen]]
 [[Besuchen]]
