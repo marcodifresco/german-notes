@@ -45,6 +45,7 @@ Slovak | Slowakisch
 Spanish | Spanish
 Russian | Russisch
 Turkish | Türkisch
+<<<<<<< HEAD
 
 # Location
 English | German
@@ -66,3 +67,5 @@ Historic gate | Tor
 # Notes
 Der See = Lake
 Die See = Das Meer = Sea
+=======
+>>>>>>> e700df3 (Added notes from April, 18th)

@@ -36,14 +36,19 @@ Insert | [[Einwerfen]] (R)
 Inaugurate | [[Einweihen]] (I)
 Invite | [[Einladen]] (R)
 <<<<<<< HEAD
+<<<<<<< HEAD
 Lock | [[Abschliessen]] (I)
 =======
 Look at | [[Anschauen]] #TODO 
 >>>>>>> 58603f5 (Catch-all changes on 19 05 2022.)
+=======
+Look at | [[Anschauen]] (R)
+>>>>>>> e700df3 (Added notes from April, 18th)
 Offer | [[Anbieten]] (R)
 Pull (object) off | [[Abziehen]] (I)
 Recite | [[Vortragen]] (R)
 Relocate[^1] | [[Umziehen]] (I)
+<<<<<<< HEAD
 <<<<<<< HEAD
 Repeat | [[Wiederholen]] (R)
 Request | [[Aufforderung]] (R)
@@ -53,6 +58,9 @@ Spend the night | [[Übernachten]] (R)
 =======
 Repeat | [[Wiedenholen]] #TODO 
 >>>>>>> 58603f5 (Catch-all changes on 19 05 2022.)
+=======
+Repeat | [[Wiederholen]] (R)
+>>>>>>> e700df3 (Added notes from April, 18th)
 Start | [[Anfangen]] (I)
 Stop | [[Aufhören]] (R)
 Switch | [[Umsteigen]] (I)

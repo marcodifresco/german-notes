@@ -1,4 +1,5 @@
 ___
+<<<<<<< HEAD
 Links: [[Verben]] [[Typ - Regular verben]] [[Typ - Trennbare verben]]
 Meaning: to watch/look at
 ___
@@ -130,3 +131,21 @@ anschauend
 
 # [[Modus - Partizips]] - Perfekt
 angeschaut
+=======
+Tags: #Languages/German/Grammar/Verbs/Regular  
+Links: [[Verben]] [[Typ - Trennbare verben]]
+___
+# [[Indikativ - Präsens]]
+Pronoun|Conjugation
+------------ | ------------
+Ich | schaue an
+Du | schaust an
+Er/Sie/Es | schaut an
+Wir | schauen an
+Ihr | schaut an
+Sie | schauen an
+
+
+# [[Indikativ - Perfekt]]
+[[Pronomen]] + [[Haben]] + angeschaut
+>>>>>>> e700df3 (Added notes from April, 18th)
