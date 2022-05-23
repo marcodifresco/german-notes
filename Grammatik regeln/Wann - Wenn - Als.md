@@ -4,6 +4,7 @@ Links: [[Vokabular]]
 ___
 # Rules
 <<<<<<< HEAD
+<<<<<<< HEAD
 als -> second verb at the end -> verb steht im Perfekt und [[Indikativ - Präteritum]].
 EX: Als ich letzten Sommer in Italien war, habe ich viel gegessen.
 
@@ -14,6 +15,9 @@ EX: Du kommst spätzur Arbeit, wenn du den Weckwe nicht Hört
 =======
 als -> second verb at theend -> verb steht im Perfekt und Präteritum.
 >>>>>>> e700df3 (Added notes from April, 18th)
+=======
+als -> second verb at the end -> verb steht im Perfekt und [[Indikativ - Präteritum]].
+>>>>>>> 75f59fa (Catch-all changes on 24 05 2022.)
 
 ![[wann-wenn-als.jpg]]
 
