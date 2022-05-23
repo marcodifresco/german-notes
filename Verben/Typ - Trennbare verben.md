@@ -12,10 +12,10 @@ Collect | [[Abholen]] (R)
 Join | [[Beitreten]] (I)
 Inaugurate | [[Einweihen]] (I)
 Invite | [[Einladen]] (R)
-Look at | [[Anschauen]] #TODO 
+Look at | [[Anschauen]] (R)
 Offer | [[Anbieten]] (R)
 Relocate[^1] | [[Umziehen]] (I)
-Repeat | [[Wiedenholen]] #TODO 
+Repeat | [[Wiederholen]] (R)
 Start | [[Anfangen]] (I)
 Stop | [[Aufhören]] (R)
 Wear | [[Anhaben]] (R)

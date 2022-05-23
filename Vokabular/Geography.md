@@ -30,6 +30,7 @@ Turkey | Türkei
 # Languages (Sprachen)
 English | German
 ------------ | ------------
+Foreign language | Fremdsprache
 Dutch | Niederländisch
 English | Englisch
 Finish | Finnisch
