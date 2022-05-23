@@ -3,7 +3,7 @@ Tags: #Languages/German/Grammar
 Links: [[Vokabular]]
 ___
 # Rules
-als -> second verb at theend -> verb steht im Perfekt und Präteritum.
+als -> second verb at the end -> verb steht im Perfekt und [[Indikativ - Präteritum]].
 
 ![[wann-wenn-als.jpg]]
 
