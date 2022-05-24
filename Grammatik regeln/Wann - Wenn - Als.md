@@ -30,4 +30,10 @@ Immer wenn ich nach h=House gekommen bin, habe ich Musik gehört.
 =======
 EX: *Als ich letzten Sommer in Italien war, habe ich viel gegessen.*
 Als ich 19 war, habe ich Deutsch gelern.
+<<<<<<< HEAD
 >>>>>>> e700df3 (Added notes from April, 18th)
+=======
+
+Wie lange? Ich bin seit 3 Jahren in der Schweiz -> 2022
+Wann? Ich bin vor 3 Jahren in di Schweiz gekommen -> 23 Mai 2019
+>>>>>>> 03db291 (Added notes from April, 23rd)
