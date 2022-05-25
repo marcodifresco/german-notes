@@ -10,5 +10,6 @@ May | [[Dürfen]]
 Must | [[Müssen]]
 Should | [[Sollen]]
 Want | [[Wollen]]
-
 ^bbf3f0
+# Rule
+[[Pronomen]] + [[Typ - Modal verben]] + rest of sentence + second [[Verben]] in infinite form.

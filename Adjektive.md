@@ -15,6 +15,7 @@ Cheap | Günstig
 Classic| Klassiker
 Divorced | Geschieden
 Expensive | Teuer
+Great | Toll
 Happy | Glücklich
 Happy | Froh
 Hardly (/ just a bit) | Kaum

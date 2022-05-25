@@ -6,7 +6,7 @@ ___
 ![[Typ - Basic verbs#^3ed54c]]
 
 ## [[Typ - Modal verben]]
-![[Typ - Modal verben#^bbf3f0]]
+![[Typ - Modal verben]]
 
 ## [[Typ - Regular verben]]
 ![[Typ - Regular verben#^5ef5c7]]

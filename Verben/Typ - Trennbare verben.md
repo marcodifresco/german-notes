@@ -19,7 +19,8 @@ Relocate[^1] | [[Umziehen]] (I)
 Repeat | [[Wiederholen]] (R)
 Start | [[Anfangen]] (I)
 Stop | [[Aufhören]] (R)
-Translate | [[Übersetzen]]
+Testify | [[Aussagen]] (R)
+Translate | [[Übersetzen]] (R)
 Wear | [[Anhaben]] (R)
 
 ^ba9865
