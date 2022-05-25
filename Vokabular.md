@@ -17,6 +17,7 @@ Blind date | Das Blinddate (-s)
 Book | Das Buch (-ü-er)
 Café | Das Café[^1]
 Carnival | Die Fastnacht / Der Fashcing
+Cellphone | das Handy
 Change | Der Wechsel
 Consequence | Die Folge (-n)
 Conversation | Das Gespräch (-e)
@@ -28,23 +29,29 @@ Glass | Das Glas
 Joker | Der Spassvogel (-)
 Key | Der Schlüssel (-)
 Investigation | Die Untersuchung
+Invoice [^2] | Die Rechnung (-en)
 Lie | Die Lüge (-n)
 Man | Der Mann (Männer)
 Mask | Die Maske / Das Kostüm
 Mister | Herr
 Offer | Das angebot
+Office  | das Büro (-s)
 Paper | Das Papier (-e)
 Pencil | Der Bleistift (-)
 Person | Der Man
 People | Die Leute (Lügen)
+Pen | Der Stift (-e)
 Plastic | Das Plastik
 Price | Der Preis (-e)
+Printer | Der Drucker (-)
 Question | Die Frage (-n)
 Quantity | Die Menge
 Reason | Der Grund (Gründe)
 Rest | Der Rest (-e)
 Restless | Restlos
+Screen | Der Bildschirm (-e)
 Spelling | Buchstabiere
+Stamp | Die Briefmarke (-n)
 Task | Die Aufgabe(-n)
 Thing | Das Ding (-e)
 Truth | Die Wahrheit (-en)
@@ -66,3 +73,4 @@ Close | **Zu**machen
 ...los | ohne ...
 
 [^1]: only for the place; for the drink: Der Kaffee.
+[^2]: also for  the "recipt".

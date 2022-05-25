@@ -11,6 +11,11 @@ We | Uns
 You | Euch
 They | Sie
 
+# Artikel
+Der --> Den | Einen | Keinen
+Das --> Das | Ein | Kein
+Die --> Die | Eine | Keine
+
 # [[Adjektive]]
 Der --> Einem ...*en*
 Das --> Einem ...*es*
