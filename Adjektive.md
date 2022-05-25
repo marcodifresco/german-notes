@@ -12,6 +12,7 @@ Bad | Schlecht
 Big | Gross
 Cheap | Billig
 Cheap | Günstig
+Classic| Klassiker
 Divorced | Geschieden
 Expensive | Teuer
 Happy | Glücklich
@@ -26,9 +27,12 @@ Oversalted | Versalzen
 Polite | Höflich (opposite: un-)
 Professional | Beruflich
 Relaxed | Entspannt
+Round | Rund
 Sad | Traurig
 Short | Kurz
 Small | Klein
+Sporty | Sportlich
+Square | Eckig
 Stressed | Gestresst
 Standard (average) | Durchschnittlich
 Sweet | Süss

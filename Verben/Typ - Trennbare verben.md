@@ -9,6 +9,7 @@ Buy | [[Einkaufen]] (R)
 Call | [[Anrufen]] (I)
 Choose | [[Aussuchen]] (R)
 Collect | [[Abholen]] (R)
+Fill in | [[Ausfüllen]]
 Join | [[Beitreten]] (I)
 Inaugurate | [[Einweihen]] (I)
 Invite | [[Einladen]] (R)
@@ -18,6 +19,7 @@ Relocate[^1] | [[Umziehen]] (I)
 Repeat | [[Wiederholen]] (R)
 Start | [[Anfangen]] (I)
 Stop | [[Aufhören]] (R)
+Translate | [[Übersetzen]]
 Wear | [[Anhaben]] (R)
 
 ^ba9865

@@ -5,6 +5,7 @@ ___
 # Translation
 English | German
 ------------ | ------------
+About this | Davon
 All clear? | Alles klar?
 Apply now | Bewirb dich
 Correct | Stimmt

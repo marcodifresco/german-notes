@@ -33,6 +33,7 @@ Some | Etwas
 Sometime | Manchmal
 Still | Noch
 Than | Als
+To | Nach
 Too | Zu
 Very | Sehr
 What | Was

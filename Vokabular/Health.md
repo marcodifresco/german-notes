@@ -19,3 +19,13 @@ Overweight| Das Übergewicht
 Stomach | Der Magen
 Skinny | Mager
 Spring fatigue | Frühlingsmüdigkeit
+
+# Jobs
+English | German
+------------ | ------------
+Oculist | Der Augenarzt (--ä-e)
+
+# Objects
+English | German
+------------ | ------------
+Glasses | Die Brille

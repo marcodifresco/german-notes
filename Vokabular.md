@@ -2,7 +2,7 @@ ___
 Tags: #Languages/German/Vocabulary 
 ___
 # Specific categories:
-| [[Family]] | [[Food]] | [[Geography]] | [[Health]] | [[House]] | [[Time]] | [[Weather]] | 
+| [[Colors]] | [[Family]] | [[Food]] | [[Geography]] | [[Health]] | [[House]] | [[Time]] | [[Weather]] | 
 
 # Phrases
 | [[Common phrases]] | [[Synonyms]] | [[Switzerland variations]]  |
@@ -10,9 +10,11 @@ ___
 # General list
 English | German
 ------------ | ------------
-About this | Davon
 Answer | Die Antwort (-en)
+Bag | Die Tasche (-n)
+Ballpoint pen | Der Kugelschreiber (-)
 Blind date | Das Blinddate (-s)
+Book | Das Buch (-ü-er)
 Café | Das Café[^1]
 Carnival | Die Fastnacht / Der Fashcing
 Change | Der Wechsel
@@ -22,16 +24,20 @@ Education | Die Ausbildung (-en)
 Event | Die Veranstaltung (-en) / Der Event (-s)
 First name | Der Vorname (-n)
 Last name | Der Nachname (-n)
-Glasses | Die Brille
+Glass | Das Glas
 Joker | Der Spassvogel (-)
+Key | Der Schlüssel (-)
 Investigation | Die Untersuchung
 Lie | Die Lüge (-n)
 Man | Der Mann (Männer)
 Mask | Die Maske / Das Kostüm
 Mister | Herr
 Offer | Das angebot
+Paper | Das Papier (-e)
+Pencil | Der Bleistift (-)
 Person | Der Man
 People | Die Leute (Lügen)
+Plastic | Das Plastik
 Price | Der Preis (-e)
 Question | Die Frage (-n)
 Quantity | Die Menge
@@ -40,10 +46,12 @@ Rest | Der Rest (-e)
 Restless | Restlos
 Spelling | Buchstabiere
 Task | Die Aufgabe(-n)
+Thing | Das Ding (-e)
 Truth | Die Wahrheit (-en)
 Vacation | Der Urlaub (-e)
 View | Meinung
-Wishes | Wünsche #TODO 
+Word | Das Wort (-ö-er)
+Wish | Der Wunsch (-ü-e) 
 Woman | Die Frau (-en)
 
 
