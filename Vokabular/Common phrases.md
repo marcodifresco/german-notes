@@ -12,6 +12,7 @@ Correct | Stimmt
 Dress up | Sich verklliden
 For example: | Zum Beispiel:
 For this reason | Deshalb
+Go for a walk | Spazieren [[Gehen]]
 How are you? | Wie geht es dir? (informal) ... ihnen? (formal) ... euch? (plural)
 How old is ...? | Wie alt ist ...?
 I do it myself | ich mache das selbst.

@@ -4,6 +4,7 @@ Links: [[Verben]]
 ___
 English | German
 ------------ | ------------
+Bake | [[Backen]]
 Be called | [[Heissen]]
 Become | [[Werden]][^1]
 Bring | [[Bringen]]
