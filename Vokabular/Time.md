@@ -21,13 +21,28 @@ Good morning | Guten Morgen
 Good evening | Guten Abend
 Good night | Gute Nacht
 
-# Time
+# Tageszeiten (time of day)
 English | German
 ------------ | ------------
+Time | Die Zeit (-en)
 Hour | die Uhr (precise hour)
 Hour | die Stunde(-n) (length of time)
 Minute | die Minute(-n)
 Second | Die Sekunde(-n)
+Morning | Der Morgen(-s)
+Afternoon | Der Nachmittag (-e)
+Evening | Der Abend (-e)
+Night | Die Nacht (-ä-e)
+
+# Clock
+English | German
+------------ | ------------
+O' Clock | Uhr
+x past X | x nach X
+x to X | x vor X
+Quarter past X | Viertel nach X
+Quarter to X | Viertel vor X
+X and a half | Halb X+1
 
 # Days
 English | German

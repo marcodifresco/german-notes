@@ -48,10 +48,10 @@ Question | Die Frage (-n)
 Quantity | Die Menge
 Reason | Der Grund (Gründe)
 Rest | Der Rest (-e)
-Restless | Restlos
 Screen | Der Bildschirm (-e)
 Spelling | Buchstabiere
 Stamp | Die Briefmarke (-n)
+Suggestion | Der Vorschlag (-ä-e)
 Task | Die Aufgabe(-n)
 Thing | Das Ding (-e)
 Truth | Die Wahrheit (-en)

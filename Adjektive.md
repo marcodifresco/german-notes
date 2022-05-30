@@ -28,6 +28,7 @@ Oversalted | Versalzen
 Polite | Höflich (opposite: un-)
 Professional | Beruflich
 Relaxed | Entspannt
+Restless | Restlos
 Round | Rund
 Sad | Traurig
 Short | Kurz
