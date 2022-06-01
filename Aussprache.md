@@ -8,3 +8,4 @@ ei | ai
 ie | i
 eu | oi
 äu | oi
+...ge | ...ghe
