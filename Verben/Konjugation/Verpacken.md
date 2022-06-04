@@ -1,4 +1,5 @@
 ___
+<<<<<<< HEAD
 Links: [[Verben]]
 Meaning:
 ___
@@ -128,3 +129,21 @@ verpackend
 
 # [[Modus - Partizips]] - Perfekt
 verpackt
+=======
+Tags: #Languages/German/Grammar/Verbs/Regular  
+Links: [[Verben]]
+___
+# [[Indikativ - Präsens]]
+Pronoun|Conjugation
+------------ | ------------
+Ich | verpacke
+Du | verpackst
+Er/Sie/Es | verpackt
+Wir | verpacken
+Ihr | verpackt
+Sie | verpacken
+
+
+# [[Indikativ - Perfekt]]
+[[Pronomen]] + [[Haben]] + verpackt
+>>>>>>> bfd5231 (Added notes from June, 1st)

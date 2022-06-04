@@ -1,4 +1,5 @@
 ___
+<<<<<<< HEAD
 Links: [[Verben]]
 Meaning:
 ___
@@ -128,3 +129,21 @@ kopierend
 
 # [[Modus - Partizips]] - Perfekt
 kopiert
+=======
+Tags: #Languages/German/Grammar/Verbs/Regular  
+Links: [[Verben]]
+___
+# [[Indikativ - Präsens]]
+Pronoun|Conjugation
+------------ | ------------
+Ich | kopiere
+Du | kopierst
+Er/Sie/Es | kopiert
+Wir | kopieren
+Ihr | kopiert
+Sie | kopieren
+
+
+# [[Indikativ - Perfekt]]
+[[Pronomen]] + [[Haben]] + kopiert
+>>>>>>> bfd5231 (Added notes from June, 1st)

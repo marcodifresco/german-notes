@@ -1,4 +1,5 @@
 ___
+<<<<<<< HEAD
 Links: [[Verben]]
 Meaning:
 ___
@@ -128,3 +129,21 @@ transportierend
 
 # [[Modus - Partizips]] - Perfekt
 transportiert
+=======
+Tags: #Languages/German/Grammar/Verbs/Regular  
+Links: [[Verben]]
+___
+# [[Indikativ - Präsens]]
+Pronoun|Conjugation
+------------ | ------------
+Ich | transportiere
+Du | transportierst
+Er/Sie/Es | transportiert
+Wir | transportieren
+Ihr | transportiert
+Sie | transportieren
+
+
+# [[Indikativ - Perfekt]]
+[[Pronomen]] + [[Haben]] + transportiert
+>>>>>>> bfd5231 (Added notes from June, 1st)

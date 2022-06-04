@@ -1,4 +1,5 @@
 ___
+<<<<<<< HEAD
 Links: [[Verben]]
 Meaning:
 ___
@@ -128,3 +129,21 @@ schneidend
 
 # [[Modus - Partizips]] - Perfekt
 geschnitten
+=======
+Tags: #Languages/German/Grammar/Verbs/Regular  
+Links: [[Verben]]
+___
+# [[Indikativ - Präsens]]
+Pronoun|Conjugation
+------------ | ------------
+Ich | schneide
+Du | schneidest
+Er/Sie/Es | schneidet
+Wir | schneiden
+Ihr | schneidet
+Sie | schneiden
+
+
+# [[Indikativ - Perfekt]]
+[[Pronomen]] + [[Haben]] + geschnitten
+>>>>>>> bfd5231 (Added notes from June, 1st)

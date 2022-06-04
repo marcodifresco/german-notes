@@ -4,10 +4,14 @@ Links: [[Verben]]
 ___
 English | German
 ------------ | ------------
+<<<<<<< HEAD
 Accomplish (work, tasks) | [[Erledigen]]
 Accompany | [[Begleiten]]
 Admire | [[Bewundern]]
 Advise | [[Beraten]]
+=======
+Admire | [[Bewundern]]
+>>>>>>> bfd5231 (Added notes from June, 1st)
 Annoy | [[Ärgern]]
 Ask | [[Fragen]]
 Behave | [[Verhalten]]
@@ -22,7 +26,10 @@ Climbing | [[Klettern]]
 Commute | [[Pendeln]]
 Complete (fill inn) | [[Ergänzen]]
 Copy | [[Kopieren]]
+<<<<<<< HEAD
 Confiscate | [[Konfiszieren]]
+=======
+>>>>>>> bfd5231 (Added notes from June, 1st)
 Cook | [[Kochen]]
 Cost | [[Kosten]]
 Cross (select) | [[Kreuzen]]
@@ -45,8 +52,11 @@ Fit | [[Passen]]
 Fly | [[Fliegen]]
 Fulfill | [[Erfüllen]]
 Give a gift | [[Schenken]]
+<<<<<<< HEAD
 Having an opinion | [[Meinen]]
 Happen | [[Passieren]]
+=======
+>>>>>>> bfd5231 (Added notes from June, 1st)
 Harvest | [[Ernten]]
 Hear | [[Hören]]
 Inform | [[Informieren]]
@@ -85,18 +95,26 @@ Ring | [[Läute]]
 Say | [[Sagen]]
 Search | [[Suchen]]
 Sell | [[Verkaufen]]
+<<<<<<< HEAD
 Send | [[Schicken]]
 Snow | [[Schneien]]
 Sort | [[Sortieren]]
+=======
+>>>>>>> bfd5231 (Added notes from June, 1st)
 Speak | [[Sprechen]]
 Store | [[Lagern]]
 Study | [[Studieren]]
 Talk | [[Reden]]
 Taste | [[Schmecken]]
+<<<<<<< HEAD
 Take into account | [[Bedenken]]
 Tell | [[Erzählen]]
 Transport | [[Transportieren]]
 Travel | [[Reisen]]
+=======
+Tell | [[Erzählen]]
+Transport | [[Transportieren]]
+>>>>>>> bfd5231 (Added notes from June, 1st)
 Use | [[Benutzen]]
 Use | [[Verwenden]]
 Understand | [[Verstehen]]

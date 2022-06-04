@@ -10,7 +10,10 @@ Bring | [[Bringen]]
 Climb | [[Steigen]]
 Come | [[Kommen]]
 Cut | [[Schneiden]]
+<<<<<<< HEAD
 Dress / Put on | [[Anziehen]]
+=======
+>>>>>>> bfd5231 (Added notes from June, 1st)
 Drink | [[Trinken]]
 Drive | [[Fahren]]
 Eat (animal) | [[Fressen]]
