@@ -6,7 +6,6 @@ English | German
 ------------ | ------------
 Bake | [[Backen]]
 Be called | [[Heissen]]
-Become | [[Werden]][^1]
 Bring | [[Bringen]]
 Come | [[Kommen]]
 Cut | [[Schneiden]]
@@ -40,6 +39,3 @@ Wear | [[Tragen]]
 Write | [[Schreiben]]
 
 ^5057b3
-
-[^1]: also _"to will"_ something (to be)
-[^2]: also become

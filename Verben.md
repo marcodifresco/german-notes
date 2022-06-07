@@ -2,11 +2,12 @@ ___
 Tags: #Languages/German/Grammar/Verbs 
 ___
 # Type
-## [[Typ - Basic verbs]]
-![[Typ - Basic verbs#^3ed54c]]
+## [[Typ - Hilfs verben]]
+![[Typ - Hilfs verben#^3ed54c]]
 
 ## [[Typ - Modal verben]]
-![[Typ - Modal verben]]
+![[Typ - Modal verben#^530533]]
+
 
 ## [[Typ - Regular verben]]
 ![[Typ - Regular verben#^5ef5c7]]

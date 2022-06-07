@@ -2,6 +2,7 @@ ___
 Tags: #Languages/German/Grammar/Verbs 
 Links: [[Verben]]
 ___
+
 English | German
 ------------ | ------------
 Can | [[Können]]
@@ -10,6 +11,9 @@ May | [[Dürfen]]
 Must | [[Müssen]]
 Should | [[Sollen]]
 Want | [[Wollen]]
-^bbf3f0
+Would | [[Möchten]]
+
+^530533
+
 # Rule
 [[Pronomen]] + [[Typ - Modal verben]] + rest of sentence + second [[Verben]] in infinite form.

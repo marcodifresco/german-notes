@@ -22,8 +22,10 @@ Immediately | Sofort
 How | Wie
 Most | Meisten 
 Next | Nächstes
+Never | Nie
 Nevertheless | Trotzdem
 Now | Jetzt
+Often | Oft
 On | Am (date) / Um (time)
 Once | Einmal
 Others | Anderen

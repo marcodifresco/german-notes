@@ -13,12 +13,13 @@ English | German
 Cough | Der Husten
 Exhausted | Erschöpft
 Energetic | Munter
-heart disease | Die herzerkrankung
+Heart disease | Die herzerkrankung
+Hunger | Der Hunger
 Pressure | Das Druckgefühl
 Overweight| Das Übergewicht
-Stomach | Der Magen
 Skinny | Mager
 Spring fatigue | Frühlingsmüdigkeit
+Thirst | Der Durst
 
 # Jobs
 English | German
