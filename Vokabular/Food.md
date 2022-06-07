@@ -16,7 +16,10 @@ Cucumber | Die Gurke(-n)
 Egg | Das Ei (-er)
 Escalope  | Das Schnitzel (-)
 Fish | Der Fisch (-e)
+<<<<<<< HEAD
 Food (for animals) | Das Futter
+=======
+>>>>>>> e0a7ee5 (Added material from A1 book - chapter 9)
 Fruit | Die Frucht (-ü-e)
 French fries | die Pommes frites
 Lemon | Die Zitrone (-n)

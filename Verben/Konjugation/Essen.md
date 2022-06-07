@@ -1,4 +1,5 @@
 ___
+<<<<<<< HEAD
 Links: [[Verben]]
 Meaning:
 ___
@@ -128,3 +129,21 @@ Sie (formal) Essen Sie!
 
 # [[Modus - Partizips]] - Perfekt
 - gegessen
+=======
+Tags: #Languages/German/Grammar/Verbs 
+Links: [[Verben]]
+___
+# [[Indikativ - Präsens]]
+Pronoun|Conjugation
+------------ | ------------
+Ich | esse
+Du | isst
+Er/Sie/Es | isst
+Wir | essen
+Ihr | esst
+Sie | essen
+
+
+# [[Indikativ - Perfekt]]
+[[Pronomen]] + [[Haben]] + gegessen
+>>>>>>> e0a7ee5 (Added material from A1 book - chapter 9)

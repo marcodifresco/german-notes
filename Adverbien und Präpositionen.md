@@ -32,7 +32,12 @@ Immediately | Sofort
 Inadvertently | aus Versehen
 Least | am wenigsten
 How | Wie
+<<<<<<< HEAD
 Most | am meisten
+=======
+Most | Meisten 
+Next | Nächstes
+>>>>>>> e0a7ee5 (Added material from A1 book - chapter 9)
 Never | Nie
 Nevertheless | Trotzdem
 Now | Jetzt

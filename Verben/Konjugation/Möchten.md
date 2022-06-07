@@ -1,4 +1,5 @@
 ___
+<<<<<<< HEAD
 Links: [[Verben]]
 Meaning:
 ___
@@ -64,3 +65,17 @@ Sie möchten
 
 # [[Modus - Partizips]] - Perfekt
 (Not typically formed for 'möchten' in its modal-like usage. 'Gemocht' is the Partizip Perfekt of 'mögen'). Not applicable
+=======
+Tags: #Languages/German/Grammar/Verbs 
+Links: [[Verben]]
+___
+# [[Indikativ - Präsens]]
+Pronoun|Conjugation
+------------ | ------------
+Ich | möchte
+Du | möchtest
+Er/Sie/Es | möchte
+Wir | möchten
+Ihr | möchtet
+Sie | möchten
+>>>>>>> e0a7ee5 (Added material from A1 book - chapter 9)
