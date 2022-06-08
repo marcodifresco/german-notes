@@ -5,12 +5,12 @@ ___
 # [[Indikativ - Präsens]]
 Pronoun|Conjugation
 ------------ | ------------
-Ich | bestelle
-Du | bestellst
-Er/Sie/Es | bestellt
-Wir | bestellen
-Ihr | bestellt
-Sie | bestellen
+Ich | brauche
+Du | brauchst
+Er/Sie/Es | braucht
+Wir | brauchen
+Ihr | braucht
+Sie | brauchen
 
 
 # [[Indikativ - Perfekt]]
