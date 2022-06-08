@@ -2,6 +2,7 @@ ___
 Links: [[Verben]]
 Meaning:
 ___
+<<<<<<< HEAD
 
 # [[Modus - Indikativ]] - Präsens
 Ich brauche
@@ -10,6 +11,17 @@ Er/Sie/Es braucht
 Wir brauchen
 Ihr braucht
 Sie brauchen
+=======
+# [[Indikativ - Präsens]]
+Pronoun|Conjugation
+------------ | ------------
+Ich | brauche
+Du | brauchst
+Er/Sie/Es | braucht
+Wir | brauchen
+Ihr | braucht
+Sie | brauchen
+>>>>>>> d407dd8 (Catch-all changes on 09 06 2022.)
 
 
 # [[Modus - Indikativ]] - Präteritum
