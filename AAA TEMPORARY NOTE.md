@@ -26,3 +26,25 @@ Generous | Grusszu:gig
 Tirchio | Geizig
 
 S.113 (1) - S.114 (1-3)
+
+
+Created: 2022-06-13 19:49
+Tags: #Languages/German 
+Links: [[]]
+___
+
+Der Film (-e)
+Die Serie (-n)
+Season | Die Staffel
+Episode | Die Folge
+die Verfilmung
+Etwas zum Knabbern
+Der Tatort = Der Krimi
+Der Schauspieler -> der Dasteller
+Die Sendung / Nachrichten, Dokumentation, Talk Show
+Der Sender -> SRF, Kanal+, Vox, ORF, 
+[[Anschauen]] [[Ansehen]] = concecra cosa
+[[Fernsehen]] [[Fernschauen]] = generico
+Ich sehe mir heute einen Film / eine Serie / ein Spiel an
+Ich sehe heute Abend fern.
+Cartoon | Der trickfilm (-e)
