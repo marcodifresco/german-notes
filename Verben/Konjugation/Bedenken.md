@@ -1,4 +1,5 @@
 ___
+<<<<<<< HEAD
 Links: [[Verben]]
 Meaning:
 ___
@@ -128,3 +129,21 @@ Sie Bedenken Sie!
 
 # [[Modus - Partizips]] - Perfekt
 - bedacht
+=======
+Tags: #Languages/German/Grammar/Verbs/Regular  
+Links: [[Verben]]
+___
+# [[Indikativ - Präsens]]
+Pronoun|Conjugation
+------------ | ------------
+Ich | bedenke
+Du | bedenkst
+Er/Sie/Es | bedenkt
+Wir | bedenken
+Ihr | bedenkt
+Sie | bedenken
+
+
+# [[Indikativ - Perfekt]]
+[[Pronomen]] + [[Haben]] + bedacht
+>>>>>>> 251622b (Added notes from June, 13th)

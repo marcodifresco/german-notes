@@ -148,4 +148,11 @@ Sie | schauen an
 
 # [[Indikativ - Perfekt]]
 [[Pronomen]] + [[Haben]] + angeschaut
+<<<<<<< HEAD
 >>>>>>> e700df3 (Added notes from April, 18th)
+=======
+
+# Rules
+For viewing specific things.
+*EX: Ich schaue mir heute einen Film / eine Serie / ein Spiel an*
+>>>>>>> 251622b (Added notes from June, 13th)

@@ -84,12 +84,15 @@ Pay | [[Bezahlen]]
 Phone | [[Telefonieren]]
 Photograph | [[Fotografieren]]
 Play | [[Spielen]]
+<<<<<<< HEAD
 Position | [[Stellen]]
 Practice | [[Üben]]
 Protest | [[Demonstrieren]]
 Put | [[Stecken]]
 Quote (citation) | [[Zitieren]]
 Rain | [[Regnen]]
+=======
+>>>>>>> 251622b (Added notes from June, 13th)
 Receive | [[Empfangen]]
 Recognize | [[Erkennen]]
 Relate | [[Beziehen]]
@@ -103,19 +106,27 @@ Say | [[Sagen]]
 Search | [[Suchen]]
 Sell | [[Verkaufen]]
 <<<<<<< HEAD
+<<<<<<< HEAD
 Send | [[Schicken]]
 Snow | [[Schneien]]
 Sort | [[Sortieren]]
 =======
 >>>>>>> bfd5231 (Added notes from June, 1st)
+=======
+Send | [[Schicken]]
+>>>>>>> 251622b (Added notes from June, 13th)
 Speak | [[Sprechen]]
 Store | [[Lagern]]
 Study | [[Studieren]]
 Talk | [[Reden]]
 Taste | [[Schmecken]]
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 251622b (Added notes from June, 13th)
 Take into account | [[Bedenken]]
 Tell | [[Erzählen]]
+Think  | [[Denken]]
 Transport | [[Transportieren]]
 Travel | [[Reisen]]
 =======

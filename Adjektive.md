@@ -2,6 +2,52 @@ ___
 Tags: #Languages/German/Vocabulary 
 Links: [[Vokabular]]
 ___
+<<<<<<< HEAD
+=======
+English | German
+------------ | ------------
+Alone | Allein[^1]
+Annoyed | Genervt
+Balanced | Ausgeglichen
+Beautiful | Schön
+Bad | Schlecht
+Big | Gross
+Cheap | Billig
+Cheap | Günstig
+Classic| Klassiker
+Divorced | Geschieden
+Expensive | Teuer
+Generous | Grosszügig
+Great | Toll
+Happy | Glücklich
+Happy | Froh
+Hardly (/ just a bit) | Kaum
+Last | Letzte[^2]
+Little (quantity) | Wenig
+Married | Verheiratet
+Modern | Modern
+Old | Alt
+Oversalted | Versalzen
+Polite | Höflich (opposite: un-)
+Professional | Beruflich
+Relaxed | Entspannt
+Restless | Restlos
+Round | Rund
+Sad | Traurig
+Short | Kurz
+Small | Klein
+Sporty | Sportlich
+Square | Eckig
+Stingy | Geizig
+Stressed | Gestresst
+Standard (average) | Durchschnittlich
+Sweet | Süss
+Tense | Gespannt
+Terrible| Schlimm
+Thin | Mager[^3]
+Tired | Müde
+Urgent | Sofort
+>>>>>>> 251622b (Added notes from June, 13th)
 
 Adjectivedeklination nach dem nullartikle
 

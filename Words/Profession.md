@@ -25,7 +25,13 @@ Job (permanent) | Die Festanstellung
 Job (internship) | Das Praktikum
 >>>>>>> 96263e5 (Catch-all changes on 10 05 2022.)
 Journalist | Der Journalist (-en)
+<<<<<<< HEAD:Words/Profession.md
 Mechanic |Mechatroniker
+=======
+Mechanic | Der Mechatroniker (-)
+Office | Das Büro (-s)
+Performer | Der Darsteller (-)
+>>>>>>> 251622b (Added notes from June, 13th):Vokabular/Profession.md
 Profession | Der Beruf (-e)
 
 # Rules

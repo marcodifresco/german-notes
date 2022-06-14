@@ -31,6 +31,7 @@ Get in | [[Einsteigen]] (R)
 Get out | [[Aussteigen]] (R)
 Join | [[Beitreten]] (I)
 Keep in mind | [[Andenken]] (R)
+<<<<<<< HEAD
 Imagine | [[Vorstellen]] (R)
 Insert | [[Einwerfen]] (R)
 Inaugurate | [[Einweihen]] (I)
@@ -44,6 +45,11 @@ Look at | [[Anschauen]] #TODO
 =======
 Look at | [[Anschauen]] (R)
 >>>>>>> e700df3 (Added notes from April, 18th)
+=======
+Insert | [[Einwerfen]]
+Inaugurate | [[Einweihen]] (I)
+Invite | [[Einladen]] (R)
+>>>>>>> 251622b (Added notes from June, 13th)
 Offer | [[Anbieten]] (R)
 Pull (object) off | [[Abziehen]] (I)
 Recite | [[Vortragen]] (R)
@@ -51,6 +57,7 @@ Relocate[^1] | [[Umziehen]] (I)
 <<<<<<< HEAD
 <<<<<<< HEAD
 Repeat | [[Wiederholen]] (R)
+<<<<<<< HEAD
 Request | [[Aufforderung]] (R)
 Send | [[Absenden]] (R)
 Set free | [[Freilassen]] (I)
@@ -61,16 +68,25 @@ Repeat | [[Wiedenholen]] #TODO
 =======
 Repeat | [[Wiederholen]] (R)
 >>>>>>> e700df3 (Added notes from April, 18th)
+=======
+Send | [[Absenden]] (R)
+>>>>>>> 251622b (Added notes from June, 13th)
 Start | [[Anfangen]] (I)
 Stop | [[Aufhören]] (R)
 Switch | [[Umsteigen]] (I)
 Testify | [[Aussagen]] (R)
 Translate | [[Übersetzen]] (R)
+<<<<<<< HEAD
 Vote  | [[Abstimmen]] (R)
 Wake up | [[Aufwachen]] (I)
 Watch | [[Anschauen]] (R)
 Watch | [[Ansehen]] (R)
 Watch | [[Fernschauen]] (R)
+=======
+Watch | [[Anschauen]] (R)
+Watch | [[Ansehen]] (R)
+Watch | [[Fernschauen]]
+>>>>>>> 251622b (Added notes from June, 13th)
 Watch | [[Fernsehen]] (R)
 Wear | [[Anhaben]] (R)
 

@@ -8,12 +8,19 @@ ___
 | [[Common phrases]] | [[Synonyms]] | [[Switzerland variations]] |
 
 # General list
+<<<<<<< HEAD
 
  English  | German 
  ------------------------------ | ---------------------------------------- 
 Adaptation | Die Verfilmung
 Addiction | Die Sucht
 Answer | Die Antwort (-en) 
+=======
+English | German
+------------ | ------------
+Adaptation | Die Verfilmung
+Answer | Die Antwort (-en)
+>>>>>>> 251622b (Added notes from June, 13th)
 Bag | Die Tasche (-n)
 Ballpoint pen | Der Kugelschreiber (-)
 Behavior | Das Verhalten
@@ -21,17 +28,25 @@ Blind date | Das Blinddate (-s)
 Bad conscience | Schlechtes Gewissen
 Book | Das Buch (-ü-er)
 Broadcaster | Der Sender (-)
+<<<<<<< HEAD
 Bucket | Der Eimer
+=======
+>>>>>>> 251622b (Added notes from June, 13th)
 Café | Das Café[^1]
 Couple | Paar
 Good conscience | Gutes Gewissen
 Carnival | Die Fastnacht / Der Fashcing
+<<<<<<< HEAD
 Central station | Hauptbahnhof
 Cartoon  | Der trickfilm (-e)
+=======
+Cartoon | Der trickfilm (-e)
+>>>>>>> 251622b (Added notes from June, 13th)
 Cellphone | das Handy
 Change | Der Wechsel
 Companion | Der Begleiter
 Consequence | Die Folge (-n)
+<<<<<<< HEAD
 Conversation  | Das Gespräch (-e)
 Desk (for receiving customers) | Der Schalter
 Dice | Der Würfel (-)
@@ -44,6 +59,13 @@ Event  | Die Veranstaltung (-en) / Der Event (-s)
 Exception | Die Aushahme (-n)
 Experience | Die Erfahrung (-en)
 Fun | Spass
+=======
+Conversation | Das Gespräch (-e)
+Desk (for receiving customers) | Der Schalter
+Education | Die Ausbildung (-en)
+Episode | Die Folge
+Event | Die Veranstaltung (-en) / Der Event (-s)
+>>>>>>> 251622b (Added notes from June, 13th)
 First name | Der Vorname (-n)
 Last name | Der Nachname (-n)
 <<<<<<< HEAD
@@ -65,8 +87,12 @@ Lie | Die Lüge (-n)
 Limit  | Die limite
 Man | Der Mann (Männer) 
 Mask | Die Maske / Das Kostüm
+<<<<<<< HEAD
 Means of transport | Das Transportmittel
 Movie  | Der Film (-e)
+=======
+Movie | Der Film (-e)
+>>>>>>> 251622b (Added notes from June, 13th)
 Mister | Herr
 Need | Das Bedürfnis
 No sense | Quatsch 
@@ -87,7 +113,10 @@ Quantity | Die Menge
 Randomly | Zufällig
 Reason | Der Grund (Gründe)
 Receiver | Der Empfänger
+<<<<<<< HEAD
 Requirement | Das Bedürfnis
+=======
+>>>>>>> 251622b (Added notes from June, 13th)
 Rest | Der Rest (-e)
 Screen | Der Bildschirm (-e)
 Sender | Der Absender

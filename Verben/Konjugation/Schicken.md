@@ -1,4 +1,5 @@
 ___
+<<<<<<< HEAD
 Links: [[Verben]]
 Meaning:
 ___
@@ -128,3 +129,21 @@ schickend
 
 # [[Modus - Partizips]] - Perfekt
 geschickt
+=======
+Tags: #Languages/German/Grammar/Verbs/Regular  
+Links: [[Verben]]
+___
+# [[Indikativ - Präsens]]
+Pronoun|Conjugation
+------------ | ------------
+Ich | schicke
+Du | schickst
+Er/Sie/Es | schickt
+Wir | schicken
+Ihr | schickt
+Sie | schicken
+
+
+# [[Indikativ - Perfekt]]
+[[Pronomen]] + [[Haben]] + geschickt
+>>>>>>> 251622b (Added notes from June, 13th)

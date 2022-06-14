@@ -19,6 +19,7 @@ Der Briefumschlag | Das Kuvert
 Das Obst | Die Fruchte
 [[Park]] | Parkiren
 Um vier Uhr | Das Zvieri
+<<<<<<< HEAD
 Um 9 Uhr | Das Znüni
 Das Briefumschlag | Das  Kuvert
 [[Konfiszieren]] | Wegnehmen
@@ -29,3 +30,7 @@ Verärgert | Hässig
 16:00 | Zvieri
 Der Mill | Der abfall
 Friseur | Coiffeur
+=======
+Um 9 Uhr | Das Znu:ni (CH)
+Das Briefumschlag | Das  Kuvert
+>>>>>>> 251622b (Added notes from June, 13th)

@@ -25,6 +25,10 @@ Constantly | Dauernd
 Early | Frühzeitig
 Even | Noch
 Every | Jeden
+<<<<<<< HEAD
+=======
+From | Vor
+>>>>>>> 251622b (Added notes from June, 13th)
 Generously | Grosszügig
 Good | Gut
 If  | Ob

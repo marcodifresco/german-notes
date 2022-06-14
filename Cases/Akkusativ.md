@@ -151,6 +151,7 @@ Plural -->  ...*e*
 
 # [[Verbs]]
 [[Abholen]]
+[[Andenken]]
 [[Anrufen]]
 [[Besuchen]]
 [[Brauchen]]
