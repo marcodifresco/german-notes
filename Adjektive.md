@@ -15,6 +15,7 @@ Cheap | Günstig
 Classic| Klassiker
 Divorced | Geschieden
 Expensive | Teuer
+Generous | Grosszügig
 Great | Toll
 Happy | Glücklich
 Happy | Froh
@@ -35,6 +36,7 @@ Short | Kurz
 Small | Klein
 Sporty | Sportlich
 Square | Eckig
+Stingy | Geizig
 Stressed | Gestresst
 Standard (average) | Durchschnittlich
 Sweet | Süss

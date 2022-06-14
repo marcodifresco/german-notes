@@ -17,6 +17,7 @@ Constantly | Dauernd
 Early | Frühzeitig
 Every | Jeden
 From | Vor
+Generously | Grosszügig
 Good | Gut
 Immediately | Sofort
 How | Wie

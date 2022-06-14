@@ -23,6 +23,7 @@ Job (internship) | Das Praktikum
 Journalist | Der Journalist (-en)
 Mechanic | Der Mechatroniker (-)
 Office | Das Büro (-s)
+Performer | Der Darsteller (-)
 Profession | Der Beruf (-e)
 School | Die Schule (-n0)
 Secretary | Der Sekretär (-e)

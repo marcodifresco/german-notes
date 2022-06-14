@@ -5,17 +5,17 @@ ___
 # [[Indikativ - Präsens]]
 Pronoun|Conjugation
 ------------ | ------------
-Ich | schaue an
-Du | schaust an
-Er/Sie/Es | schaut an
-Wir | schauen an
-Ihr | schaut an
-Sie | schauen an
+Ich | sehe an
+Du | siehst an
+Er/Sie/Es | sieht an
+Wir | sehen an
+Ihr | seht an
+Sie | sehen an
 
 
 # [[Indikativ - Perfekt]]
-[[Pronomen]] + [[Haben]] + angeschaut
+[[Pronomen]] + [[Haben]] + angesehen
 
 # Rules
 For viewing specific things.
-*EX: Ich schaue mir heute einen Film / eine Serie / ein Spiel an*
+*EX: Ich sehe mir heute einen Film / eine Serie / ein Spiel an*

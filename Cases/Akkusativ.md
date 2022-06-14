@@ -24,6 +24,7 @@ Plural -->  ...*e*
 
 # [[Verben]]
 [[Abholen]]
+[[Andenken]]
 [[Anrufen]]
 [[Besuchen]]
 [[Brauchen]]

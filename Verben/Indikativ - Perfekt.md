@@ -13,3 +13,4 @@ For [[Typ - Modal verben]]:
 Prefix-verb --> [[Pronomen]] + [[Haben]]/[[Sein]] + prefix + **ge** + verb konjugation
 
 For [[Verben]] ending in ...ieren --> no ge..., but only ...t
+For [[Verben]] starting in er... --> not ge...
