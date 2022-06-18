@@ -23,6 +23,7 @@ Hardly (/ just a bit) | Kaum
 Last | Letzte[^2]
 Little (quantity) | Wenig
 Married | Verheiratet
+Melted | Geschmolzzen
 Modern | Modern
 Old | Alt
 Oversalted | Versalzen

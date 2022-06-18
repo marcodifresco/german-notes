@@ -4,6 +4,7 @@ Links: [[Vokabular]]
 ___
 English | German
 ------------ | ------------
+Heat | Die  Hitze
 It is cold | Es ist kalt
 It is raining | Es regnet
 It's snowing | Es schneit 

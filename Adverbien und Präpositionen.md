@@ -20,6 +20,7 @@ From | Vor
 Generously | Grosszügig
 Good | Gut
 Immediately | Sofort
+Least | Wenigsten
 How | Wie
 Most | Meisten 
 Next | Nächstes
