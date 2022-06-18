@@ -5,7 +5,10 @@ ___
 English | German
 ------------ | ------------
 <<<<<<< HEAD
+<<<<<<< HEAD
 Accomplish (work, tasks) | [[Erledigen]]
+=======
+>>>>>>> 31e5a1c (Added notes from June, 16th)
 Accompany | [[Begleiten]]
 Admire | [[Bewundern]]
 Advise | [[Beraten]]
@@ -27,9 +30,13 @@ Commute | [[Pendeln]]
 Complete (fill inn) | [[Ergänzen]]
 Copy | [[Kopieren]]
 <<<<<<< HEAD
+<<<<<<< HEAD
 Confiscate | [[Konfiszieren]]
 =======
 >>>>>>> bfd5231 (Added notes from June, 1st)
+=======
+Confiscate | [[Konfiszieren]]
+>>>>>>> 31e5a1c (Added notes from June, 16th)
 Cook | [[Kochen]]
 Cost | [[Kosten]]
 Cross (select) | [[Kreuzen]]
@@ -102,6 +109,7 @@ Reply | [[Antworten]]
 Reside | [[Wohnen]]
 Rewoke | [[Entziehen]]
 Ring | [[Läute]]
+Satisfy | [[Erfüllen]]
 Say | [[Sagen]]
 Search | [[Suchen]]
 Sell | [[Verkaufen]]

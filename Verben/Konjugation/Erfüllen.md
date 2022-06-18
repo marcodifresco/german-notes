@@ -1,4 +1,5 @@
 ___
+<<<<<<< HEAD
 Links: [[Verben]]
 Meaning:
 ___
@@ -128,3 +129,21 @@ erfüllend
 
 # [[Modus - Partizips]] - Perfekt
 erfüllt
+=======
+Tags: #Languages/German/Grammar/Verbs 
+Links: [[Verben]]
+___
+# [[Indikativ - Präsens]]
+Pronoun|Conjugation
+------------ | ------------
+Ich | erfülle
+Du | erfüllst
+Er/Sie/Es | erfüllt
+Wir | erfüllen
+Ihr | erfüllt
+Sie | erfüllen
+
+
+# [[Indikativ - Perfekt]]
+[[Pronomen]] + [[Haben]] + erfüllt
+>>>>>>> 31e5a1c (Added notes from June, 16th)

@@ -33,8 +33,12 @@ Generously | Grosszügig
 Good | Gut
 If  | Ob
 Immediately | Sofort
+<<<<<<< HEAD
 Inadvertently | aus Versehen
 Least | am wenigsten
+=======
+Least | Wenigsten
+>>>>>>> 31e5a1c (Added notes from June, 16th)
 How | Wie
 <<<<<<< HEAD
 Most | am meisten

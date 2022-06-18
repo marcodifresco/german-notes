@@ -1,4 +1,5 @@
 ___
+<<<<<<< HEAD
 Links: [[Verben]]
 Meaning:
 ___
@@ -128,3 +129,21 @@ verhaltend
 
 # [[Modus - Partizips]] - Perfekt
 verhalten
+=======
+Tags: #Languages/German/Grammar/Verbs/Regular  
+Links: [[Verben]]
+___
+# [[Indikativ - Präsens]]
+Pronoun|Conjugation
+------------ | ------------
+Ich | verhalte
+Du | verhältst
+Er/Sie/Es | verhält
+Wir | verhalten
+Ihr | verhaltet
+Sie | verhalten
+
+
+# [[Indikativ - Perfekt]]
+[[Pronomen]] + [[Haben]] + verhalten
+>>>>>>> 31e5a1c (Added notes from June, 16th)

@@ -19,6 +19,7 @@ Answer | Die Antwort (-en)
 English | German
 ------------ | ------------
 Adaptation | Die Verfilmung
+Addiction | Die Sucht
 Answer | Die Antwort (-en)
 >>>>>>> 251622b (Added notes from June, 13th)
 Bag | Die Tasche (-n)
@@ -62,6 +63,7 @@ Fun | Spass
 =======
 Conversation | Das Gespräch (-e)
 Desk (for receiving customers) | Der Schalter
+Edge | Der Rand
 Education | Die Ausbildung (-en)
 Episode | Die Folge
 Event | Die Veranstaltung (-en) / Der Event (-s)
@@ -69,11 +71,17 @@ Event | Die Veranstaltung (-en) / Der Event (-s)
 First name | Der Vorname (-n)
 Last name | Der Nachname (-n)
 <<<<<<< HEAD
+<<<<<<< HEAD
 Host family | Die Gastfamilie
 Glass  | Das Glas
 Homework | Die Hausaufgabe (-n)
 Position | das Aufzwingen
 Joker  | Der Spassvogel (-)
+=======
+Host family | Die Gastfamilie
+Glass | Das Glas
+Joker | Der Spassvogel (-)
+>>>>>>> 31e5a1c (Added notes from June, 16th)
 Key | Der Schlüssel (-)
 =======
 Glasses | Die Brille
@@ -84,8 +92,13 @@ Invoice [^2]  | Die Rechnung (-en)
 Kettle | Der Kessel (-)
 Laundry day | Der Waschtag
 Lie | Die Lüge (-n)
+<<<<<<< HEAD
 Limit  | Die limite
 Man | Der Mann (Männer) 
+=======
+Limit | Die  limite
+Man | Der Mann (Männer)
+>>>>>>> 31e5a1c (Added notes from June, 16th)
 Mask | Die Maske / Das Kostüm
 <<<<<<< HEAD
 Means of transport | Das Transportmittel
@@ -95,10 +108,16 @@ Movie | Der Film (-e)
 >>>>>>> 251622b (Added notes from June, 13th)
 Mister | Herr
 Need | Das Bedürfnis
+<<<<<<< HEAD
 No sense | Quatsch 
 Offer  | Das angebot
 Office | das Büro (-s)
 Paper  | Das Papier (-e)
+=======
+Offer | Das angebot
+Office  | das Büro (-s)
+Paper | Das Papier (-e)
+>>>>>>> 31e5a1c (Added notes from June, 16th)
 Pencil | Der Bleistift (-)
 Person | Der Man
 People | Die Menschen
@@ -114,9 +133,13 @@ Randomly | Zufällig
 Reason | Der Grund (Gründe)
 Receiver | Der Empfänger
 <<<<<<< HEAD
+<<<<<<< HEAD
 Requirement | Das Bedürfnis
 =======
 >>>>>>> 251622b (Added notes from June, 13th)
+=======
+Requirement | Das Bedürfnis
+>>>>>>> 31e5a1c (Added notes from June, 16th)
 Rest | Der Rest (-e)
 Screen | Der Bildschirm (-e)
 Sender | Der Absender
@@ -124,9 +147,14 @@ Season | Die Staffel
 Series | Die Serie (-n)
 Show | Die Sendung (-en)
 Spelling | Buchstabiere
+<<<<<<< HEAD
 Stamp  | Die Briefmarke (-n)
 Stop | Halt
 Suitcase | Der Koffer (-)
+=======
+Stamp | Die Briefmarke (-n)
+Stop | Halt
+>>>>>>> 31e5a1c (Added notes from June, 16th)
 Suggestion | Der Vorschlag (-ä-e)
 Tabloid  | die Regenbogenpresse
 Task | Die Aufgabe(-n)
@@ -136,6 +164,7 @@ Truth  | Die Wahrheit (-en)
 Vacation | Der Urlaub (-e)
 View | Meinung
 Way | Der Weg (-e)
+<<<<<<< HEAD
 Wish | Der Wunsch (-ü-e)
 Woman  | Die Frau (-en)
 Word | Das Wort (-ö-er)
@@ -158,6 +187,11 @@ The first time | Das erste Mal
 Business man | Kaufmann
 Acquaintance | Der Bekannter
 
+=======
+Wish | Der Wunsch (-ü-e) 
+Woman | Die Frau (-en)
+Word | Das Wort (-ö-er)
+>>>>>>> 31e5a1c (Added notes from June, 16th)
 
 
 # Specific combination

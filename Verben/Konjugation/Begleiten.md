@@ -1,4 +1,5 @@
 ___
+<<<<<<< HEAD
 Links: [[Verben]]
 Meaning:
 ___
@@ -130,3 +131,21 @@ Partizip I begleitend
 # [[Modus - Partizips]] - Perfekt
 Form Conjugation
 Partizip II begleitet
+=======
+Tags: #Languages/German/Grammar/Verbs 
+Links: [[Verben]]
+___
+# [[Indikativ - Präsens]]
+Pronoun|Conjugation
+------------ | ------------
+Ich | begleite
+Du | begleitest
+Er/Sie/Es | begleitet
+Wir | begleiten
+Ihr | begleitet
+Sie | begleiten
+
+
+# [[Indikativ - Perfekt]]
+[[Pronomen]] + [[Haben]] + begleitet
+>>>>>>> 31e5a1c (Added notes from June, 16th)

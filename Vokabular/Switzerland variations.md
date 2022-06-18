@@ -33,4 +33,8 @@ Friseur | Coiffeur
 =======
 Um 9 Uhr | Das Znu:ni (CH)
 Das Briefumschlag | Das  Kuvert
+<<<<<<< HEAD
 >>>>>>> 251622b (Added notes from June, 13th)
+=======
+[[Konfiszieren]] | Wegnehmen
+>>>>>>> 31e5a1c (Added notes from June, 16th)
