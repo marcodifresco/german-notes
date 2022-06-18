@@ -4,6 +4,7 @@ English | German
 Abdominal area | Die Bauchgegend (-)
 Beard | Der Bart (Bärte)
 Belly | Der Bauch (Bäuche)
+Eye | Das Auge (-n)
 Heart | Die Herz (-en)
 Stomach | Der Magen (-ä-)
 

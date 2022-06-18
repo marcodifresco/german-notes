@@ -44,6 +44,7 @@ Lie | Die Lüge (-n)
 Limit | Die  limite
 Man | Der Mann (Männer)
 Mask | Die Maske / Das Kostüm
+Means of transport | Das Transportmittel
 Movie | Der Film (-e)
 Mister | Herr
 Need | Das Bedürfnis
@@ -71,6 +72,7 @@ Show | Die Sendung (-en)
 Spelling | Buchstabiere
 Stamp | Die Briefmarke (-n)
 Stop | Halt
+Suitcase | Der Koffer (-)
 Suggestion | Der Vorschlag (-ä-e)
 Task | Die Aufgabe(-n)
 Thing | Das Ding (-e)

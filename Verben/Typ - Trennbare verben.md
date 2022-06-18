@@ -4,15 +4,21 @@ Links: [[Verben]]
 ___
 English | German
 ------------ | ------------
+Announce | [[Durchsagen]] (R)
+Arrive | [[Ankommen]] (I)
 Be located | [[Stattfinden]] (I)
+Bring along | [[Mitbringen]] (R)
 Buy | [[Einkaufen]] (R)
 Call | [[Anrufen]] (I)
 Choose | [[Aussuchen]] (R)
 Collect | [[Abholen]] (R)
-Fill in | [[Ausfüllen]]
+Depart | [[Abfahren]] (I)
+Fill in | [[Ausfüllen]] (R)
+Get in | [[Einsteigen]] (R)
+Get out | [[Aussteigen]] (R)
 Join | [[Beitreten]] (I)
 Keep in mind | [[Andenken]] (R)
-Insert | [[Einwerfen]]
+Insert | [[Einwerfen]] (R)
 Inaugurate | [[Einweihen]] (I)
 Invite | [[Einladen]] (R)
 Offer | [[Anbieten]] (R)
@@ -21,15 +27,15 @@ Repeat | [[Wiederholen]] (R)
 Send | [[Absenden]] (R)
 Start | [[Anfangen]] (I)
 Stop | [[Aufhören]] (R)
+Switch | [[Umsteigen]] (I)
 Testify | [[Aussagen]] (R)
 Translate | [[Übersetzen]] (R)
 Watch | [[Anschauen]] (R)
 Watch | [[Ansehen]] (R)
-Watch | [[Fernschauen]]
+Watch | [[Fernschauen]] (R)
 Watch | [[Fernsehen]] (R)
 Wear | [[Anhaben]] (R)
 
 ^ba9865
-
 
 [^1]: also change to (like change clothing).

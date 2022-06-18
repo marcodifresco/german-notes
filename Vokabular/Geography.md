@@ -43,3 +43,16 @@ Slovak | Slowakisch
 Spanish | Spanish
 Russian | Russisch
 Turkish | Türkisch
+
+# Location
+English | German
+------------ | ------------
+Airport | Der Flughafen
+Airplane | Das Flugzeug (-e)
+Bus stop | Die Bushaltestelle
+Station | Der Bahnhof
+Subway | Die U-Bahn (-n)
+Plattform | Das Gleis
+Train | Der Zug (-ü-e)
+Tram | Die Strassenbahn (-n)
+Taxi | Das Taxi

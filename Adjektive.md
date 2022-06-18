@@ -10,6 +10,7 @@ Balanced | Ausgeglichen
 Beautiful | Schön
 Bad | Schlecht
 Big | Gross
+Careful | Vorsichtig
 Cheap | Billig
 Cheap | Günstig
 Classic| Klassiker
