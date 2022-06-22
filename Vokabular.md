@@ -19,7 +19,10 @@ Behavior | Das Verhalten
 Blind date | Das Blinddate (-s)
 Book | Das Buch (-ü-er)
 Broadcaster | Der Sender (-)
+Bucket | Der Eimer
 Café | Das Café[^1]
+Bad conscience | Schlechtes Gewissen
+Good conscience | Gutes Gewissen
 Carnival | Die Fastnacht / Der Fashcing
 Cartoon | Der trickfilm (-e)
 Cellphone | das Handy
@@ -40,6 +43,7 @@ Joker | Der Spassvogel (-)
 Key | Der Schlüssel (-)
 Investigation | Die Untersuchung
 Invoice [^2] | Die Rechnung (-en)
+Laundry day | Der Waschtag
 Lie | Die Lüge (-n)
 Limit | Die  limite
 Man | Der Mann (Männer)

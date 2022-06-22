@@ -4,6 +4,7 @@ English | German
 Country | Das Land (Länder)
 Town | Die Stadt (Städte)
 Street | Die Strasse (-n)
+Sea | Das Meer
 
 # Cardinal Directions
 English | German

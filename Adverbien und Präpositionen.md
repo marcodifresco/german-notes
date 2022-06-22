@@ -4,6 +4,7 @@ Links: [[Vokabular]]
 ___
 English | German
 ------------ | ------------
+Accidentally | Zufällig
 Already | Schon
 Almost | Fast
 Always | Immer
@@ -20,6 +21,7 @@ From | Vor
 Generously | Grosszügig
 Good | Gut
 Immediately | Sofort
+Inadvertently | Ausversehen
 Least | Wenigsten
 How | Wie
 Most | Meisten 
@@ -39,6 +41,7 @@ Still | Noch
 Than | Als
 To | Nach
 Too | Zu
+Unintentionally | Unabsichtlich
 Very | Sehr
 What | Was
 When | Wann

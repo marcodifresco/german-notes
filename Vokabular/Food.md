@@ -16,6 +16,7 @@ Cucumber | Die Gurke(-n)
 Egg | Das Ei (-er)
 Escalope  | Das Schnitzel (-)
 Fish | Der Fisch (-e)
+Food (for animals) | Das Futter
 Fruit | Die Frucht (-ü-e)
 French fries | die Pommes frites
 Lemon | Die Zitrone (-n)

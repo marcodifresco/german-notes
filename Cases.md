@@ -8,6 +8,8 @@ ___
 [[Dativ]]
 [[Genitiv]]
 
+# Rules
+Order: [[Dativ]] -> [[Akkusativ]]
 
 # Examples
 Ich fahre mit eine**m** Audi = Precise, this moment (Fahrer oder Passagier)
