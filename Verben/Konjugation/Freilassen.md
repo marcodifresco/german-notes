@@ -1,4 +1,5 @@
 ___
+<<<<<<< HEAD
 Links: [[Verben]] [[Typ - Trennbare verben]]
 Meaning:
 ___
@@ -131,3 +132,21 @@ Partizip I freilassend
 # [[Modus - Partizips]] - Perfekt
 Form Conjugation
 Partizip II freigelassen
+=======
+Tags: #Languages/German/Grammar/Verbs/Irregular  
+Links: [[Verben]] [[Typ - Trennbare verben]]
+___
+# [[Indikativ - Präsens]]
+Pronoun|Conjugation
+------------ | ------------
+Ich | lasse frei
+Du | lässt frei
+Er/Sie/Es | lässt frei
+Wir | lassen frei
+Ihr | lasst frei
+Sie | lassen frei
+
+
+# [[Indikativ - Perfekt]]
+[[Pronomen]] + [[Haben]] + freigelassen
+>>>>>>> dca0fbe (Added notes from June, 20th)

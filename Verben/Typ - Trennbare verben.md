@@ -23,7 +23,10 @@ Carry out | [[Ausfuhren]] (R)
 Choose | [[Aussuchen]] (R)
 Clean up | [[Aufräumen]] (R)
 Collect | [[Abholen]] (R)
+<<<<<<< HEAD
 Collapse | [[Einbrechen]] (R)
+=======
+>>>>>>> dca0fbe (Added notes from June, 20th)
 Cut  open | [[Aufschneiden]] (I)
 Depart | [[Abfahren]] (I)
 Fill in | [[Ausfüllen]] (R)
@@ -61,6 +64,7 @@ Repeat | [[Wiederholen]] (R)
 Request | [[Aufforderung]] (R)
 Send | [[Absenden]] (R)
 Set free | [[Freilassen]] (I)
+<<<<<<< HEAD
 Spend the night | [[Übernachten]] (R)
 =======
 Repeat | [[Wiedenholen]] #TODO 
@@ -71,6 +75,8 @@ Repeat | [[Wiederholen]] (R)
 =======
 Send | [[Absenden]] (R)
 >>>>>>> 251622b (Added notes from June, 13th)
+=======
+>>>>>>> dca0fbe (Added notes from June, 20th)
 Start | [[Anfangen]] (I)
 Stop | [[Aufhören]] (R)
 Switch | [[Umsteigen]] (I)

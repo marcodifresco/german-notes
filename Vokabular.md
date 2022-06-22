@@ -30,11 +30,17 @@ Bad conscience | Schlechtes Gewissen
 Book | Das Buch (-ü-er)
 Broadcaster | Der Sender (-)
 <<<<<<< HEAD
+<<<<<<< HEAD
 Bucket | Der Eimer
 =======
 >>>>>>> 251622b (Added notes from June, 13th)
 Café | Das Café[^1]
 Couple | Paar
+=======
+Bucket | Der Eimer
+Café | Das Café[^1]
+Bad conscience | Schlechtes Gewissen
+>>>>>>> dca0fbe (Added notes from June, 20th)
 Good conscience | Gutes Gewissen
 Carnival | Die Fastnacht / Der Fashcing
 <<<<<<< HEAD
@@ -88,8 +94,12 @@ Glasses | Die Brille
 Joker | Der Spassvogel (-)
 >>>>>>> 58603f5 (Catch-all changes on 19 05 2022.)
 Investigation | Die Untersuchung
+<<<<<<< HEAD
 Invoice [^2]  | Die Rechnung (-en)
 Kettle | Der Kessel (-)
+=======
+Invoice [^2] | Die Rechnung (-en)
+>>>>>>> dca0fbe (Added notes from June, 20th)
 Laundry day | Der Waschtag
 Lie | Die Lüge (-n)
 <<<<<<< HEAD

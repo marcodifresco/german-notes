@@ -1,4 +1,5 @@
 ___
+<<<<<<< HEAD
 Links: [[Verben]]
 Meaning:
 ___
@@ -128,3 +129,21 @@ fressend
 
 # [[Modus - Partizips]] - Perfekt
 gefressen
+=======
+Tags: #Languages/German/Grammar/Verbs/Irregular  
+Links: [[Verben]]
+___
+# [[Indikativ - Präsens]]
+Pronoun|Conjugation
+------------ | ------------
+Ich | fresse
+Du | frisst
+Er/Sie/Es | frisst
+Wir | fressen
+Ihr | fresst
+Sie | fressen
+
+
+# [[Indikativ - Perfekt]]
+[[Pronomen]] + [[Haben]] + gefressen
+>>>>>>> dca0fbe (Added notes from June, 20th)

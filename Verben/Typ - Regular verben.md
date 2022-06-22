@@ -47,6 +47,7 @@ Demonstrate | [[Zeigen]]
 Describe | [[Beschreiben]]
 Dive | [[Tauchen]]
 <<<<<<< HEAD
+<<<<<<< HEAD
 Draw | [[Zeichnen]]
 Dream | [[Träumen]]
 Eat | [[Essen]]
@@ -57,6 +58,9 @@ Fear | [[Fürchten]]
 Feed | [[Ernähren]]
 Finish | [[Beenden]]
 =======
+=======
+Draw | [[Zeichnen]]
+>>>>>>> dca0fbe (Added notes from June, 20th)
 Eat | [[Essen]]
 Evaluate | [[Bewerten]]
 Experience | [[Erleben]]

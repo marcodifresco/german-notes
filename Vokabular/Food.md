@@ -17,9 +17,13 @@ Egg | Das Ei (-er)
 Escalope  | Das Schnitzel (-)
 Fish | Der Fisch (-e)
 <<<<<<< HEAD
+<<<<<<< HEAD
 Food (for animals) | Das Futter
 =======
 >>>>>>> e0a7ee5 (Added material from A1 book - chapter 9)
+=======
+Food (for animals) | Das Futter
+>>>>>>> dca0fbe (Added notes from June, 20th)
 Fruit | Die Frucht (-ü-e)
 French fries | die Pommes frites
 Lemon | Die Zitrone (-n)

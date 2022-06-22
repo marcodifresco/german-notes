@@ -22,6 +22,7 @@ Expert | Der Experte (-n)
 Hair stylist | Der Friseur (-e)
 Historian | Der Historiker (-)
 HR | Der HR-Abteilung
+Inventor | Erschaffer
 Job | Die Arbeit
 Job (permanent) | Die Festanstellung
 Job (internship) | Das Praktikum

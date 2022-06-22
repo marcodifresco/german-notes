@@ -17,6 +17,7 @@ ___
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Rules
 Order: [[Dativ]] -> [[Akkusativ]]
 Ich wäre gern -> Wie? [[Adjektive]] | Wer? [[Nominativ]]
@@ -24,6 +25,10 @@ Ich wäre gern -> Wie? [[Adjektive]] | Wer? [[Nominativ]]
 ![[case-labels 1.png]]
 =======
 >>>>>>> ba5103c (Cleared AAA TEMPORARY NOTE)
+=======
+# Rules
+Order: [[Dativ]] -> [[Akkusativ]]
+>>>>>>> dca0fbe (Added notes from June, 20th)
 
 # Examples
 Ich fahre mit eine**m** Audi = Precise, this moment (Fahrer oder Passagier)

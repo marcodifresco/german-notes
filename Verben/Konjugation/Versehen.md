@@ -1,4 +1,5 @@
 ___
+<<<<<<< HEAD
 Links: [[Verben]]
 Meaning:
 ___
@@ -127,3 +128,21 @@ versehend
 
 # [[Modus - Partizips]] - Perfekt
 versehen
+=======
+Tags: #Languages/German/Grammar/Verbs/Regular  
+Links: [[Verben]]
+___
+# [[Indikativ - Präsens]]
+Pronoun|Conjugation
+------------ | ------------
+Ich | versehe
+Du | versiehst
+Er/Sie/Es | versieht
+Wir | versehen
+Ihr | verseht
+Sie | versehen
+
+
+# [[Indikativ - Perfekt]]
+[[Pronomen]] + [[Haben]] + versehen
+>>>>>>> dca0fbe (Added notes from June, 20th)

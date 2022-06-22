@@ -5,11 +5,15 @@ ___
 
 English | German
 ------------ | ------------
+<<<<<<< HEAD
 About what | Worüber
 Accidentally | Zufällig
 After | Nachdem
 All | Alles (Object)
 All | Alle (people)
+=======
+Accidentally | Zufällig
+>>>>>>> dca0fbe (Added notes from June, 20th)
 Already | Schon
 Almost | Fast
 Always | Immer
@@ -34,9 +38,13 @@ Good | Gut
 If  | Ob
 Immediately | Sofort
 <<<<<<< HEAD
+<<<<<<< HEAD
 Inadvertently | aus Versehen
 Least | am wenigsten
 =======
+=======
+Inadvertently | Ausversehen
+>>>>>>> dca0fbe (Added notes from June, 20th)
 Least | Wenigsten
 >>>>>>> 31e5a1c (Added notes from June, 16th)
 How | Wie
@@ -65,7 +73,10 @@ This time | Diesmal
 Through | Durch
 Too | Zu
 Unintentionally | Unabsichtlich
+<<<<<<< HEAD
 Urgently | Dringend
+=======
+>>>>>>> dca0fbe (Added notes from June, 20th)
 Very | Sehr
 What | Was
 What for | Wozu
