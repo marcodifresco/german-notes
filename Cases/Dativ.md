@@ -3,7 +3,10 @@ Tags: #Languages/German/Cases
 ___
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 The dative case is used to indicate the recipient or beneficiary of an action. The normal word order in German is to put the dative in front of the accusative. However, since the German dative is marked in form, it can also be put after the accusative: Ich schickte das Buch dem Mann(e).
+=======
+>>>>>>> 67119d6 (Added notes from June, 22nd)
 
 # Artikel
 [[Nominativ]] | [[Dativ]]
@@ -23,6 +26,7 @@ Eine | Einer
 Kein | Keinem
 Keine | Keiner
 (pl) | Keinen
+<<<<<<< HEAD
 
 # [[Pronomen]]
 [[Nominativ]] | [[Dativ]]
@@ -127,13 +131,31 @@ Die --> Der/Einer
 >>>>>>> 43eb891 (Catch-all changes on 26 03 2022.)
 # [[Pronouns]]
 English | German
+=======
+
+# [[Pronomen]]
+[[Nominativ]] | [[Dativ]]
+>>>>>>> 67119d6 (Added notes from June, 22nd)
 ------------ | ------------
-I | Mir
-You | Dir
-He/She/It | Ihm/Ihr/Ihm
-We | Uns
-You | Euch
-They | Ihnem
+Ich | Mir
+Du | Dir
+He | Ihm
+She| Ihr
+Es | Ihm
+Wir | Uns
+Ihr | Euch
+Sie | Ihnem
+
+[[Nominativ]] | [[Dativ]] (M) | [[Dativ]] (F) | [[Dativ]] (N) | [[Dativ]] (P)
+------------ | ------------ | ------------ | ------------ | ------------
+Mein (-e) | meinem | meiner | meinem | meinen
+Dein | deinem | deiner | deinem | deinen
+Sein (er) | seinem | seiner | seinem | seinen
+Ihr (sie) | ihrem | ihrer | ihrem | ihren
+Sein (es) | seinem | seiner | seinem | seinen
+Unser | unserem | unserer | unserem | unseren
+Euer | eurem | eurer | eurem | euren
+Ihr | ihrem | ihrer | ihrem | ihren
 
 # [[Vocabulary|Nouns]]
 Plural --> ...n
@@ -152,15 +174,19 @@ Plural -->  ...*en*
 [[Antworten]]
 [[Bringen]]
 [[Einkaufen]]
+[[Erklären]]
+[[Fallen]]
 [[Glauben]]
 [[Geben]]
 [[Helfen]]
+[[Hören]]
 [[Leihen]]
 [[Schenken]]
 [[Schmecken]]
 [[Zeigen]]
 
 # Situations
+Wer? -> [[Dativ]]
 With "mit"....
 With "seirt"/"vor"....
 With "wo" --> in ...

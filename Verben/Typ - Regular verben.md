@@ -20,10 +20,14 @@ Ask | [[Fragen]]
 Behave | [[Verhalten]]
 Believe | [[Glauben]]
 Belong | [[Gehören]]
+<<<<<<< HEAD
 Breakfast | [[Früstüchen]]
 Buy | [[Kaufen]]
 Cancel (for subscribtions) | [[Kündigen]]
 Celebrate | [[Feiern]]
+=======
+Buy | [[Kaufen]]
+>>>>>>> 67119d6 (Added notes from June, 22nd)
 Change | [[Ändern]]
 Climbing | [[Klettern]]
 Commute | [[Pendeln]]
@@ -64,6 +68,7 @@ Draw | [[Zeichnen]]
 Eat | [[Essen]]
 Evaluate | [[Bewerten]]
 Experience | [[Erleben]]
+Explain | [[Erklären]]
 Feed | [[Ernähren]]
 >>>>>>> e0a7ee5 (Added material from A1 book - chapter 9)
 Fit | [[Passen]]

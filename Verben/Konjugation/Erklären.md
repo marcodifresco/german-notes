@@ -1,4 +1,5 @@
 ___
+<<<<<<< HEAD
 Links: [[Verben]]
 Meaning:
 ___
@@ -132,3 +133,21 @@ erklärend
 Conjugation
 ------------
 erklärt
+=======
+Tags: #Languages/German/Grammar/Verbs/Regular  
+Links: [[Verben]]
+___
+# [[Indikativ - Präsens]]
+Pronoun|Conjugation
+------------ | ------------
+Ich | erkläre
+Du | erklärst
+Er/Sie/Es | erklärt
+Wir | erklären
+Ihr | erklärt
+Sie | erklären
+
+
+# [[Indikativ - Perfekt]]
+[[Pronomen]] + [[Haben]] + erklärt
+>>>>>>> 67119d6 (Added notes from June, 22nd)
