@@ -3,6 +3,7 @@ Welcome to the repository for my German's notes. I am studying German at
 [Klubschule Migros](https://www.klubschule.ch/) in Zurich and I am taking these notes during class to help myself in learning the language.
 
 To use my notes:
+
 1. Click on the three dots above on the right and select *"Download repository"*;
 
 2. Unzip the downloaded zip file where you want;
