@@ -1,20 +1,48 @@
 ___
 Tags: #Languages/German/Cases 
 ___
-# Articles
-Der --> Dem/Einem
-Das --> Dem/Einem
-Die --> Der/Einer
+
+# Artikel
+[[Nominativ]] | [[Dativ]]
+-----|-----
+Der | Dem
+Die | Der
+Das | Dem
+Die | Den
+
+[[Nominativ]] | [[Dativ]]
+-----|-----
+Ein | Einem
+Eine | Einer
+
+[[Nominativ]] | [[Dativ]]
+-----|-----
+Kein | Keinem
+Keine | Keiner
+(pl) | Keinen
 
 # [[Pronomen]]
-English | German
+[[Nominativ]] | [[Dativ]]
 ------------ | ------------
-I | Mir
-You | Dir
-He/She/It | Ihm/Ihr/Ihm
-We | Uns
-You | Euch
-They | Ihnem
+Ich | Mir
+Du | Dir
+He | Ihm
+She| Ihr
+Es | Ihm
+Wir | Uns
+Ihr | Euch
+Sie | Ihnem
+
+[[Nominativ]] | [[Dativ]] (M) | [[Dativ]] (F) | [[Dativ]] (N) | [[Dativ]] (P)
+------------ | ------------ | ------------ | ------------ | ------------
+Mein (-e) | meinem | meiner | meinem | meinen
+Dein | deinem | deiner | deinem | deinen
+Sein (er) | seinem | seiner | seinem | seinen
+Ihr (sie) | ihrem | ihrer | ihrem | ihren
+Sein (es) | seinem | seiner | seinem | seinen
+Unser | unserem | unserer | unserem | unseren
+Euer | eurem | eurer | eurem | euren
+Ihr | ihrem | ihrer | ihrem | ihren
 
 # [[Vokabular|Nouns]]
 Plural --> ...n
@@ -33,15 +61,19 @@ Plural -->  ...*en*
 [[Antworten]]
 [[Bringen]]
 [[Einkaufen]]
+[[Erklären]]
+[[Fallen]]
 [[Glauben]]
 [[Geben]]
 [[Helfen]]
+[[Hören]]
 [[Leihen]]
 [[Schenken]]
 [[Schmecken]]
 [[Zeigen]]
 
 # Situations
+Wer? -> [[Dativ]]
 With "mit"....
 With "seirt"/"vor"....
 With "wo" --> in ...
