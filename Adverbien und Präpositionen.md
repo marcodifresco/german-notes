@@ -11,13 +11,12 @@ Always | Immer
 Also | Auch
 Also | Ausserdem
 As | Als
-Between | Zwischen
+By the way | Übrigens
 But | Aber
 Both | Beide
 Constantly | Dauernd
 Early | Frühzeitig
 Every | Jeden
-From | Vor
 Generously | Grosszügig
 Good | Gut
 Immediately | Sofort
@@ -25,7 +24,6 @@ Inadvertently | Ausversehen
 Least | Wenigsten
 How | Wie
 Most | Meisten 
-Next | Nächstes
 Never | Nie
 Nevertheless | Trotzdem
 Now | Jetzt
@@ -39,31 +37,51 @@ Some | Etwas
 Sometime | Manchmal
 Still | Noch
 Than | Als
-To | Nach
 Too | Zu
 Unintentionally | Unabsichtlich
 Very | Sehr
 What | Was
 When | Wann
-Where | Wo
-Where from | Woher
-Where to | Wohin
 Which | Welche
 Who | Wer
 Why | Warum
 With | Mit
 Without | Ohne
 
+# Location
+English | German
+------------ | ------------
+Along | Entlang
+Around | Um ... herum
+At | An
+At the other ... | Am anderen ...
+Between | Zwischen
+By the... | An ... vorbei
+From | Vor
+In | Im
+In front of | Gegenüber
+Near | Neben
+Next | Nächstes
+Through | Durch
+To | Nach
+Where | Wo
+Where from | Woher
+Where to | Wohin
+Until | Bis zu
 
 # Notes
-vom -> von dem
+Vom -> Von dem
+Am -> An dem
+Zum -> Zu dem
+Zur -> Zu der
+
 Im / aus = for building
 Bei = for persons
 
 Wenn -> when in statements. Sort of "if". Ob = if .
 Wann -> when in questions
 EX: *Wenn ich zeit habe, dann treffe ich Freunde.*
-![[wann-wenn-als 1.jpg]]
+![[wann-wenn-als.jpg]]
 
 Dann = then
 Denn = becuse

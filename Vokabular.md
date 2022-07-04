@@ -2,7 +2,7 @@ ___
 Tags: #Languages/German/Vocabulary 
 ___
 # Specific categories:
-| [[Colors]] | [[Family]] | [[Food]] | [[Geography]] | [[Health]] | [[House]] | [[Quantity]] | [[Time]] | [[Weather]] | 
+| [[Colors]] | [[Family]] | [[Food]] | [[Geography]] | [[Health]] | [[House]] | [[Nature]] | [[Numbers]] | [[Profession]] | [[Quantity]] | [[Time]] | [[Weather]] | 
 
 # Phrases
 | [[Common phrases]] | [[Synonyms]] | [[Switzerland variations]]  |

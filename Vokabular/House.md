@@ -35,3 +35,7 @@ English | German
 ------------ | ------------
 House | Haus
 Home | Hause
+
+*Examples:*
+Nach Hause = my House
+In das Haus / Zum Haus = any house

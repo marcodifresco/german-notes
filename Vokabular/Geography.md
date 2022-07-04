@@ -54,6 +54,7 @@ Bus stop | Die Bushaltestelle
 Station | Der Bahnhof
 Subway | Die U-Bahn (-n)
 Plattform | Das Gleis
+Roundabout | Der Kriesel
 Train | Der Zug (-ü-e)
 Tram | Die Strassenbahn (-n)
 Taxi | Das Taxi
