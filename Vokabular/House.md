@@ -49,11 +49,14 @@ English | German
 Apartment | Die Wohnung (-en)
 House | Haus
 Home | Hause
+<<<<<<< HEAD
 Landlord | Vermieter
 Additional cost | Die Nebenkosten
 Furnished | Möbliert
 Rent | Die Miete
 Renter | Der Mieter
+=======
+>>>>>>> a98b676 (Added notes from June, 25th)
 
 *Examples:*
 Nach Hause = my House

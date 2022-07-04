@@ -30,9 +30,12 @@ Early | Frühzeitig
 Even | Noch
 Every | Jeden
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 From | Vor
 >>>>>>> 251622b (Added notes from June, 13th)
+=======
+>>>>>>> a98b676 (Added notes from June, 25th)
 Generously | Grosszügig
 Good | Gut
 If  | Ob
@@ -52,8 +55,11 @@ How | Wie
 Most | am meisten
 =======
 Most | Meisten 
+<<<<<<< HEAD
 Next | Nächstes
 >>>>>>> e0a7ee5 (Added material from A1 book - chapter 9)
+=======
+>>>>>>> a98b676 (Added notes from June, 25th)
 Never | Nie
 Nevertheless | Trotzdem
 Now | Jetzt
@@ -69,8 +75,11 @@ Some | Etwas
 Sometime | Manchmal
 Still | Noch
 Than | Als
+<<<<<<< HEAD
 This time | Diesmal
 Through | Durch
+=======
+>>>>>>> a98b676 (Added notes from June, 25th)
 Too | Zu
 Unintentionally | Unabsichtlich
 <<<<<<< HEAD
@@ -90,7 +99,10 @@ Without | Ohne
 # Location
 English | German
 ------------ | ------------
+<<<<<<< HEAD
 Above | Über
+=======
+>>>>>>> a98b676 (Added notes from June, 25th)
 Along | Entlang
 Around | Um ... herum
 At | An
@@ -100,6 +112,7 @@ By the... | An ... vorbei
 From | Vor
 In | Im
 In front of | Gegenüber
+<<<<<<< HEAD
 In front | Vor
 Inside | In
 Near | Neben
@@ -108,11 +121,16 @@ On top | Auf
 On the side | An
 On the back | Hinter
 Straight ahead | Geradeaus
+=======
+Near | Neben
+Next | Nächstes
+>>>>>>> a98b676 (Added notes from June, 25th)
 Through | Durch
 To | Nach
 Where | Wo
 Where from | Woher
 Where to | Wohin
+<<<<<<< HEAD
 Under | Unter
 Until | Bis zu
 
@@ -179,6 +197,16 @@ Zur -> Zu der
 
 ![[preposition-cases.png]]
 
+=======
+Until | Bis zu
+
+# Notes
+Vom -> Von dem
+Am -> An dem
+Zum -> Zu dem
+Zur -> Zu der
+
+>>>>>>> a98b676 (Added notes from June, 25th)
 Im / aus = for building
 Bei = for persons
 
@@ -213,10 +241,14 @@ Wenn -> when in statements. Sort of "if". Ob = if .
 Wann -> when in questions
 EX: *Wenn ich zeit habe, dann treffe ich Freunde.*
 <<<<<<< HEAD
+<<<<<<< HEAD
 ![[wann-wenn-als.jpg]]
 =======
 ![[wann-wenn-als 1.jpg]]
 >>>>>>> 58603f5 (Catch-all changes on 19 05 2022.)
+=======
+![[wann-wenn-als.jpg]]
+>>>>>>> a98b676 (Added notes from June, 25th)
 
 Dann = then
 Denn = because

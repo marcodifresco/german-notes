@@ -57,7 +57,10 @@ Station | Der Bahnhof
 Subway | Die U-Bahn (-n)
 Plattform | Das Gleis
 Roundabout | Der Kriesel
+<<<<<<< HEAD
 Swimming pool | Das Schwimmbecken (-bäder)
+=======
+>>>>>>> a98b676 (Added notes from June, 25th)
 Train | Der Zug (-ü-e)
 Tram | Die Strassenbahn (-n)
 Taxi | Das Taxi
