@@ -19,6 +19,7 @@ Early | Frühzeitig
 Every | Jeden
 Generously | Grosszügig
 Good | Gut
+If  | Ob
 Immediately | Sofort
 Inadvertently | Ausversehen
 Least | Wenigsten
@@ -33,12 +34,14 @@ Once | Einmal
 Others | Anderen
 Otherwise | Ansonsten
 Really | Wirklish
+Simultaneously | Gleichzeitig
 Some | Etwas
 Sometime | Manchmal
 Still | Noch
 Than | Als
 Too | Zu
 Unintentionally | Unabsichtlich
+Urgently | Dringend
 Very | Sehr
 What | Was
 When | Wann
@@ -60,8 +63,10 @@ By the... | An ... vorbei
 From | Vor
 In | Im
 In front of | Gegenüber
+In front | An
 Near | Neben
 Next | Nächstes
+Over | Auf
 Through | Durch
 To | Nach
 Where | Wo

@@ -30,6 +30,7 @@ Old | Alt
 Oversalted | Versalzen
 Polite | Höflich (opposite: un-)
 Professional | Beruflich
+Real | Echt
 Relaxed | Entspannt
 Restless | Restlos
 Round | Rund
@@ -40,6 +41,7 @@ Sporty | Sportlich
 Square | Eckig
 Stingy | Geizig
 Stressed | Gestresst
+Stressing | Stessig
 Standard (average) | Durchschnittlich
 Sweet | Süss
 Tense | Gespannt
