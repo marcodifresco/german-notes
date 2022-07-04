@@ -11,6 +11,7 @@ With W-Fragen, w in second part; Ja/Nein Fragen -> ob
 # Examples
 Kannst du mir bitte sagen, wie du heisst -> indirekt
 Kommst du aus Zürich?
+<<<<<<< HEAD
 Kannst du mir bitte  sagen, ob du aus Zürich kommst?
 
 (D) **Wie** kann ich ins Zentrum geheh?
@@ -21,3 +22,6 @@ Kannst du mir bitte  sagen, ob du aus Zürich kommst?
 
 (D) Haben Sie Ihren Pass dabei?
 (I) Darf ich fragen, **ob** Sie Ihren Pass dabei haben?
+=======
+Kannst du mir bitte  sagen, ob du aus Zürich kommst?
+>>>>>>> a20dc40 (Added notes from June, 27th)

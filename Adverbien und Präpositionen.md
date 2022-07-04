@@ -69,7 +69,11 @@ On what | Worauf
 Once | Einmal
 Others | Anderen
 Otherwise | Ansonsten
+<<<<<<< HEAD
 Really | Wirklich
+=======
+Really | Wirklish
+>>>>>>> a20dc40 (Added notes from June, 27th)
 Simultaneously | Gleichzeitig
 Some | Etwas
 Sometime | Manchmal
@@ -83,9 +87,13 @@ Through | Durch
 Too | Zu
 Unintentionally | Unabsichtlich
 <<<<<<< HEAD
+<<<<<<< HEAD
 Urgently | Dringend
 =======
 >>>>>>> dca0fbe (Added notes from June, 20th)
+=======
+Urgently | Dringend
+>>>>>>> a20dc40 (Added notes from June, 27th)
 Very | Sehr
 What | Was
 What for | Wozu
@@ -113,6 +121,7 @@ From | Vor
 In | Im
 In front of | Gegenüber
 <<<<<<< HEAD
+<<<<<<< HEAD
 In front | Vor
 Inside | In
 Near | Neben
@@ -125,6 +134,12 @@ Straight ahead | Geradeaus
 Near | Neben
 Next | Nächstes
 >>>>>>> a98b676 (Added notes from June, 25th)
+=======
+In front | An
+Near | Neben
+Next | Nächstes
+Over | Auf
+>>>>>>> a20dc40 (Added notes from June, 27th)
 Through | Durch
 To | Nach
 Where | Wo

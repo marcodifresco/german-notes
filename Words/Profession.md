@@ -10,10 +10,6 @@ Engineer | Der Ingenieur (e)
 Actor | Der Schauspieler (-)
 Architect | Der Architekt (-en)
 Buyer | Der Käufer (-)
-Company (any) | Die Firma (Firmen)
-Company (small) | Der Betribe (-e)
-Company (big) | Das Unternehmen (-)
-Department | Die Abteilung (-en)
 Doctor | Der Arzt (-e)
 Employee | Der Angestellte (-en)
 Employer | Der Arbeitgeber (-)
@@ -33,26 +29,22 @@ Mechanic |Mechatroniker
 =======
 Mechanic | Der Mechatroniker (-)
 Moderator | Der Moderator (-en)
-Office | Das Büro (-s)
 Performer | Der Darsteller (-)
 >>>>>>> 251622b (Added notes from June, 13th):Vokabular/Profession.md
 Profession | Der Beruf (-e)
 <<<<<<< HEAD:Words/Profession.md
 =======
 Reporter | Der Reporter (-)
-School | Die Schule (-n0)
 Secretary | Der Sekretär (-e)
 Seller | Der Verkäufer (-)
 Spokesman | Der Sprecher (-)
-Stage | Die Bühne (-n)
 Student | Der Student (-en)
 Teacher | Der Lehrer (-)
 Unemployed | Arbeitslos (adj)
-University | Die Universität (-en)
 Waiter | Der Kellner (-)
 >>>>>>> 31e5a1c (Added notes from June, 16th):Vokabular/Profession.md
 
-
+# Media
 English | German
 ------------ | ------------
 Media | Das Medium (Medien)
@@ -62,6 +54,19 @@ TV | Das Fernshehen
 Internet | Das Internet
 Social media | Die sozialen Medien
 
+# Locations
+English | German
+------------ | ------------
+Company (any) | Die Firma (Firmen)
+Company (small) | Der Betribe (-e)
+Company (big) | Das Unternehmen (-)
+Department | Die Abteilung (-en)
+Kasse | Der  Schalter
+Office | Das Büro (-s)
+Reception | Die  Rezeptin (der Empfang)
+School | Die Schule (-n)
+Stage | Die Bühne (-n)
+University | Die Universität (-en)
 
 # Rules
 For female version add *-in*.
