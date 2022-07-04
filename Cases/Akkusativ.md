@@ -223,6 +223,7 @@ Plural -->  ...*e*
 # Situations
 With "hin" --> in ...
 Was? -> [[Akkusativ]]
+Wohin
 
 # Examples
 <<<<<<< HEAD

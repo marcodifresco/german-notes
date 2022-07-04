@@ -163,6 +163,8 @@ Plural --> ...n
 # Preposition
 zum -> zu dem (der / das)
 zur -> zu der (die)
+im -> in dem (der / das)
+am -> an dem (der / das)
 
 # [[Adjectives]]
 Der --> Einem ...*en*
