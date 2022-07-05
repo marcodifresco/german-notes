@@ -22,6 +22,7 @@ Job (internship) | Das Praktikum
 Journalist | Der Journalist (-en)
 Mechanic | Der Mechatroniker (-)
 Moderator | Der Moderator (-en)
+Out of work | Ich habe Feierabend
 Performer | Der Darsteller (-)
 Profession | Der Beruf (-e)
 Reporter | Der Reporter (-)

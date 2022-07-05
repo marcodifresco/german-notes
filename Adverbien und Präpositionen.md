@@ -67,6 +67,7 @@ In front | An
 Near | Neben
 Next | Nächstes
 Over | Auf
+Straight ahead | Geradeaus
 Through | Durch
 To | Nach
 Where | Wo
@@ -80,8 +81,28 @@ Am -> An dem
 Zum -> Zu dem
 Zur -> Zu der
 
+![[preposition-cases.png]]
+
 Im / aus = for building
 Bei = for persons
+
+Vor (zeit) -> [[Dativ]]
+Vor (local) -> either [[Dativ]] or [[Akkusativ]]
+
+In (zeit) -> [[Dativ]]
+In (local) -> either [[Dativ]] or [[Akkusativ]]
+
+"zu" ist immer wohin aber immer [[Dativ]]
+
+Wo -> [[Dativ]]
+Wohin -> [[Akkusativ]]
+Woher -> [[Dativ]]
+
+Woher:
+Von -> when I am on the way
+Aus ->when I have to start
+aus Italien -> heimat (origin)
+von Italien -> ferien / kurze zeit
 
 Wenn -> when in statements. Sort of "if". Ob = if .
 Wann -> when in questions
