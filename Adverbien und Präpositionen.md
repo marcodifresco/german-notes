@@ -139,7 +139,11 @@ In front | An
 Near | Neben
 Next | Nächstes
 Over | Auf
+<<<<<<< HEAD
 >>>>>>> a20dc40 (Added notes from June, 27th)
+=======
+Straight ahead | Geradeaus
+>>>>>>> eec6fae (Added notes from July, 4th)
 Through | Durch
 To | Nach
 Where | Wo
@@ -221,7 +225,12 @@ Am -> An dem
 Zum -> Zu dem
 Zur -> Zu der
 
+<<<<<<< HEAD
 >>>>>>> a98b676 (Added notes from June, 25th)
+=======
+![[preposition-cases.png]]
+
+>>>>>>> eec6fae (Added notes from July, 4th)
 Im / aus = for building
 Bei = for persons
 
@@ -233,6 +242,7 @@ In (local) -> either [[Dativ]] or [[Akkusativ]]
 
 "zu" ist immer wohin aber immer [[Dativ]]
 
+<<<<<<< HEAD
 in  -> closed space, wald, park
 an -> close to / water
 auf -> open place
@@ -240,12 +250,17 @@ auf -> open place
 in -> inside
 zu -> at/near
 
+=======
+>>>>>>> eec6fae (Added notes from July, 4th)
 Wo -> [[Dativ]]
 Wohin -> [[Akkusativ]]
 Woher -> [[Dativ]]
 
+<<<<<<< HEAD
 Woher -> von/auf
 
+=======
+>>>>>>> eec6fae (Added notes from July, 4th)
 Woher:
 Von -> when I am on the way
 Aus ->when I have to start

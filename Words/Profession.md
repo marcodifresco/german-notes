@@ -29,6 +29,7 @@ Mechanic |Mechatroniker
 =======
 Mechanic | Der Mechatroniker (-)
 Moderator | Der Moderator (-en)
+Out of work | Ich habe Feierabend
 Performer | Der Darsteller (-)
 >>>>>>> 251622b (Added notes from June, 13th):Vokabular/Profession.md
 Profession | Der Beruf (-e)
