@@ -36,6 +36,7 @@ Relaxed | Entspannt
 Restless | Restlos
 Round | Rund
 Sad | Traurig
+The same | Genaso wie bei
 Short | Kurz
 Small | Klein
 Sporty | Sportlich

@@ -72,3 +72,4 @@ University | Die Universität (-en)
 # Rules
 For female version add *-in*.
 bei (employer).
+Restaurants franchises (McDonalds, Burger Kings, etc.) -> Das
