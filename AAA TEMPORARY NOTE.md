@@ -1,3 +1,29 @@
+Created: 2022-08-24 19:59
+Tags: #Languages/German 
+Links: [[]]
+___
+... mit ... -> [[Dativ]]
+... u:ber ... -> [[Akkusativ]]
+Ich warte auf (not fu:r) den bus. [[Akkusativ]]
+Ich a:rgere mich ... u:ber 
+die  Hitze
+die Ka:kte
+er freut sich auf die Ferien.
+[[Freuen]] auf -> [[Akkusativ]]
+Worauf =
+[[A:rgern]] u:ber -> [[Akkusativ]]
+Woeu:ber (verb) ...
+Darf Ich = May I 
+Qu = Kw Quatsch -> nosense!
+Gerta:umt [[Tra:umen]]
+
+
+
+
+
+
+
+
 Created: 2022-08-22 19:53
 Tags: #Languages 
 Links: [[]]
