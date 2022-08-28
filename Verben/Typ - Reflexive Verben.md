@@ -6,7 +6,10 @@ English | German
 ------------ | ------------
 Get annoyed about | [[Ärgern]] (R)
 Feed | [[Ernähren]] (R)
+<<<<<<< HEAD
 Interest | [[Interessieren]] (R)
+=======
+>>>>>>> ac65051 (Added notes from August 28th)
 Look forward | [[Freuen]] (R)
 Relax | [[Entspannen]] (R)
 Sit (going to) | [[Setzen]] (R)

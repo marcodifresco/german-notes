@@ -54,6 +54,7 @@ Dive | [[Tauchen]]
 <<<<<<< HEAD
 Draw | [[Zeichnen]]
 Dream | [[Träumen]]
+<<<<<<< HEAD
 Eat | [[Essen]]
 Evaluate | [[Bewerten]]
 Experience | [[Erleben]]
@@ -65,6 +66,8 @@ Finish | [[Beenden]]
 =======
 Draw | [[Zeichnen]]
 >>>>>>> dca0fbe (Added notes from June, 20th)
+=======
+>>>>>>> ac65051 (Added notes from August 28th)
 Eat | [[Essen]]
 Evaluate | [[Bewerten]]
 Experience | [[Erleben]]

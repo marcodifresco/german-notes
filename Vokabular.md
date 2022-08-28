@@ -123,11 +123,15 @@ Movie | Der Film (-e)
 Mister | Herr
 Need | Das Bedürfnis
 <<<<<<< HEAD
+<<<<<<< HEAD
 No sense | Quatsch 
 Offer  | Das angebot
 Office | das Büro (-s)
 Paper  | Das Papier (-e)
 =======
+=======
+No sense | Quatsch
+>>>>>>> ac65051 (Added notes from August 28th)
 Offer | Das angebot
 Office  | das Büro (-s)
 Paper | Das Papier (-e)

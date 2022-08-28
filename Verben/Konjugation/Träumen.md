@@ -1,4 +1,5 @@
 ___
+<<<<<<< HEAD
 Links: [[Verben]]
 Meaning:
 ___
@@ -128,3 +129,21 @@ träumend
 
 # [[Modus - Partizips]] - Perfekt
 geträumt
+=======
+Tags: #Languages/German/Grammar/Verbs/Regular  
+Links: [[Verben]]
+___
+# [[Indikativ - Präsens]]
+Pronoun|Conjugation
+------------ | ------------
+Ich | träume
+Du | träumst
+Er/Sie/Es | träumt
+Wir | träumen
+Ihr | träumt
+Sie | träumen
+
+
+# [[Indikativ - Perfekt]]
+[[Pronomen]] + [[Haben]] + geträumt
+>>>>>>> ac65051 (Added notes from August 28th)

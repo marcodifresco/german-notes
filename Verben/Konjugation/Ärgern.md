@@ -1,6 +1,11 @@
 ___
+<<<<<<< HEAD
 Links: [[Verben]] [[Typ - Regular verben]] [[Typ - Reflexive Verben]]
 Meaning: to annoy
+=======
+Tags: #Languages/German/Grammar/Verbs/Regular  
+Links: [[Verben]] [[Typ - Reflexive Verben]]
+>>>>>>> ac65051 (Added notes from August 28th)
 ___
 # Uses
 Sich [[Ärgern]] über: Ich ärgere mich über die Nachbarn

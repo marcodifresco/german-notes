@@ -1,4 +1,5 @@
 ___
+<<<<<<< HEAD
 Links: [[Verben]] [[Typ - Reflexive Verben]]
 Meaning:
 ___
@@ -131,3 +132,21 @@ sich freuend
 
 # [[Modus - Partizips]] - Perfekt
 gefreut
+=======
+Tags: #Languages/German/Grammar/Verbs 
+Links: [[Verben]] [[Typ - Reflexive Verben]]
+___
+# [[Indikativ - Präsens]]
+Pronoun|Conjugation
+------------ | ------------
+Ich | freue
+Du | freust
+Er/Sie/Es | freut
+Wir | freuen
+Ihr | freut
+Sie | freuen
+
+
+# [[Indikativ - Perfekt]]
+[[Pronomen]] + [[Haben]] + gefreut
+>>>>>>> ac65051 (Added notes from August 28th)

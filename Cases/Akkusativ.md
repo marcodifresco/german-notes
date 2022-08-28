@@ -209,21 +209,26 @@ Plural -->  ...*e*
 [[Abholen]]
 [[Andenken]]
 [[Anrufen]]
+[[Ärgern]]
 [[Besuchen]]
 [[Brauchen]]
 [[Einladen]]
 [[Erklären]]
+[[Freuen]]
 [[Fragen]]
 [[Haben]]
 [[Kaufen]]
 [[Leihen]]
 [[Sehen]]
 [[Suchen]]
+[[Träumen]]
 
 # Situations
-With "hin" --> in ...
-Was? -> [[Akkusativ]]
+"hin" --> in ...
+Was?
 Wohin
+über
+Auf
 
 # Examples
 <<<<<<< HEAD
@@ -242,4 +247,10 @@ Ein~~es~~ gut**es** Auto
 Ich brauche (der) einen Lo:ftel
 ... (das) ein Glas
 ... (die) eine Tasse
+<<<<<<< HEAD
 >>>>>>> 362ad76 (Integrated notes from 03-05-22 lesson)
+=======
+Ich warte auf (not für) den bus
+Ich  ärgere mich ... über
+er freut sich auf die Ferien.
+>>>>>>> ac65051 (Added notes from August 28th)

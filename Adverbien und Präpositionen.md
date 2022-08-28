@@ -6,6 +6,9 @@ ___
 English | German
 ------------ | ------------
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> ac65051 (Added notes from August 28th)
 About what | Worüber
 Accidentally | Zufällig
 After | Nachdem
