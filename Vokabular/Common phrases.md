@@ -24,6 +24,7 @@ It fits | Das passt
 ... is as old as | ... ist genauso alt wie
 Leave a tip | Trinkgeld geben
 M/W | männlich and weiblich
+May I ... | Darf Ich ...
 Nice to know you | Freut Mich.
 Not yet | Noch nicht
 Once more | Noch mal

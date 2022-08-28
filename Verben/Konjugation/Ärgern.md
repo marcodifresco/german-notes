@@ -1,6 +1,6 @@
 ___
 Tags: #Languages/German/Grammar/Verbs/Regular  
-Links: [[Verben]]
+Links: [[Verben]] [[Typ - Reflexive Verben]]
 ___
 # [[Indikativ - Präsens]]
 Pronoun|Conjugation

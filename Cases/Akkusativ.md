@@ -63,21 +63,26 @@ Plural -->  ...*e*
 [[Abholen]]
 [[Andenken]]
 [[Anrufen]]
+[[Ärgern]]
 [[Besuchen]]
 [[Brauchen]]
 [[Einladen]]
 [[Erklären]]
+[[Freuen]]
 [[Fragen]]
 [[Haben]]
 [[Kaufen]]
 [[Leihen]]
 [[Sehen]]
 [[Suchen]]
+[[Träumen]]
 
 # Situations
-With "hin" --> in ...
-Was? -> [[Akkusativ]]
+"hin" --> in ...
+Was?
 Wohin
+über
+Auf
 
 # Examples
 Ein roh**en** Schinken (der)
@@ -89,3 +94,6 @@ Ein~~es~~ gut**es** Auto
 Ich brauche (der) einen Lo:ftel
 ... (das) ein Glas
 ... (die) eine Tasse
+Ich warte auf (not für) den bus
+Ich  ärgere mich ... über
+er freut sich auf die Ferien.

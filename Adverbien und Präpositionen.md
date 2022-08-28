@@ -4,6 +4,7 @@ Links: [[Vokabular]]
 ___
 English | German
 ------------ | ------------
+About what | Worüber
 Accidentally | Zufällig
 Already | Schon
 Almost | Fast
@@ -30,6 +31,7 @@ Nevertheless | Trotzdem
 Now | Jetzt
 Often | Oft
 On | Am (date) / Um (time)
+On what | Worauf
 Once | Einmal
 Others | Anderen
 Otherwise | Ansonsten

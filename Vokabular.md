@@ -52,6 +52,7 @@ Means of transport | Das Transportmittel
 Movie | Der Film (-e)
 Mister | Herr
 Need | Das Bedürfnis
+No sense | Quatsch
 Offer | Das angebot
 Office  | das Büro (-s)
 Paper | Das Papier (-e)

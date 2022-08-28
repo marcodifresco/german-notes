@@ -4,7 +4,9 @@ Links: [[Verben]]
 ___
 English | German
 ------------ | ------------
+Get annoyed about | [[Ärgern]] (R)
 Feed | [[Ernähren]] (R)
+Look forward | [[Freuen]] (R)
 Relax | [[Entspannen]] (R)
 
 
