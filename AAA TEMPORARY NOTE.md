@@ -1,19 +1,5 @@
-Created: 2022-08-24 19:59
 
 
-
-vreated: 2022-08-22 19:53
-Tags: #Languages 
-Links: [[]]
-___
-Die Schweiz -> in der Schweiz
-
-Article | Whoin | Wo
------|-----|-----
-Der | Den | Dem
-Die | Die | Der
-Das | Das | Dem
-Die | Die | Den
 
 
 Created: 2022-07-13 20:07
