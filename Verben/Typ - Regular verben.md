@@ -30,7 +30,10 @@ Buy | [[Kaufen]]
 >>>>>>> 67119d6 (Added notes from June, 22nd)
 Change | [[Ändern]]
 Climbing | [[Klettern]]
+<<<<<<< HEAD
 Commute | [[Pendeln]]
+=======
+>>>>>>> cecf110 (Added notes from July, 13rd)
 Complete (fill inn) | [[Ergänzen]]
 Copy | [[Kopieren]]
 <<<<<<< HEAD

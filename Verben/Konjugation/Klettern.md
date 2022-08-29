@@ -1,4 +1,5 @@
 ___
+<<<<<<< HEAD
 Links: [[Verben]]
 Meaning:
 ___
@@ -128,3 +129,21 @@ kletternd
 
 # [[Modus - Partizips]] - Perfekt
 geklettert
+=======
+Tags: #Languages/German/Grammar/Verbs/Regular  
+Links: [[Verben]]
+___
+# [[Indikativ - Präsens]]
+Pronoun|Conjugation
+------------ | ------------
+Ich | klettere
+Du | kletterst
+Er/Sie/Es | klettert
+Wir | klettern
+Ihr | klettert
+Sie | klettern
+
+
+# [[Indikativ - Perfekt]]
+[[Pronomen]] + [[Sein]] + geklettert
+>>>>>>> cecf110 (Added notes from July, 13rd)

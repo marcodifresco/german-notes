@@ -64,11 +64,18 @@ Swimming pool | Das Schwimmbecken (-bäder)
 Train | Der Zug (-ü-e)
 Tram | Die Strassenbahn (-n)
 Taxi | Das Taxi
+<<<<<<< HEAD
 Historic gate | Tor
+=======
+>>>>>>> cecf110 (Added notes from July, 13rd)
 
 
 # Notes
 Der See = Lake
+<<<<<<< HEAD
 Die See = Das Meer = Sea
 =======
 >>>>>>> e700df3 (Added notes from April, 18th)
+=======
+Die See = Das Meer = Sea
+>>>>>>> cecf110 (Added notes from July, 13rd)

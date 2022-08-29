@@ -223,8 +223,9 @@ Zur -> Zu der
 Until | Bis zu
 
 # Notes
-Vom -> Von dem
 Am -> An dem
+Ans -> An das
+Vom -> Von dem
 Zum -> Zu dem
 Zur -> Zu der
 
@@ -246,15 +247,21 @@ In (local) -> either [[Dativ]] or [[Akkusativ]]
 "zu" ist immer wohin aber immer [[Dativ]]
 
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> cecf110 (Added notes from July, 13rd)
 in  -> closed space, wald, park
 an -> close to / water
 auf -> open place
 
+<<<<<<< HEAD
 in -> inside
 zu -> at/near
 
 =======
 >>>>>>> eec6fae (Added notes from July, 4th)
+=======
+>>>>>>> cecf110 (Added notes from July, 13rd)
 Wo -> [[Dativ]]
 Wohin -> [[Akkusativ]]
 Woher -> [[Dativ]]
@@ -284,6 +291,7 @@ EX: *Wenn ich zeit habe, dann treffe ich Freunde.*
 >>>>>>> a98b676 (Added notes from June, 25th)
 
 Dann = then
+<<<<<<< HEAD
 Denn = because
 EX: *Ich trinke einen Kaffee und dann gehe ich zur Arbeit.*
 
@@ -303,3 +311,10 @@ Gar xxx = xxx absolutely
 Trotz (Despite) -> preposition + Nomen  [[Genitiv]]
 
 Aber, Obwohl -> Konjunktion/Konnektor
+=======
+Denn = becuse
+EX: *Ich trinke einen kaffee und dann gehe zu arbeit*
+
+im wasser -> already in water
+ins wasser -> going toward water
+>>>>>>> cecf110 (Added notes from July, 13rd)
