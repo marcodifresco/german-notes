@@ -78,8 +78,9 @@ Where to | Wohin
 Until | Bis zu
 
 # Notes
-Vom -> Von dem
 Am -> An dem
+Ans -> An das
+Vom -> Von dem
 Zum -> Zu dem
 Zur -> Zu der
 
@@ -95,6 +96,10 @@ In (zeit) -> [[Dativ]]
 In (local) -> either [[Dativ]] or [[Akkusativ]]
 
 "zu" ist immer wohin aber immer [[Dativ]]
+
+in  -> closed space, wald, park
+an -> close to / water
+auf -> open place
 
 Wo -> [[Dativ]]
 Wohin -> [[Akkusativ]]
@@ -114,3 +119,6 @@ EX: *Wenn ich zeit habe, dann treffe ich Freunde.*
 Dann = then
 Denn = becuse
 EX: *Ich trinke einen kaffee und dann gehe zu arbeit*
+
+im wasser -> already in water
+ins wasser -> going toward water

@@ -58,3 +58,8 @@ Roundabout | Der Kriesel
 Train | Der Zug (-ü-e)
 Tram | Die Strassenbahn (-n)
 Taxi | Das Taxi
+
+
+# Notes
+Der See = Lake
+Die See = Das Meer = Sea
