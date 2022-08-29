@@ -94,6 +94,7 @@ Ein~~es~~ gut**es** Auto
 Ich brauche (der) einen Lo:ftel
 ... (das) ein Glas
 ... (die) eine Tasse
+Ich  gehe nächsten Monat in die Ferien / in den Urlaub. 
 Ich warte auf (not für) den bus
 Ich  ärgere mich ... über
-er freut sich auf die Ferien.
+er freut sich auf die Ferien

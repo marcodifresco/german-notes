@@ -19,6 +19,7 @@ Der Briefumschlag | Das Kuvert
 Das Obst | Die Fruchte
 [[Park]] | Parkiren
 Um vier Uhr | Das Zvieri
-Um 9 Uhr | Das Znu:ni (CH)
+Um 9 Uhr | Das Znüni
 Das Briefumschlag | Das  Kuvert
 [[Konfiszieren]] | Wegnehmen
+Motorrad | Das Töff

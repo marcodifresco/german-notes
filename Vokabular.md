@@ -88,6 +88,9 @@ Way | Der Weg (-e)
 Wish | Der Wunsch (-ü-e) 
 Woman | Die Frau (-en)
 Word | Das Wort (-ö-er)
+Tire | Der Reifen (-)
+Cemetery | Der Friedhof (-öfe)
+Farm | Der Bauernhof (-öfe)
 
 
 # Specific combination
