@@ -20,10 +20,14 @@ Das Obst | Die Fruchte
 [[Park]] | Parkiren
 Um vier Uhr | Das Zvieri
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 081f645 (Added notes from July, 11th)
 Um 9 Uhr | Das Znüni
 Das Briefumschlag | Das  Kuvert
 [[Konfiszieren]] | Wegnehmen
 Motorrad | Das Töff
+<<<<<<< HEAD
 Geldbörse | Portemonnaie
 Verärgert | Hässig
 09:00 | Znuni
@@ -38,3 +42,5 @@ Das Briefumschlag | Das  Kuvert
 =======
 [[Konfiszieren]] | Wegnehmen
 >>>>>>> 31e5a1c (Added notes from June, 16th)
+=======
+>>>>>>> 081f645 (Added notes from July, 11th)

@@ -248,9 +248,16 @@ Ich brauche (der) einen Lo:ftel
 ... (das) ein Glas
 ... (die) eine Tasse
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> 362ad76 (Integrated notes from 03-05-22 lesson)
 =======
 Ich warte auf (not für) den bus
 Ich  ärgere mich ... über
 er freut sich auf die Ferien.
 >>>>>>> ac65051 (Added notes from August 28th)
+=======
+Ich  gehe nächsten Monat in die Ferien / in den Urlaub. 
+Ich warte auf (not für) den bus
+Ich  ärgere mich ... über
+er freut sich auf die Ferien
+>>>>>>> 081f645 (Added notes from July, 11th)

@@ -209,7 +209,13 @@ Acquaintance | Der Bekannter
 Wish | Der Wunsch (-ü-e) 
 Woman | Die Frau (-en)
 Word | Das Wort (-ö-er)
+<<<<<<< HEAD
 >>>>>>> 31e5a1c (Added notes from June, 16th)
+=======
+Tire | Der Reifen (-)
+Cemetery | Der Friedhof (-öfe)
+Farm | Der Bauernhof (-öfe)
+>>>>>>> 081f645 (Added notes from July, 11th)
 
 
 # Specific combination

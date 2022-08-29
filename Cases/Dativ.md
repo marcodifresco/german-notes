@@ -189,11 +189,12 @@ Plural -->  ...*en*
 
 # Situations
 Wer?
-With "mit"....
-With "seirt"/"vor"....
-With "wo" --> in ...
-With "woher" --> aus/von ...
-With "zu"
+mit....
+seirt/vor....
+von
+wo --> in ...
+woher" --> aus/von ...
+zu
 The same | Genaso wie bei
 
 # Examples
@@ -210,6 +211,10 @@ Von Beiden -> [[Dativ]]
 2 Lieter von jeder (Milch)
 Von Beiden
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> 43eb891 (Catch-all changes on 26 03 2022.)
 =======
 >>>>>>> 49ef0fc (Catch-all changes on 29 03 2022.)
+=======
+Ich war letzte in den Ferien in den Ferien / Im Urlaub.
+>>>>>>> 081f645 (Added notes from July, 11th)
