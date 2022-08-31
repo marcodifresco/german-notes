@@ -7,6 +7,7 @@ English | German
 Get annoyed about | [[Ärgern]] (R)
 Feed | [[Ernähren]] (R)
 <<<<<<< HEAD
+<<<<<<< HEAD
 Interest | [[Interessieren]] (R)
 =======
 >>>>>>> ac65051 (Added notes from August 28th)
@@ -16,6 +17,12 @@ Sit (going to) | [[Setzen]] (R)
 Take care | [[Kümmern]] (R)
 Relax | [[Ausruhen]] (R)
 Hurry up | [[Beeilen]] (R)
+=======
+Interest | [[Interessieren]] (R)
+Look forward | [[Freuen]] (R)
+Relax | [[Entspannen]] (R)
+Take care | [[Kümmern]] (R)
+>>>>>>> ec2d15b (Added notes from August 29th)
 
 # Pronouns
 | Subjekt   | Objekt |
@@ -39,6 +46,7 @@ In [[Indikativ - Perfekt]] they always use [[Haben]]
 # Examples
 =======
 *Example: Er ernährt sich (un)gesund* 
+With prep. reflexive pronoun at the end for question; *example:* Worauf freust du dich?
 
 With *ve(partizip)* -> negative sentence.
 Examples:

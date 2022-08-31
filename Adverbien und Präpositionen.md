@@ -156,6 +156,7 @@ Where to | Wohin
 Under | Unter
 Until | Bis zu
 
+<<<<<<< HEAD
 # Time
 English | German
 ------------ | ------------
@@ -167,6 +168,12 @@ Before | Bevor
 # Präpositionaladverb
 ## Rule
 Worauf wartet er?
+=======
+
+# Präpositionaladverb
+## Rule
+Worauf warter er?
+>>>>>>> ec2d15b (Added notes from August 29th)
 Er wartet auf den Bus.
 Wartet er auf den Bus? (Präposition)
 Ja, er wartet darauf (Präpositionaladverb)
@@ -175,6 +182,7 @@ English | German
 ------------ | ------------
 Thereon | Darauf
 
+<<<<<<< HEAD
 Präpositionen | Fragewörter | Präpositionaladverb
 ------------ | ------------ | ------------
 Auf | Worauf | Darauf
@@ -209,6 +217,16 @@ Für | Wofür | Dafür
 - rauf -> raufsteigen
 - runter -> runterfallen
 - rüber -> rübergeben
+=======
+Präpositionen | Fragewörter | Präposition Adverb
+------------ | ------------ | ------------
+Auf | Vorauf | Daruf
+Über -> Worüber  | Darüber
+An | Voran | Daran
+Von | Vovon | Davon
+Mit | Vomit | Damit
+Für | Vofür | Dafür
+>>>>>>> ec2d15b (Added notes from August 29th)
 
 # Notes
 Am -> An dem

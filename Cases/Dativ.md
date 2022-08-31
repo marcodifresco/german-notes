@@ -185,6 +185,7 @@ Plural -->  ...*en*
 [[Leihen]]
 [[Schenken]]
 [[Schmecken]]
+[[Träumen]]
 [[Zeigen]]
 
 # Situations

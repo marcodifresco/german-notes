@@ -51,6 +51,7 @@ Complain | [[Beschweren]]
 Dance | [[Tanzen]]
 Dare | [[Wagen]]
 Demonstrate | [[Zeigen]]
+Demonstrate | [[Demonstrieren]]
 Describe | [[Beschreiben]]
 Dive | [[Tauchen]]
 <<<<<<< HEAD

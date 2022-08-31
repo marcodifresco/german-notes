@@ -1,4 +1,5 @@
 ___
+<<<<<<< HEAD
 Links: [[Verben]]
 Meaning:
 ___
@@ -128,3 +129,21 @@ demonstrierend
 
 # [[Modus - Partizips]] - Perfekt
 demonstriert
+=======
+Tags: #Languages/German/Grammar/Verbs/Regular  
+Links: [[Verben]]
+___
+# [[Indikativ - Präsens]]
+Pronoun|Conjugation
+------------ | ------------
+Ich | demonstriere
+Du | demonstrierst
+Er/Sie/Es | demonstriert
+Wir | demonstrieren
+Ihr | demonstriert
+Sie | demonstrieren
+
+
+# [[Indikativ - Perfekt]]
+[[Pronomen]] + [[Haben]] + demonstriert
+>>>>>>> ec2d15b (Added notes from August 29th)
