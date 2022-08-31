@@ -6,13 +6,16 @@ English | German
 ------------ | ------------
 Get annoyed about | [[Ärgern]] (R)
 Feed | [[Ernähren]] (R)
+Interest | [[Interessieren]] (R)
 Look forward | [[Freuen]] (R)
 Relax | [[Entspannen]] (R)
+Take care | [[Kümmern]] (R)
 
 
 # Rule
 Subject + [[Verben]] + Reflexive [[Pronomen]] + rest of sentence
 *Example: Er ernährt sich (un)gesund* 
+With prep. reflexive pronoun at the end for question; *example:* Worauf freust du dich?
 
 With *ve(partizip)* -> negative sentence.
 Examples:

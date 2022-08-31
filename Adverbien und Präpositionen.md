@@ -77,6 +77,27 @@ Where from | Woher
 Where to | Wohin
 Until | Bis zu
 
+
+# Präpositionaladverb
+## Rule
+Worauf warter er?
+Er wartet auf den Bus.
+Wartet er auf den Bus? (Präposition)
+Ja, er wartet darauf (Präpositionaladverb)
+
+English | German
+------------ | ------------
+Thereon | Darauf
+
+Präpositionen | Fragewörter | Präposition Adverb
+------------ | ------------ | ------------
+Auf | Vorauf | Daruf
+Über -> Worüber  | Darüber
+An | Voran | Daran
+Von | Vovon | Davon
+Mit | Vomit | Damit
+Für | Vofür | Dafür
+
 # Notes
 Am -> An dem
 Ans -> An das

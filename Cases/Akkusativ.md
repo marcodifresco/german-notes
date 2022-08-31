@@ -66,11 +66,13 @@ Plural -->  ...*e*
 [[Ärgern]]
 [[Besuchen]]
 [[Brauchen]]
+[[Demonstieren]]
 [[Einladen]]
 [[Erklären]]
 [[Freuen]]
 [[Fragen]]
 [[Haben]]
+[[Interessieren]]
 [[Kaufen]]
 [[Leihen]]
 [[Sehen]]
@@ -83,6 +85,7 @@ Was?
 Wohin
 über
 Auf
+Sich [[Interessieren]] + fur
 
 # Examples
 Ein roh**en** Schinken (der)
