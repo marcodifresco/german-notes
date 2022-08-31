@@ -30,6 +30,7 @@ Not yet | Noch nicht
 Once more | Noch mal
 Something stops by itself | Etwas hört  ganz von selbst auf
 The best ... | Ganz vorn
+the same | Genau wie / Gleuch wie
 That is nice | Das ist so lieb
 What is your name (Form.) | Wie heissen sie?
 What is your name (Inform.) | Wie heisst du?

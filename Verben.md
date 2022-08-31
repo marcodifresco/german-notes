@@ -26,5 +26,6 @@ ___
 
 ---
 # Various rules
-Ich glaube, Ich denke, Ich vermute, dass ... [verb am ende]
+Ich glaube, Ich denke, Ich vermute, dass ... [verb am ende].
 with *dass* the second verb goes at the end.
+With [[Sein]], "nicht" comes after verb; other cases at the end.
