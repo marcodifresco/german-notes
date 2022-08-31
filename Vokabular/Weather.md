@@ -23,4 +23,10 @@ It is cold | Es ist kalt
 It is raining | Es regnet
 It's snowing | Es schneit 
 It is stormy | Es ist stürmisch
+<<<<<<< HEAD
 >>>>>>> 31e5a1c (Added notes from June, 16th)
+=======
+
+# Note
+Teils wolkig, teils sonning -> Partially sunny.
+>>>>>>> 308d629 (Added notes from August 31th)

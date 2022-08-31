@@ -185,7 +185,9 @@ Plural -->  ...*en*
 [[Leihen]]
 [[Schenken]]
 [[Schmecken]]
+[[Sprechen]]
 [[Träumen]]
+[[Treffen]]
 [[Zeigen]]
 
 # Situations
@@ -197,6 +199,9 @@ wo --> in ...
 woher" --> aus/von ...
 zu
 The same | Genaso wie bei
+[[Sprechen]] mit
+[[Treffen]] mit
+[[Träumen]] von
 
 # Examples
 Der Tisch --> Auf dem Tisch

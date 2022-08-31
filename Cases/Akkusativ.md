@@ -212,7 +212,8 @@ Plural -->  ...*e*
 [[Ärgern]]
 [[Besuchen]]
 [[Brauchen]]
-[[Demonstieren]]
+[[Demonstrieren]]
+[[Denken]]
 [[Einladen]]
 [[Erklären]]
 [[Freuen]]
@@ -220,10 +221,12 @@ Plural -->  ...*e*
 [[Haben]]
 [[Interessieren]]
 [[Kaufen]]
+[[Kümmern]]
 [[Leihen]]
 [[Sehen]]
 [[Suchen]]
 [[Träumen]]
+[[Warten]]
 
 # Situations
 "hin" --> in ...
@@ -231,7 +234,12 @@ Was?
 Wohin
 über
 Auf
-Sich [[Interessieren]] + fur
+Sich [[Ärgern]] über
+[[Warten]] auf
+Sich [[Freuen]] auf über
+Sich [[Interessieren]] für
+Sich [[Kümmern]] um
+[[Denken]] an
 
 # Examples
 <<<<<<< HEAD

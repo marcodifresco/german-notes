@@ -1,4 +1,5 @@
 ___
+<<<<<<< HEAD
 Links: [[Verben]]
 Meaning:
 ___
@@ -125,3 +126,21 @@ schneiend
 
 # [[Modus - Partizips]] - Perfekt
 geschneit
+=======
+Tags: #Languages/German/Grammar/Verbs/Regular  
+Links: [[Verben]]
+___
+# [[Indikativ - Präsens]]
+Pronoun|Conjugation
+------------ | ------------
+Ich | schneie
+Du | schneist
+Er/Sie/Es | schneit
+Wir | schneien
+Ihr | schneit
+Sie | schneien
+
+
+# [[Indikativ - Perfekt]]
+[[Pronomen]] + [[Haben]] + geschneit
+>>>>>>> 308d629 (Added notes from August 31th)

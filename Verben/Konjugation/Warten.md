@@ -1,4 +1,5 @@
 ___
+<<<<<<< HEAD
 Links: [[Verben]]
 Meaning:
 ___
@@ -130,3 +131,21 @@ wartend
 
 # [[Modus - Partizips]] - Perfekt
 gewartet
+=======
+Tags: #Languages/German/Grammar/Verbs/Regular  
+Links: [[Verben]]
+___
+# [[Indikativ - Präsens]]
+Pronoun|Conjugation
+------------ | ------------
+Ich | warte
+Du | wartest
+Er/Sie/Es | wartet
+Wir | warten
+Ihr | wartet
+Sie | warten
+
+
+# [[Indikativ - Perfekt]]
+[[Pronomen]] + [[Haben]] / [[Sein]] + geVERB
+>>>>>>> 308d629 (Added notes from August 31th)

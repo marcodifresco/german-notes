@@ -51,7 +51,6 @@ Complain | [[Beschweren]]
 Dance | [[Tanzen]]
 Dare | [[Wagen]]
 Demonstrate | [[Zeigen]]
-Demonstrate | [[Demonstrieren]]
 Describe | [[Beschreiben]]
 Dive | [[Tauchen]]
 <<<<<<< HEAD
@@ -79,7 +78,10 @@ Explain | [[Erklären]]
 Feed | [[Ernähren]]
 >>>>>>> e0a7ee5 (Added material from A1 book - chapter 9)
 Fit | [[Passen]]
+<<<<<<< HEAD
 Fly | [[Fliegen]]
+=======
+>>>>>>> 308d629 (Added notes from August 31th)
 Fulfill | [[Erfüllen]]
 Give a gift | [[Schenken]]
 <<<<<<< HEAD
@@ -108,6 +110,7 @@ Phone | [[Telefonieren]]
 Photograph | [[Fotografieren]]
 Play | [[Spielen]]
 <<<<<<< HEAD
+<<<<<<< HEAD
 Position | [[Stellen]]
 Practice | [[Üben]]
 Protest | [[Demonstrieren]]
@@ -116,6 +119,9 @@ Quote (citation) | [[Zitieren]]
 Rain | [[Regnen]]
 =======
 >>>>>>> 251622b (Added notes from June, 13th)
+=======
+Protest | [[Demonstrieren]]
+>>>>>>> 308d629 (Added notes from August 31th)
 Receive | [[Empfangen]]
 Recognize | [[Erkennen]]
 Relate | [[Beziehen]]
@@ -125,7 +131,6 @@ Reply | [[Antworten]]
 Reside | [[Wohnen]]
 Rewoke | [[Entziehen]]
 Ring | [[Läute]]
-Satisfy | [[Erfüllen]]
 Say | [[Sagen]]
 Search | [[Suchen]]
 Sell | [[Verkaufen]]
@@ -163,6 +168,10 @@ Understand | [[Verstehen]]
 Urge | [[Drängen]]
 Visit | [[Besuchen]]
 Wait | [[Warten]]
+<<<<<<< HEAD
 Work | [[Arbeiten]]
+=======
+Work | [[Arbaiten]]
+>>>>>>> 308d629 (Added notes from August 31th)
 
 ^5ef5c7
