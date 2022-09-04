@@ -1,4 +1,5 @@
 ___
+<<<<<<< HEAD
 Links: [[Verben]]
 Meaning:
 ___
@@ -132,3 +133,21 @@ schlafend
 Conjugation
 ------------
 geschlafen
+=======
+Tags: #Languages/German/Grammar/Verbs/Irregular 
+Links: [[Verben]]
+___
+# [[Indikativ - Präsens]]
+Pronoun|Conjugation
+------------ | ------------
+Ich | schlafe
+Du | schläfst
+Er/Sie/Es | schläft
+Wir | schlafen
+Ihr | schlaft
+Sie | schlafen
+
+
+# [[Indikativ - Perfekt]]
+[[Pronomen]] + [[Haben]] + geschlafen
+>>>>>>> 723d39b (Added material from A1 book - chapter 11)

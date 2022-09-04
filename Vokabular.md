@@ -43,8 +43,12 @@ Couple | Paar
 =======
 Bucket | Der Eimer
 Café | Das Café[^1]
+<<<<<<< HEAD
 Bad conscience | Schlechtes Gewissen
 >>>>>>> dca0fbe (Added notes from June, 20th)
+=======
+Couple | Paar
+>>>>>>> 723d39b (Added material from A1 book - chapter 11)
 Good conscience | Gutes Gewissen
 Carnival | Die Fastnacht / Der Fashcing
 <<<<<<< HEAD
@@ -90,6 +94,7 @@ Joker  | Der Spassvogel (-)
 =======
 Host family | Die Gastfamilie
 Glass | Das Glas
+Homework | Die Hausaufgabe (-n)
 Joker | Der Spassvogel (-)
 >>>>>>> 31e5a1c (Added notes from June, 16th)
 Key | Der Schlüssel (-)

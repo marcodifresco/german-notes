@@ -58,9 +58,13 @@ Subway | Die U-Bahn (-n)
 Plattform | Das Gleis
 Roundabout | Der Kriesel
 <<<<<<< HEAD
+<<<<<<< HEAD
 Swimming pool | Das Schwimmbecken (-bäder)
 =======
 >>>>>>> a98b676 (Added notes from June, 25th)
+=======
+Swimming pool | Das Schwimmbecken (-bäder)
+>>>>>>> 723d39b (Added material from A1 book - chapter 11)
 Train | Der Zug (-ü-e)
 Tram | Die Strassenbahn (-n)
 Taxi | Das Taxi

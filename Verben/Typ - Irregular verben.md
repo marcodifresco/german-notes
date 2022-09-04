@@ -40,7 +40,11 @@ Shine | [[Scheinen]]
 Shut down | [[Schliessen]]
 Sign | [[Unterschreiben]]
 Sing | [[Singen]]
+<<<<<<< HEAD
 Sit (already sit) | [[Sitzen]]
+=======
+Sit | [[Sitzen]]
+>>>>>>> 723d39b (Added material from A1 book - chapter 11)
 Sleep | [[Schlafen]]
 Stand | [[Stehen]]
 Stay | [[Bleiben]]

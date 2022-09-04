@@ -1,4 +1,5 @@
 ___
+<<<<<<< HEAD
 Links: [[Verben]]
 Meaning:
 ___
@@ -127,3 +128,21 @@ meinend
 
 # [[Modus - Partizips]] - Perfekt
 gemeint
+=======
+Tags: #Languages/German/Grammar/Verbs/Regular  
+Links: [[Verben]]
+___
+# [[Indikativ - Präsens]]
+Pronoun|Conjugation
+------------ | ------------
+Ich | meine
+Du | meinst
+Er/Sie/Es | meint
+Wir | meinen
+Ihr | meint
+Sie | meinen
+
+
+# [[Indikativ - Perfekt]]
+[[Pronomen]] + [[Haben]] + gemeint
+>>>>>>> 723d39b (Added material from A1 book - chapter 11)

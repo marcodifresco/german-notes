@@ -1,4 +1,5 @@
 ___
+<<<<<<< HEAD
 Links: [[Verben]]
 Meaning:
 ___
@@ -129,3 +130,21 @@ machend
 
 # [[Modus - Partizips]] - Perfekt
 gemacht
+=======
+Tags: #Languages/German/Grammar/Verbs/Regular  
+Links: [[Verben]]
+___
+# [[Indikativ - Präsens]]
+Pronoun|Conjugation
+------------ | ------------
+Ich | mache
+Du | machst
+Er/Sie/Es | macht
+Wir | machen
+Ihr | macht
+Sie | machen
+
+
+# [[Indikativ - Perfekt]]
+[[Pronomen]] + [[Haben]] + gemacht
+>>>>>>> 723d39b (Added material from A1 book - chapter 11)

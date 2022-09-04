@@ -100,6 +100,7 @@ January, 1st | Neu Jahr
 Carnival | Karneval
 December, 24th | Der Heiliger Abend
 December, 31st | Silvester
+<<<<<<< HEAD
 
 # Season
 English | German
@@ -108,6 +109,9 @@ Spring | Frühling
 Summer | Sommer
 Fall | Herbst
 Winter | Winter
+=======
+January, 1st | Neu Jahr
+>>>>>>> 723d39b (Added material from A1 book - chapter 11)
 
 # Other
 English | German

@@ -1,4 +1,5 @@
 ___
+<<<<<<< HEAD
 Links: [[Verben]]
 Meaning:
 ___
@@ -128,3 +129,21 @@ frühstückend
 
 # [[Modus - Partizips]] - Perfekt
 gefrühstückt
+=======
+Tags: #Languages/German/Grammar/Verbs/Regular  
+Links: [[Verben]]
+___
+# [[Indikativ - Präsens]]
+Pronoun|Conjugation
+------------ | ------------
+Ich | frühstücke
+Du | frühstückst
+Er/Sie/Es | frühstückt
+Wir | frühstücken
+Ihr | frühstückt
+Sie | frühstücken
+
+
+# [[Indikativ - Perfekt]]
+[[Pronomen]] + [[Haben]] + gefrühstückt
+>>>>>>> 723d39b (Added material from A1 book - chapter 11)

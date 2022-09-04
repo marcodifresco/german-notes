@@ -21,6 +21,9 @@ Behave | [[Verhalten]]
 Believe | [[Glauben]]
 Belong | [[Gehören]]
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 723d39b (Added material from A1 book - chapter 11)
 Breakfast | [[Früstüchen]]
 Buy | [[Kaufen]]
 Cancel (for subscribtions) | [[Kündigen]]
@@ -111,7 +114,10 @@ Photograph | [[Fotografieren]]
 Play | [[Spielen]]
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 Position | [[Stellen]]
+=======
+>>>>>>> 723d39b (Added material from A1 book - chapter 11)
 Practice | [[Üben]]
 Protest | [[Demonstrieren]]
 Put | [[Stecken]]
@@ -154,8 +160,13 @@ Taste | [[Schmecken]]
 =======
 >>>>>>> 251622b (Added notes from June, 13th)
 Take into account | [[Bedenken]]
+Phone | [[Telefonieren]]
 Tell | [[Erzählen]]
+<<<<<<< HEAD
 Think  | [[Denken]]
+=======
+Think | [[Meinen]]
+>>>>>>> 723d39b (Added material from A1 book - chapter 11)
 Transport | [[Transportieren]]
 Travel | [[Reisen]]
 =======
