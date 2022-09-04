@@ -1,4 +1,5 @@
 ___
+<<<<<<< HEAD
 Links: [[Verben]]
 Meaning:
 ___
@@ -128,3 +129,21 @@ fliegend
 
 # [[Modus - Partizips]] - Perfekt
 geflogen
+=======
+Tags: #Languages/German/Grammar/Verbs/Irregular  
+Links: [[Verben]]
+___
+# [[Indikativ - Präsens]]
+Pronoun|Conjugation
+------------ | ------------
+Ich | fliege
+Du | fliegst
+Er/Sie/Es | fliegt
+Wir | fliegen
+Ihr | fliegt
+Sie | fliegen
+
+
+# [[Indikativ - Perfekt]]
+[[Pronomen]] + [[Haben]] + geflogen
+>>>>>>> 80384e7 (Added material from A1 book - chapter 12)

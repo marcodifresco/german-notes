@@ -101,6 +101,9 @@ Carnival | Karneval
 December, 24th | Der Heiliger Abend
 December, 31st | Silvester
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 80384e7 (Added material from A1 book - chapter 12)
 
 # Season
 English | German
@@ -109,9 +112,12 @@ Spring | Frühling
 Summer | Sommer
 Fall | Herbst
 Winter | Winter
+<<<<<<< HEAD
 =======
 January, 1st | Neu Jahr
 >>>>>>> 723d39b (Added material from A1 book - chapter 11)
+=======
+>>>>>>> 80384e7 (Added material from A1 book - chapter 12)
 
 # Other
 English | German

@@ -26,11 +26,15 @@ Belong | [[Gehören]]
 >>>>>>> 723d39b (Added material from A1 book - chapter 11)
 Breakfast | [[Früstüchen]]
 Buy | [[Kaufen]]
+<<<<<<< HEAD
 Cancel (for subscribtions) | [[Kündigen]]
 Celebrate | [[Feiern]]
 =======
 Buy | [[Kaufen]]
 >>>>>>> 67119d6 (Added notes from June, 22nd)
+=======
+Celebrate | [[Feiern]]
+>>>>>>> 80384e7 (Added material from A1 book - chapter 12)
 Change | [[Ändern]]
 Climbing | [[Klettern]]
 <<<<<<< HEAD
@@ -82,6 +86,7 @@ Feed | [[Ernähren]]
 >>>>>>> e0a7ee5 (Added material from A1 book - chapter 9)
 Fit | [[Passen]]
 <<<<<<< HEAD
+<<<<<<< HEAD
 Fly | [[Fliegen]]
 =======
 >>>>>>> 308d629 (Added notes from August 31th)
@@ -92,6 +97,12 @@ Having an opinion | [[Meinen]]
 Happen | [[Passieren]]
 =======
 >>>>>>> bfd5231 (Added notes from June, 1st)
+=======
+Fly | [[Fliegen]]
+Fulfill | [[Erfüllen]]
+Give a gift | [[Schenken]]
+Happen | [[Passieren]]
+>>>>>>> 80384e7 (Added material from A1 book - chapter 12)
 Harvest | [[Ernten]]
 Hear | [[Hören]]
 Inform | [[Informieren]]

@@ -1,4 +1,5 @@
 ___
+<<<<<<< HEAD
 Links: [[Verben]]
 Meaning:
 ___
@@ -131,3 +132,21 @@ Form Conjugation
 # [[Modus - Partizips]] - Perfekt
 Form Conjugation
 - gefeiert
+=======
+Tags: #Languages/German/Grammar/Verbs/Regular  
+Links: [[Verben]]
+___
+# [[Indikativ - Präsens]]
+Pronoun|Conjugation
+------------ | ------------
+Ich | feiere
+Du | feierst
+Er/Sie/Es | feiert
+Wir | feiern
+Ihr | feiert
+Sie | feiern
+
+
+# [[Indikativ - Perfekt]]
+[[Pronomen]] + [[Haben]] + gefeiert
+>>>>>>> 80384e7 (Added material from A1 book - chapter 12)

@@ -1,4 +1,5 @@
 ___
+<<<<<<< HEAD
 Links: [[Verben]]
 Meaning:
 ___
@@ -127,3 +128,21 @@ passierend
 
 # [[Modus - Partizips]] - Perfekt
 passiert
+=======
+Tags: #Languages/German/Grammar/Verbs/Regular  
+Links: [[Verben]]
+___
+# [[Indikativ - Präsens]]
+Pronoun|Conjugation
+------------ | ------------
+Ich | passiere
+Du | passierst
+Er/Sie/Es | passiert
+Wir | passieren
+Ihr | passiert
+Sie | passieren
+
+
+# [[Indikativ - Perfekt]]
+[[Pronomen]] + [[Haben]] + passiert
+>>>>>>> 80384e7 (Added material from A1 book - chapter 12)

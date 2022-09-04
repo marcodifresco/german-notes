@@ -69,9 +69,13 @@ Train | Der Zug (-ü-e)
 Tram | Die Strassenbahn (-n)
 Taxi | Das Taxi
 <<<<<<< HEAD
+<<<<<<< HEAD
 Historic gate | Tor
 =======
 >>>>>>> cecf110 (Added notes from July, 13rd)
+=======
+Historic gate | Tor
+>>>>>>> 80384e7 (Added material from A1 book - chapter 12)
 
 
 # Notes

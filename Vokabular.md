@@ -52,9 +52,13 @@ Couple | Paar
 Good conscience | Gutes Gewissen
 Carnival | Die Fastnacht / Der Fashcing
 <<<<<<< HEAD
+<<<<<<< HEAD
 Central station | Hauptbahnhof
 Cartoon  | Der trickfilm (-e)
 =======
+=======
+Central station | Hauptbahnhof
+>>>>>>> 80384e7 (Added material from A1 book - chapter 12)
 Cartoon | Der trickfilm (-e)
 >>>>>>> 251622b (Added notes from June, 13th)
 Cellphone | das Handy
@@ -81,7 +85,11 @@ Edge | Der Rand
 Education | Die Ausbildung (-en)
 Episode | Die Folge
 Event | Die Veranstaltung (-en) / Der Event (-s)
+<<<<<<< HEAD
 >>>>>>> 251622b (Added notes from June, 13th)
+=======
+Fun | Spass
+>>>>>>> 80384e7 (Added material from A1 book - chapter 12)
 First name | Der Vorname (-n)
 Last name | Der Nachname (-n)
 <<<<<<< HEAD
@@ -181,9 +189,15 @@ Stop | Halt
 Suggestion | Der Vorschlag (-ä-e)
 Tabloid  | die Regenbogenpresse
 Task | Die Aufgabe(-n)
+<<<<<<< HEAD
 Thing  | Das Ding (-e)
 Traffic  | Der Verkehr
 Truth  | Die Wahrheit (-en)
+=======
+Thing | Das Ding (-e)
+Traffic| Der Verkehr
+Truth | Die Wahrheit (-en)
+>>>>>>> 80384e7 (Added material from A1 book - chapter 12)
 Vacation | Der Urlaub (-e)
 View | Meinung
 Way | Der Weg (-e)
@@ -194,6 +208,7 @@ Word | Das Wort (-ö-er)
 Tire | Der Reifen (-)
 Cemetery | Der Friedhof (-öfe)
 Farm | Der Bauernhof (-öfe)
+<<<<<<< HEAD
 Wedding  | Die Hochzeit (-en)
 Visitor  | Der Besucher (-)
 Wallet | Portemonnaie
@@ -222,6 +237,10 @@ Cemetery | Der Friedhof (-öfe)
 Farm | Der Bauernhof (-öfe)
 >>>>>>> 081f645 (Added notes from July, 11th)
 
+=======
+Wedding | Die Hochzeit (-en)
+Visitor | Der Besucher (-)
+>>>>>>> 80384e7 (Added material from A1 book - chapter 12)
 
 # Specific combination
 English | German

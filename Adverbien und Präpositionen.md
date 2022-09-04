@@ -22,7 +22,10 @@ Almost | Fast
 Always | Immer
 Also | Auch
 Also | Ausserdem
+<<<<<<< HEAD
 Anything | Irgendetwas
+=======
+>>>>>>> 80384e7 (Added material from A1 book - chapter 12)
 Approximately | Ungefähr
 As | Als
 By the way | Übrigens
