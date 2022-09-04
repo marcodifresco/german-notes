@@ -1,3 +1,2 @@
 [[Meinen]] vs [[Denken]]
 
-[[Fotografieren]]

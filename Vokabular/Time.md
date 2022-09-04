@@ -66,9 +66,25 @@ Friday | Freitag
 Saturday | Samstag
 Sunday |Sonntag
 
+# Month
+English | German
+------------ | ------------
+January | Januar
+February | Februar
+March | März
+April | April
+May | Mai
+June | Juni
+August | August
+September | September
+October | Oktober
+November | November
+December | Dezember
+
 # Other
 English | German
 ------------ | ------------
+Month | Der Monat (-e)
 Year | Jahr
 Time | Zeit
 Future | Zukunft
@@ -77,9 +93,19 @@ The whole time | Die ganze Zeit
 # Festivities
 English | German
 ------------ | ------------
+Birthday | Geburtstag
+January, 1st | Neu Jahr
+Carnival | Karneval
 December, 24th | Der Heiliger Abend
 December, 31st | Silvester
-January, 1st | Neu Jahr
+
+# Season
+English | German
+------------ | ------------
+Spring | Frühling
+Summer | Sommer
+Fall | Herbst
+Winter | Winter
 
 # Other
 English | German

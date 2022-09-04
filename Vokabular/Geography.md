@@ -59,6 +59,7 @@ Swimming pool | Das Schwimmbecken (-bäder)
 Train | Der Zug (-ü-e)
 Tram | Die Strassenbahn (-n)
 Taxi | Das Taxi
+Historic gate | Tor
 
 
 # Notes

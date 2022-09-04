@@ -11,6 +11,7 @@ Almost | Fast
 Always | Immer
 Also | Auch
 Also | Ausserdem
+Approximately | Ungefähr
 As | Als
 By the way | Übrigens
 But | Aber

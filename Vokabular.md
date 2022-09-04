@@ -25,6 +25,7 @@ Café | Das Café[^1]
 Couple | Paar
 Good conscience | Gutes Gewissen
 Carnival | Die Fastnacht / Der Fashcing
+Central station | Hauptbahnhof
 Cartoon | Der trickfilm (-e)
 Cellphone | das Handy
 Change | Der Wechsel
@@ -36,6 +37,7 @@ Edge | Der Rand
 Education | Die Ausbildung (-en)
 Episode | Die Folge
 Event | Die Veranstaltung (-en) / Der Event (-s)
+Fun | Spass
 First name | Der Vorname (-n)
 Last name | Der Nachname (-n)
 Host family | Die Gastfamilie
@@ -60,7 +62,8 @@ Office  | das Büro (-s)
 Paper | Das Papier (-e)
 Pencil | Der Bleistift (-)
 Person | Der Man
-People | Die Leute (Lügen)
+People | Die Menschen
+People | Die Leute
 Pen | Der Stift (-e)
 Plastic | Das Plastik
 Price | Der Preis (-e)
@@ -83,6 +86,7 @@ Suitcase | Der Koffer (-)
 Suggestion | Der Vorschlag (-ä-e)
 Task | Die Aufgabe(-n)
 Thing | Das Ding (-e)
+Traffic| Der Verkehr
 Truth | Die Wahrheit (-en)
 Vacation | Der Urlaub (-e)
 View | Meinung
@@ -93,7 +97,8 @@ Word | Das Wort (-ö-er)
 Tire | Der Reifen (-)
 Cemetery | Der Friedhof (-öfe)
 Farm | Der Bauernhof (-öfe)
-
+Wedding | Die Hochzeit (-en)
+Visitor | Der Besucher (-)
 
 # Specific combination
 English | German

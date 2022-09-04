@@ -29,6 +29,7 @@ Nice to know you | Freut Mich.
 Not yet | Noch nicht
 Once more | Noch mal
 Something stops by itself | Etwas hört  ganz von selbst auf
+There is | Es gibt
 The best ... | Ganz vorn
 the same | Genau wie / Gleuch wie
 That is nice | Das ist so lieb

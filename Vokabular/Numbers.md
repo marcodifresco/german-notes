@@ -41,5 +41,20 @@ Number | German
 90 | Neunzig
 100 | Achtzehn
 
+# Ordinal 
+Number | German
+------------ | ------------
+First | Erste
+Second| Zweite
+Third| Dritte
+Fourth | Vierte
+Fifth | Fünfte
+Sixth | Sechste
+Seventh | Siebte
+Eighth | Achte
+Ninth | Neunte
+Tenth | Zehntel
+Last | Letzte
+
 # Rules
 From 21 to 99: last digit + *und* + multiple of ten -> es: ein-und-zwanzig
