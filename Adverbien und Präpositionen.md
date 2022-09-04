@@ -17,6 +17,7 @@ But | Aber
 Both | Beide
 Constantly | Dauernd
 Early | Frühzeitig
+Even | Noch
 Every | Jeden
 Generously | Grosszügig
 Good | Gut

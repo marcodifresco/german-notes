@@ -17,11 +17,12 @@ Bag | Die Tasche (-n)
 Ballpoint pen | Der Kugelschreiber (-)
 Behavior | Das Verhalten
 Blind date | Das Blinddate (-s)
+Bad conscience | Schlechtes Gewissen
 Book | Das Buch (-ü-er)
 Broadcaster | Der Sender (-)
 Bucket | Der Eimer
 Café | Das Café[^1]
-Bad conscience | Schlechtes Gewissen
+Couple | Paar
 Good conscience | Gutes Gewissen
 Carnival | Die Fastnacht / Der Fashcing
 Cartoon | Der trickfilm (-e)
@@ -39,6 +40,7 @@ First name | Der Vorname (-n)
 Last name | Der Nachname (-n)
 Host family | Die Gastfamilie
 Glass | Das Glas
+Homework | Die Hausaufgabe (-n)
 Joker | Der Spassvogel (-)
 Key | Der Schlüssel (-)
 Investigation | Die Untersuchung

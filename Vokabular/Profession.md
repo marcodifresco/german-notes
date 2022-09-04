@@ -7,6 +7,7 @@ English | German
 Actor | Der Schauspieler (-)
 Architect | Der Architekt (-en)
 Buyer | Der Käufer (-)
+Colleague | Der Kollege (-n)
 Doctor | Der Arzt (-e)
 Employee | Der Angestellte (-en)
 Employer | Der Arbeitgeber (-)
@@ -57,6 +58,11 @@ Reception | Die  Rezeptin (der Empfang)
 School | Die Schule (-n)
 Stage | Die Bühne (-n)
 University | Die Universität (-en)
+
+# Other
+English | German
+------------ | ------------
+Business trip | Dienstreise
 
 # Rules
 For female version add *-in*.

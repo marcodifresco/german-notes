@@ -80,3 +80,12 @@ English | German
 December, 24th | Der Heiliger Abend
 December, 31st | Silvester
 January, 1st | Neu Jahr
+
+# Other
+English | German
+------------ | ------------
+Daily | täglich
+Zwei bis dreimal | two to three times
+Hardly ever | fast nie
+Never to | nie zum
+Daily routine | Der Tagesablauf (-ä-e)
