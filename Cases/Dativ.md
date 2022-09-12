@@ -198,6 +198,7 @@ von
 wo --> in ...
 woher" --> aus/von ...
 zu
+bei
 The same | Genaso wie bei
 [[Sprechen]] mit
 [[Treffen]] mit

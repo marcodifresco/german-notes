@@ -1,4 +1,5 @@
 ___
+<<<<<<< HEAD
 Links: [[Verben]] [[Typ - Trennbare verben]]
 Meaning:
 ___
@@ -128,3 +129,21 @@ vortragend
 
 # [[Modus - Partizips]] - Perfekt
 vorgetragen
+=======
+Tags: #Languages/German/Grammar/Verbs/Regular  
+Links: [[Verben]] [[Typ - Trennbare verben]]
+___
+# [[Indikativ - Präsens]]
+Pronoun|Conjugation
+------------ | ------------
+Ich | trage vor
+Du | trägst vor
+Er/Sie/Es | trägt vor
+Wir | tragen vor
+Ihr | tragt vor
+Sie | tragen vor
+
+
+# [[Indikativ - Perfekt]]
+[[Pronomen]] + [[Haben]] + vorgetragen
+>>>>>>> f3b9819 (Added notes from September 7th)

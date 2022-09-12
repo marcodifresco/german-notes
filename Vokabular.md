@@ -86,8 +86,12 @@ Education | Die Ausbildung (-en)
 Episode | Die Folge
 Event | Die Veranstaltung (-en) / Der Event (-s)
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> 251622b (Added notes from June, 13th)
 =======
+=======
+Exception |  Die Aushahme (-n)
+>>>>>>> f3b9819 (Added notes from September 7th)
 Fun | Spass
 >>>>>>> 80384e7 (Added material from A1 book - chapter 12)
 First name | Der Vorname (-n)

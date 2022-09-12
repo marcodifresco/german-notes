@@ -54,7 +54,10 @@ Inaugurate | [[Einweihen]] (I)
 Invite | [[Einladen]] (R)
 >>>>>>> 251622b (Added notes from June, 13th)
 Offer | [[Anbieten]] (R)
+<<<<<<< HEAD
 Pull (object) off | [[Abziehen]] (I)
+=======
+>>>>>>> f3b9819 (Added notes from September 7th)
 Recite | [[Vortragen]] (R)
 Relocate[^1] | [[Umziehen]] (I)
 <<<<<<< HEAD
@@ -83,8 +86,12 @@ Switch | [[Umsteigen]] (I)
 Testify | [[Aussagen]] (R)
 Translate | [[Übersetzen]] (R)
 <<<<<<< HEAD
+<<<<<<< HEAD
 Vote  | [[Abstimmen]] (R)
 Wake up | [[Aufwachen]] (I)
+=======
+Vote  | [[Abstimmen]] (R)
+>>>>>>> f3b9819 (Added notes from September 7th)
 Watch | [[Anschauen]] (R)
 Watch | [[Ansehen]] (R)
 Watch | [[Fernschauen]] (R)

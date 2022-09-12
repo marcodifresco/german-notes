@@ -176,6 +176,7 @@ Phone | [[Telefonieren]]
 Tell | [[Erzählen]]
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 Think  | [[Denken]]
 =======
 Think | [[Meinen]]
@@ -183,6 +184,8 @@ Think | [[Meinen]]
 =======
 
 >>>>>>> 997836b (Added notes from September 5th)
+=======
+>>>>>>> f3b9819 (Added notes from September 7th)
 Transport | [[Transportieren]]
 Travel | [[Reisen]]
 =======

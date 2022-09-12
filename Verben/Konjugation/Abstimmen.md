@@ -1,4 +1,5 @@
 ___
+<<<<<<< HEAD
 Links: [[Verben]] [[Typ - Regular verben]] [[Typ - Trennbare verben]]
 Meaning: to vote
 ___
@@ -127,3 +128,21 @@ abstimmend
 
 # [[Modus - Partizips]] - Perfekt
 abgestimmt
+=======
+Tags: #Languages/German/Grammar/Verbs/Regular  
+Links: [[Verben]] [[Typ - Trennbare verben]]
+___
+# [[Indikativ - Präsens]]
+Pronoun|Conjugation
+------------ | ------------
+Ich | stimme ab
+Du | stimmst ab
+Er/Sie/Es | stimmt ab
+Wir | stimmen ab
+Ihr | stimmt ab
+Sie | stimmen ab
+
+
+# [[Indikativ - Perfekt]]
+[[Pronomen]] + [[Haben]] + abgestimmt
+>>>>>>> f3b9819 (Added notes from September 7th)
