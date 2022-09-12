@@ -13,3 +13,7 @@ Verb | Das Verb (-en)
 Word | Das Wort (-ö-er)
 ! | Ausrufezeichen
 ? | Fragezeichen
+
+
+# Notes
+If word end in -o usually the article is Das.

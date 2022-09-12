@@ -37,6 +37,7 @@ Edge | Der Rand
 Education | Die Ausbildung (-en)
 Episode | Die Folge
 Event | Die Veranstaltung (-en) / Der Event (-s)
+Exception |  Die Aushahme (-n)
 Fun | Spass
 First name | Der Vorname (-n)
 Last name | Der Nachname (-n)

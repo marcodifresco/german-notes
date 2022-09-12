@@ -88,6 +88,8 @@ Was?
 Wohin
 über
 Auf
+für
+gegen
 Sich [[Ärgern]] über
 [[Warten]] auf
 Sich [[Freuen]] auf über

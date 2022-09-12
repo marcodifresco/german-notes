@@ -110,6 +110,7 @@ Sich [[Ärgern]] über + [[Akkusativ]]
 [[Träumen]] von + [[Dativ]]
 Zufrieden [[Sein]] mit + [[Dativ]]
 
+
 # Notes
 Am -> An dem
 Ans -> An das
@@ -138,6 +139,8 @@ Wo -> [[Dativ]]
 Wohin -> [[Akkusativ]]
 Woher -> [[Dativ]]
 
+Woher -> von/auf
+
 Woher:
 Von -> when I am on the way
 Aus ->when I have to start
@@ -155,3 +158,7 @@ EX: *Ich trinke einen kaffee und dann gehe zu arbeit*
 
 im wasser -> already in water
 ins wasser -> going toward water
+
+in auf an -> lokalität
+zu only with wohin Except for Zu hause -> Wo?
+Whoin -> nach Hause

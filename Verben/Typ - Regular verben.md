@@ -84,7 +84,6 @@ Taste | [[Schmecken]]
 Take into account | [[Bedenken]]
 Phone | [[Telefonieren]]
 Tell | [[Erzählen]]
-
 Transport | [[Transportieren]]
 Travel | [[Reisen]]
 Use | [[Benutzen]]

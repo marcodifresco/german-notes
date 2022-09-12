@@ -12,3 +12,4 @@ einseitig=monoton
 vielseitig=abwechslungsreid
 Meinung = Ansicht
 [[Verwenden]] = [[Benutzen]]
+das Gedicht = die Poesie
