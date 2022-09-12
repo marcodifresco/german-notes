@@ -101,6 +101,7 @@ Happen | [[Passieren]]
 Fly | [[Fliegen]]
 Fulfill | [[Erfüllen]]
 Give a gift | [[Schenken]]
+Having an opinion | [[Meinen]]
 Happen | [[Passieren]]
 >>>>>>> 80384e7 (Added material from A1 book - chapter 12)
 Harvest | [[Ernten]]
@@ -174,10 +175,14 @@ Take into account | [[Bedenken]]
 Phone | [[Telefonieren]]
 Tell | [[Erzählen]]
 <<<<<<< HEAD
+<<<<<<< HEAD
 Think  | [[Denken]]
 =======
 Think | [[Meinen]]
 >>>>>>> 723d39b (Added material from A1 book - chapter 11)
+=======
+
+>>>>>>> 997836b (Added notes from September 5th)
 Transport | [[Transportieren]]
 Travel | [[Reisen]]
 =======

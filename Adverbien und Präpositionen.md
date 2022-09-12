@@ -231,6 +231,16 @@ Mit | Vomit | Damit
 Für | Vofür | Dafür
 >>>>>>> ec2d15b (Added notes from August 29th)
 
+
+# With verbs
+Sich [[Freuen]] auf + [[Akkusativ]]
+Sich [[Ärgern]] über + [[Akkusativ]]
+Lust [[Haben]] auf + [[Akkusativ]]
+Sich [[Ärgern]] über + [[Akkusativ]]
+[[Schreiben]] an [[Akkusativ]]
+[[Träumen]] von + [[Dativ]]
+Zufrieden [[Sein]] mit + [[Dativ]]
+
 # Notes
 Am -> An dem
 Ans -> An das

@@ -1,0 +1,144 @@
+{
+  "main": {
+    "id": "2fc2474f07a9bc41",
+    "type": "split",
+    "children": [
+      {
+        "id": "8dce9766aee61632",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "AAA TEMPORARY NOTE.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ae94a4a761a0a0ba",
+    "type": "split",
+    "children": [
+      {
+        "id": "5b31d3ba607e0dde",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "56f5a6fdeeab743f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "daef6af32fb89854",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3433381c1259140c",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "bc83f5e1955a6623",
+    "type": "split",
+    "children": [
+      {
+        "id": "1d7b9aa9820a0cb3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e8a2ee1f1c0dc483",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "AAA TEMPORARY NOTE.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ab8122ff44d2d3ef",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "AAA TEMPORARY NOTE.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b8bb668d64234948",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "965be1a7934f3998",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "AAA TEMPORARY NOTE.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "8dce9766aee61632",
+  "lastOpenFiles": [
+    "Verben/Typ - Reflexive Verben.md",
+    "AAA TEMPORARY NOTE.md",
+    "Adjektive.md",
+    "Adverbien und Präpositionen.md",
+    "Cases/Akkusativ.md",
+    "Verben/Konjugation/Freuen.md",
+    "Grammatik regeln/Grammatischer Vokabular.md",
+    "Verben/Typ - Regular verben.md",
+    "Verben.md",
+    "Verben/Konjugation/Meinen.md"
+  ]
+}

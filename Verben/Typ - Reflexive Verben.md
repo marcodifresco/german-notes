@@ -25,6 +25,7 @@ Take care | [[Kümmern]] (R)
 >>>>>>> ec2d15b (Added notes from August 29th)
 
 # Pronouns
+<<<<<<< HEAD
 | Subjekt   | Objekt |
 | --------- | ------ |
 | Ich       | mich   |
@@ -33,6 +34,16 @@ Take care | [[Kümmern]] (R)
 | Wir       | uns    |
 | Ihr       | euch   |
 | Sie       | sich   |
+=======
+Subjekt | Objekt
+------------ | ------------
+Ich | mich
+Du | dich
+Er/sie/es | sich
+Wir | uns
+Ihr | euch
+Sie | sich
+>>>>>>> 997836b (Added notes from September 5th)
 
 # Rule
 Subject + [[Verben]] + Reflexive [[Pronomen]] + rest of sentence
