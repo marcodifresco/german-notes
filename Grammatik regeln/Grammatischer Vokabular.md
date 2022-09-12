@@ -11,3 +11,5 @@ Pronoun | Das Pronomen (-)
 Sentence | Der Satz (-ä-en)
 Verb | Das Verb (-en)
 Word | Das Wort (-ö-er)
+! | Ausrufezeichen
+? | Fragezeichen

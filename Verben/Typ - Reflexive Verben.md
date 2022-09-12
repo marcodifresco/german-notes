@@ -11,6 +11,15 @@ Look forward | [[Freuen]] (R)
 Relax | [[Entspannen]] (R)
 Take care | [[Kümmern]] (R)
 
+# Pronouns
+Subjekt | Objekt
+------------ | ------------
+Ich | mich
+Du | dich
+Er/sie/es | sich
+Wir | uns
+Ihr | euch
+Sie | sich
 
 # Rule
 Subject + [[Verben]] + Reflexive [[Pronomen]] + rest of sentence
