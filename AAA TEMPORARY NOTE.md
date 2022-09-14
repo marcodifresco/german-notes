@@ -15,3 +15,19 @@ Ich geheh zur Tante / zum Onkel
 
 Wo [[Dativ]]
 Ich bin bei der Tante / beim Onkel
+
+
+
+Created: 2022-09-14 19:56
+Tags: #
+Links: [[]]
+___
+
+[[Indikativ - Perfekt]] = jeden Tag - Alltag
+[[Partizip II]] -> Regular ge...t / Irregulär ge...en
+ich bin (CH) gesessen [[Sitzen]] (DE) hat
+Lose | [[Verlieren]]
+[[Waschen]]
+[[Verstehen]]
+[[Sitzen]] -> already sit / [[Setzen]] going to sit -> [[Typ - Reflexive Verben]]
+Der Kanll

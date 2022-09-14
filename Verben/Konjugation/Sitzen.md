@@ -14,4 +14,4 @@ Sie | sitzen
 
 
 # [[Indikativ - Perfekt]]
-[[Pronomen]] + [[Haben]]  + gesessen
+[[Pronomen]] + [[Haben]]  + gesessen (in CH [[Sein]])
