@@ -58,10 +58,15 @@ In [[Indikativ - Perfekt]] they always use [[Haben]]
 =======
 *Example: Er ernährt sich (un)gesund* 
 With prep. reflexive pronoun at the end for question; *example:* Worauf freust du dich?
-
 With *ve(partizip)* -> negative sentence.
+<<<<<<< HEAD
 Examples:
 >>>>>>> a98b676 (Added notes from June, 25th)
+=======
+In [[Indikativ - Perfekt]] they always use [[Haben]]
+
+# Examples
+>>>>>>> 9594d25 (Catch-all changes on 15 09 2022.)
 Ich habe mich Verfahren -> I'm lost
 Ich habe mich Verlaufen -> I've lost my way
 Ich habe mich Verhört ->  I misheard

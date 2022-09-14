@@ -1,6 +1,11 @@
 ___
+<<<<<<< HEAD
 Links: [[Verben]] [[Typ - Reflexive Verben]]
 Meaning:
+=======
+Tags: #Languages/German/Grammar/Verbs/Irregular
+Links: [[Verben]] [[Typ - Reflexive Verben]]
+>>>>>>> 9594d25 (Catch-all changes on 15 09 2022.)
 ___
 
 # [[Modus - Indikativ]] - Präsens

@@ -12,6 +12,7 @@ Ihr sitzt
 Sie sitzen
 
 
+<<<<<<< HEAD
 # [[Modus - Indikativ]] - Präteritum
 Ich saß
 Du saßt
@@ -128,3 +129,7 @@ sitzend
 
 # [[Modus - Partizips]] - Perfekt
 gesessen
+=======
+# [[Indikativ - Perfekt]]
+[[Pronomen]] + [[Haben]]  + gesessen (in CH [[Sein]])
+>>>>>>> 9594d25 (Catch-all changes on 15 09 2022.)
