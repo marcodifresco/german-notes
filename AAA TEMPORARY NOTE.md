@@ -31,3 +31,14 @@ Lose | [[Verlieren]]
 [[Verstehen]]
 [[Sitzen]] -> already sit / [[Setzen]] going to sit -> [[Typ - Reflexive Verben]]
 Der Kanll
+
+
+Created: 2022-09-19 20:03
+Tags: #
+Links: [[]]
+___
+
+Stop | [[Halten]]
+[[Verhalten]]
+
+[[Typ - Modal verben]]
