@@ -9,6 +9,7 @@ Feed | [[Ernähren]] (R)
 Interest | [[Interessieren]] (R)
 Look forward | [[Freuen]] (R)
 Relax | [[Entspannen]] (R)
+Sit (going to) | [[Setzen]] (R)
 Take care | [[Kümmern]] (R)
 
 # Pronouns

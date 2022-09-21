@@ -13,7 +13,7 @@ Ihr | könnt
 Sie | können
 
 
-# [[Modus - Konjunktiv II]]
+# [[Konjunktiv - II]]
 Pronoun|Conjugation
 ------------ | ------------
 Ich | könnte

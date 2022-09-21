@@ -24,7 +24,12 @@ ___
 ## [[Modus - Indikativ]]
 ![[Modus - Indikativ]]
 
----
+
+## [[Modus - Konjunktiv]]
+[[Modus - Konjunktiv#^fa8e02]]
+
+
+
 # Various rules
 Ich glaube, Ich denke, Ich vermute, dass ... [verb am ende].
 with *dass* the second verb goes at the end.
