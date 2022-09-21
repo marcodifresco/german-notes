@@ -14,4 +14,4 @@ To use my notes:
 
 I update the notes quite often. To update your copy, you can just repeat step #1 and extract the zip file on the same directory of the previous version. If you are familiar with *git*, you can use the *"Clone"* option above and from time to time do a *git pull*.
 
-If you find any mistake in my notes, please open a ticket [here](https://bitbucket.org/marcodifresco/german-notes/issues)
+If you find any mistake in my notes, please open a ticket [here](https://github.com/marcodifresco/german-notes/issues)
