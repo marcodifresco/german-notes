@@ -135,6 +135,9 @@ in  -> closed space, wald, park
 an -> close to / water
 auf -> open place
 
+in -> inside
+zu -> at/near
+
 Wo -> [[Dativ]]
 Wohin -> [[Akkusativ]]
 Woher -> [[Dativ]]

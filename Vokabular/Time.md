@@ -9,6 +9,8 @@ Ich bin **vor** zwei Wochen nach Zurich gekommen -> one time action
 Seit wann ... schon .... --> Wann ... (no schon)
 All days in date end with "Punkt".
 Am --> day | Um --> hour
+Formel: 17 (Uhr) .15
+Informell: vierbel nach 5 / halbe7
 
 # Salutations
 English | German
