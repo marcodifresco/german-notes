@@ -287,6 +287,7 @@ an -> close to / water
 auf -> open place
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 in -> inside
 zu -> at/near
 
@@ -294,6 +295,11 @@ zu -> at/near
 >>>>>>> eec6fae (Added notes from July, 4th)
 =======
 >>>>>>> cecf110 (Added notes from July, 13rd)
+=======
+in -> inside
+zu -> at/near
+
+>>>>>>> 83c47fe (Added notes from September 12th)
 Wo -> [[Dativ]]
 Wohin -> [[Akkusativ]]
 Woher -> [[Dativ]]
