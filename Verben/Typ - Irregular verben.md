@@ -52,7 +52,10 @@ Sit (already sit) | [[Sitzen]]
 Sleep | [[Schlafen]]
 Stand | [[Stehen]]
 Stay | [[Bleiben]]
+<<<<<<< HEAD
 Steal | [[Stehlen]]
+=======
+>>>>>>> e81c3c1 (Added notes from September 19th)
 Stop | [[Halten]]
 Swim | [[Schwimmen]]
 Take | [[Nehmen]]

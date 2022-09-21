@@ -1,4 +1,5 @@
 ___
+<<<<<<< HEAD
 Links: [[Verben]]
 Meaning:
 ___
@@ -128,3 +129,21 @@ Sie Halten Sie!
 
 # [[Modus - Partizips]] - Perfekt
  gehalten
+=======
+Tags: #Languages/German/Grammar/Verbs/Irregular  
+Links: [[Verben]]
+___
+# [[Indikativ - Präsens]]
+Pronoun|Conjugation
+------------ | ------------
+Ich | halte
+Du | hältst
+Er/Sie/Es | hält
+Wir | halten
+Ihr | haltet
+Sie | halten
+
+
+# [[Indikativ - Perfekt]]
+[[Pronomen]] + [[Haben]] + gehalten
+>>>>>>> e81c3c1 (Added notes from September 19th)
