@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ___
 Links: [[Verben]]
 Meaning:
@@ -128,3 +129,21 @@ waschend
 
 # [[Modus - Partizips]] - Perfekt
 gewaschen
+=======
+Tags: #Languages/German/Grammar/Verbs/Irregular  
+Links: [[Verben]]
+___
+# [[Indikativ - Präsens]]
+Pronoun|Conjugation
+------------ | ------------
+Ich | wasche
+Du | wäschst
+Er/Sie/Es | wäscht
+Wir | waschen
+Ihr | wascht
+Sie | waschen
+
+
+# [[Indikativ - Perfekt]]
+[[Pronomen]] + [[Haben]] + gewaschen
+>>>>>>> 72e1711 (Added notes from September 14th)

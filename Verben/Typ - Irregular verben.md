@@ -41,10 +41,14 @@ Shut down | [[Schliessen]]
 Sign | [[Unterschreiben]]
 Sing | [[Singen]]
 <<<<<<< HEAD
+<<<<<<< HEAD
 Sit (already sit) | [[Sitzen]]
 =======
 Sit | [[Sitzen]]
 >>>>>>> 723d39b (Added material from A1 book - chapter 11)
+=======
+Sit (already sit) | [[Sitzen]]
+>>>>>>> 72e1711 (Added notes from September 14th)
 Sleep | [[Schlafen]]
 Stand | [[Stehen]]
 Stay | [[Bleiben]]

@@ -172,7 +172,6 @@ Taste | [[Schmecken]]
 =======
 >>>>>>> 251622b (Added notes from June, 13th)
 Take into account | [[Bedenken]]
-Phone | [[Telefonieren]]
 Tell | [[Erzählen]]
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -195,7 +194,10 @@ Transport | [[Transportieren]]
 Use | [[Benutzen]]
 Use | [[Verwenden]]
 Understand | [[Verstehen]]
+<<<<<<< HEAD
 Urge | [[Drängen]]
+=======
+>>>>>>> 72e1711 (Added notes from September 14th)
 Visit | [[Besuchen]]
 Wait | [[Warten]]
 <<<<<<< HEAD

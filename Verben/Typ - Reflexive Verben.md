@@ -21,6 +21,7 @@ Hurry up | [[Beeilen]] (R)
 Interest | [[Interessieren]] (R)
 Look forward | [[Freuen]] (R)
 Relax | [[Entspannen]] (R)
+Sit (going to) | [[Setzen]] (R)
 Take care | [[Kümmern]] (R)
 >>>>>>> ec2d15b (Added notes from August 29th)
 

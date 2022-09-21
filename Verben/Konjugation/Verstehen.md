@@ -1,4 +1,5 @@
 ___
+<<<<<<< HEAD
 Links: [[Verben]]
 Meaning:
 ___
@@ -137,3 +138,21 @@ verstehend
 
 # [[Modus - Partizips]] - Perfekt
 verstanden
+=======
+Tags: #Languages/German/Grammar/Verbs/Regular 
+Links: [[Verben]]
+___
+# [[Indikativ - Präsens]]
+Pronoun|Conjugation
+------------ | ------------
+Ich | verstehe
+Du | verstehst
+Er/Sie/Es | versteht
+Wir | verstehen
+Ihr | versteht
+Sie | verstehen
+
+
+# [[Indikativ - Perfekt]]
+[[Pronomen]] + [[Haben]] + verstanden
+>>>>>>> 72e1711 (Added notes from September 14th)

@@ -1,4 +1,5 @@
 ___
+<<<<<<< HEAD
 Links: [[Verben]]
 Meaning:
 ___
@@ -128,3 +129,21 @@ verlierend
 
 # [[Modus - Partizips]] - Perfekt
 verloren
+=======
+Tags: #Languages/German/Grammar/Verbs/Irregular  
+Links: [[Verben]]
+___
+# [[Indikativ - Präsens]]
+Pronoun|Conjugation
+------------ | ------------
+Ich | verliere
+Du | verlierst
+Er/Sie/Es | verliert
+Wir | verlieren
+Ihr | verliert
+Sie | verlieren
+
+
+# [[Indikativ - Perfekt]]
+[[Pronomen]] + [[Haben]] + verloren
+>>>>>>> 72e1711 (Added notes from September 14th)

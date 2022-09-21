@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ___
 Tags: #Languages/German/Grammar/Verbs 
 Links: [[Verben]]
@@ -60,3 +61,7 @@ Hätte ich dock mehr Zeit gehabt! Vunsch, Vergangenheit (past)
 | Glauben              | Schwimmen              |                  |                     |              |
 | Kaufen               | Gehen                  |                  |                     |              |
 | (Aus)reichen         |                        |                  |                     |              |
+=======
+[[Konjunktiv - I]]
+[[Konjunktiv - II]]
+>>>>>>> 72e1711 (Added notes from September 14th)

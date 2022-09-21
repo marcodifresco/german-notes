@@ -1,4 +1,5 @@
 ___
+<<<<<<< HEAD
 Links: [[Verben]] [[Typ - Reflexive Verben]]
 Meaning:
 ___
@@ -128,3 +129,21 @@ Partizip I setzend
 
 # [[Modus - Partizips]] - Perfekt
 Partizip II gesetzt
+=======
+Tags: #Languages/German/Grammar/Verbs/Regular 
+Links: [[Verben]] [[Typ - Reflexive Verben]]
+___
+# [[Indikativ - Präsens]]
+Pronoun|Conjugation
+------------ | ------------
+Ich | setze
+Du | setzt
+Er/Sie/Es | setzt
+Wir | setzen
+Ihr | setzt
+Sie | setzen
+
+
+# [[Indikativ - Perfekt]]
+[[Pronomen]] + [[Haben]] + gesetzt
+>>>>>>> 72e1711 (Added notes from September 14th)

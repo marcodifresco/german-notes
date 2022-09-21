@@ -12,6 +12,7 @@ Ihr könnt
 Sie können
 
 
+<<<<<<< HEAD
 # [[Modus - Indikativ]] - Präteritum
 Ich konnte
 Du konntest
@@ -91,6 +92,17 @@ Er/Sie/Es könnte
 Wir könnten
 Ihr könntet
 Sie könnten
+=======
+# [[Konjunktiv - II]]
+Pronoun|Conjugation
+------------ | ------------
+Ich | könnte
+Du | könntest
+Er/Sie/Es | könnte
+Wir | könnten
+Ihr | könntet
+Sie | könnten
+>>>>>>> 72e1711 (Added notes from September 14th)
 
 
 # [[Modus - Konjunktiv]] 2 - Futur I

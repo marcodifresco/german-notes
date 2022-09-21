@@ -150,6 +150,7 @@ ___
 | Sie       | sollen      |
 
 
+<<<<<<< HEAD
 # [[Modus - Konjunktiv]] 2 - Präteritum
 | Ich       | sollte      |
 | Du        | solltest    |
@@ -157,6 +158,17 @@ ___
 | Wir       | sollten     |
 | Ihr       | solltet     |
 | Sie       | sollten     |
+=======
+# [[Konjunktiv - II]]
+Pronoun|Conjugation
+------------ | ------------
+Ich | sollte
+Du | solltest
+Er/Sie/Es | sollte
+Wir | sollten
+Ihr | solltet
+Sie | sollten
+>>>>>>> 72e1711 (Added notes from September 14th)
 
 
 # [[Modus - Indikativ]] - Perfekt
