@@ -15,3 +15,8 @@ Sie | erkennen
 
 # [[Indikativ - Perfekt]]
 [[Pronomen]] + [[Haben]] + erkennen
+Suspect | Der Verdächtigte
+[[Sein]] --> Immer [[Nominativ]]
+[[Nominativ]] subject
+[[Akkusativ]] object
+ 

@@ -27,3 +27,22 @@ ___
 Rain | [[Regnen]] (R)
 Trilling | Spannende
 1 subject | 2 verb | 3 wann | 4 wo/wohin | ... | ende 2nd verb
+
+
+Created: 2022-09-28 19:58
+Tags: #
+Links: [[]]
+___
+
+Wallet | Portemonnaie (CH?)
+Dress | Kleidung
+For what | Wozu
+
+Wozu brauchst du diesse karte?
+Ich brauche ihn/sie/es um (object) zu (verb)
+For [[Typ - Trennbare verben]]: prexif - zu - verb
+Car screen | die Glassche
+Steal | [[Stehlen]]
+Collapse | [[Einbrechen]]
+Pickpocket | Der Taschendieb
+Recognize | [[Erkennen]]
