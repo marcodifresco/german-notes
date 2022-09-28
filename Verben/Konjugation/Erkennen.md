@@ -12,6 +12,7 @@ Ihr erkennt
 Sie erkennen
 
 
+<<<<<<< HEAD
 # [[Modus - Indikativ]] - Präteritum
 Ich erkannte
 Du erkanntest
@@ -132,3 +133,12 @@ erkennend
 
 # [[Modus - Partizips]] - Perfekt
 erkannt
+=======
+# [[Indikativ - Perfekt]]
+[[Pronomen]] + [[Haben]] + erkennen
+Suspect | Der Verdächtigte
+[[Sein]] --> Immer [[Nominativ]]
+[[Nominativ]] subject
+[[Akkusativ]] object
+ 
+>>>>>>> 29ee595 (Catch-all changes on 29 09 2022.)
