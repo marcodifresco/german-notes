@@ -59,3 +59,18 @@ Before | Bevor
 If secondary phrase is second = first sentence normal, bis/... second phrase with verbe at the end
 
 if secondary phrase first = bis/... secondary verb/verb first phrase
+
+
+Created: 2022-10-12 20:04
+Tags: #
+Links: [[]]
+___
+
+Ich bin ...(kein article)... von Beruf
+Ich arbeite im Bereich ... (sector)
+Ich arbeite als ...(kein article)... bei ([[Dativ]]) ...
+
+Ich arbeite bei (Firma) / in (Ort)
+
+Self employed | selbstöndig mein
+
