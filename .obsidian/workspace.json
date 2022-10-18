@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6850065357646d1c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AAA TEMPORARY NOTE.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -139,17 +152,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "8dce9766aee61632",
+  "active": "6850065357646d1c",
   "lastOpenFiles": [
+    "Grammatik regeln/Befehl.md",
+    "Grammatik regeln/Superlativ.md",
+    "AAA TEMPORARY NOTE.md",
+    "Adjektive.md",
+    "Verben/Konjugation/Regnen.md",
+    "Verben/Konjugation/Ändern.md",
+    "Verben/Typ - Regular verben.md",
     "Verben/Konjugation/Zitieren.md",
     "Verben/Konjugation/Ziehen.md",
-    "Verben/Konjugation/Ankommen.md",
-    "Verben/Konjugation/Absenden.md",
-    "Verben/Typ - Regular verben.md",
-    "AAA TEMPORARY NOTE.md",
-    "Vokabular.md",
-    "Cases/Dativ.md",
-    "Vokabular/Synonyms.md",
-    "Verben/Konjugation/Halten.md"
+    "Verben/Konjugation/Ankommen.md"
   ]
 }

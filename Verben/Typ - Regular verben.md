@@ -136,6 +136,7 @@ Protest | [[Demonstrieren]]
 Put | [[Stecken]]
 Quote (citation) | [[Zitieren]]
 Rain | [[Regnen]]
+<<<<<<< HEAD
 =======
 >>>>>>> 251622b (Added notes from June, 13th)
 =======
@@ -144,6 +145,8 @@ Protest | [[Demonstrieren]]
 =======
 Quote (citation) | [[Zitieren]]
 >>>>>>> 3f83583 (Added notes from September 21th)
+=======
+>>>>>>> a0e66ad (Added notes from September 26th)
 Receive | [[Empfangen]]
 Recognize | [[Erkennen]]
 Relate | [[Beziehen]]

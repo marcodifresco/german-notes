@@ -1,4 +1,5 @@
 ___
+<<<<<<< HEAD
 Links: [[Verben]]
 Meaning:
 ___
@@ -128,3 +129,21 @@ regnend
 
 # [[Modus - Partizips]] - Perfekt
 geregnet
+=======
+Tags: #Languages/German/Grammar/Verbs/Regular  
+Links: [[Verben]]
+___
+# [[Indikativ - Präsens]]
+Pronoun|Conjugation
+------------ | ------------
+Ich | regne
+Du | regnest
+Er/Sie/Es | regnet
+Wir | regnen
+Ihr | regnet
+Sie | regnen
+
+
+# [[Indikativ - Perfekt]]
+[[Pronomen]] + [[Haben]] + geregnet
+>>>>>>> a0e66ad (Added notes from September 26th)

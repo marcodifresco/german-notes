@@ -3,6 +3,7 @@ Tags: #Languages/German/Grammar
 Links: [[Vokabular]] [[Adjektive]] [[Adverbien und Präpositionen]] [[Verben]]
 ___
 # Basic
+<<<<<<< HEAD
 1 subject | 2 verb | 3 wann | 4 wo/wohin | ... | ende 2nd verb
 
 Obligatorisches "Es" in festen Ausdrücken.
@@ -20,3 +21,6 @@ Ich kaufe heute **nicht nur** ein, **sondern** ich gehe auch spazieren
 Max trinkt **entweder** Kaffee oder er ist eine Pizza
 **Entweder** thrinkt Max Kafee oder ist ein Pizza
 Anna arbeiter **weder** (neither) heute noch geht sie in den Kurs
+=======
+1 subject | 2 verb | 3 wann | 4 wo/wohin | ... | ende 2nd verb
+>>>>>>> a0e66ad (Added notes from September 26th)

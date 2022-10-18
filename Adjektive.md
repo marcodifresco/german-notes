@@ -51,6 +51,7 @@ Sweet | Süss
 Tense | Gespannt
 Terrible| Schlimm
 Thin | Mager[^3]
+Thrilling  | Spannende
 Tired | Müde
 Urgent | Sofort
 >>>>>>> 251622b (Added notes from June, 13th)
