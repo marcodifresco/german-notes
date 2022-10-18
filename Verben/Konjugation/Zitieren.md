@@ -1,4 +1,5 @@
 ___
+<<<<<<< HEAD
 Links: [[Verben]]
 Meaning:
 ___
@@ -132,3 +133,21 @@ zitierend
 Conjugation
 ------------
 zitiert
+=======
+Tags: #Languages/German/Grammar/Verbs/Regular  
+Links: [[Verben]]
+___
+# [[Indikativ - Präsens]]
+Pronoun|Conjugation
+------------ | ------------
+Ich | zitiere
+Du | zitierst
+Er/Sie/Es | zitiert
+Wir | zitieren
+Ihr | zitiert
+Sie | zitieren
+
+
+# [[Indikativ - Perfekt]]
+[[Pronomen]] + [[Haben]] + zitiert
+>>>>>>> 3f83583 (Added notes from September 21th)

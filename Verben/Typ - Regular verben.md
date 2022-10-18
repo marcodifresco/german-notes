@@ -132,6 +132,7 @@ Position | [[Stellen]]
 >>>>>>> 723d39b (Added material from A1 book - chapter 11)
 Practice | [[Üben]]
 Protest | [[Demonstrieren]]
+<<<<<<< HEAD
 Put | [[Stecken]]
 Quote (citation) | [[Zitieren]]
 Rain | [[Regnen]]
@@ -140,6 +141,9 @@ Rain | [[Regnen]]
 =======
 Protest | [[Demonstrieren]]
 >>>>>>> 308d629 (Added notes from August 31th)
+=======
+Quote (citation) | [[Zitieren]]
+>>>>>>> 3f83583 (Added notes from September 21th)
 Receive | [[Empfangen]]
 Recognize | [[Erkennen]]
 Relate | [[Beziehen]]

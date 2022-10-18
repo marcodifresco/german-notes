@@ -120,7 +120,11 @@ Invoice [^2]  | Die Rechnung (-en)
 Kettle | Der Kessel (-)
 =======
 Invoice [^2] | Die Rechnung (-en)
+<<<<<<< HEAD
 >>>>>>> dca0fbe (Added notes from June, 20th)
+=======
+Kettle | Der Kessel (-)
+>>>>>>> 3f83583 (Added notes from September 21th)
 Laundry day | Der Waschtag
 Lie | Die Lüge (-n)
 <<<<<<< HEAD
@@ -191,7 +195,11 @@ Stamp | Die Briefmarke (-n)
 Stop | Halt
 >>>>>>> 31e5a1c (Added notes from June, 16th)
 Suggestion | Der Vorschlag (-ä-e)
+<<<<<<< HEAD
 Tabloid  | die Regenbogenpresse
+=======
+Tabloid | die Regenbogenpresse
+>>>>>>> 3f83583 (Added notes from September 21th)
 Task | Die Aufgabe(-n)
 <<<<<<< HEAD
 Thing  | Das Ding (-e)
