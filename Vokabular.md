@@ -48,6 +48,7 @@ Joker | Der Spassvogel (-)
 Key | Der Schlüssel (-)
 Investigation | Die Untersuchung
 Invoice [^2] | Die Rechnung (-en)
+Kettle | Der Kessel (-)
 Laundry day | Der Waschtag
 Lie | Die Lüge (-n)
 Limit | Die  limite
@@ -85,6 +86,7 @@ Stamp | Die Briefmarke (-n)
 Stop | Halt
 Suitcase | Der Koffer (-)
 Suggestion | Der Vorschlag (-ä-e)
+Tabloid | die Regenbogenpresse
 Task | Die Aufgabe(-n)
 Thing | Das Ding (-e)
 Traffic| Der Verkehr

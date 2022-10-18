@@ -13,3 +13,4 @@ vielseitig=abwechslungsreid
 Meinung = Ansicht
 [[Verwenden]] = [[Benutzen]]
 das Gedicht = die Poesie
+Klatsch und Tratsch = Regenbogenpresse
