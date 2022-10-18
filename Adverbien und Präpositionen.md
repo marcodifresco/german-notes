@@ -165,3 +165,7 @@ ins wasser -> going toward water
 in auf an -> lokalität
 zu only with wohin Except for Zu hause -> Wo?
 Whoin -> nach Hause
+
+For what | Wozu
+Ich brauche ihn/sie/es um (object) zu (verb)
+For [[Typ - Trennbare verben]]: prexif - zu - verb

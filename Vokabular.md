@@ -102,6 +102,10 @@ Cemetery | Der Friedhof (-öfe)
 Farm | Der Bauernhof (-öfe)
 Wedding | Die Hochzeit (-en)
 Visitor | Der Besucher (-)
+Wallet | Portemonnaie
+Dress | Der Geldbeutel
+Car screen | die Glassche
+Pickpocket | Der Taschendieb
 
 # Specific combination
 English | German

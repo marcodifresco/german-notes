@@ -23,3 +23,4 @@ Um 9 Uhr | Das Znüni
 Das Briefumschlag | Das  Kuvert
 [[Konfiszieren]] | Wegnehmen
 Motorrad | Das Töff
+Geldbörse | Portemonnaie
