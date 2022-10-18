@@ -5,15 +5,6 @@
 [[Indikativ - Präteritum]] [[Typ - Modal verben]] Page 114
 
 
-Created: 2022-09-26 20:05
-Tags: #
-Links: [[]]
-___
-... weil es geregnet hat.
-Rain | [[Regnen]] (R)
-Trilling | Spannende
-1 subject | 2 verb | 3 wann | 4 wo/wohin | ... | ende 2nd verb
-
 
 Created: 2022-09-28 19:58
 Tags: #

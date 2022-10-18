@@ -50,6 +50,7 @@ Sweet | Süss
 Tense | Gespannt
 Terrible| Schlimm
 Thin | Mager[^3]
+Thrilling  | Spannende
 Tired | Müde
 Urgent | Sofort
 
