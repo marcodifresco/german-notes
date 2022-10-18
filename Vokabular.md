@@ -252,7 +252,14 @@ Farm | Der Bauernhof (-öfe)
 =======
 Wedding | Die Hochzeit (-en)
 Visitor | Der Besucher (-)
+<<<<<<< HEAD
 >>>>>>> 80384e7 (Added material from A1 book - chapter 12)
+=======
+Wallet | Portemonnaie
+Dress | Der Geldbeutel
+Car screen | die Glassche
+Pickpocket | Der Taschendieb
+>>>>>>> 7c39919 (Added notes from September 28th)
 
 # Specific combination
 English | German

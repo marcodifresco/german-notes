@@ -28,6 +28,7 @@ Das Briefumschlag | Das  Kuvert
 [[Konfiszieren]] | Wegnehmen
 Motorrad | Das Töff
 <<<<<<< HEAD
+<<<<<<< HEAD
 Geldbörse | Portemonnaie
 Verärgert | Hässig
 09:00 | Znuni
@@ -44,3 +45,6 @@ Das Briefumschlag | Das  Kuvert
 >>>>>>> 31e5a1c (Added notes from June, 16th)
 =======
 >>>>>>> 081f645 (Added notes from July, 11th)
+=======
+Geldbörse | Portemonnaie
+>>>>>>> 7c39919 (Added notes from September 28th)

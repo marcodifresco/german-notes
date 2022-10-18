@@ -53,9 +53,13 @@ Sleep | [[Schlafen]]
 Stand | [[Stehen]]
 Stay | [[Bleiben]]
 <<<<<<< HEAD
+<<<<<<< HEAD
 Steal | [[Stehlen]]
 =======
 >>>>>>> e81c3c1 (Added notes from September 19th)
+=======
+Steal | [[Stehlen]]
+>>>>>>> 7c39919 (Added notes from September 28th)
 Stop | [[Halten]]
 Swim | [[Schwimmen]]
 Take | [[Nehmen]]

@@ -24,9 +24,13 @@ Choose | [[Aussuchen]] (R)
 Clean up | [[Aufräumen]] (R)
 Collect | [[Abholen]] (R)
 <<<<<<< HEAD
+<<<<<<< HEAD
 Collapse | [[Einbrechen]] (R)
 =======
 >>>>>>> dca0fbe (Added notes from June, 20th)
+=======
+Collapse | [[Einbrechen]] (R)
+>>>>>>> 7c39919 (Added notes from September 28th)
 Cut  open | [[Aufschneiden]] (I)
 Depart | [[Abfahren]] (I)
 Fill in | [[Ausfüllen]] (R)

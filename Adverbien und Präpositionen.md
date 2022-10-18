@@ -343,6 +343,7 @@ ins wasser -> going toward water
 
 in auf an -> lokalität
 zu only with wohin Except for Zu hause -> Wo?
+<<<<<<< HEAD
 Wohin -> nach Hause
 
 For what | Wozu
@@ -368,3 +369,10 @@ in auf an -> lokalität
 zu only with wohin Except for Zu hause -> Wo?
 Whoin -> nach Hause
 >>>>>>> f3b9819 (Added notes from September 7th)
+=======
+Whoin -> nach Hause
+
+For what | Wozu
+Ich brauche ihn/sie/es um (object) zu (verb)
+For [[Typ - Trennbare verben]]: prexif - zu - verb
+>>>>>>> 7c39919 (Added notes from September 28th)
