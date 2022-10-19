@@ -29,6 +29,9 @@ If word end in -o usually the article is Das.
 >>>>>>> 997836b (Added notes from September 5th)
 =======
 ? | Fragezeichen
+Main clause | Hauptsatz
+Relative clause | Relativsatz
+Reference word | Bezugswort
 
 
 # Notes

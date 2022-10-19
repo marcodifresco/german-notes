@@ -219,9 +219,14 @@ Von Beiden -> [[Dativ]]
 Von Beiden
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> 43eb891 (Catch-all changes on 26 03 2022.)
 =======
 >>>>>>> 49ef0fc (Catch-all changes on 29 03 2022.)
 =======
 Ich war letzte in den Ferien in den Ferien / Im Urlaub.
 >>>>>>> 081f645 (Added notes from July, 11th)
+=======
+Ich war letzte in den Ferien in den Ferien / Im Urlaub.
+Es geht mir ([[Dativ]]) gut
+>>>>>>> 35542c5 (Added notes from October 17th)

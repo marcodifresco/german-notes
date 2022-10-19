@@ -16,6 +16,7 @@ Meinung = Ansicht
 <<<<<<< HEAD
 das Gedicht = die Poesie
 Klatsch und Tratsch = Regenbogenpresse
+<<<<<<< HEAD
 Munter = Wach
 =======
 das Gedicht = die Poesie
@@ -24,3 +25,6 @@ das Gedicht = die Poesie
 das Gedicht = die Poesie
 Klatsch und Tratsch = Regenbogenpresse
 >>>>>>> 3f83583 (Added notes from September 21th)
+=======
+Munter = Wach
+>>>>>>> 35542c5 (Added notes from October 17th)
