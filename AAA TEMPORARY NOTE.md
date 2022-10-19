@@ -5,22 +5,6 @@
 [[Indikativ - Präteritum]] [[Typ - Modal verben]] Page 114
 
 
-Created: 2022-10-10 20:10
-
-
-
-Created: 2022-10-12 20:04
-Tags: #
-Links: [[]]
-___
-
-Ich bin ...(kein article)... von Beruf
-Ich arbeite im Bereich ... (sector)
-Ich arbeite als ...(kein article)... bei ([[Dativ]]) ...
-
-Ich arbeite bei (Firma) / in (Ort)
-
-Self employed | selbstöndig mein
 
 Created: 2022-10-17 20:08
 Tags: #

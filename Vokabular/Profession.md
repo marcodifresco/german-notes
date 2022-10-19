@@ -68,3 +68,7 @@ Business trip | Dienstreise
 For female version add *-in*.
 bei (employer).
 Restaurants franchises (McDonalds, Burger Kings, etc.) -> Das
+Ich bin ...(kein article)... von Beruf
+Ich arbeite im Bereich ... (sector)
+Ich arbeite als ...(kein article)... bei ([[Dativ]]) ...
+Ich arbeite bei (Firma) / in (Ort)
