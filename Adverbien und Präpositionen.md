@@ -80,6 +80,15 @@ Where to | Wohin
 Until | Bis zu
 
 
+# Time
+English | German
+------------ | ------------
+Until | Bis
+Since | Seit
+During | Während
+Before | Bevor
+
+
 # Präpositionaladverb
 ## Rule
 Worauf warter er?

@@ -6,17 +6,7 @@
 
 
 Created: 2022-10-10 20:10
-Tags: #
-Links: [[]]
-___
-Until | Bis
-Since | Seit
-During | Während
-Before | Bevor
 
-If secondary phrase is second = first sentence normal, bis/... second phrase with verbe at the end
-
-if secondary phrase first = bis/... secondary verb/verb first phrase
 
 
 Created: 2022-10-12 20:04
