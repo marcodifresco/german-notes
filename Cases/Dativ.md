@@ -97,3 +97,4 @@ Die Tasche --> Auf der Tasche
 2 Lieter von jeder (Milch)
 Von Beiden
 Ich war letzte in den Ferien in den Ferien / Im Urlaub.
+Es geht mir ([[Dativ]]) gut

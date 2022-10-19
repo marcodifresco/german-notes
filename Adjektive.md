@@ -6,6 +6,7 @@ English | German
 ------------ | ------------
 Alone | Allein[^1]
 Annoyed | Genervt
+Awake | Munter
 Balanced | Ausgeglichen
 Beautiful | Schön
 Bad | Schlecht

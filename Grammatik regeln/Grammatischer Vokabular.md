@@ -13,6 +13,9 @@ Verb | Das Verb (-en)
 Word | Das Wort (-ö-er)
 ! | Ausrufezeichen
 ? | Fragezeichen
+Main clause | Hauptsatz
+Relative clause | Relativsatz
+Reference word | Bezugswort
 
 
 # Notes
