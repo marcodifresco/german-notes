@@ -14,3 +14,9 @@ Das Fach Fächer
 [[Abbrechen]] != [[Abschliessen]] -> [[Typ - Trennbare verben]]
 
 Die Erfahrung
+
+Created: 2022-10-24 19:59
+Tags: #
+Links: [[]]
+___
+
