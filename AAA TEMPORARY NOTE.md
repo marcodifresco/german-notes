@@ -46,4 +46,13 @@ Selten?
 Ich fragte den vater / die frau / das kind [[Akkusativ]]
 
 Ich sagte dem vater der fraud dem kind [[Dativ]]
-[[Antworten]] [[Dativ]]~~
+[[Antworten]] [[Dativ]]
+
+Created: 2022-10-31 20:03
+Tags: #
+Links: [[]]
+___
+
+Gruselig
+Mo:chete -> preteritum wollte 
+regular -> ..te
