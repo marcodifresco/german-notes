@@ -18,6 +18,18 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a0120aa9c94a7ff1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Verben/Typ - Trennbare verben.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ]
       }
@@ -136,20 +148,17 @@
     "width": 300,
     "collapsed": true
   },
-  "ribbon": {
-    "mostRecentAction": ""
-  },
   "active": "4507e30e2d98243b",
   "lastOpenFiles": [
-    "Grammatik regeln/Relativsätzen.md",
+    "Verben/Typ - Trennbare verben.md",
+    "Abschliessen.md",
     "AAA TEMPORARY NOTE.md",
+    "Abbrechen.md",
+    "Verben/Konjugation/Abfahren.md",
+    "Vokabular.md",
+    "Grammatik regeln/Relativsätzen.md",
     "Grammatik regeln/Passiv.md",
     "Cases/Dativ.md",
-    "Grammatik regeln/Grammatischer Vokabular.md",
-    "Vokabular.md",
-    "Vokabular/Synonyms.md",
-    "Adjektive.md",
-    "Vokabular/Profession.md",
-    "Grammatik regeln/Befehl.md"
+    "Grammatik regeln/Grammatischer Vokabular.md"
   ]
 }

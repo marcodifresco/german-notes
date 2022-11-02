@@ -38,6 +38,7 @@ Education | Die Ausbildung (-en)
 Episode | Die Folge
 Event | Die Veranstaltung (-en) / Der Event (-s)
 Exception |  Die Aushahme (-n)
+Experience | Die Erfahrung (-en)
 Fun | Spass
 First name | Der Vorname (-n)
 Last name | Der Nachname (-n)
