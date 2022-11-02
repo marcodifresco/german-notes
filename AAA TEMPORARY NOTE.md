@@ -45,3 +45,18 @@ ___
 Gruselig
 Mo:chete -> preteritum wollte 
 regular -> ..te
+
+Created: 2022-11-02 19:54
+Tags: #
+Links: [[]]
+___
+Ich bereite etwas vor
+Ich habe etwas vorbereitet
+Ich Bereitete etwas vor
+
+Sobstitution | Die Stellvertretung
+
+Die Unterhaltung: 1) konversation; 2) eine interessante Besca:fzigung
+
+Aufenthalts/enlaubnig
+
