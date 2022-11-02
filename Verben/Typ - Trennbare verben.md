@@ -19,7 +19,10 @@ Bring along | [[Mitbringen]] (R)
 Buy | [[Einkaufen]] (R)
 Call | [[Anrufen]] (I)
 Cancel | [[Abbrechen]] (R)
+<<<<<<< HEAD
 Carry out | [[Ausfuhren]] (R)
+=======
+>>>>>>> 5b6d59f (Added notes from October 19th)
 Choose | [[Aussuchen]] (R)
 Clean up | [[Aufräumen]] (R)
 Collect | [[Abholen]] (R)
@@ -45,6 +48,7 @@ Inaugurate | [[Einweihen]] (I)
 Invite | [[Einladen]] (R)
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 Lock | [[Abschliessen]] (I)
 =======
 Look at | [[Anschauen]] #TODO 
@@ -57,6 +61,9 @@ Insert | [[Einwerfen]]
 Inaugurate | [[Einweihen]] (I)
 Invite | [[Einladen]] (R)
 >>>>>>> 251622b (Added notes from June, 13th)
+=======
+Lock | [[Abschliessen]] (I)
+>>>>>>> 5b6d59f (Added notes from October 19th)
 Offer | [[Anbieten]] (R)
 <<<<<<< HEAD
 Pull (object) off | [[Abziehen]] (I)

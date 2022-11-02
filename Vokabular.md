@@ -91,7 +91,11 @@ Event | Die Veranstaltung (-en) / Der Event (-s)
 =======
 =======
 Exception |  Die Aushahme (-n)
+<<<<<<< HEAD
 >>>>>>> f3b9819 (Added notes from September 7th)
+=======
+Experience | Die Erfahrung (-en)
+>>>>>>> 5b6d59f (Added notes from October 19th)
 Fun | Spass
 >>>>>>> 80384e7 (Added material from A1 book - chapter 12)
 First name | Der Vorname (-n)
