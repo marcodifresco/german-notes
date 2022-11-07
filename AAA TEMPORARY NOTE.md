@@ -60,3 +60,12 @@ Die Unterhaltung: 1) konversation; 2) eine interessante Besca:fzigung
 
 Aufenthalts/enlaubnig
 
+Created: 2022-11-07 20:07
+Tags: #
+Links: [[]]
+___
+
+Sich entspannen
+Sich ausruhen
+Sich relaxen = chillen = Umgangssprache
+Denkmal
