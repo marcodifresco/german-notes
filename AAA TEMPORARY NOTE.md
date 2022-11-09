@@ -69,3 +69,12 @@ Sich entspannen
 Sich ausruhen
 Sich relaxen = chillen = Umgangssprache
 Denkmal
+
+Created: 2022-11-09 20:04
+Tags: #
+Links: [[]]
+___
+
+End 30.01
+Ferien 22.12- 01.01
+Ich bin stolz
