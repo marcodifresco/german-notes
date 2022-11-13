@@ -1,6 +1,11 @@
 ___
+<<<<<<< HEAD
 Links: [[Verben]] [[Dativ]]
 Meaning:
+=======
+Tags: #Languages/German/Grammar/Verbs/Regular  
+Links: [[Verben]] [[Dativ]]
+>>>>>>> b5ffa73 (Added November 26th)
 ___
 
 # [[Modus - Indikativ]] - Präsens

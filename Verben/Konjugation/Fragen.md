@@ -1,9 +1,16 @@
 ___
+<<<<<<< HEAD
 Links: [[Verben]] [[Akkusativ]]
 Meaning:
 ___
 
 # [[Modus - Indikativ]] - Präsens
+=======
+Tags: #Languages/German/Grammar/Verbs/Regular  
+Links: [[Verben]] [[Akkusativ]]
+___
+# [[Indikativ - Präsens]]
+>>>>>>> b5ffa73 (Added November 26th)
 Ich frage
 Du fragst
 Er/Sie/Es fragt
@@ -12,12 +19,21 @@ Ihr fragt
 Sie fragen
 
 
+<<<<<<< HEAD
 # [[Modus - Indikativ]] - Präteritum
+=======
+# [[Indikativ - Perfekt]]
+[[Pronomen]] + [[Haben]] + gefragt
+
+
+# [[Indikativ - Präteritum]]
+>>>>>>> b5ffa73 (Added November 26th)
 Ich fragte
 Du fragtest
 Es/sie/es fragte
 Wir fragten
 Ihr fragtet
+<<<<<<< HEAD
 Sie fragten
 # [[Modus - Indikativ]] - Perfekt
 [[Pronomen]] + [[Haben]] + gefragt
@@ -127,3 +143,6 @@ fragend
 
 # [[Modus - Partizips]] - Perfekt
 gefragt
+=======
+Sie fragten
+>>>>>>> b5ffa73 (Added November 26th)

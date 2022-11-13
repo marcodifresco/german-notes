@@ -1,7 +1,22 @@
 ___
+<<<<<<< HEAD
 Links: [[Verben]] [[Typ - Regular verben]] [[Dativ]]
 Meaning: to answer
 ___
+=======
+Tags: #Languages/German/Grammar/Verbs/Regular  
+Links: [[Verben]] [[Dativ]]
+___
+# [[Indikativ - Präsens]]
+Pronoun|Conjugation
+------------ | ------------
+Ich antworte
+Du antwortest
+Er/Sie/Es antwortet
+Wir antworten
+Ihr antwortet
+Sie antworten
+>>>>>>> b5ffa73 (Added November 26th)
 
 # [[Modus - Indikativ]] - Präsens
 Ich antworte

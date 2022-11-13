@@ -2,8 +2,12 @@ ___
 Links: [[Verben]]
 Meaning:
 ___
+<<<<<<< HEAD
 
 # [[Modus - Indikativ]] - Präsens
+=======
+# [[Indikativ - Präsens]]
+>>>>>>> b5ffa73 (Added November 26th)
 Ich gehe
 Du gehst
 Er/Sie/Es geht
@@ -12,12 +16,21 @@ Ihr geht
 Sie gehen
 
 
+<<<<<<< HEAD
 # [[Modus - Indikativ]] - Präteritum
+=======
+# [[Indikativ - Perfekt]]
+[[Pronomen]] + [[Sein]] + egangen
+
+
+# [[Indikativ - Präteritum]]
+>>>>>>> b5ffa73 (Added November 26th)
 Ich ging
 Du ging(e)st
 Er/Sie/Es ging
 Wir gingen
 Ihr ging(e)t
+<<<<<<< HEAD
 Sie gingen
 # [[Modus - Indikativ]] - Perfekt
 Ich bin gegangen
@@ -127,3 +140,6 @@ gehend
 
 # [[Modus - Partizips]] - Perfekt
 gegangen
+=======
+Sie gingen
+>>>>>>> b5ffa73 (Added November 26th)
