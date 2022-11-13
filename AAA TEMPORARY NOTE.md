@@ -1,11 +1,6 @@
 Created: 2022-10-31 20:03
-Tags: #
-Links: [[]]
-___
 
-Gruselig
-Mo:chete -> preteritum wollte 
-regular -> ..te
+
 
 Created: 2022-11-02 19:54
 Tags: #
