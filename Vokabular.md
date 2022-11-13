@@ -107,6 +107,7 @@ Wallet | Portemonnaie
 Dress | Der Geldbeutel
 Car screen | die Glassche
 Pickpocket | Der Taschendieb
+Substitution | Die Stellvertretung
 
 # Specific combination
 English | German
