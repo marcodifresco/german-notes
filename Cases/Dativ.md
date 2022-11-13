@@ -1,3 +1,4 @@
+
 ___
 Tags: #Languages/German/Cases 
 ___
@@ -70,6 +71,7 @@ Plural -->  ...*en*
 [[Helfen]]
 [[Hören]]
 [[Leihen]]
+[[Sagen]]
 [[Schenken]]
 [[Schmecken]]
 [[Sprechen]]

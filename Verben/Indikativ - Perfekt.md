@@ -3,6 +3,8 @@ Tags: #Languages/German/Grammar/Verbs
 Links: [[Verben]] [[Modus - Indikativ]]
 ___
 # Conjugation Perfekt
+im Alltag, jeden tag, kurze Nachrichten, e-mails.
+
 For [[Verben]] in one place:
 [[Pronomen]] + [[Haben]] + **ge**VERB
 
