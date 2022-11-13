@@ -263,7 +263,11 @@ Wallet | Portemonnaie
 Dress | Der Geldbeutel
 Car screen | die Glassche
 Pickpocket | Der Taschendieb
+<<<<<<< HEAD
 >>>>>>> 7c39919 (Added notes from September 28th)
+=======
+Substitution | Die Stellvertretung
+>>>>>>> 80fb4eb (Cleared notes)
 
 # Specific combination
 English | German
