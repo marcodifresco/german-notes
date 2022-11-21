@@ -43,6 +43,7 @@ Some | Etwas
 Sometime | Manchmal
 Still | Noch
 Than | Als
+This time | Diesmal
 Too | Zu
 Unintentionally | Unabsichtlich
 Urgently | Dringend
@@ -178,3 +179,5 @@ Whoin -> nach Hause
 For what | Wozu
 Ich brauche ihn/sie/es um (object) zu (verb)
 For [[Typ - Trennbare verben]]: prexif - zu - verb
+
+Gar xxx = xxx absolutely 

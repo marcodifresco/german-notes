@@ -30,6 +30,7 @@ Modern | Modern
 Old | Alt
 Oversalted | Versalzen
 Polite | Höflich (opposite: un-)
+Possible | Möglichst
 Pregnant | Schwanger
 Professional | Beruflich
 Real | Echt
