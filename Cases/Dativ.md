@@ -2,6 +2,7 @@
 ___
 Tags: #Languages/German/Cases 
 ___
+The dative case is used to indicate the recipient or beneficiary of an action. The normal word order in German is to put the dative in front of the accusative. However, since the German dative is marked in form, it can also be put after the accusative: Ich schickte das Buch dem Mann(e).
 
 # Artikel
 [[Nominativ]] | [[Dativ]]
