@@ -86,10 +86,14 @@ Sometime | Manchmal
 Still | Noch
 Than | Als
 <<<<<<< HEAD
+<<<<<<< HEAD
 This time | Diesmal
 Through | Durch
 =======
 >>>>>>> a98b676 (Added notes from June, 25th)
+=======
+This time | Diesmal
+>>>>>>> 476c583 (Added notes from November 14th)
 Too | Zu
 Unintentionally | Unabsichtlich
 <<<<<<< HEAD
@@ -384,4 +388,9 @@ Whoin -> nach Hause
 For what | Wozu
 Ich brauche ihn/sie/es um (object) zu (verb)
 For [[Typ - Trennbare verben]]: prexif - zu - verb
+<<<<<<< HEAD
 >>>>>>> 7c39919 (Added notes from September 28th)
+=======
+
+Gar xxx = xxx absolutely 
+>>>>>>> 476c583 (Added notes from November 14th)
