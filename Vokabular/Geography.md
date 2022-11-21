@@ -2,6 +2,7 @@
 English | German
 ------------ | ------------
 Country | Das Land (Länder)
+Downtown | Die Stadtmitte
 Town | Die Stadt (Städte)
 Street | Die Strasse (-n)
 Sea | Das Meer

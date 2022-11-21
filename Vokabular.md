@@ -33,6 +33,7 @@ Companion | Der Begleiter
 Consequence | Die Folge (-n)
 Conversation | Das Gespräch (-e)
 Desk (for receiving customers) | Der Schalter
+Dice | Der Würfel (-)
 Edge | Der Rand
 Education | Die Ausbildung (-en)
 Episode | Die Folge

@@ -59,6 +59,7 @@ Without | Ohne
 # Location
 English | German
 ------------ | ------------
+Above | Über
 Along | Entlang
 Around | Um ... herum
 At | An
@@ -68,16 +69,20 @@ By the... | An ... vorbei
 From | Vor
 In | Im
 In front of | Gegenüber
-In front | An
+In front | Vor
+Inside | In
 Near | Neben
 Next | Nächstes
-Over | Auf
+On top | Auf
+On the side | An
+On the back | Hinter
 Straight ahead | Geradeaus
 Through | Durch
 To | Nach
 Where | Wo
 Where from | Woher
 Where to | Wohin
+Under | Unter
 Until | Bis zu
 
 
