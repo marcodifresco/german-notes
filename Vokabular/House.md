@@ -4,8 +4,21 @@ Links: [[Vokabular]]
 ___
 # Rooms
 English | German
+
 ------------ | ------------
+Balcon | Der Balkon (-e)
+Basement | Der Keller (-)
+Bathroom | Das Bath
+Bedroom | Das Schlafzimmer
+Garage | Die Garage (-n)
+Kitchen | die Küche
+Living room | Das Wohnzimmer
+Office | Das Arbeitszimmer
 Room | Das Zimmer (-)
+Stairs | Die Treppe (-)
+Toilette | Die Toilette
+First Floor | Der erste Stock
+Ground floor | Das Erdgeschoss
 
 # Furniture
 English | German
@@ -21,6 +34,7 @@ Painting | Das Bild (-er)
 Sofa | Das Sofa (-s)
 Table | Der Tisch (-e)
 Wardrobe | Der Schrank (-ä-e)
+Window | Das Fenster (-)
 
 # General objects
 English | German
@@ -33,8 +47,14 @@ Painting | Das Bild (-er)
 # Other
 English | German
 ------------ | ------------
+Apartment | Die Wohnung (-en)
 House | Haus
 Home | Hause
+Landlord | Vermieter
+Additional cost | Die Nebenkosten
+Furnished | Möbliert
+Rent | Die Miete
+Renter | Der Mieter
 
 *Examples:*
 Nach Hause = my House
