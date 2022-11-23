@@ -1,6 +1,6 @@
 ___
 Tags: #Languages/German/Grammar/Verbs 
-Links: [[Verben]]
+Links: [[Verben]] [[Akkusativ]]
 ___
 # [[Indikativ - Präsens]]
 Pronoun|Conjugation

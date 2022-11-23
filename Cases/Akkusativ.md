@@ -55,10 +55,10 @@ zum -> zu dem (der / das)
 zur -> zu der (die)
 
 # [[Adjektive]]
-Der --> Einem ...*en*
-Das --> Einem ...*es*
-Sie --> Einem ...*e*
-Plural -->  ...*e*
+Der --> Den / Einem ...*en*
+Das --> Ein ...*es*
+Sie --> Eine ...*e*
+Plural -->  die/Ø ...*e*
 
 # [[Verben]]
 [[Abholen]]
