@@ -3,7 +3,10 @@
 Nomen + verb + Adjectiv (no changes)
 Adjective + Endung (e/es) + Nomen
 If sentence start with **Dieses**, end is just -e.
+<<<<<<< HEAD
 Wer/Was
+=======
+>>>>>>> 68a052b (Added notes from November 21st)
 
 ## Changes
 Der --> Der ...e / Ein ...*er*

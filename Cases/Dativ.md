@@ -167,11 +167,19 @@ zur -> zu der (die)
 im -> in dem (der / das)
 am -> an dem (der / das)
 
+<<<<<<< HEAD
 # [[Adjectives]]
 Der --> Einem ...*en*
 Das --> Einem ...*en*
 Sie --> Einem ...*en*
 Plural -->  ...*en*
+=======
+# [[Adjektive]]
+Der --> Dem/Einem ...*en*
+Das --> Des/Einem ...*en*
+Sie --> Der/Einer ...*en*
+Plural --> Den/Ø ...*en*
+>>>>>>> 68a052b (Added notes from November 21st)
 
 # [[Verbs]]
 [[Antworten]]

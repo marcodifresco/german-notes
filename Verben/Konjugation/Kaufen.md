@@ -1,6 +1,11 @@
 ___
+<<<<<<< HEAD
 Links: [[Verben]] [[Akkusativ]]
 Meaning:
+=======
+Tags: #Languages/German/Grammar/Verbs 
+Links: [[Verben]] [[Akkusativ]]
+>>>>>>> 68a052b (Added notes from November 21st)
 ___
 
 # [[Modus - Indikativ]] - Präsens

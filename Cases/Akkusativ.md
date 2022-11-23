@@ -199,11 +199,18 @@ zum -> zu dem (der / das)
 zur -> zu der (die)
 
 # [[Adjektive]]
+<<<<<<< HEAD
 >>>>>>> 67119d6 (Added notes from June, 22nd)
 Der --> Einem ...*en*
 Das --> Einem ...*es*
 Sie --> Einem ...*e*
 Plural -->  ...*e*
+=======
+Der --> Den / Einem ...*en*
+Das --> Ein ...*es*
+Sie --> Eine ...*e*
+Plural -->  die/Ø ...*e*
+>>>>>>> 68a052b (Added notes from November 21st)
 
 # [[Verbs]]
 [[Abholen]]
