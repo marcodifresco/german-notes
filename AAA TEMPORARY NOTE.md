@@ -14,3 +14,13 @@ Ladder | Die Leiter
 Boss | Der Leiter
 Siezen = Sie Sagen
 Duzen = Du sagen
+
+Created: 2022-11-28 20:02
+Tags: #
+Links: [[]]
+___
+Untertützen
+Aufallen
+Die Workenntnisse
+Erledigen (Arbeit, Aufgaben)
+Zuvenlässig
