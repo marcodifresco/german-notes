@@ -68,6 +68,7 @@ Plural --> Den/Ø ...*en*
 [[Fallen]]
 [[Glauben]]
 [[Geben]]
+[[Gehen]]
 [[Helfen]]
 [[Hören]]
 [[Leihen]]
