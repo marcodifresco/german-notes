@@ -1,9 +1,16 @@
 ___
+<<<<<<< HEAD
 Links: [[Verben]] 
 Meaning:
 ___
 
 # [[Modus - Indikativ]] - Präsens
+=======
+Tags: #Languages/German/Grammar/Verbs/Regular 
+Links: [[Verben]] 
+___
+# [[Indikativ - Präsens]]
+>>>>>>> f2adbb7 (Added notes from November 28th)
 ich erledige
 du erledigst
 er/sie/es erledigt
@@ -12,6 +19,7 @@ ihr erledigt
 Sie erledigen
 
 
+<<<<<<< HEAD
 # [[Modus - Indikativ]] - Präteritum
 ich erledigte
 du erledigtest
@@ -126,3 +134,7 @@ erledigend
 
 # [[Modus - Partizips]] - Perfekt
 erledigt
+=======
+# [[Indikativ - Perfekt]]
+[[Pronomen]] + [[Sein]] + erledigt
+>>>>>>> f2adbb7 (Added notes from November 28th)

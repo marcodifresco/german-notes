@@ -6,9 +6,13 @@ English | German
 ------------ | ------------
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 Accomplish (work, tasks) | [[Erledigen]]
 =======
 >>>>>>> 31e5a1c (Added notes from June, 16th)
+=======
+Accomplish (work, tasks) | [[Erledigen]]
+>>>>>>> f2adbb7 (Added notes from November 28th)
 Accompany | [[Begleiten]]
 Admire | [[Bewundern]]
 Advise | [[Beraten]]
