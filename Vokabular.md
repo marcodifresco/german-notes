@@ -2,7 +2,7 @@ ___
 Tags: #Languages/German/Vocabulary 
 ___
 # Specific categories:
-| [[Colors]] | [[Family]] | [[Food]] | [[Geography]] | [[Health]] | [[House]] | [[Nature]] | [[Numbers]] | [[Profession]] | [[Quantity]] | [[Time]] | [[Weather]] | 
+| [[Colors]] | [[Family]] | [[Food]] | [[Geography]] | [[Health]] | [[House]] | [[Nature]] | [[Numbers]] | [[Work place]] | [[Quantity]] | [[Time]] | [[Weather]] | 
 
 # Phrases
 | [[Common phrases]] | [[Synonyms]] | [[Switzerland variations]]  |
@@ -109,6 +109,8 @@ Dress | Der Geldbeutel
 Car screen | die Glassche
 Pickpocket | Der Taschendieb
 Substitution | Die Stellvertretung
+Steering wheel | Das Steuer
+Ladder | Die Leiter
 
 # Specific combination
 English | German
