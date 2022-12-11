@@ -3,10 +3,14 @@ Tags: #Languages/German/Vocabulary
 ___
 # Specific categories:
 <<<<<<< HEAD
+<<<<<<< HEAD
 | [[Colors]] | [[Family]] | [[Food]] | [[Geography]] | [[Health]] | [[House]] | [[Nature]] | [[Numbers]] | [[Work place]] | [[Quantity]] | [[Time]] | [[Weather]] | 
 =======
 | [[Colors]] | [[Family]] | [[Food]] | [[Geography]] | [[Health]] | [[House]] | [[Nature]] | [[Numbers]] | [[Profession]] | [[Quantity]] | [[Time]] | [[Weather]] | 
 >>>>>>> a98b676 (Added notes from June, 25th)
+=======
+| [[Colors]] | [[Family]] | [[Food]] | [[Geography]] | [[Health]] | [[House]] | [[Nature]] | [[Numbers]] | [[Work place]] | [[Quantity]] | [[Time]] | [[Weather]] | 
+>>>>>>> a6ef3da (Added notes from November 23st)
 
 # Phrases
 | [[Common phrases]] | [[Synonyms]] | [[Switzerland variations]] |
@@ -267,7 +271,12 @@ Pickpocket | Der Taschendieb
 >>>>>>> 7c39919 (Added notes from September 28th)
 =======
 Substitution | Die Stellvertretung
+<<<<<<< HEAD
 >>>>>>> 80fb4eb (Cleared notes)
+=======
+Steering wheel | Das Steuer
+Ladder | Die Leiter
+>>>>>>> a6ef3da (Added notes from November 23st)
 
 # Specific combination
 English | German
