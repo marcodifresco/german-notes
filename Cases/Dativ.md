@@ -45,6 +45,14 @@ Unser | unserem | unserer | unserem | unseren
 Euer | eurem | eurer | eurem | euren
 Ihr | ihrem | ihrer | ihrem | ihren
 
+# Relativepronomen
+[[Nominativ]] | [[Dativ]]
+-----|-----
+Der | Dem
+Die | Der
+Das | Dem
+Die | Denen
+
 # [[Vokabular|Nouns]]
 Plural --> ...n
 
@@ -82,6 +90,7 @@ Plural --> Den/Ø ...*en*
 
 # Situations
 Wer?
+Wem? 
 mit....
 seirt/vor....
 von

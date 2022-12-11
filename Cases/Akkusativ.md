@@ -61,6 +61,7 @@ Sie --> Eine ...*e*
 Plural -->  die/Ø ...*e*
 
 # [[Verben]]
+[[Ärgern]]
 [[Abholen]]
 [[Andenken]]
 [[Anrufen]]
@@ -97,6 +98,7 @@ Sich [[Freuen]] auf über
 Sich [[Interessieren]] für
 Sich [[Kümmern]] um
 [[Denken]] an
+[[Freuen]] über 
 
 # Examples
 Ein roh**en** Schinken (der)
