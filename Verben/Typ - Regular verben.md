@@ -4,6 +4,7 @@ Links: [[Verben]]
 ___
 English | German
 ------------ | ------------
+Accomplish (work, tasks) | [[Erledigen]]
 Accompany | [[Begleiten]]
 Admire | [[Bewundern]]
 Annoy | [[Ärgern]]

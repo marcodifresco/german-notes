@@ -34,6 +34,7 @@ Possible | Möglichst
 Pregnant | Schwanger
 Professional | Beruflich
 Real | Echt
+Reliable | Zuverlässig
 Relaxed | Entspannt
 Restless | Restlos
 Round | Rund
