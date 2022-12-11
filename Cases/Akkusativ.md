@@ -212,7 +212,12 @@ Sie --> Eine ...*e*
 Plural -->  die/Ø ...*e*
 >>>>>>> 68a052b (Added notes from November 21st)
 
+<<<<<<< HEAD
 # [[Verbs]]
+=======
+# [[Verben]]
+[[Ärgern]]
+>>>>>>> bbb52f9 (Added notes from December 07th)
 [[Abholen]]
 [[Andenken]]
 [[Anrufen]]
@@ -249,6 +254,7 @@ Sich [[Freuen]] auf über
 Sich [[Interessieren]] für
 Sich [[Kümmern]] um
 [[Denken]] an
+[[Freuen]] über 
 
 # Examples
 <<<<<<< HEAD

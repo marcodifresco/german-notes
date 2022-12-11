@@ -158,7 +158,19 @@ Unser | unserem | unserer | unserem | unseren
 Euer | eurem | eurer | eurem | euren
 Ihr | ihrem | ihrer | ihrem | ihren
 
+<<<<<<< HEAD
 # [[Vocabulary|Nouns]]
+=======
+# Relativepronomen
+[[Nominativ]] | [[Dativ]]
+-----|-----
+Der | Dem
+Die | Der
+Das | Dem
+Die | Denen
+
+# [[Vokabular|Nouns]]
+>>>>>>> bbb52f9 (Added notes from December 07th)
 Plural --> ...n
 
 # Preposition
@@ -203,6 +215,7 @@ Plural --> Den/Ø ...*en*
 
 # Situations
 Wer?
+Wem? 
 mit....
 seirt/vor....
 von
