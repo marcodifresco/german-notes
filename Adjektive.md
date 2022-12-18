@@ -36,6 +36,7 @@ Professional | Beruflich
 Real | Echt
 Reliable | Zuverlässig
 Relaxed | Entspannt
+Responsible | Zuständige
 Restless | Restlos
 Round | Rund
 Sad | Traurig

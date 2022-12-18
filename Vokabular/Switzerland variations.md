@@ -24,3 +24,4 @@ Das Briefumschlag | Das  Kuvert
 [[Konfiszieren]] | Wegnehmen
 Motorrad | Das Töff
 Geldbörse | Portemonnaie
+Verärgert | Hässig

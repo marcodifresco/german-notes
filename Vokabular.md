@@ -69,6 +69,7 @@ Person | Der Man
 People | Die Menschen
 People | Die Leute
 Pen | Der Stift (-e)
+Phone queue | Die Warteschleife
 Plastic | Das Plastik
 Price | Der Preis (-e)
 Printer | Der Drucker (-)
