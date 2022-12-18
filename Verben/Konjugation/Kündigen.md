@@ -1,9 +1,16 @@
 ___
+<<<<<<< HEAD
 Links: [[Verben]]
 Meaning:
 ___
 
 # [[Modus - Indikativ]] - Präsens
+=======
+Tags: #Languages/German/Grammar/Verbs/Regular 
+Links: [[Verben]]
+___
+# [[Indikativ - Präsens]]
+>>>>>>> 0025884 (Added notes from December 14th)
 ich kündige
 du kündigst
 er/sie/es kündigt
@@ -11,6 +18,7 @@ wir kündigen
 ihr kündigt
 Sie kündigen
 
+<<<<<<< HEAD
 # [[Modus - Indikativ]] - Präteritum
 ich kündigte
 du kündigtest
@@ -127,3 +135,7 @@ kündigend
 
 # [[Modus - Partizips]] - Perfekt
 gekündigt
+=======
+# [[Indikativ - Perfekt]]
+[[Pronomen]] + [[Haben]] + gekündigt
+>>>>>>> 0025884 (Added notes from December 14th)

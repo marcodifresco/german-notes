@@ -171,9 +171,15 @@ People | Die Menschen
 People | Die Leute
 Pen | Der Stift (-e)
 Phone queue | Die Warteschleife
+<<<<<<< HEAD
 Plastic  | Das Plastik
 Price  | Der Preis (-e)
 Printer  | Der Drucker (-)
+=======
+Plastic | Das Plastik
+Price | Der Preis (-e)
+Printer | Der Drucker (-)
+>>>>>>> 0025884 (Added notes from December 14th)
 Question | Die Frage (-n)
 Quantity | Die Menge
 Randomly | Zufällig

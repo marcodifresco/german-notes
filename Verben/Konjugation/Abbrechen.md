@@ -1,9 +1,16 @@
 ___
+<<<<<<< HEAD
 Links: [[Verben]] [[Typ - Regular verben]] [[Typ - Trennbare verben]]
 Meaning: to cancel
 ___
 
 # [[Modus - Indikativ]] - Präsens
+=======
+Tags: #Languages/German/Grammar/Verbs/Regular 
+Links: [[Verben]] [[Typ - Trennbare verben]]
+___
+# [[Indikativ - Präsens]]
+>>>>>>> 0025884 (Added notes from December 14th)
 ich breche ab
 du brichst ab
 er/sie/es bricht ab
@@ -11,6 +18,7 @@ wir brechen ab
 ihr brecht ab
 Sie brechen ab
 
+<<<<<<< HEAD
 # [[Modus - Indikativ]] - Präteritum
 ich brach ab
 du brachst ab
@@ -126,3 +134,8 @@ abbrechend
 
 # [[Modus - Partizips]] - Perfekt
 abgebrochen
+=======
+
+# [[Indikativ - Perfekt]]
+[[Pronomen]] + [[Haben]] + abgebrochen
+>>>>>>> 0025884 (Added notes from December 14th)

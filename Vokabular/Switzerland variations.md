@@ -29,6 +29,7 @@ Das Briefumschlag | Das  Kuvert
 Motorrad | Das Töff
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 Geldbörse | Portemonnaie
 Verärgert | Hässig
 09:00 | Znuni
@@ -48,3 +49,7 @@ Das Briefumschlag | Das  Kuvert
 =======
 Geldbörse | Portemonnaie
 >>>>>>> 7c39919 (Added notes from September 28th)
+=======
+Geldbörse | Portemonnaie
+Verärgert | Hässig
+>>>>>>> 0025884 (Added notes from December 14th)

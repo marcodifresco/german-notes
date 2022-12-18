@@ -31,6 +31,9 @@ Belong | [[Gehören]]
 Breakfast | [[Früstüchen]]
 Buy | [[Kaufen]]
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 0025884 (Added notes from December 14th)
 Cancel (for subscribtions) | [[Kündigen]]
 Celebrate | [[Feiern]]
 =======
@@ -42,9 +45,13 @@ Celebrate | [[Feiern]]
 Change | [[Ändern]]
 Climbing | [[Klettern]]
 <<<<<<< HEAD
+<<<<<<< HEAD
 Commute | [[Pendeln]]
 =======
 >>>>>>> cecf110 (Added notes from July, 13rd)
+=======
+Commute | [[Pendeln]]
+>>>>>>> 0025884 (Added notes from December 14th)
 Complete (fill inn) | [[Ergänzen]]
 Copy | [[Kopieren]]
 <<<<<<< HEAD

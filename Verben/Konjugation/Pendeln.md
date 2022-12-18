@@ -1,16 +1,25 @@
 ___
+<<<<<<< HEAD
 Links: [[Verben]]
 Meaning:
 ___
 
 # [[Modus - Indikativ]] - Präsens
 Ich pendle
+=======
+Tags: #Languages/German/Grammar/Verbs/Regular  
+Links: [[Verben]]
+___
+# [[Indikativ - Präsens]]
+Ich pende
+>>>>>>> 0025884 (Added notes from December 14th)
 Du pendelst
 Er/sie/es pendelt
 Wir pendeln
 Ihr pendelt
 Sie pendeln
 
+<<<<<<< HEAD
 # [[Modus - Indikativ]] - Präteritum
 Ich pendelte
 Du pendeltest
@@ -127,3 +136,7 @@ pendelnd
 
 # [[Modus - Partizips]] - Perfekt
 gependelt
+=======
+# [[Indikativ - Perfekt]]
+[[Pronomen]] + [[Sein]] + gependelt
+>>>>>>> 0025884 (Added notes from December 14th)
