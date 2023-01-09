@@ -18,3 +18,17 @@ Ich gehe zur Arbeit, obwohl ich krank bin
 aber -> unlogische Folge -> leitet den Hauptsatz ein, da Verb steht an Position 2
 trotzdem -> unlogische Folge -> leitet den Hauptsatz ein, das verb steht an Position 2
 obwhol -> Gegengrund -> 
+
+
+Created: 2023-01-09 20:00
+Tags: #
+Links: [[]]
+___
+
+künstliche != not  naturlish ˜
+wird future
+Overwhelmed | Überfordert
+Around the clock | Rund um die Uhr
+Employee | Der angestellte (-en)
+Employer | Der angestellter (-en)
+[[Vorstellen]] -> [[Typ - Trennbare verben]]
