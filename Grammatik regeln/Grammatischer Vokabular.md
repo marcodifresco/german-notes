@@ -16,6 +16,8 @@ Word | Das Wort (-ö-er)
 Main clause | Hauptsatz
 Relative clause | Relativsatz
 Reference word | Bezugswort
+Reason phrase | Der Grund
+Consequence phrase  | Die Folge
 
 
 # Notes
