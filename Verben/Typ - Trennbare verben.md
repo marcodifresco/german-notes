@@ -42,6 +42,9 @@ Get out | [[Aussteigen]] (R)
 Join | [[Beitreten]] (I)
 Keep in mind | [[Andenken]] (R)
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 586ee46 (Added notes from January 9th)
 Imagine | [[Vorstellen]] (R)
 Insert | [[Einwerfen]] (R)
 Inaugurate | [[Einweihen]] (I)

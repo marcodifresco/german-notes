@@ -1,9 +1,16 @@
 ___
+<<<<<<< HEAD
 Links: [[Verben]] [[Typ - Irregular verben]] [[Typ - Trennbare verben]]
 Meaning: to complete
 ___
 
 # [[Modus - Indikativ]] - Präsens
+=======
+Tags: #Languages/German/Grammar/Verbs/Irregular  
+Links: [[Verben]] [[Typ - Trennbare verben]]
+___
+# [[Indikativ - Präsens]]
+>>>>>>> 586ee46 (Added notes from January 9th)
 ich schliesse ab
 du schliesst ab
 er/sie/es schliesst ab
@@ -11,6 +18,7 @@ wir schliessen ab
 ihr schliesst ab
 Sie schliessen ab
 
+<<<<<<< HEAD
 # [[Modus - Indikativ]] - Präteritum
 ich schloss ab
 du schlossest ab
@@ -127,3 +135,8 @@ abschliessend
 
 # [[Modus - Partizips]] - Perfekt
 abgeschlossen
+=======
+
+# [[Indikativ - Perfekt]]
+[[Pronomen]] + [[Haben]] + abgeschlossen
+>>>>>>> 586ee46 (Added notes from January 9th)

@@ -1,9 +1,16 @@
 ___
+<<<<<<< HEAD
 Links: [[Verben]] [[Typ - Trennbare verben]]
 Meaning:
 ___
 
 # [[Modus - Indikativ]] - Präsens
+=======
+Tags: #Languages/German/Grammar/Verbs/Regular 
+Links: [[Verben]] [[Typ - Trennbare verben]]
+___
+# [[Indikativ - Präsens]]
+>>>>>>> 586ee46 (Added notes from January 9th)
 ich stelle vor
 du stellst vor
 er/sie/es stellt vor
@@ -11,6 +18,7 @@ wir stellen vor
 ihr stellt vor
 Sie stellen vor
 
+<<<<<<< HEAD
 # [[Modus - Indikativ]] - Präteritum
 ich stellte vor
 du stelltest vor
@@ -127,3 +135,7 @@ vorstellend
 
 # [[Modus - Partizips]] - Perfekt
 vorgestellt
+=======
+# [[Indikativ - Perfekt]]
+[[Pronomen]] + [[Haben]] + vorgestellt
+>>>>>>> 586ee46 (Added notes from January 9th)
