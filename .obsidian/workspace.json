@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AAA TEMPORARY NOTE.md",
+                "file": "Verben/Konjugation/Abbrechen.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,10 +49,10 @@
               "type": "search",
               "state": {
                 "query": "",
-                "matchingCase": true,
+                "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
-                "extraContext": false,
+                "extraContext": true,
                 "sortOrder": "alphabetical"
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AAA TEMPORARY NOTE.md",
+                "file": "Verben/Konjugation/Abbrechen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AAA TEMPORARY NOTE.md",
+                "file": "Verben/Konjugation/Abbrechen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AAA TEMPORARY NOTE.md"
+                "file": "Verben/Konjugation/Abbrechen.md"
               }
             }
           }
@@ -148,15 +148,15 @@
   },
   "active": "4b565b5e7ec8560e",
   "lastOpenFiles": [
-    "Verben/Konjugation/Anziehen.md",
+    "Verben/Konjugation/Abfahren.md",
+    "Untitled.canvas",
+    "Verben/Konjugation/Abbrechen.md",
+    "Verben/Typ - Trennbare verben.md",
     "Verben/Typ - Regular verben.md",
     "Verben.md",
-    "Verben/Konjugation/Ziehen.md",
     "AAA TEMPORARY NOTE.md",
-    "Verben/Konjugation/Träumen.md",
-    "Verben/Konjugation/Fürchten.md",
-    "Verben/Konjugation/Erzählen.md",
-    "Verben/Konjugation/Freuen.md",
-    "Adverbien und Präpositionen.md"
+    "Verben/Konjugation/Anziehen.md",
+    "Verben/Konjugation/Ziehen.md",
+    "Verben/Konjugation/Träumen.md"
   ]
 }

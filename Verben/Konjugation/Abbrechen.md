@@ -1,6 +1,6 @@
-___
-Tags: #Languages/German/Grammar/Verbs/Regular 
-Links: [[Verben]] [[Typ - Trennbare verben]]
+__
+Links: [[Verben]] [[Typ - Regular verben]] [[Typ - Trennbare verben]]
+Meaning: Cancel
 ___
 # [[Indikativ - Präsens]]
 ich breche ab
@@ -9,7 +9,6 @@ er/sie/es bricht ab
 wir brechen ab
 ihr brecht ab
 Sie brechen ab
-
 
 # [[Indikativ - Perfekt]]
 [[Pronomen]] + [[Haben]] + abgebrochen
