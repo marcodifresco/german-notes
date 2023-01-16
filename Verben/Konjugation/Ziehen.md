@@ -1,6 +1,10 @@
 ___
 Links: [[Verben]] - [[Typ - Irregular verben]]
+<<<<<<< HEAD
 Meaning: to Pull
+=======
+Meaning: Pull
+>>>>>>> 42fa620 (Catch-all changes on 17 01 2023.)
 ___
 
 # [[Modus - Indikativ]] - Präsens
@@ -151,13 +155,18 @@ gezogen
 # Variants
 English |German
 ------------ | ------------
-Pull it off | [[Abziehen]]
+Pull (object) off | [[Abziehen]]
 Dress / Put on | [[Anziehen]]
 Take off | [[Ausziehen]]
 Relate | [[Beziehen]]
 Move in| [[Einziehen]]
 Revoke | [[Entziehen]]
+Educate | [[Erziehen]]
 Evade | [[Hinterziehen]]
 Pulling up | [[Hochziehen]]
 Move (Relocate) | [[Umziehen]]
+<<<<<<< HEAD
 >>>>>>> 7831a69 (Added notes from January 11th)
+=======
+Forgive | [[Verziehen]]
+>>>>>>> 42fa620 (Catch-all changes on 17 01 2023.)
