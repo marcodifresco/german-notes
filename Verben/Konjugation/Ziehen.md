@@ -15,3 +15,16 @@ Sie | ziehen
 
 # [[Indikativ - Perfekt]]
 [[Pronomen]] + [[Sein]] + gezogen
+
+# Variants
+English |German
+------------ | ------------
+Pull it off | [[Abziehen]]
+Dress / Put on | [[Anziehen]]
+Take off | [[Ausziehen]]
+Relate | [[Beziehen]]
+Move in| [[Einziehen]]
+Revoke | [[Entziehen]]
+Evade | [[Hinterziehen]]
+Pulling up | [[Hochziehen]]
+Move (Relocate) | [[Umziehen]]

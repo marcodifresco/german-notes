@@ -15,3 +15,6 @@ Sie | warten
 
 # [[Indikativ - Perfekt]]
 [[Pronomen]] + [[Haben]] / [[Sein]] + geVERB
+
+# Uses
+[[Warten]] auf: Ich warte auf den Bus

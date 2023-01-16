@@ -15,3 +15,6 @@ Sie | ärgern
 
 # [[Indikativ - Perfekt]]
 [[Pronomen]] + [[Haben]] + geärgert
+
+# Uses
+Sich [[Ärgern]] über: Ich ärgere mich über die Nachbarn

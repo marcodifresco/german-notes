@@ -117,13 +117,15 @@ Für | Vofür | Dafür
 
 
 # With verbs
-Sich [[Freuen]] auf + [[Akkusativ]]
 Sich [[Ärgern]] über + [[Akkusativ]]
 Lust [[Haben]] auf + [[Akkusativ]]
-Sich [[Ärgern]] über + [[Akkusativ]]
+Sich [[Freuen]] auf + [[Akkusativ]]
+Sich [[Freuen]] über: ich freue mich über den Kurs. (was hetzt in diesem Moment ist)
+Sich [[Fürchten]] vor
 [[Schreiben]] an [[Akkusativ]]
 [[Träumen]] von + [[Dativ]]
 Zufrieden [[Sein]] mit + [[Dativ]]
+
 
 
 # Notes
