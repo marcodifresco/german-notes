@@ -1,16 +1,3 @@
-Created: 2023-01-09 20:00
-Tags: #
-Links: [[]]
-___
-
-künstliche != not  naturlish ˜
-wird future
-Overwhelmed | Überfordert
-Around the clock | Rund um die Uhr
-Employee | Der angestellte (-en)
-Employer | Der angestellter (-en)
-[[Vorstellen]] -> [[Typ - Trennbare verben]]
-
 Created: 2023-01-11 20:03
 Tags: #
 Links: [[]]

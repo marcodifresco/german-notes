@@ -8,6 +8,7 @@ English | German
 About this | Davon
 All clear? | Alles klar?
 Apply now | Bewirb dich
+Around the clock | Rund um die Uhr
 Correct | Stimmt
 Dress up | Sich verklliden
 For example: | Zum Beispiel:

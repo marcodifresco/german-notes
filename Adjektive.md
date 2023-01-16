@@ -6,6 +6,7 @@ English | German
 ------------ | ------------
 Alone | Allein[^1]
 Annoyed | Genervt
+Artificia | Künstliche
 Awake | Munter
 Balanced | Ausgeglichen
 Beautiful | Schön
@@ -29,6 +30,7 @@ Melted | Geschmolzzen
 Modern | Modern
 Old | Alt
 Oversalted | Versalzen
+Overwhelmed | Überfordert
 Polite | Höflich (opposite: un-)
 Possible | Möglichst
 Pregnant | Schwanger
