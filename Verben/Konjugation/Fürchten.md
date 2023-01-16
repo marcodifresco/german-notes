@@ -1,4 +1,5 @@
 ___
+<<<<<<< HEAD
 Links: [[Verben]]
 Meaning:
 ___
@@ -129,3 +130,21 @@ fürchtend
 
 # [[Modus - Partizips]] - Perfekt
 gefürchtet
+=======
+Tags: #Languages/German/Grammar/Verbs/Regular  
+Links: [[Verben]]
+___
+# [[Indikativ - Präsens]]
+ich fürchte
+du fürchtest
+er/sie/es fürchte
+twir fürchten
+ihr fürchtet
+Sie fürchten
+
+# [[Indikativ - Perfekt]]
+[[Pronomen]] + [[Haben]] + gefürchtet
+
+# Uses
+Sich [[Fürchten]] vor
+>>>>>>> 7831a69 (Added notes from January 11th)

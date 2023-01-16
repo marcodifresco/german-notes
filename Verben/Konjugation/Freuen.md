@@ -149,4 +149,11 @@ Sie | freuen
 
 # [[Indikativ - Perfekt]]
 [[Pronomen]] + [[Haben]] + gefreut
+<<<<<<< HEAD
 >>>>>>> ac65051 (Added notes from August 28th)
+=======
+
+# Uses
+Sich [[Freuen]] auf: Ich freue mich auf das Wochenende. (etwas, was kommit)
+Sich [[Freuen]] über: ich freue mich über den Kurs. (was hetzt in diesem Moment ist)
+>>>>>>> 7831a69 (Added notes from January 11th)

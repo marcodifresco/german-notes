@@ -11,6 +11,7 @@ wir ziehen
 ihr zieht
 Sie ziehen
 
+<<<<<<< HEAD
 # [[Modus - Indikativ]] - Präteritum
 ich zog
 du zogst
@@ -143,3 +144,20 @@ ziehend
 
 # [[Modus - Partizips]] - Perfekt
 gezogen
+=======
+# [[Indikativ - Perfekt]]
+[[Pronomen]] + [[Sein]] + gezogen
+
+# Variants
+English |German
+------------ | ------------
+Pull it off | [[Abziehen]]
+Dress / Put on | [[Anziehen]]
+Take off | [[Ausziehen]]
+Relate | [[Beziehen]]
+Move in| [[Einziehen]]
+Revoke | [[Entziehen]]
+Evade | [[Hinterziehen]]
+Pulling up | [[Hochziehen]]
+Move (Relocate) | [[Umziehen]]
+>>>>>>> 7831a69 (Added notes from January 11th)

@@ -18,6 +18,7 @@ Wir ärgern
 Ihr ärgert
 Sie ärgern
 
+<<<<<<< HEAD
 # [[Modus - Indikativ]] - Präteritum
 Ich ärgerte
 Du ärgertest
@@ -134,3 +135,10 @@ Sie hätten geärgert
 
 # [[Modus - Partizips]] - Perfekt
 geärgert
+=======
+# [[Indikativ - Perfekt]]
+[[Pronomen]] + [[Haben]] + geärgert
+
+# Uses
+Sich [[Ärgern]] über: Ich ärgere mich über die Nachbarn
+>>>>>>> 7831a69 (Added notes from January 11th)

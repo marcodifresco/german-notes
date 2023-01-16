@@ -1,4 +1,5 @@
 ___
+<<<<<<< HEAD
 Links: [[Verben]] - [[Typ - Irregular verben]] - [[Typ - Trennbare verben]]
 Meaning: to dress / put on
 ___
@@ -7,6 +8,12 @@ ___
 [[Ziehen]] --> to pull
 
 # [[Modus - Indikativ]] - Präsens
+=======
+Links: [[Verben]] [[Typ - Regular verben]]
+Meaning: Dress / Put on
+___
+# [[Indikativ - Präsens]]
+>>>>>>> 7831a69 (Added notes from January 11th)
 ich ziehe an
 du ziehst an
 er/sie/es zieht an
@@ -14,6 +21,7 @@ wir ziehen an
 ihr zieht an
 Sie ziehen an
 
+<<<<<<< HEAD
 # [[Modus - Indikativ]] - Präteritum
 ich zog an
 du zogst an
@@ -129,3 +137,10 @@ anziehend
 
 # [[Modus - Partizips]] - Perfekt
 angezogen
+=======
+# [[Indikativ - Perfekt]]
+[[Pronomen]] + [[Sein]] + angezogen
+
+# Variant
+[[Ziehen]]
+>>>>>>> 7831a69 (Added notes from January 11th)

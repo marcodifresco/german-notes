@@ -76,6 +76,7 @@ Dive | [[Tauchen]]
 Draw | [[Zeichnen]]
 Dream | [[Träumen]]
 <<<<<<< HEAD
+<<<<<<< HEAD
 Eat | [[Essen]]
 Evaluate | [[Bewerten]]
 Experience | [[Erleben]]
@@ -89,10 +90,14 @@ Draw | [[Zeichnen]]
 >>>>>>> dca0fbe (Added notes from June, 20th)
 =======
 >>>>>>> ac65051 (Added notes from August 28th)
+=======
+Dress / Put on | [[Anziehen]]
+>>>>>>> 7831a69 (Added notes from January 11th)
 Eat | [[Essen]]
 Evaluate | [[Bewerten]]
 Experience | [[Erleben]]
 Explain | [[Erklären]]
+Fear | [[Fürchten]]
 Feed | [[Ernähren]]
 >>>>>>> e0a7ee5 (Added material from A1 book - chapter 9)
 Fit | [[Passen]]

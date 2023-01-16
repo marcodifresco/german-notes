@@ -148,4 +148,10 @@ Sie | warten
 
 # [[Indikativ - Perfekt]]
 [[Pronomen]] + [[Haben]] / [[Sein]] + geVERB
+<<<<<<< HEAD
 >>>>>>> 308d629 (Added notes from August 31th)
+=======
+
+# Uses
+[[Warten]] auf: Ich warte auf den Bus
+>>>>>>> 7831a69 (Added notes from January 11th)
