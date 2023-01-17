@@ -4,16 +4,64 @@
     "type": "split",
     "children": [
       {
-        "id": "156d52381a91dbd0",
+        "id": "085933fcbcf7bd77",
         "type": "tabs",
         "children": [
           {
-            "id": "4b565b5e7ec8560e",
+            "id": "51ba73fc9cbe2f23",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Verben/Konjugation/Abbrechen.md",
+                "file": "AAA TEMPORARY NOTE.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8e94a9917d97c3d4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Grammatik regeln/Passiv.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b1bc9466574fed97",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Verben/Konjugation/Ziehen.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "12a2a83c23bb0976",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Verben/Konjugation/Entziehen.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fbc334b11ce45865",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Verben/Konjugation/Ziehen.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Verben/Konjugation/Abbrechen.md",
+                "file": "AAA TEMPORARY NOTE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Verben/Konjugation/Abbrechen.md",
+                "file": "AAA TEMPORARY NOTE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Verben/Konjugation/Abbrechen.md"
+                "file": "AAA TEMPORARY NOTE.md"
               }
             }
           }
@@ -146,17 +194,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4b565b5e7ec8560e",
+  "active": "51ba73fc9cbe2f23",
   "lastOpenFiles": [
-    "Verben/Konjugation/Abfahren.md",
-    "Untitled.canvas",
-    "Verben/Konjugation/Abbrechen.md",
-    "Verben/Typ - Trennbare verben.md",
-    "Verben/Typ - Regular verben.md",
-    "Verben.md",
-    "AAA TEMPORARY NOTE.md",
-    "Verben/Konjugation/Anziehen.md",
+    "Verben/Konjugation/Drängen.md",
     "Verben/Konjugation/Ziehen.md",
-    "Verben/Konjugation/Träumen.md"
+    "Verben/Typ - Regular verben.md",
+    "AAA TEMPORARY NOTE.md",
+    "Grammatik regeln/Passiv.md",
+    "Verben/Indikativ - Futur I.md",
+    "Verben/Konjugation/Entziehen.md",
+    "Verben/Typ - Trennbare verben.md",
+    "Aussprache.md",
+    "Vokabular/Switzerland variations.md"
   ]
 }
