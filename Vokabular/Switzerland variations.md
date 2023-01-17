@@ -32,6 +32,7 @@ Motorrad | Das Töff
 <<<<<<< HEAD
 Geldbörse | Portemonnaie
 Verärgert | Hässig
+<<<<<<< HEAD
 09:00 | Znuni
 16:00 | Zvieri
 Der Mill | Der abfall
@@ -53,3 +54,5 @@ Geldbörse | Portemonnaie
 Geldbörse | Portemonnaie
 Verärgert | Hässig
 >>>>>>> 0025884 (Added notes from December 14th)
+=======
+>>>>>>> a45568a (Added notes from January 16th)

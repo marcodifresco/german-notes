@@ -218,9 +218,13 @@ Use | [[Benutzen]]
 Use | [[Verwenden]]
 Understand | [[Verstehen]]
 <<<<<<< HEAD
+<<<<<<< HEAD
 Urge | [[Drängen]]
 =======
 >>>>>>> 72e1711 (Added notes from September 14th)
+=======
+Urge | [[Drängen]]
+>>>>>>> a45568a (Added notes from January 16th)
 Visit | [[Besuchen]]
 Wait | [[Warten]]
 <<<<<<< HEAD

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ___
 Links: [[Verben]] - [[Typ - Irregular verben]] - [[Typ - Trennbare verben]]
 Meaning: to pull (object) off
@@ -129,3 +130,18 @@ abziehend
 
 # [[Modus - Partizips]] - Perfekt
 abgezogen
+=======
+__
+Links: [[Verben]] [[Typ - Regular verben]] 
+Meaning: Relate
+___
+# [[Indikativ - Präsens]]
+ich beziehe mich
+du beziehst dic
+her/sie/es bezieht sich
+wir beziehen uns
+ihr bezieht euch
+
+# [[Indikativ - Perfekt]]
+[[Pronomen]] + [[Haben]] + Sich + bezogen
+>>>>>>> a45568a (Added notes from January 16th)

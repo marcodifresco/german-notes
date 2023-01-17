@@ -1,9 +1,15 @@
 ___
 Links: [[Verben]] - [[Typ - Regular verben]]
+<<<<<<< HEAD
 Meaning: to Revoke
 ___
 
 # [[Modus - Indikativ]] - Präsens
+=======
+Meaning: Revoke
+___
+# [[Indikativ - Präsens]]
+>>>>>>> a45568a (Added notes from January 16th)
 ich entziehe
 du entziehst
 er/sie/es entzieht
@@ -12,6 +18,7 @@ ihr entzieht
 Sie entziehen
 
 
+<<<<<<< HEAD
 # [[Modus - Indikativ]] - Präteritum
 ich entzog
 du entzogst
@@ -130,3 +137,10 @@ entziehend
 
 # [[Modus - Partizips]] - Perfekt
 entzogen
+=======
+# [[Indikativ - Perfekt]]
+[[Pronomen]] + [[Sein]] + entzogen
+
+# Variants
+[[Ziehen]]
+>>>>>>> a45568a (Added notes from January 16th)

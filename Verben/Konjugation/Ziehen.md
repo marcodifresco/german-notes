@@ -152,10 +152,11 @@ gezogen
 # [[Indikativ - Perfekt]]
 [[Pronomen]] + [[Sein]] + gezogen
 
+
 # Variants
 English |German
 ------------ | ------------
-Pull (object) off | [[Abziehen]]
+Pull (object) off | Sich [[Abziehen]]
 Dress / Put on | [[Anziehen]]
 Take off | [[Ausziehen]]
 Relate | [[Beziehen]]
@@ -166,7 +167,15 @@ Evade | [[Hinterziehen]]
 Pulling up | [[Hochziehen]]
 Move (Relocate) | [[Umziehen]]
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> 7831a69 (Added notes from January 11th)
 =======
 Forgive | [[Verziehen]]
 >>>>>>> 42fa620 (Catch-all changes on 17 01 2023.)
+=======
+Forgive | [[Verziehen]]
+
+# Notes
+an ab hoch ein aus um -> [[Typ - Trennbare verben]]
+be ent ver er -> [[Typ - Regular verben]]
+>>>>>>> a45568a (Added notes from January 16th)
