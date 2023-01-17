@@ -4,7 +4,7 @@ Meaning: Relate
 ___
 # [[Indikativ - Präsens]]
 ich beziehe mich
-du beziehst dic
+du beziehst dich
 her/sie/es bezieht sich
 wir beziehen uns
 ihr bezieht euch
