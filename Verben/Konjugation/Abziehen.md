@@ -1,5 +1,5 @@
 ___
-Links: [[Verben]] - [[Typ - Irregular verben]] [[Typ - Trennbare verben]]
+Links: [[Verben]] - [[Typ - Irregular verben]] - [[Typ - Trennbare verben]]
 Meaning: Pull (object) off
 ___
 # [[Indikativ - Präsens]]
