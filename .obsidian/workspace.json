@@ -8,6 +8,7 @@
         "type": "tabs",
         "children": [
           {
+<<<<<<< HEAD
             "id": "51ba73fc9cbe2f23",
             "type": "leaf",
             "state": {
@@ -22,6 +23,8 @@
             }
           },
           {
+=======
+>>>>>>> 9996b48 (Reformated Licence)
             "id": "8e94a9917d97c3d4",
             "type": "leaf",
             "state": {
@@ -136,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AAA TEMPORARY NOTE.md",
+                "file": "Grammatik regeln/Passiv.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AAA TEMPORARY NOTE.md",
+                "file": "Grammatik regeln/Passiv.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AAA TEMPORARY NOTE.md"
+                "file": "Grammatik regeln/Passiv.md"
               }
             }
           }
@@ -197,8 +200,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "51ba73fc9cbe2f23",
+  "active": "8e94a9917d97c3d4",
   "lastOpenFiles": [
+<<<<<<< HEAD
 <<<<<<< HEAD
     "Verben/Konjugation/Anziehen.md",
     "Verben/Typ - Regular verben.md",
@@ -211,16 +215,24 @@
     "Verben/Konjugation/Freuen.md",
     "Adverbien und Präpositionen.md"
 =======
+=======
+    "LICENSE.md",
+    "README.md",
+    "AAA TEMPORARY NOTE.md",
+>>>>>>> 9996b48 (Reformated Licence)
     "Verben/Konjugation/Drängen.md",
     "Verben/Konjugation/Ziehen.md",
     "Verben/Typ - Regular verben.md",
-    "AAA TEMPORARY NOTE.md",
     "Grammatik regeln/Passiv.md",
     "Verben/Indikativ - Futur I.md",
     "Verben/Konjugation/Entziehen.md",
+<<<<<<< HEAD
     "Verben/Typ - Trennbare verben.md",
     "Aussprache.md",
     "Vokabular/Switzerland variations.md"
 >>>>>>> a45568a (Added notes from January 16th)
+=======
+    "Verben/Typ - Trennbare verben.md"
+>>>>>>> 9996b48 (Reformated Licence)
   ]
 }
