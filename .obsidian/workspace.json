@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "51ba73fc9cbe2f23",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AAA TEMPORARY NOTE.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "8e94a9917d97c3d4",
             "type": "leaf",
             "state": {
@@ -133,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AAA TEMPORARY NOTE.md",
+                "file": "Grammatik regeln/Passiv.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AAA TEMPORARY NOTE.md",
+                "file": "Grammatik regeln/Passiv.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AAA TEMPORARY NOTE.md"
+                "file": "Grammatik regeln/Passiv.md"
               }
             }
           }
@@ -194,17 +182,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "51ba73fc9cbe2f23",
+  "active": "8e94a9917d97c3d4",
   "lastOpenFiles": [
+    "LICENSE.md",
+    "README.md",
+    "AAA TEMPORARY NOTE.md",
     "Verben/Konjugation/Drängen.md",
     "Verben/Konjugation/Ziehen.md",
     "Verben/Typ - Regular verben.md",
-    "AAA TEMPORARY NOTE.md",
     "Grammatik regeln/Passiv.md",
     "Verben/Indikativ - Futur I.md",
     "Verben/Konjugation/Entziehen.md",
-    "Verben/Typ - Trennbare verben.md",
-    "Aussprache.md",
-    "Vokabular/Switzerland variations.md"
+    "Verben/Typ - Trennbare verben.md"
   ]
 }
