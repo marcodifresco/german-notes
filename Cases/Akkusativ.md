@@ -36,6 +36,8 @@ Wir | Uns
 Ihr | Euch
 Sie | Sie
 
+
+# Possessiv Pronomen
 [[Nominativ]] | [[Akkusativ]] (M) | [[Akkusativ]] (F) | [[Akkusativ]] (N) | [[Akkusativ]] (P)
 ------------ | ------------ | ------------ | ------------ | ------------
 Mein (-e) | meinen | meine | meins | meine
