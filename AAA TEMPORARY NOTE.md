@@ -44,3 +44,9 @@ denn subj verb
 Während sie springt, (comma obblig.) lacht sie
 
 Bevor er zur Arberit geht, isst er das Früstück
+
+Created: 2023-02-13 20:09
+Tags: #
+Links: [[]]
+___
+
