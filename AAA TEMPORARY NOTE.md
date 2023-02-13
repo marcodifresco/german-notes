@@ -50,3 +50,12 @@ Tags: #
 Links: [[]]
 ___
 
+[[Adjektive]] [[Cases]]
+Typ 1 bestimmit
+**das** gute buch / **der** rote mantell / **dieser**
+Typ 2 unbestimmt
+**ein** gutes Buche (das)
+**ein** roter Mantel (der)
+Typ 3 kein Article
+_ gutes Buch (das)
+_ roter Mantel (der)
