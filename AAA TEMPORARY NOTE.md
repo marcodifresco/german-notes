@@ -80,4 +80,17 @@ Ich war nicht fit -> Wäre ich doch fit gewesen
 Ich hatte keine  Zeit -> Hätte ich doch Zeit Gehabt!
 Ich habe den bus vepasst -> dan hätte den Bus nicht Verpasst
 
-****
+
+Created: 2023-03-01 20:02
+Tags: #
+Links: [[]]
+___
+[[Konjunktiv - II]]
+Ich hätte gern mehr Zeit! Wunsch, Präsens
+Hätte ich dock mehr Zeit gehabt! Vunsch, Vergangenheit (past)
+
+sogar p. 67
+
+Ich hätte gern -> object
+Ich wäre gern -> Wie? [[Adjektive]] | Wer? [[Nominativ]]
+Ich würde gern ->  [[Verben]]
