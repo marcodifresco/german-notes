@@ -94,3 +94,25 @@ sogar p. 67
 Ich hätte gern -> object
 Ich wäre gern -> Wie? [[Adjektive]] | Wer? [[Nominativ]]
 Ich würde gern ->  [[Verben]]
+
+Created: 2023-03-06 20:02
+Tags: #
+Links: [[]]
+___
+
+fröhlich
+glücklich
+lachend
+lächelnd
+motiviert 
+motivierend
+jubeln / Sie jubelt
+
+Wake up | [[Aufwachen]]
+[[Typ - Trennbare verben]] [[Typ - Irregular verben]]
+
+different | anders
+ausschlafen
+
+hat gesessen / gestanden / gelegen DE
+Ist CH/ south DE
