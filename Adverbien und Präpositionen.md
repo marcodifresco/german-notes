@@ -23,9 +23,13 @@ Always | Immer
 Also | Auch
 Also | Ausserdem
 <<<<<<< HEAD
+<<<<<<< HEAD
 Anything | Irgendetwas
 =======
 >>>>>>> 80384e7 (Added material from A1 book - chapter 12)
+=======
+Anything | Irgendetwas
+>>>>>>> 6e52a90 (Catch-all changes on 07 03 2023.)
 Approximately | Ungefähr
 As | Als
 By the way | Übrigens
