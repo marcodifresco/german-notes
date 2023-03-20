@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "085933fcbcf7bd77",
+        "id": "32270976fb14d462",
         "type": "tabs",
         "children": [
           {
-            "id": "fbc334b11ce45865",
+            "id": "541fdcb9175e6d65",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Verben/Konjugation/Ziehen.md",
+                "file": "AAA TEMPORARY NOTE.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Verben/Konjugation/Ziehen.md",
+                "file": "AAA TEMPORARY NOTE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Verben/Konjugation/Ziehen.md",
+                "file": "AAA TEMPORARY NOTE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Verben/Konjugation/Ziehen.md"
+                "file": "AAA TEMPORARY NOTE.md"
               }
             }
           }
@@ -145,10 +145,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fbc334b11ce45865",
+  "active": "56f5a6fdeeab743f",
   "lastOpenFiles": [
-    "Verben/Konjugation/Beziehen.md",
     "Verben/Konjugation/Ziehen.md",
+    "Verben/Konjugation/Beziehen.md",
     "Verben/Konjugation/Abziehen.md",
     "Verben/Konjugation/Anziehen.md",
     "Verben/Typ - Irregular verben.md",

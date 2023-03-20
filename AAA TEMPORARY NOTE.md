@@ -126,3 +126,10 @@ Spend the night | [[Übernachten]] (R)
 After | Nachdem
 
 Nachdem ich in zwei Jahren mein Studium beendet habe, arbeite ich als lehrerin
+
+
+Created: 2023-03-20 20:03
+Tags: #
+Links: [[]]
+___
+Carry out | ausfuhren
