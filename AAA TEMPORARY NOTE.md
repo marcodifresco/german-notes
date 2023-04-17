@@ -171,3 +171,19 @@ Ich treffe am Wochenende gern nicht nur Freunde,  sondern Ich gehe auch in die B
 
 Ich beherrsche die ga:ngigen PC-Programme und ich habe Basiskenntnisse im Programmieren
 Ich beherrsche nicht nur die ga:ngigen PC-Programme, sondern ich habe Basiskenntnisse im Programmieren.
+
+Created: 2023-04-17 20:01
+Tags: #
+Links: [[]]
+___
+
+Wenn - als
+
+Als Ich 16 Jahre alt war, habe ich Rock gehört.
+Immer wenn ich nach h=House gekommen bin, habe ich Musik gehört.\
+
+Brauchen zu = müssen = Brauchen
+Wir mussten uns, nichht kümmen
+Ich brauche, einem Kaffee zu trinken
+Ich brauche nicht, der Lehrer zu sein
+Der Krieg != der Frieden
