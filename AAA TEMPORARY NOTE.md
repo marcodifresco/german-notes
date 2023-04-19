@@ -187,3 +187,16 @@ Wir mussten uns, nichht kümmen
 Ich brauche, einem Kaffee zu trinken
 Ich brauche nicht, der Lehrer zu sein
 Der Krieg != der Frieden
+
+
+
+Created: 2023-04-19 20:01
+Tags: #
+Links: [[]]
+___
+
+Roll | [[Wühlen]]
+Generationenkonflikt
+es ist sehr wichtig = grossen Wert auf etwas legen
+etwas streichen = etwas absagen
+Der Tecnologische Fortschritt 
