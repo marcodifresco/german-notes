@@ -200,3 +200,17 @@ Generationenkonflikt
 es ist sehr wichtig = grossen Wert auf etwas legen
 etwas streichen = etwas absagen
 Der Tecnologische Fortschritt 
+
+
+Created: 2023-04-26 19:59
+Tags: #
+Links: [[]]
+___
+
+Obligatorisches "Es" in festen Ausdrücken.
+Wie geht es dir?
+Es geht mir gut
+
+Es sind heute viele Leute hier
+
+[[Geben]] only es?!
