@@ -214,3 +214,17 @@ Es geht mir gut
 Es sind heute viele Leute hier
 
 [[Geben]] only es?!
+
+Created: 2023-05-03 20:10
+Tags: #
+Links: [[]]
+___
+
+Marta ist nicht nur zu Hause geblieben, sondern sie ist auch spazierengagangen
+
+Konnektoren konjunktionen
+und zwar ...
+Ich kaufe heute nicht nur ein, sondern ich gehe auch spazieren
+Max trinkt entweder Kaffee oder er ist eine Pizza
+Entweder (either) thrinkt Max Kafee oder ist ein Pizza
+Anna arbeiter weder (neither) heute noch geht sie in den Kurs
