@@ -228,3 +228,11 @@ Ich kaufe heute nicht nur ein, sondern ich gehe auch spazieren
 Max trinkt entweder Kaffee oder er ist eine Pizza
 Entweder (either) thrinkt Max Kafee oder ist ein Pizza
 Anna arbeiter weder (neither) heute noch geht sie in den Kurs
+
+
+Created: 2023-05-08 20:17
+Tags: #
+Links: [[]]
+___
+
+Die Wahl**en** (always plural)
