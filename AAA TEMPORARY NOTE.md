@@ -236,3 +236,13 @@ Links: [[]]
 ___
 
 Die Wahl**en** (always plural)
+
+
+Created: 2023-05-10 20:21
+Tags: #
+Links: [[]]
+___
+Der Computer - Die Computer 
+Das Fenster - die Fenster 
+Die Schwester - die Schwestern 
+
