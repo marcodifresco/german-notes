@@ -246,3 +246,10 @@ Der Computer - Die Computer
 Das Fenster - die Fenster 
 Die Schwester - die Schwestern 
 
+Created: 2023-05-15 20:01
+Tags: #
+Links: [[]]
+___
+
+[[Verden]] Become?
+
