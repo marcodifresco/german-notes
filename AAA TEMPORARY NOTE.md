@@ -253,3 +253,15 @@ ___
 
 [[Verden]] Become?
 
+Created: 2023-05-22 20:09
+Tags: #
+Links: [[]]
+___
+
+zufällig
+es ist  wärmer.
+Je wärmer es  ist (Nebensatz), desto schlechter fühlt er sich. -> The warmer it is, the worse he feels. (Hauptsatz)
+
+Gross (Positiv) -> Grösser (Komparativ) -> am grösser (Superlativ)
+Umso ...
+
