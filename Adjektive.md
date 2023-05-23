@@ -12,12 +12,15 @@ Balanced | Ausgeglichen
 Beautiful | Schön
 Bad | Schlecht
 Big | Gross
+Bored | Gelangweilt
+Boring | Lamgweilig
 Careful | Vorsichtig
 Cheap | Billig
 Cheap | Günstig
 Classic| Klassiker
 Divorced | Geschieden
 Expensive | Teuer
+Forgiven | Verziehen
 Generous | Grosszügig
 Great | Toll
 Happy | Glücklich

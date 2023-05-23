@@ -7,5 +7,5 @@ ___
 
 # Time prepositions
 * If secondary phrase is second = first sentence normal, bis/... second phrase with verbe at the end
-* if secondary phrase first = bis/... secondary verb/verb first phrase*
-
+* if secondary phrase first = bis/... secondary verb/verb first phrase
+* Aber, und, denn, oder count as position 0
