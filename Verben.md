@@ -35,9 +35,13 @@ Ich glaube, Ich denke, Ich vermute, dass ... [verb am ende].
 with *dass* the second verb goes at the end.
 With [[Sein]], "nicht" comes after verb; other cases at the end.
 <<<<<<< HEAD
+<<<<<<< HEAD
  infinitive clauses must be formed with zu whenever the verb from the main clause refers to the action of the subordinate clause; except for [[Typ - Modal verben]].
  [[Verben]] mit ver er ent emp zu be ge -> no ge_ in past form.
 
 
 =======
 >>>>>>> 308d629 (Added notes from August 31th)
+=======
+ infinitive clauses must be formed with zu whenever the verb from the main clause refers to the action of the subordinate clause; except for [[Typ - Modal verben]].
+>>>>>>> 2ad4c1b (Added notes from lesson on 2023-01-30)
