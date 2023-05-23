@@ -11,12 +11,17 @@ English | German
 >>>>>>> ac65051 (Added notes from August 28th)
 About what | Worüber
 Accidentally | Zufällig
+<<<<<<< HEAD
 After | Nachdem
 All | Alles (Object)
 All | Alle (people)
 =======
 Accidentally | Zufällig
 >>>>>>> dca0fbe (Added notes from June, 20th)
+=======
+All | Alles (Object)
+All | Alle (people)
+>>>>>>> a35af7a (Added notes from lesson on 2023-02-01)
 Already | Schon
 Almost | Fast
 Always | Immer

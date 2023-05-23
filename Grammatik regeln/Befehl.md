@@ -30,6 +30,11 @@ Anna arbeiter **weder** (neither) heute noch geht sie in den Kurs
 
 # Time prepositions
 * If secondary phrase is second = first sentence normal, bis/... second phrase with verbe at the end
+<<<<<<< HEAD
 * if secondary phrase first = bis/... secondary verb/verb first phrase*
 
 >>>>>>> c7fe8a5 (Added notes from October 10th)
+=======
+* if secondary phrase first = bis/... secondary verb/verb first phrase
+* Aber, und, denn, oder count as position 0
+>>>>>>> a35af7a (Added notes from lesson on 2023-02-01)

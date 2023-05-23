@@ -14,11 +14,18 @@ Balanced | Ausgeglichen
 Beautiful | Schön
 Bad | Schlecht
 Big | Gross
+<<<<<<< HEAD
+=======
+Bored | Gelangweilt
+Boring | Lamgweilig
+Careful | Vorsichtig
+>>>>>>> a35af7a (Added notes from lesson on 2023-02-01)
 Cheap | Billig
 Cheap | Günstig
 Classic| Klassiker
 Divorced | Geschieden
 Expensive | Teuer
+Forgiven | Verziehen
 Generous | Grosszügig
 Great | Toll
 Happy | Glücklich
