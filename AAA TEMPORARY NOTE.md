@@ -224,3 +224,26 @@ Je wärmer es  ist (Nebensatz), desto schlechter fühlt er sich. -> The warmer i
 Gross (Positiv) -> Grösser (Komparativ) -> am grösser (Superlativ)
 Umso ...
 
+
+Created: 2023-05-24 20:02
+Tags: #
+Links: [[]]
+___
+
+znuni = 9.00
+zvieri = 16.00
+
+anstrengend
+
+Modalpartikeln in Dalogen
+Wie geht's dir dnn?
+
+Per "Du" -> duzen
+Per "Sie" -> siezen
+
+Bekannte
+
+Ausrichrung
+
+
+Imposition| das Aufzwingen 
