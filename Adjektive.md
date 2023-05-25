@@ -69,6 +69,7 @@ Tired | Müde
 Urgent | Sofort
 >>>>>>> 251622b (Added notes from June, 13th)
 
+<<<<<<< HEAD
 Adjectivedeklination nach dem nullartikle
 
 | Case | Maskulin   | Feminin        | Neutral     | Plural      |
@@ -146,6 +147,8 @@ Adjectivedeklination nach dem nullartikle
 | Tired                 | Müde                    |
 | Urgent                | Sofort                  |
 
+=======
+>>>>>>> 92e68a6 (Added notes from lesson on 2023-02-13)
 # Examples
 Ein roh**en** Schinken (der)
 Ein frisch**es** Poulet (das)
@@ -154,8 +157,13 @@ Ein gut**e** Pizza (die)
 (pl) keine + ...en
 Ein~~es~~ gut**es** Auto
 
+<<<<<<< HEAD
 Typ 1 bestimmt
 **das** gute buch / **der** rote Mantel / **dieser**
+=======
+Typ 1 bestimmit
+**das** gute buch / **der** rote mantell / **dieser**
+>>>>>>> 92e68a6 (Added notes from lesson on 2023-02-13)
 Typ 2 unbestimmt
 **ein** gutes Buche (das)
 **ein** roter Mantel (der)
