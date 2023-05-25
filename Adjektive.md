@@ -63,7 +63,6 @@ Thrilling  | Spannende
 Tired | Müde
 Urgent | Sofort
 
-
 # Examples
 Ein roh**en** Schinken (der)
 Ein frisch**es** Poulet (das)
@@ -72,6 +71,14 @@ Ein gut**e** Pizza (die)
 (pl) keine + ...en
 Ein~~es~~ gut**es** Auto
 
+Typ 1 bestimmit
+**das** gute buch / **der** rote mantell / **dieser**
+Typ 2 unbestimmt
+**ein** gutes Buche (das)
+**ein** roter Mantel (der)
+Typ 3 kein Article
+_ gutes Buch (das)
+_ roter Mantel (der)
 
 
 [^1]: also gh"single";

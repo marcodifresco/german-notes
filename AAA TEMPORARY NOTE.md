@@ -1,19 +1,3 @@
-Created: 2023-02-13 20:09
-Tags: #
-Links: [[]]
-___
-
-[[Adjektive]] [[Cases]]
-Typ 1 bestimmit
-**das** gute buch / **der** rote mantell / **dieser**
-Typ 2 unbestimmt
-**ein** gutes Buche (das)
-**ein** roter Mantel (der)
-Typ 3 kein Article
-_ gutes Buch (das)
-_ roter Mantel (der)
-
-
 Created: 2023-02-27 20:04
 Tags: #
 Links: [[]]
