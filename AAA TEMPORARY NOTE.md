@@ -1,22 +1,3 @@
-Created: 2023-02-27 20:04
-Tags: #
-Links: [[]]
-___
-
-Send | [[Schiken]] (R)
-
-wäre ich **doch** nicht zu spät aufgestanden
-
-Vergangen neit -> gone now
-
-Wäre - Hätte
-
-Ich bin spät aufestanden -> Wäre ich doch nicht zu spät aufsgestanden
-Ich habe zu lange Kaffee getrunken -> Hätte ich bloss nicht zu lange Kaffe getrunken
-Ich war nicht fit -> Wäre ich doch fit gewesen
-Ich hatte keine  Zeit -> Hätte ich doch Zeit Gehabt!
-Ich habe den bus vepasst -> dan hätte den Bus nicht Verpasst
-
 
 Created: 2023-03-01 20:02
 Tags: #
