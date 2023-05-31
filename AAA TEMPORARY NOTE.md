@@ -212,3 +212,26 @@ Ausrichrung
 
 
 Imposition| das Aufzwingen 
+
+Created: 2023-05-31 20:01
+Tags: #
+Links: [[]]
+___
+
+Durch
+zeigt der Sprecher seine emotione
+
+Request | Aufforderung
+
+Das erste Mal
+
+Das kannst du doch nicht machen!
+Empörung und A:rger
+
+Komm, mach das doch
+
+Der Wirt / die Wirtin
+Die Hütte
+
+Die Wirtschaft
+
