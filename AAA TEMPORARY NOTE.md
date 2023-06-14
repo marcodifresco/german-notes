@@ -222,7 +222,6 @@ Durch
 zeigt der Sprecher seine emotione
 
 Request | Aufforderung
-
 Das erste Mal
 
 Das kannst du doch nicht machen!
@@ -234,4 +233,28 @@ Der Wirt / die Wirtin
 Die Hütte
 
 Die Wirtschaft
+
+Created: 2023-06-07 20:15
+Tags: #
+Links: [[]]
+___
+
+Der Mill (DE) -> Der abfall (CH)
+
+Created: 2023-06-12 20:06
+Tags: #
+Links: [[]]
+___
+
+Equipment | Die Ausrüstung
+Appear | [[Auftreten]] 
+
+Sich ver_ (false)
+sprechen 
+fahren
+laufen
+hören
+Haben + [[Partizips - II]]
+
+[[Verben]] mit ver er ent emp zu be ge -> no ge_ in past form
 
