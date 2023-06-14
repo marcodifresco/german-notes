@@ -258,3 +258,10 @@ Haben + [[Partizips - II]]
 
 [[Verben]] mit ver er ent emp zu be ge -> no ge_ in past form
 
+
+Created: 2023-06-14 20:01
+Tags: #
+Links: [[]]
+___
+
+Business man | Kaufmann
