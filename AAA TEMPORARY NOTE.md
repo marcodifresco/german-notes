@@ -267,7 +267,7 @@ ___
 Business man | Kaufmann
 
 
-Created: 2023-06-19 19:53
+Created: 2023-06-21 19:53
 Tags: #
 Links: [[]]
 ___
