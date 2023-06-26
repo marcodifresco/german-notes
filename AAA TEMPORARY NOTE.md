@@ -267,8 +267,15 @@ ___
 Business man | Kaufmann
 
 
-Created: 2023-06-21 19:53
+Created: 2023-06-26 19:53
 Tags: #
 Links: [[]]
 ___
 
+BRD = Bundersrepubpublik Deutschland
+
+DDR = Deutsche Demokratische Republik
+
+Die Waffe 
+Die Fahne 
+Pop
