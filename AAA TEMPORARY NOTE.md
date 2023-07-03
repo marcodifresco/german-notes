@@ -279,3 +279,27 @@ DDR = Deutsche Demokratische Republik
 Die Waffe 
 Die Fahne 
 Pop
+
+
+Created: 2023-07-03 20:14
+Tags: #
+Links: [[]]
+___
+
+um ... zu .... / damit ...
+Wozu lernst du Deutsch? Was ist dein Ziel?
+*Ich* lerne Deutsch, *um* es korrekt *zu* sprechen
+Zwei gleiche Subjekte -> um ... zum ...
+
+*Ich* gehe einkaufen, *damit* *mein Sohn* eine new Jacke *hat*.
+zwei verschiedene Subjecte -> damit ...
+
+
+What for -> Wozur
+
+ohne ...zu...
+Sie geht in den Park, *ohne* einen/den Regenschirm mit*zu*nehmen
+
+statt ... ...zu...
+Er schläft, *statt* seine Wohnung aus*zu*räumen
+
