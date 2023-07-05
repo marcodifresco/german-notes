@@ -303,3 +303,9 @@ Sie geht in den Park, *ohne* einen/den Regenschirm mit*zu*nehmen
 statt ... ...zu...
 Er schläft, *statt* seine Wohnung aus*zu*räumen
 
+
+Created: 2023-07-05 19:55
+Tags: #
+Links: [[]]
+___
+
