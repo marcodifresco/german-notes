@@ -304,8 +304,11 @@ statt ... ...zu...
 Er schläft, *statt* seine Wohnung aus*zu*räumen
 
 
-Created: 2023-07-05 19:55
+Created: 2023-07-11 19:55
 Tags: #
 Links: [[]]
 ___
 
+Ich teile diese Meinung nicht.
+Ich bin da ganz anderer Meinung.
+Da stehe ich auf einem anderen Standpunkt.
