@@ -10,6 +10,7 @@ ___
 
 # Rules
 Order: [[Dativ]] -> [[Akkusativ]]
+Ich wäre gern -> Wie? [[Adjektive]] | Wer? [[Nominativ]]
 
 # Examples
 Ich fahre mit eine**m** Audi = Precise, this moment (Fahrer oder Passagier)
