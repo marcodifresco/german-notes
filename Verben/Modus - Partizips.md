@@ -1,2 +1,2 @@
-[[Partizips - I]]
-[[Partizips - II]]
+[[Partizips - Präsens]]
+[[Partizips - Perfekt]]

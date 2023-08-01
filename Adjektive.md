@@ -17,7 +17,9 @@ Boring | Lamgweilig
 Careful | Vorsichtig
 Cheap | Billig
 Cheap | Günstig
+Cheerful | Fröhlich
 Classic| Klassiker
+Different | Anders
 Divorced | Geschieden
 Expensive | Teuer
 Forgiven | Verziehen
@@ -31,6 +33,8 @@ Little (quantity) | Wenig
 Married | Verheiratet
 Melted | Geschmolzzen
 Modern | Modern
+Motivated | Motiviert
+Motivating | Motivierend
 Old | Alt
 Oversalted | Versalzen
 Overwhelmed | Überfordert
@@ -49,6 +53,7 @@ Satisfied | Zufrieden
 The same | Genaso wie bei
 Short | Kurz
 Small | Klein
+Smiling | Lächelnd
 Sporty | Sportlich
 Square | Eckig
 Stingy | Geizig

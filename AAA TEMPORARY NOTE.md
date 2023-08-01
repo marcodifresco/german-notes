@@ -1,25 +1,3 @@
-Created: 2023-03-06 20:02
-Tags: #
-Links: [[]]
-___
-
-fröhlich
-glücklich
-lachend
-lächelnd
-motiviert 
-motivierend
-jubeln / Sie jubelt
-
-Wake up | [[Aufwachen]]
-[[Typ - Trennbare verben]] [[Typ - Irregular verben]]
-
-different | anders
-ausschlafen
-
-hat gesessen / gestanden / gelegen DE
-Ist CH/ south DE
-
 Created: 2023-03-08 20:03
 Tags: #
 Links: [[]]
@@ -239,7 +217,7 @@ sprechen
 fahren
 laufen
 hören
-Haben + [[Partizips - II]]
+Haben + [[Partizips - Perfekt]]
 
 [[Verben]] mit ver er ent emp zu be ge -> no ge_ in past form
 
