@@ -13,6 +13,7 @@ Sie können
 
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 # [[Modus - Indikativ]] - Präteritum
 Ich konnte
 Du konntest
@@ -94,6 +95,9 @@ Ihr könntet
 Sie könnten
 =======
 # [[Konjunktiv - II]]
+=======
+# [[Konjunktiv II - past subjunctive]]
+>>>>>>> 8bc48b3 (Added notes from 2023-03-01)
 Pronoun|Conjugation
 ------------ | ------------
 Ich | könnte

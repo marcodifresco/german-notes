@@ -3,10 +3,14 @@ Tags: #Languages/German/Grammar/Verbs
 Links: [[Verben]] ^52f0d2
 ___
 <<<<<<< HEAD
+<<<<<<< HEAD
 The **Modus Indikativ** is, along with the [[Modus - Imperativ]] and the [[Modus - Konjunktiv]] and [[Konjunktiv II - Präteritum]], one of the three grammatical modes of the verbs in German.
 =======
 The **Modus Indikativ** is, along with the [[Modus - Imperativ]] and the [[Konjunktiv - I]], one of the three grammatical modes of the verbs in German.
 >>>>>>> 72e1711 (Added notes from September 14th)
+=======
+The **Modus Indikativ** is, along with the [[Modus - Imperativ]] and the [[Modus - Konjunktiv]] and [[Konjunktiv II - past subjunctive]], one of the three grammatical modes of the verbs in German.
+>>>>>>> 8bc48b3 (Added notes from 2023-03-01)
 
 The indicative is the "normal" expression of the mode, whereas special conditions apply or special meanings are responsible for the appearance of the subjunctive and imperative.
 

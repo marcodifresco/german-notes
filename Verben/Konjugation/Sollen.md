@@ -151,6 +151,7 @@ ___
 
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 # [[Modus - Konjunktiv]] 2 - Präteritum
 | Ich       | sollte      |
 | Du        | solltest    |
@@ -160,6 +161,9 @@ ___
 | Sie       | sollten     |
 =======
 # [[Konjunktiv - II]]
+=======
+# [[Konjunktiv II - past subjunctive]]
+>>>>>>> 8bc48b3 (Added notes from 2023-03-01)
 Pronoun|Conjugation
 ------------ | ------------
 Ich | sollte
