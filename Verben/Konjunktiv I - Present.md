@@ -10,7 +10,7 @@ In speech, however, the past subjunctive is common without any implication that 
 
 The present subjunctive is completely regular for all verbs except the verb _sein_ ("to be"). It is formed by adding _-e_, _-est_, _-e_, _-en_, _-et_, _-en_ to the stem of the infinitive. The verb _sein_ has the stem _sei-_ for the present subjunctive declension, but it has no ending for the first and third person singular. While the use of present subjunctive for reported speech is formal and common in newspaper articles, its use in colloquial speech is in continual decline.
 
-It is possible to express the subjunctive in various tenses, including the perfect ("er sei da gewesen" -> he has apparently been there") and the future ("er werde da sein" -> "he will be there"). For the preterite, which forms the [[Konjunktiv II - past subjunctive]] with a somewhat other meaning, indirect speech has to switch to the perfect tense, so that: "Er sagte: 'Ich war da.'" becomes "Er sagte, er sei da gewesen".
+It is possible to express the subjunctive in various tenses, including the perfect ("er sei da gewesen" -> he has apparently been there") and the future ("er werde da sein" -> "he will be there"). For the preterite, which forms the [[Konjunktiv II - Präteritum]] with a somewhat other meaning, indirect speech has to switch to the perfect tense, so that: "Er sagte: 'Ich war da.'" becomes "Er sagte, er sei da gewesen".
 
 
 # Examples

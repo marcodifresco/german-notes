@@ -103,9 +103,12 @@ Translate | [[Übersetzen]] (R)
 <<<<<<< HEAD
 Vote  | [[Abstimmen]] (R)
 Wake up | [[Aufwachen]] (I)
+<<<<<<< HEAD
 =======
 Vote  | [[Abstimmen]] (R)
 >>>>>>> f3b9819 (Added notes from September 7th)
+=======
+>>>>>>> d6b65de (Added notes from 2023-03-06)
 Watch | [[Anschauen]] (R)
 Watch | [[Ansehen]] (R)
 Watch | [[Fernschauen]] (R)
