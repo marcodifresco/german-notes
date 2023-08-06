@@ -1,20 +1,3 @@
-Created: 2023-03-08 20:03
-Tags: #
-Links: [[]]
-___
-
-Spend the night | [[Übernachten]] (R)
-
-[[Typ - Modal verben]] + [[Indikativ - Perfekt]] immer [[Haben]]
-
-[[Lesen]] Las - Hat gelesen - hatte gelesen
-[[Fahren]] dddd - [Pronomen](app://obsidian.md/Pronomen) + [Haben](app://obsidian.md/Haben) + gefahren
-
-After | Nachdem
-
-Nachdem ich in zwei Jahren mein Studium beendet habe, arbeite ich als lehrerin
-
-
 Created: 2023-03-20 20:03
 Tags: #
 Links: [[]]

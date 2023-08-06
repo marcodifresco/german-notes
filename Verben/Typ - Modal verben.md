@@ -17,3 +17,4 @@ Would | [[Möchten]]
 
 # Rule
 [[Pronomen]] + [[Typ - Modal verben]] + rest of sentence + second [[Verben]] in infinite form.
+[[Typ - Modal verben]] + [[Indikativ - Perfekt]] immer [[Haben]]

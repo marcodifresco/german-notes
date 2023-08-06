@@ -6,6 +6,7 @@ English | German
 ------------ | ------------
 About what | Worüber
 Accidentally | Zufällig
+After | Nachdem
 All | Alles (Object)
 All | Alle (people)
 Already | Schon
