@@ -12,6 +12,9 @@ English | German
 About what | Worüber
 Accidentally | Zufällig
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 3877dfb (Added notes from 2023-03-08)
 After | Nachdem
 All | Alles (Object)
 All | Alle (people)

@@ -82,6 +82,7 @@ Request | [[Aufforderung]] (R)
 Send | [[Absenden]] (R)
 Set free | [[Freilassen]] (I)
 <<<<<<< HEAD
+<<<<<<< HEAD
 Spend the night | [[Übernachten]] (R)
 =======
 Repeat | [[Wiedenholen]] #TODO 
@@ -94,6 +95,9 @@ Send | [[Absenden]] (R)
 >>>>>>> 251622b (Added notes from June, 13th)
 =======
 >>>>>>> dca0fbe (Added notes from June, 20th)
+=======
+Spend the night | [[Übernachten]] (R)
+>>>>>>> 3877dfb (Added notes from 2023-03-08)
 Start | [[Anfangen]] (I)
 Stop | [[Aufhören]] (R)
 Switch | [[Umsteigen]] (I)
