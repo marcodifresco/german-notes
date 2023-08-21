@@ -258,3 +258,16 @@ ___
 Ich teile diese Meinung nicht.
 Ich bin da ganz anderer Meinung.
 Da stehe ich auf einem anderen Standpunkt.
+
+Created: 2023-08-21 20:24
+Tags: #
+Links: [[]]
+___
+
+die Schaufel = der Spaten
+eine Planzengrube ausheben
+der Pickel
+
+Das Wohnen der Zukunft
+
+--- end ---
