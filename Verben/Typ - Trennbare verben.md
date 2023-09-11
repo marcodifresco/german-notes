@@ -20,9 +20,13 @@ Buy | [[Einkaufen]] (R)
 Call | [[Anrufen]] (I)
 Cancel | [[Abbrechen]] (R)
 <<<<<<< HEAD
+<<<<<<< HEAD
 Carry out | [[Ausfuhren]] (R)
 =======
 >>>>>>> 5b6d59f (Added notes from October 19th)
+=======
+Carry out | [[Ausfuhren]] (R)
+>>>>>>> fb47e89 (Added notes from 20.03)
 Choose | [[Aussuchen]] (R)
 Clean up | [[Aufräumen]] (R)
 Collect | [[Abholen]] (R)
