@@ -407,4 +407,11 @@ For [[Typ - Trennbare verben]]: prexif - zu - verb
 =======
 
 Gar xxx = xxx absolutely 
+<<<<<<< HEAD
 >>>>>>> 476c583 (Added notes from November 14th)
+=======
+
+Trotz (Despite) -> preposition + Nomen  [[Genitiv]]
+
+Aber, Obwohl -> Konjunktion/Konnektor
+>>>>>>> 0e82fe2 (Added notes from March 22nd 2023)
