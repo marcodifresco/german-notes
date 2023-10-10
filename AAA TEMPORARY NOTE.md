@@ -1,25 +1,6 @@
-Created: 2023-04-12 20:03
-Tags: #
-Links: [[]]
-___
-
-Nicht nur ..... , sondern .... auch ....
-
-Ich spreche gut nicht nur Engliscj, sondern auch Spanisch
-Ich spreche sowohl English als auch Spanish gut.
-
-Ich ho:re gern Jazz und ich tanze gern Salsa
-Ich ho:re gern nicht nur Jazza, sondenr Ich tanze auch gern salsa
-
-Ich treffe am Wochenende Freunde und gehe in die Berge wanden.
-Ich treffe am Wochenende gern nicht nur Freunde,  sondern Ich gehe auch in die Berge wanden.
-
-Ich beherrsche die ga:ngigen PC-Programme und ich habe Basiskenntnisse im Programmieren
-Ich beherrsche nicht nur die ga:ngigen PC-Programme, sondern ich habe Basiskenntnisse im Programmieren.
-
 Created: 2023-04-17 20:01
 Tags: #
-Links: [[]]
+Links: [[]]cront
 ___
 
 Wenn - als
