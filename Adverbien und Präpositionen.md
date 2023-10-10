@@ -192,3 +192,7 @@ Ich brauche ihn/sie/es um (object) zu (verb)
 For [[Typ - Trennbare verben]]: prexif - zu - verb
 
 Gar xxx = xxx absolutely 
+
+Trotz (Despite) -> preposition + Nomen  [[Genitiv]]
+
+Aber, Obwohl -> Konjunktion/Konnektor

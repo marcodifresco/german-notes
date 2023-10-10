@@ -1,25 +1,5 @@
-Created: 2023-03-20 20:03
-Tags: #
-Links: [[]]
-___
-
-
-
 Created: 2023-03-22 20:03
-Tags: #
-Links: [[]]
-___
-Ich bin krank, aber ich gehe zur Arbeit
-Obwohl ich krank bin, gehe ich Zur arbait
-Ich gehe zur Arebeit, obwohl ich krank bin.
-Trotz meiner krankheit gehe ich zur Arbeit
-Ich bin krank, trotzdem gehe ich zur Arbeit.
 
-Aber, Obwohl -> Konjunktion/Konnektor
-Trotz -> preposition + Nomen \ [[Genitiv]]
-
-Ich habe Hunger. Ich gehe ins Restaurant.
-Weil ich Hunger habe, gehe ich ins restaurant.
 
 
 
