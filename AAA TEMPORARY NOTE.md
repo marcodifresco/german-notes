@@ -1,18 +1,3 @@
-Created: 2023-04-17 20:01
-
-
-Created: 2023-04-19 20:01
-Tags: #
-Links: [[]]
-___
-
-Roll | [[Wühlen]]
-Generationenkonflikt
-es ist sehr wichtig = grossen Wert auf etwas legen
-etwas streichen = etwas absagen
-Der Tecnologische Fortschritt 
-
-
 Created: 2023-04-26 19:59
 Tags: #
 Links: [[]]
