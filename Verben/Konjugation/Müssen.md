@@ -12,6 +12,7 @@ Ihr müsst
 Sie müssen
 
 
+<<<<<<< HEAD
 # [[Modus - Indikativ]] - Präteritum
 Ich musste
 Du musstest
@@ -142,3 +143,11 @@ müssend
 
 # [[Modus - Partizips]] - Perfekt
 gemusst
+=======
+# [[Indikativ - Perfekt]]
+[[Pronomen]] + [[Haben]] + gemusst
+
+
+# Notes
+[[Brauchen]] zu = Müssen
+>>>>>>> 5ca01c1 (Intergrated notes from 2023-04-17 lesson)

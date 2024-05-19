@@ -26,6 +26,7 @@ als -> second verb at the end -> verb steht im Perfekt und [[Indikativ - Präter
 Wie lange? Ich bin seit 3 Jahren in der Schweiz -> 2022
 Wann? Ich bin vor 3 Jahren in di Schweiz gekommen -> 23 Mai 2019
 Als Ich 16 Jahre alt war, habe ich Rock gehört.
+<<<<<<< HEAD
 Immer wenn ich nach h=House gekommen bin, habe ich Musik gehört.
 =======
 EX: *Als ich letzten Sommer in Italien war, habe ich viel gegessen.*
@@ -37,3 +38,6 @@ Als ich 19 war, habe ich Deutsch gelern.
 Wie lange? Ich bin seit 3 Jahren in der Schweiz -> 2022
 Wann? Ich bin vor 3 Jahren in di Schweiz gekommen -> 23 Mai 2019
 >>>>>>> 03db291 (Added notes from April, 23rd)
+=======
+Immer wenn ich nach h=House gekommen bin, habe ich Musik gehört.
+>>>>>>> 5ca01c1 (Intergrated notes from 2023-04-17 lesson)

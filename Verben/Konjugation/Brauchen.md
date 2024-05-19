@@ -24,6 +24,7 @@ Sie | brauchen
 >>>>>>> d407dd8 (Catch-all changes on 09 06 2022.)
 
 
+<<<<<<< HEAD
 # [[Modus - Indikativ]] - Präteritum
 Ich brauchte
 Du brauchtest
@@ -157,3 +158,11 @@ brauchend
 
 # [[Modus - Partizips]] - Perfekt
 gebraucht
+=======
+# [[Indikativ - Perfekt]]
+[[Pronomen]] + [[Haben]] + gebraucht
+
+
+# Notes
+[[Brauchen]] zu = Müssen
+>>>>>>> 5ca01c1 (Intergrated notes from 2023-04-17 lesson)
