@@ -114,6 +114,7 @@ ___
 | Ladder                         | Die Leiter                               |
 | War                            | Der Krieg                                |
 | Peace                          | Der Frieden                              |
+| Elections                      | Die Wahl**en** (always plural)           |
 
 # Specific combination
 English | German

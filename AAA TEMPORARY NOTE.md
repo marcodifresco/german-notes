@@ -1,11 +1,3 @@
-Created: 2023-05-08 20:17
-Tags: #
-Links: [[]]
-___
-
-Die Wahl**en** (always plural)
-
-
 Created: 2023-05-10 20:21
 Tags: #
 Links: [[]]
