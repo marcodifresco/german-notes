@@ -15,3 +15,7 @@ Sie | brauchen
 
 # [[Indikativ - Perfekt]]
 [[Pronomen]] + [[Haben]] + gebraucht
+
+
+# Notes
+[[Brauchen]] zu = Müssen

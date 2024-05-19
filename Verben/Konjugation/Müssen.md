@@ -15,3 +15,7 @@ Sie | müssen
 
 # [[Indikativ - Perfekt]]
 [[Pronomen]] + [[Haben]] + gemusst
+
+
+# Notes
+[[Brauchen]] zu = Müssen

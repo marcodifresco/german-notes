@@ -14,3 +14,5 @@ EX: Wenn das Wetter gut ist, dann grilliere ich
 # Examples
 Wie lange? Ich bin seit 3 Jahren in der Schweiz -> 2022
 Wann? Ich bin vor 3 Jahren in di Schweiz gekommen -> 23 Mai 2019
+Als Ich 16 Jahre alt war, habe ich Rock gehört.
+Immer wenn ich nach h=House gekommen bin, habe ich Musik gehört.

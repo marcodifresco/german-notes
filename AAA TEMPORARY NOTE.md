@@ -1,19 +1,4 @@
 Created: 2023-04-17 20:01
-Tags: #
-Links: [[]]cront
-___
-
-Wenn - als
-
-Als Ich 16 Jahre alt war, habe ich Rock gehört.
-Immer wenn ich nach h=House gekommen bin, habe ich Musik gehört.\
-
-Brauchen zu = müssen = Brauchen
-Wir mussten uns, nichht kümmen
-Ich brauche, einem Kaffee zu trinken
-Ich brauche nicht, der Lehrer zu sein
-Der Krieg != der Frieden
-
 
 
 Created: 2023-04-19 20:01
