@@ -1,18 +1,3 @@
-Created: 2023-05-10 20:21
-Tags: #
-Links: [[]]
-___
-Der Computer - Die Computer 
-Das Fenster - die Fenster 
-Die Schwester - die Schwestern 
-
-Created: 2023-05-15 20:01
-Tags: #
-Links: [[]]
-___
-
-[[Verden]] Become?
-
 Created: 2023-05-22 20:09
 Tags: #
 Links: [[]]

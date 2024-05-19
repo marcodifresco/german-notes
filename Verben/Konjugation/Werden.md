@@ -1,7 +1,10 @@
+
 ___
-Tags: #Languages/German/Grammar/Verbs/Irregular  
-Links: [[Verben]]
-___
+
+Links: [[Verben]] [[Typ - Regular verben]] 
+Meaning: Become
+
+---
 # [[Indikativ - Präsens]]
 Pronoun|Conjugation
 ------------ | ------------
