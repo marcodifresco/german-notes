@@ -1,4 +1,6 @@
+
 ___
+<<<<<<< HEAD
 Links: [[Verben]] [[Typ - Regular verben]] 
 Meaning: to Become
 ___
@@ -10,6 +12,22 @@ Er/Sie/Es wird
 Wir werden
 Ihr werdet
 Sie werden
+=======
+
+Links: [[Verben]] [[Typ - Regular verben]] 
+Meaning: Become
+
+---
+# [[Indikativ - Präsens]]
+Pronoun|Conjugation
+------------ | ------------
+Ich | werde
+Du | wirst
+Er/Sie/Es | wird
+Wir | werden
+Ihr | wedet
+Sie | werden
+>>>>>>> adb912f (Intergrated notes from 2023-05-15 lesson)
 
 
 # [[Modus - Indikativ]] - Präteritum
