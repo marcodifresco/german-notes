@@ -391,7 +391,11 @@ Ladder | Die Leiter
 | Ladder                         | Die Leiter                               |
 | War                            | Der Krieg                                |
 | Peace                          | Der Frieden                              |
+<<<<<<< HEAD
 >>>>>>> 5ca01c1 (Intergrated notes from 2023-04-17 lesson)
+=======
+| Elections                      | Die Wahl**en** (always plural)           |
+>>>>>>> 430cccb (Intergrated notes from 2023-05-08 lesson)
 
 # Specific combination
 English | German
