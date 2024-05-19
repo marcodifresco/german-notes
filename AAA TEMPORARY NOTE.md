@@ -1,16 +1,3 @@
-Created: 2023-04-26 19:59
-Tags: #
-Links: [[]]
-___
-
-Obligatorisches "Es" in festen Ausdrücken.
-Wie geht es dir?
-Es geht mir gut
-
-Es sind heute viele Leute hier
-
-[[Geben]] only es?!
-
 Created: 2023-05-03 20:10
 Tags: #
 Links: [[]]
