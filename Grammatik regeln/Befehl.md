@@ -13,3 +13,10 @@ Obligatorisches "Es" in festen Ausdrücken.
 * If secondary phrase is second = first sentence normal, bis/... second phrase with verbe at the end
 * if secondary phrase first = bis/... secondary verb/verb first phrase
 * Aber, und, denn, oder count as position 0
+
+# Konnektoren konjunktionen
+und zwar ...
+Ich kaufe heute **nicht nur** ein, **sondern** ich gehe auch spazieren
+Max trinkt **entweder** Kaffee oder er ist eine Pizza
+**Entweder** thrinkt Max Kafee oder ist ein Pizza
+Anna arbeiter **weder** (neither) heute noch geht sie in den Kurs
