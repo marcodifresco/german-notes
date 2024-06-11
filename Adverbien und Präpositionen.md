@@ -101,11 +101,14 @@ Than | Als
 <<<<<<< HEAD
 This time | Diesmal
 Through | Durch
+<<<<<<< HEAD
 =======
 >>>>>>> a98b676 (Added notes from June, 25th)
 =======
 This time | Diesmal
 >>>>>>> 476c583 (Added notes from November 14th)
+=======
+>>>>>>> e1c71b3 (Updated README)
 Too | Zu
 Unintentionally | Unabsichtlich
 <<<<<<< HEAD
@@ -118,7 +121,11 @@ Urgently | Dringend
 >>>>>>> a20dc40 (Added notes from June, 27th)
 Very | Sehr
 What | Was
+<<<<<<< HEAD
 What for | Wozu
+=======
+What for | Wozur
+>>>>>>> e1c71b3 (Updated README)
 When | Wann
 Which | Welche
 Who | Wer

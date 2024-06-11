@@ -1,7 +1,14 @@
 # Marco Di Fresco's personal German notes
 Welcome to the repository for my German's notes.
 
+<<<<<<< HEAD
 I have been studying German at Klubschule Migros from March 2022 to July 2023 and then at Sprachschule ILS-Zürich from August to October 2024 and I am taking these notes during class to help myself in learning the language.
+=======
+I have been studying German at [Klubschule Migros](https://www.klubschule.ch/) from March 2022 to July 2023 and then at NewPlacement Academy on June 2024.
+
+
+and I am taking these notes during class to help myself in learning the language.
+>>>>>>> e1c71b3 (Updated README)
 
 To use my notes:
 1. Click on the three dots above on the right and select *"Download repository"*;

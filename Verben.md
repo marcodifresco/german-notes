@@ -36,6 +36,7 @@ with *dass* the second verb goes at the end.
 With [[Sein]], "nicht" comes after verb; other cases at the end.
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
  infinitive clauses must be formed with zu whenever the verb from the main clause refers to the action of the subordinate clause; except for [[Typ - Modal verben]].
  [[Verben]] mit ver er ent emp zu be ge -> no ge_ in past form.
 
@@ -45,3 +46,7 @@ With [[Sein]], "nicht" comes after verb; other cases at the end.
 =======
  infinitive clauses must be formed with zu whenever the verb from the main clause refers to the action of the subordinate clause; except for [[Typ - Modal verben]].
 >>>>>>> 2ad4c1b (Added notes from lesson on 2023-01-30)
+=======
+ infinitive clauses must be formed with zu whenever the verb from the main clause refers to the action of the subordinate clause; except for [[Typ - Modal verben]].
+ [[Verben]] mit ver er ent emp zu be ge -> no ge_ in past form.
+>>>>>>> e1c71b3 (Updated README)

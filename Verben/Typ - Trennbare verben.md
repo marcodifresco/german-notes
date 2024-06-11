@@ -82,6 +82,9 @@ Relocate[^1] | [[Umziehen]] (I)
 <<<<<<< HEAD
 Repeat | [[Wiederholen]] (R)
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> e1c71b3 (Updated README)
 Request | [[Aufforderung]] (R)
 Send | [[Absenden]] (R)
 Set free | [[Freilassen]] (I)

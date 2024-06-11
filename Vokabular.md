@@ -18,6 +18,7 @@ ___
 # General list
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 
  English  | German 
  ------------------------------ | ---------------------------------------- 
@@ -31,6 +32,13 @@ Adaptation | Die Verfilmung
 Addiction | Die Sucht
 Answer | Die Antwort (-en)
 >>>>>>> 251622b (Added notes from June, 13th)
+=======
+ English  | German |
+ ------------------------------ | ---------------------------------------- |
+Adaptation | Die Verfilmung
+Addiction | Die Sucht
+Answer | Die Antwort (-en) 
+>>>>>>> e1c71b3 (Updated README)
 Bag | Die Tasche (-n)
 Ballpoint pen | Der Kugelschreiber (-)
 Behavior | Das Verhalten
@@ -38,6 +46,7 @@ Blind date | Das Blinddate (-s)
 Bad conscience | Schlechtes Gewissen
 Book | Das Buch (-ü-er)
 Broadcaster | Der Sender (-)
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 Bucket | Der Eimer
@@ -66,11 +75,23 @@ Central station | Hauptbahnhof
 >>>>>>> 80384e7 (Added material from A1 book - chapter 12)
 Cartoon | Der trickfilm (-e)
 >>>>>>> 251622b (Added notes from June, 13th)
+=======
+Bucket | Der Eimer
+Café | Das Café[^1]
+Couple | Paar
+Good conscience | Gutes Gewissen
+Carnival | Die Fastnacht / Der Fashcing
+Central station | Hauptbahnhof
+Cartoon  | Der trickfilm (-e)
+>>>>>>> e1c71b3 (Updated README)
 Cellphone | das Handy
 Change | Der Wechsel
 Companion | Der Begleiter
 Consequence | Die Folge (-n)
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> e1c71b3 (Updated README)
 Conversation  | Das Gespräch (-e)
 Desk (for receiving customers) | Der Schalter
 Dice | Der Würfel (-)
@@ -83,6 +104,7 @@ Event  | Die Veranstaltung (-en) / Der Event (-s)
 Exception | Die Aushahme (-n)
 Experience | Die Erfahrung (-en)
 Fun | Spass
+<<<<<<< HEAD
 =======
 Conversation | Das Gespräch (-e)
 Desk (for receiving customers) | Der Schalter
@@ -107,11 +129,16 @@ First name | Der Vorname (-n)
 Last name | Der Nachname (-n)
 <<<<<<< HEAD
 <<<<<<< HEAD
+=======
+First name | Der Vorname (-n)
+Last name | Der Nachname (-n)
+>>>>>>> e1c71b3 (Updated README)
 Host family | Die Gastfamilie
 Glass  | Das Glas
 Homework | Die Hausaufgabe (-n)
 Position | das Aufzwingen
 Joker  | Der Spassvogel (-)
+<<<<<<< HEAD
 =======
 Host family | Die Gastfamilie
 Glass | Das Glas
@@ -154,10 +181,26 @@ Mister | Herr
 Need | Das Bedürfnis
 <<<<<<< HEAD
 <<<<<<< HEAD
+=======
+Key | Der Schlüssel (-)
+Investigation | Die Untersuchung
+Invoice [^2]  | Die Rechnung (-en)
+Kettle | Der Kessel (-)
+Laundry day | Der Waschtag
+Lie | Die Lüge (-n)
+Limit  | Die limite
+Man | Der Mann (Männer) 
+Mask | Die Maske / Das Kostüm
+Means of transport | Das Transportmittel
+Movie  | Der Film (-e)
+Mister | Herr
+Need | Das Bedürfnis
+>>>>>>> e1c71b3 (Updated README)
 No sense | Quatsch 
 Offer  | Das angebot
 Office | das Büro (-s)
 Paper  | Das Papier (-e)
+<<<<<<< HEAD
 =======
 =======
 No sense | Quatsch
@@ -166,12 +209,15 @@ Offer | Das angebot
 Office  | das Büro (-s)
 Paper | Das Papier (-e)
 >>>>>>> 31e5a1c (Added notes from June, 16th)
+=======
+>>>>>>> e1c71b3 (Updated README)
 Pencil | Der Bleistift (-)
 Person | Der Man
 People | Die Menschen
 People | Die Leute
 Pen | Der Stift (-e)
 Phone queue | Die Warteschleife
+<<<<<<< HEAD
 <<<<<<< HEAD
 Plastic  | Das Plastik
 Price  | Der Preis (-e)
@@ -181,11 +227,17 @@ Plastic | Das Plastik
 Price | Der Preis (-e)
 Printer | Der Drucker (-)
 >>>>>>> 0025884 (Added notes from December 14th)
+=======
+Plastic  | Das Plastik
+Price  | Der Preis (-e)
+Printer  | Der Drucker (-)
+>>>>>>> e1c71b3 (Updated README)
 Question | Die Frage (-n)
 Quantity | Die Menge
 Randomly | Zufällig
 Reason | Der Grund (Gründe)
 Receiver | Der Empfänger
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 Requirement | Das Bedürfnis
@@ -194,6 +246,9 @@ Requirement | Das Bedürfnis
 =======
 Requirement | Das Bedürfnis
 >>>>>>> 31e5a1c (Added notes from June, 16th)
+=======
+Requirement | Das Bedürfnis
+>>>>>>> e1c71b3 (Updated README)
 Rest | Der Rest (-e)
 Screen | Der Bildschirm (-e)
 Sender | Der Absender
@@ -201,6 +256,7 @@ Season | Die Staffel
 Series | Die Serie (-n)
 Show | Die Sendung (-en)
 Spelling | Buchstabiere
+<<<<<<< HEAD
 <<<<<<< HEAD
 Stamp  | Die Briefmarke (-n)
 Stop | Halt
@@ -229,6 +285,20 @@ Vacation | Der Urlaub (-e)
 View | Meinung
 Way | Der Weg (-e)
 <<<<<<< HEAD
+=======
+Stamp  | Die Briefmarke (-n)
+Stop | Halt
+Suitcase | Der Koffer (-)
+Suggestion | Der Vorschlag (-ä-e)
+Tabloid  | die Regenbogenpresse
+Task | Die Aufgabe(-n)
+Thing  | Das Ding (-e)
+Traffic  | Der Verkehr
+Truth  | Die Wahrheit (-en)
+Vacation | Der Urlaub (-e)
+View | Meinung
+Way | Der Weg (-e)
+>>>>>>> e1c71b3 (Updated README)
 Wish | Der Wunsch (-ü-e)
 Woman  | Die Frau (-en)
 Word | Das Wort (-ö-er)
@@ -236,6 +306,9 @@ Tire | Der Reifen (-)
 Cemetery | Der Friedhof (-öfe)
 Farm | Der Bauernhof (-öfe)
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> e1c71b3 (Updated README)
 Wedding  | Die Hochzeit (-en)
 Visitor  | Der Besucher (-)
 Wallet | Portemonnaie
@@ -250,6 +323,7 @@ Peace  | Der Frieden
 Elections | Die Wahl**en** (always plural)
 The first time | Das erste Mal
 Business man | Kaufmann
+<<<<<<< HEAD
 Acquaintance | Der Bekannter
 
 =======
@@ -396,6 +470,9 @@ Ladder | Die Leiter
 =======
 | Elections                      | Die Wahl**en** (always plural)           |
 >>>>>>> 430cccb (Intergrated notes from 2023-05-08 lesson)
+=======
+
+>>>>>>> e1c71b3 (Updated README)
 
 # Specific combination
 English | German
