@@ -4,7 +4,6 @@ Links: [[Vokabular]]
 ___
 # Rooms
 English | German
-
 ------------ | ------------
 Balcon | Der Balkon (-e)
 Basement | Der Keller (-)

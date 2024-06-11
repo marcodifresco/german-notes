@@ -48,11 +48,13 @@ Sometime | Manchmal
 Still | Noch
 Than | Als
 This time | Diesmal
+Through | Durch
 Too | Zu
 Unintentionally | Unabsichtlich
 Urgently | Dringend
 Very | Sehr
 What | Was
+What for | Wozur
 When | Wann
 Which | Welche
 Who | Wer

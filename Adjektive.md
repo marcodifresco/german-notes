@@ -28,6 +28,7 @@ Great | Toll
 Happy | Glücklich
 Happy | Froh
 Hardly (/ just a bit) | Kaum
+Know | Bekannte
 Last | Letzte[^2]
 Little (quantity) | Wenig
 Married | Verheiratet
@@ -36,6 +37,7 @@ Modern | Modern
 Motivated | Motiviert
 Motivating | Motivierend
 Old | Alt
+Orientation |  Ausrichtung
 Oversalted | Versalzen
 Overwhelmed | Überfordert
 Polite | Höflich (opposite: un-)
@@ -59,6 +61,7 @@ Square | Eckig
 Stingy | Geizig
 Stressed | Gestresst
 Stressing | Stessig
+Stressful | Anstrengend
 Standard (average) | Durchschnittlich
 Sweet | Süss
 Tense | Gespannt

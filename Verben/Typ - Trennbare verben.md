@@ -5,6 +5,7 @@ ___
 English | German
 ------------ | ------------
 Announce | [[Durchsagen]] (R)
+Appear | [[Auftreten]]  (I)
 Arrive | [[Ankommen]] (I)
 Be located | [[Stattfinden]] (I)
 Bring along | [[Mitbringen]] (R)
@@ -33,6 +34,7 @@ Pull (object) off | [[Abziehen]] (I)
 Recite | [[Vortragen]] (R)
 Relocate[^1] | [[Umziehen]] (I)
 Repeat | [[Wiederholen]] (R)
+Request | [[Aufforderung]] (R)
 Send | [[Absenden]] (R)
 Set free | [[Freilassen]] (I)
 Spend the night | [[Übernachten]] (R)

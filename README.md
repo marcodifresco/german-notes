@@ -1,6 +1,10 @@
 # Marco Di Fresco's personal German notes
-Welcome to the repository for my German's notes. I am studying German at 
-[Klubschule Migros](https://www.klubschule.ch/) in Zurich and I am taking these notes during class to help myself in learning the language.
+Welcome to the repository for my German's notes.
+
+I have been studying German at [Klubschule Migros](https://www.klubschule.ch/) from March 2022 to July 2023 and then at NewPlacement Academy on June 2024.
+
+
+and I am taking these notes during class to help myself in learning the language.
 
 To use my notes:
 

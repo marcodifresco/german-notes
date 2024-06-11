@@ -25,3 +25,6 @@ Das Briefumschlag | Das  Kuvert
 Motorrad | Das Töff
 Geldbörse | Portemonnaie
 Verärgert | Hässig
+09:00 | Znuni
+16:00 | Zvieri
+Der Mill | Der abfall
