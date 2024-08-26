@@ -28,3 +28,4 @@ Verärgert | Hässig
 09:00 | Znuni
 16:00 | Zvieri
 Der Mill | Der abfall
+Friseur | Coiffeur

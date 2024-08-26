@@ -2,6 +2,13 @@ ___
 Tags: #Languages/German/Grammar/Verbs 
 Links: [[Verben]]
 ___
+# Prefixes
+ab- an- auf- aus- ein- nach- vor- zu- mit- züruch- fern-
+
+**Nicht** trennbare Verben: be- ver- zer- er-
+
+
+
 English | German
 ------------ | ------------
 Announce | [[Durchsagen]] (R)
