@@ -61,3 +61,15 @@ später, Mama
 
 115 19, 20, 21
 116 23, 24, 35
+
+
+30.08
+Liebe Frau,
+am Montag fliege ich gescha:ftlich  nach Moskau . 
+Ko:nnen Sie bitte maine Katze fu:ttern?
+Ich hole heute Abend ren Schlu:ssel ab
+Danke und viele Grusse
+
+
+118 30 31
+121 1 2
