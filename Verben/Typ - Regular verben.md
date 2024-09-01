@@ -143,12 +143,18 @@ Play | [[Spielen]]
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 Position | [[Stellen]]
 =======
 >>>>>>> 723d39b (Added material from A1 book - chapter 11)
 Practice | [[Üben]]
 Protest | [[Demonstrieren]]
 <<<<<<< HEAD
+=======
+Position | [[Stellen]]
+Practice | [[Üben]]
+Protest | [[Demonstrieren]]
+>>>>>>> 6220974 (Added notes from 28.08.2024 lesson)
 Put | [[Stecken]]
 Quote (citation) | [[Zitieren]]
 Rain | [[Regnen]]

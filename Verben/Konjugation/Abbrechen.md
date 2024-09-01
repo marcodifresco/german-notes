@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 ___
 <<<<<<< HEAD
+=======
+______
+>>>>>>> 6220974 (Added notes from 28.08.2024 lesson)
 Links: [[Verben]] [[Typ - Regular verben]] [[Typ - Trennbare verben]]
 Meaning: to cancel
 ___
