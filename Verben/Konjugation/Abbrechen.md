@@ -1,4 +1,4 @@
-__
+______
 Links: [[Verben]] [[Typ - Regular verben]] [[Typ - Trennbare verben]]
 Meaning: Cancel
 ___

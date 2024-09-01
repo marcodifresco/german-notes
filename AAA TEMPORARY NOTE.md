@@ -1,40 +1,5 @@
 28.08
 
-Hausaufgaben
-182-183
-AB106
-Test
-
-TODO
-Brave CTRL+F4
-No ssh out
-Thunderbird slow start
-Thunderbid gpg key
-
-
-Wechselpräpositionen
-en auf in vor hinter neben über unter zwischen
-
-Wo? [[Dativ]]
-Wohin? [[Akkusativ]]
-
-Der Tisch --> Auf dem Tish - Auf den Tisch
-Die Wand --> An der Wand - An die Wand
-Das Sofa --> Unter dem Sofa - Unter das Sofa
-Die Schränke --> in den Schränke**n** - in die Schränke
-[[Stehen]] - [[Stellen]]
-[[Liegen]] - [[Legen]]
-[[Hängen]] - ..
-[[Stecken]] - ..
-
-in dem = im
-an dem = am
-an das = ans
-
-der Computer steht auf dem Boden
-die Lampe steht vor den Fenstern
-das Gemälde hängt an der Wand
-
 
 29.08
 direktionaladverbien
@@ -59,17 +24,20 @@ Du musst den Abfall hinausbringen
 später, Mama
 
 
-115 19, 20, 21
-116 23, 24, 35
 
 
-30.08
-Liebe Frau,
-am Montag fliege ich gescha:ftlich  nach Moskau . 
-Ko:nnen Sie bitte maine Katze fu:ttern?
-Ich hole heute Abend ren Schlu:ssel ab
-Danke und viele Grusse
-
-
-118 30 31
-121 1 2
+ 30b
+ Grüezi Herr Rüegg,
+ die Heizungsfirma kommt am 18.1. Leider habe ich an dem Tag Frühschicht und muss arbeiten.
+ Könnten Sie die Firma bitte in meine Wohnung lassen?
+ Ich klingle heute Abend bei Ihnen oder werfe den Wohnungsschlüssel in Ihren Briefkasten.
+ Vielen Dank für Ihre Hilfe und herzliche Grüsse
+ 
+  31
+   Liebe Frau Steiner
+   Meine Schwester ist krank.
+   Sie wohnt in Biel und ich möchte sie über das Wochenende besuchen.
+   Könnten Sie bitte meine Blumen giessen und die Katze füttern?
+   Ich werfe Ihnen meinen Wohnungsschlüssel in Ihren Briefkasten.
+   Vielen Dank für Ihre Hilfe und herzliche Grüsse
+   Giovanna Bianchi
