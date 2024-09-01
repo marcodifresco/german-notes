@@ -133,6 +133,22 @@ Sich [[Fürchten]] vor
 Zufrieden [[Sein]] mit + [[Dativ]]
 
 
+# Direktionaladverbien
+**wo**
+hier
+da
+dort
+
+**whoin**
+hierhin
+dahin
+dorthin
+rein -> reinkommen
+raus -> rausbringen
+rauf -> raufsteigen
+runter -> runterfallen
+rüber -> rübergeben
+
 
 # Notes
 Am -> An dem
