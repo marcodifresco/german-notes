@@ -1,6 +1,8 @@
+___
 Created: 2023-07-03 20:14
 Tags: #
 Links: [[]]
+<<<<<<< HEAD
 ___
 
 ___
@@ -8,6 +10,8 @@ ___
 Created: 2023-07-03 20:14
 Tags: #
 Links: [[]]
+=======
+>>>>>>> 666e3ee (Added notes from 02.09.2024 lesson)
 Tags: #Languages/German/Cases 
 ___
 <<<<<<< HEAD
@@ -18,6 +22,7 @@ The accusative case is used for the direct object in a sentence. The accusative 
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 [[Nominativ]] | [[Akkusativ]]
 -----|-----
 Der | Den
@@ -41,6 +46,23 @@ Die | Die
 
 | [[Nominativ]] | [[Akkusativ]] |
 | ------------- | ------------- |
+=======
+| [[Nominativ]] | [[Akkusativ]] |
+| ------------- | ------------- |
+| Der           | Den           |
+| Die           | Die           |
+| Das           | Das           |
+| Die           | Die           |
+
+| [[Nominativ]] | [[Akkusativ]] |
+| ------------- | ------------- |
+| Ein (der)     | Einen         |
+| Eine          | Eine          |
+| Ein (das)     | Ein           |
+
+| [[Nominativ]] | [[Akkusativ]] |
+| ------------- | ------------- |
+>>>>>>> 666e3ee (Added notes from 02.09.2024 lesson)
 | Kein (er)     | Keinen        |
 | Keine         | Keine         |
 | Kein (das)    | Kein          |
