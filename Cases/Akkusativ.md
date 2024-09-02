@@ -1,34 +1,40 @@
+___
 Created: 2023-07-03 20:14
 Tags: #
 Links: [[]]
-___
-
-___
 Tags: #Languages/German/Cases 
 ___
 The accusative case is used for the direct object in a sentence. The accusative case is also used after particular German prepositions: bis, durch, für, gegen, ohne, um, after which the accusative case is always used, and an, auf, hinter, in, neben, über, unter, vor, zwischen which can govern either the accusative or the dative. The latter prepositions take the accusative when motion or action is specified (being done into/onto the space), but take the [[Dativ]] when location is specified (being done in/on that space). These prepositions are also used in conjunction with certain verbs, in which case it is the verb in question which governs whether the accusative or [[Dativ]] should be used.
 
 # Artikel
 
-[[Nominativ]] | [[Akkusativ]]
------|-----
-Der | Den
-Die | Die
-Das | Das
-Die | Die
+| [[Nominativ]] | [[Akkusativ]] |
+| ------------- | ------------- |
+| Der           | Den           |
+| Die           | Die           |
+| Das           | Das           |
+| Die           | Die           |
 
-[[Nominativ]] | [[Akkusativ]]
------|-----
-Ein (der) | Einen
-Eine | Eine
-Ein (das) | Ein
+| [[Nominativ]] | [[Akkusativ]] |
+| ------------- | ------------- |
+| Ein (der)     | Einen         |
+| Eine          | Eine          |
+| Ein (das)     | Ein           |
 
-[[Nominativ]] | [[Akkusativ]]
------|-----
-Kein (er) | Keinen
-Keine | Keine
-Kein (das) | Kein
-(pl) | Keine
+| [[Nominativ]] | [[Akkusativ]] |
+| ------------- | ------------- |
+| Kein (er)     | Keinen        |
+| Keine         | Keine         |
+| Kein (das)    | Kein          |
+| (pl)          | Keine         |
+
+# Indefinitivepronomen
+| Artikle | Nominativ    | Akkusativ     |
+| ------- | ------------ | ------------- |
+| Der     | Einer/Keiner | Einen/Keinen  |
+| Die     | Eine/Keine   | Eine/Keine    |
+| Das     | Eins/Keins   | Eins/Keins    |
+| Die     | Welche/Keine | Weilche/Keine |
 
 # [[Pronomen]]
 [[Nominativ]] | [[Akkusativ]]
