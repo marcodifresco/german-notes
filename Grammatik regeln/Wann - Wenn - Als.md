@@ -8,6 +8,8 @@ EX: Als ich letzten Sommer in Italien war, habe ich viel gegessen.
 
 wenn -> first part verb at end ... *dann* (not obiglatory) second verb first + subject
 EX: Wenn das Wetter gut ist, dann grilliere ich
+wenn (second phrase): first part normal, second part verb at the end
+EX: Du kommst spätzur Arbeit, wenn du den Weckwe nicht Hört
 
 ![[wann-wenn-als.jpg]]
 
