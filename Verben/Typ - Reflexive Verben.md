@@ -12,18 +12,22 @@ Relax | [[Entspannen]] (R)
 Sit (going to) | [[Setzen]] (R)
 Take care | [[Kümmern]] (R)
 
+[[Ausruhen]]
+[[Beeilen]]
+
 # Pronouns
-Subjekt | Objekt
------------- | ------------
-Ich | mich
-Du | dich
-Er/sie/es | sich
-Wir | uns
-Ihr | euch
-Sie | sich
+| Subjekt   | Objekt |
+| --------- | ------ |
+| Ich       | mich   |
+| Du        | dich   |
+| Er/sie/es | sich   |
+| Wir       | uns    |
+| Ihr       | euch   |
+| Sie       | sich   |
 
 # Rule
 Subject + [[Verben]] + Reflexive [[Pronomen]] + rest of sentence
+Reflexivpronomen is notwendig
 *Example: Er ernährt sich (un)gesund* 
 With prep. reflexive pronoun at the end for question; *example:* Worauf freust du dich?
 With *ve(partizip)* -> negative sentence.

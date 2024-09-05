@@ -13,15 +13,15 @@ You | Ihr
 They | Sie
 
 # Possessivpronomen
-English | German
------------- | ------------
-My | Mein(e)
-Your | Dein(e)
-His/Her | Sein(e)/Ihr(e)
-Our | Unser(e)
-Your | 
-Their | Ihr(e)
-
+| English | German         |
+| ------- | -------------- |
+| My      | Mein(e)        |
+| Your    | Dein(e)        |
+| His/Her | Sein(e)/Ihr(e) |
+| Our     | Unser(e)       |
+| Your    | Ihr(e)         |
+| Their   |                |
+# Reflexivpronomen
 # [[Dativ]]
 English | German
 ------------ | ------------
@@ -38,16 +38,6 @@ English | German
 Me | Mich
 You | Dich
 Him/Her/Its | Ihn/Sie/Es
-Us | Uns
-You | Euch
-Them | Sie
-
-# Reflexivpronomen
-English | German
------------- | ------------
-Me | Mich
-You | Dich
-Him/Her/Its | 
 Us | Uns
 You | Euch
 Them | Sie
