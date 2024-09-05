@@ -14,6 +14,7 @@ They | sie
 You (formal) | Sie
 
 # Possessivpronomen
+<<<<<<< HEAD
 *Note: The endings change based on the gender and case of the noun that follows (e.g., mein, meine, meinem).*
 
 | English | German (base form) |
@@ -37,6 +38,17 @@ You (formal) | Sie
 | ihr | euch | euch |
 | sie/Sie | sich | sich |
 
+=======
+| English | German         |
+| ------- | -------------- |
+| My      | Mein(e)        |
+| Your    | Dein(e)        |
+| His/Her | Sein(e)/Ihr(e) |
+| Our     | Unser(e)       |
+| Your    | Ihr(e)         |
+| Their   |                |
+# Reflexivpronomen
+>>>>>>> cf3189d (Catch-all changes on 06 09 2024.)
 # [[Dativ]]
 English | German
 ------------ | ------------
@@ -55,6 +67,11 @@ Me | Mich
 You (informal, singular) | Dich
 Him/Her/It | Ihn/Sie/Es
 Us | Uns
+<<<<<<< HEAD
 You (informal, plural) | Euch
 Them | sie
 You (formal) | Sie
+=======
+You | Euch
+Them | Sie
+>>>>>>> cf3189d (Catch-all changes on 06 09 2024.)

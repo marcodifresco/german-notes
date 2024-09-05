@@ -25,8 +25,14 @@ Sit (going to) | [[Setzen]] (R)
 Take care | [[Kümmern]] (R)
 >>>>>>> ec2d15b (Added notes from August 29th)
 
+[[Ausruhen]]
+[[Beeilen]]
+
 # Pronouns
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> cf3189d (Catch-all changes on 06 09 2024.)
 | Subjekt   | Objekt |
 | --------- | ------ |
 | Ich       | mich   |
@@ -35,6 +41,7 @@ Take care | [[Kümmern]] (R)
 | Wir       | uns    |
 | Ihr       | euch   |
 | Sie       | sich   |
+<<<<<<< HEAD
 =======
 Subjekt | Objekt
 ------------ | ------------
@@ -49,6 +56,11 @@ Sie | sich
 # Rule
 Subject + [[Verben]] + Reflexive [[Pronomen]] + rest of sentence
 <<<<<<< HEAD
+=======
+
+# Rule
+Subject + [[Verben]] + Reflexive [[Pronomen]] + rest of sentence
+>>>>>>> cf3189d (Catch-all changes on 06 09 2024.)
 Reflexivpronomen is notwendig
 *Example: Er ernährt sich (un)gesund* 
 With prep. reflexive pronoun at the end for question; *example:* Worauf freust du dich?
