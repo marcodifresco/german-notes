@@ -34,16 +34,18 @@ Wir | Uns
 Ihr | Euch
 Sie | Ihnem
 
-[[Nominativ]] | [[Dativ]] (M) | [[Dativ]] (F) | [[Dativ]] (N) | [[Dativ]] (P)
------------- | ------------ | ------------ | ------------ | ------------
-Mein (-e) | meinem | meiner | meinem | meinen
-Dein | deinem | deiner | deinem | deinen
-Sein (er) | seinem | seiner | seinem | seinen
-Ihr (sie) | ihrem | ihrer | ihrem | ihren
-Sein (es) | seinem | seiner | seinem | seinen
-Unser | unserem | unserer | unserem | unseren
-Euer | eurem | eurer | eurem | euren
-Ihr | ihrem | ihrer | ihrem | ihren
+# Possessivepronomemen
+
+| [[Nominativ]] | [[Dativ]] (M) | [[Dativ]] (F) | [[Dativ]] (N) | [[Dativ]] (P) |
+| ------------- | ------------- | ------------- | ------------- | ------------- |
+| Mein (-e)     | meinem        | meiner        | meinem        | meinen        |
+| Dein          | deinem        | deiner        | deinem        | deinen        |
+| Sein (er)     | seinem        | seiner        | seinem        | seinen        |
+| Ihr (sie)     | ihrem         | ihrer         | ihrem         | ihren         |
+| Sein (es)     | seinem        | seiner        | seinem        | seinen        |
+| Unser         | unserem       | unserer       | unserem       | unseren       |
+| Euer          | eurem         | eurer         | eurem         | euren         |
+| Ihr           | ihrem         | ihrer         | ihrem         | ihren         |
 
 # Relativepronomen
 [[Nominativ]] | [[Dativ]]
