@@ -7,14 +7,13 @@ Finish [[Typ - Reflexive Verben]]
 
 Possessivepronomen & indefinitive article in [[Dativ]]
 
-
-Christina schenkt ihren eltern ein Expresso-machine
-Jan schenkt seinen eltern ein Konzertkarten
-
-
 Was -> [[Akkusativ]]
 
+13.09  
 
-Wiederholung -> Personalpronome in dativ and Akk
-172 9 10 11
-173 12 13 14
+Ich feiere meinen Geburtstag am 3. Februar um 19:00 Uhr in meiner Wohnung. Es wird Essen angeboten. Bitte bringt ausreichend Rotwein mit. Es wird nicht getanzt oder gesungen.
+
+
+89 E1
+178 27
+181 1 2
