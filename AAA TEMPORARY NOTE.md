@@ -10,13 +10,13 @@ Possessivepronomen & indefinitive article in [[Dativ]]
 Was -> [[Akkusativ]]
 
 
-17.09
-Die Velotour (en)
-Das Konzert (e)
-Der Vorschalg (a:ge)
-Die Bar (s)
-Die Wanderung (en)
-Der Eintritt (e)
-Das Rathaus (a:user)
+18.09
+enrichten dekoriren
+[[Helfen]] / [[Beraten]]
 
-106 1 2 ab
+
+111  17
+
+ 1. Verkaufe meine drei Jahre alte Küchenmaschine.
+ 2. 2 Suche moderne Kinderbücher mit lustigen Geschichten.
+ 3. 3 Biete einen schönen Tisch in gutem Zustand.
