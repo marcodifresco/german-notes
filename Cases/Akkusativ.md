@@ -69,7 +69,7 @@ zum -> zu dem (der / das)
 zur -> zu der (die)
 
 # [[Adjektive]]
-Der --> Den / Einem ...*en*
+Der --> Den / Einen ...*en*
 Das --> Ein ...*es*
 Sie --> Eine ...*e*
 Plural -->  die/Ø ...*e*
