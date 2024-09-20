@@ -37,3 +37,14 @@ Er ist am fleissigsten **von** allen Studenten[ ]
 
 28 D1 D2
 115 27, 28, 29
+
+
+20.09
+Er ist leider zu klain
+
+Wir mochten en zurückschicken 
+
+y -> u: 
+
+32 Flumarkt
+118 1 2

@@ -5,7 +5,7 @@ ___
 # Rules
 Passiv = wird (singular) / werden (plural) + Partizip II
 Wird/Werden -> in progress
-Sind ->done
+Sind -> done
 
 # Examples
 Das Fenster wird geputzt
