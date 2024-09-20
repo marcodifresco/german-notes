@@ -17,8 +17,12 @@ If you want to mention the agent (who is performing the action), you use:
 # Rules
 Passiv = wird (singular) / werden (plural) + Partizip II
 Wird/Werden -> in progress
+<<<<<<< HEAD
 Sind ->done
 >>>>>>> 9e45174 (Added notes from May, 30th)
+=======
+Sind -> done
+>>>>>>> 4c9fb5d (Catch-all changes on 21 09 2024.)
 
 # Examples
 Das Fenster wird geputzt
