@@ -45,6 +45,3 @@ Er ist leider zu klain
 Wir mochten en zurückschicken 
 
 y -> u: 
-
-32 Flumarkt
-118 1 2
