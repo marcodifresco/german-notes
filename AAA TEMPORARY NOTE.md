@@ -45,3 +45,15 @@ Er ist leider zu klain
 Wir mochten en zurückschicken 
 
 y -> u: 
+
+24.09
+29
+Lieber Dominic.
+Das ist ja toll, dass ihr eine neue Wohnung gefunden habt und ich komme gern an eure Party. Soll ich etwas zum Essen mitbringen, z. B. einen Salat? Noch eine Frage: Am Wochenende besucht mich meine Freundin aus Luzern. Könnte sie mit an die Party kommen?
+ch freue mich schon sehr!
+Liebe Grüsse Gabi
+
+33
+Liebe Claudia.
+Gerade habe ich einen Anruf von meinem Vater bekommen. Meine Mutter hatte einen Unfall und ist im Spital. Es tut mir sehr leid, dass ich nicht ins Kino mitkommen kann. Aber ich möchte meine Mutter heute Nachmittag gern besuchen. Vielleicht können wir unser Treffen verschieben?
+Liebe Grüsse Sabina
