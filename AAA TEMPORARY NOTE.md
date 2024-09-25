@@ -46,14 +46,30 @@ Wir mochten en zurückschicken
 
 y -> u: 
 
-24.09
-29
-Lieber Dominic.
-Das ist ja toll, dass ihr eine neue Wohnung gefunden habt und ich komme gern an eure Party. Soll ich etwas zum Essen mitbringen, z. B. einen Salat? Noch eine Frage: Am Wochenende besucht mich meine Freundin aus Luzern. Könnte sie mit an die Party kommen?
-ch freue mich schon sehr!
-Liebe Grüsse Gabi
 
-33
-Liebe Claudia.
-Gerade habe ich einen Anruf von meinem Vater bekommen. Meine Mutter hatte einen Unfall und ist im Spital. Es tut mir sehr leid, dass ich nicht ins Kino mitkommen kann. Aber ich möchte meine Mutter heute Nachmittag gern besuchen. Vielleicht können wir unser Treffen verschieben?
-Liebe Grüsse Sabina
+25.09
+Eine Frau kommt vom Coiffeur
+Die Kinder kommen aus der Schule
+Der Hund kommt ins Auto
+
+zu + dativ
+bei + dativ
+aus
+von + d
+
+konjunktionaladverb
+deshalb
+
+
+14b
+2 Sie hat keine Garage. Sie muss deshalb das Auto draussen parkieren.
+3 In der Stadt gibt es viele Busse und Trams. Deshalb braucht sie gar kein Auto.
+4 Ihr Navi funktioniert nicht mehr. Sie fährt deshalb oft in die falsche Richtung.
+5 Sie möchte mehr Sport machen. Sie will deshalb nur noch Velo fahren.
+
+
+18
+C Ich konnte nicht aufstehen, weil mein Knie sehr wehgetan (hat) und meine Hand geblutet hat.
+D Der Velofahrer ist nicht stehen geblieben und hat nicht geholfen. Deshalb wollte ich mit dem Handy Hilfe holen.
+E Aber oh je, ich konnte meine Freunde nicht anrufen, weil der Akku leer war.
+F Zum Glück ist ein Mann gekommen. Er war sehr nett, weil er (mir) gleich ein Pflaster auf meine Hand geklebt hat.
