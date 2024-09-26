@@ -73,3 +73,36 @@ C Ich konnte nicht aufstehen, weil mein Knie sehr wehgetan (hat) und meine Hand 
 D Der Velofahrer ist nicht stehen geblieben und hat nicht geholfen. Deshalb wollte ich mit dem Handy Hilfe holen.
 E Aber oh je, ich konnte meine Freunde nicht anrufen, weil der Akku leer war.
 F Zum Glück ist ein Mann gekommen. Er war sehr nett, weil er (mir) gleich ein Pflaster auf meine Hand geklebt hat.
+
+
+
+26.09
+141 29 30
+143 1-2
+Test
+
+Lokale Pra:positionen
+Stadt-Land
+Woher -> aus
+Wo -> in
+Wohin -> nach (if nation has aritcle -> in + [[Akkusativ]] article)
+
+
+AN
+Wo -> am (der / das) / an der (die) | Dativ
+Wohin -> am den / ans (an das) / an die  / an den (plurarl) | Akkusative
+
+AUF
+Wo -> auf dem / auf der (die) 
+Whoin -> aufs (auf das) / auf die 
+
+IN
+Wo -> im (der) / im (das) / in der (die) / in dem (plural)
+Whoin -> in den (der)  / ins (in das) / in die / in die
+
+nach immer Dative
+
+141 30
+Lieber Muharab
+Wie schön, dass Du mir wieder einmal schreibst. Die Winter in der Schweiz sind sicher sehr kalt. Hier ist es im Moment bewölkt, aber es liegt kein Schnee. Zum Deutschkurs fahre ich immer mit dem Velo. Du weisst ja, ich wohne nur 10 Minuten von der Sprachschule entfernt. Hier in der Schweiz gibt es viel mehr Verkehr als bei uns in Kanada. Am schlimmsten finde ich den Verkehr in den Grossstädten. Für Velofahrer ist es manchmal richtig gefährlich, weil manche Autofahrer sehr aggressiv fahren. Das finde ich nicht gut. Aber es gibt hier auch viele Velowege. Dann macht das Velofahren richtig Freude. Vielleicht kommst du mich ja mal besuchen und wir machen zusammen eine Velotour durch die Stadt?
+Viele Grüsse
