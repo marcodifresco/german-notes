@@ -106,3 +106,18 @@ nach immer Dative
 Lieber Muharab
 Wie schön, dass Du mir wieder einmal schreibst. Die Winter in der Schweiz sind sicher sehr kalt. Hier ist es im Moment bewölkt, aber es liegt kein Schnee. Zum Deutschkurs fahre ich immer mit dem Velo. Du weisst ja, ich wohne nur 10 Minuten von der Sprachschule entfernt. Hier in der Schweiz gibt es viel mehr Verkehr als bei uns in Kanada. Am schlimmsten finde ich den Verkehr in den Grossstädten. Für Velofahrer ist es manchmal richtig gefährlich, weil manche Autofahrer sehr aggressiv fahren. Das finde ich nicht gut. Aber es gibt hier auch viele Velowege. Dann macht das Velofahren richtig Freude. Vielleicht kommst du mich ja mal besuchen und wir machen zusammen eine Velotour durch die Stadt?
 Viele Grüsse
+
+
+27'09
+adjectivedeklination nack dem nullartikle
+
+| Case | Maskulin   | Feminin        | Neutral     | Plural       |
+| ---- | ---------- | -------------- | ----------- | ------------ |
+| N    | Alter wein | Frische Milch  | Helles Bier | Hohe Ba:ume  |
+| D    | Altem Wein | Frischer Milch | Hellem Bier | Hohe Ba:umen |
+| A    | Alten Wein | Frische Milch  | Helles Bier | Hohe Ba:ume  |
+ 
+148 11 12
+149 13
+150 15 16 17 17
+151 18
