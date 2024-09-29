@@ -117,7 +117,12 @@ adjectivedeklination nack dem nullartikle
 | D    | Altem Wein | Frischer Milch | Hellem Bier | Hohe Ba:umen |
 | A    | Alten Wein | Frische Milch  | Helles Bier | Hohe Ba:ume  |
  
-148 11 12
-149 13
-150 15 16 17 17
+
 151 18
+
+13
+B Verkaufe beigen Sessel mit roten Streifen für nur Fr. 45.
+C Verkaufe alten grossen Schreibtisch aus braunem Holz für nur Fr. 88.
+D Verkaufe Halskette aus echtem Gold für Fr. 65.
+E Verkaufe schnellen Roller in Weiss für Fr. 850.
+F Verkaufe neuen grossen Computerbildschirm in Schwarz für Fr. 189.
