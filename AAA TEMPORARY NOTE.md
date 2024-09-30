@@ -126,3 +126,39 @@ C Verkaufe alten grossen Schreibtisch aus braunem Holz für nur Fr. 88.
 D Verkaufe Halskette aus echtem Gold für Fr. 65.
 E Verkaufe schnellen Roller in Weiss für Fr. 850.
 F Verkaufe neuen grossen Computerbildschirm in Schwarz für Fr. 189.
+
+
+30.09
+Ich habe die Bierausstellung genossen
+
+
+Lieber Mila,
+Vielen Dank fur die Einladung.: ich komme gern. Ich war noch nie in Wien
+
+Ich möchte das Schloss besuchen. Das Kaffeehaus ist eine super Idee.
+
+-
+
+Bis bald in Wien.
+
+Viele Grusse
+
+Anna
+
+
+Am Wochenende fahren ich gerne an einen See
+
+Direkte und indirekte fragen
+(D) **Wie** kann ich ins Zentrum geheh?
+(I) Ko:nnten Sie mir bitte sagen, **wie** ich ins Zentrum gehen kann?
+
+(D) **Wann** hat der Kurs angefangen?
+(I) Wissen Sie, **wann** der Kurs anfgefanngen hat?
+
+(D) Haben Sie Ihren Pass dabei?
+(I) Darf ich fragen, **ob** Sie Ihren Pass dabei haben?
+
+
+64 D2
+157 1 2 3
+Test
