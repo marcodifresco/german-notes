@@ -15,3 +15,6 @@ Sie | lassen
 
 # [[Indikativ - Perfekt]]
 [[Pronomen]] + [[Haben]] + gelassen
+
+# Notes
+eine andere Person macht etwas, was wir nicht machen ku:nnen/wollen
