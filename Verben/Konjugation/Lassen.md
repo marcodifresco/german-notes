@@ -12,6 +12,7 @@ Ihr lasst
 Sie lassen
 
 
+<<<<<<< HEAD
 # [[Modus - Indikativ]] - Präteritum
 Ich ließ
 Du ließest
@@ -129,3 +130,10 @@ lassend
 
 # [[Modus - Partizips]] - Perfekt
 gelassen
+=======
+# [[Indikativ - Perfekt]]
+[[Pronomen]] + [[Haben]] + gelassen
+
+# Notes
+eine andere Person macht etwas, was wir nicht machen ku:nnen/wollen
+>>>>>>> e7f0c01 (Catch-all changes on 02 10 2024.)
