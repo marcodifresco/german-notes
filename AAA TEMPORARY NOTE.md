@@ -17,7 +17,7 @@ enrichten dekoriren
 
 19.09
 KOMPARATION
-| Positiv | Komparativ | Superlativ |
+ Positiv | Komparativ | Superlativ |
 
 Schnell | Schneller | Am  schennsten
 Billig | Billiger | Am billigsten
@@ -111,10 +111,3 @@ Direkte und indirekte fragen
 01.10
 [[Lassen]]
 
-
-03.10
-Mutter
-Vatter
-
-
-88 D1 D2 D4 D4
