@@ -11,9 +11,8 @@ Look forward | [[Freuen]] (R)
 Relax | [[Entspannen]] (R)
 Sit (going to) | [[Setzen]] (R)
 Take care | [[Kümmern]] (R)
-
-[[Ausruhen]]
-[[Beeilen]]
+Relax | [[Ausruhen]] (R)
+Hurry up | [[Beeilen]] (R)
 
 # Pronouns
 | Subjekt   | Objekt |

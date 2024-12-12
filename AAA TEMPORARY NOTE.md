@@ -1,7 +1,3 @@
-05.10
-Finish [[Typ - Reflexive Verben]]
-
-
 12.09
 [[Einladen]] zu + [[Dativ]]
 
