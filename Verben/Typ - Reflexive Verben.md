@@ -23,10 +23,15 @@ Look forward | [[Freuen]] (R)
 Relax | [[Entspannen]] (R)
 Sit (going to) | [[Setzen]] (R)
 Take care | [[Kümmern]] (R)
+<<<<<<< HEAD
 >>>>>>> ec2d15b (Added notes from August 29th)
 
 [[Ausruhen]]
 [[Beeilen]]
+=======
+Relax | [[Ausruhen]] (R)
+Hurry up | [[Beeilen]] (R)
+>>>>>>> 2434b54 (Added notes from 05.10.24 lesson)
 
 # Pronouns
 <<<<<<< HEAD
