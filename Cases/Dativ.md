@@ -82,6 +82,7 @@ Plural --> Den/Ø ...*en*
 [[Bringen]]
 [[Einkaufen]]
 [[Einladen]]
+<<<<<<< HEAD
 [[Erklären]]
 [[Essen]]
 [[Fallen]]
@@ -197,6 +198,8 @@ Plural --> Den/Ø ...*en*
 [[Antworten]]
 [[Bringen]]
 [[Einkaufen]]
+=======
+>>>>>>> 0193776 (Added notes from 12.09 lesson)
 [[Erklären]]
 [[Fallen]]
 [[Glauben]]
@@ -224,6 +227,7 @@ woher" --> aus/von ...
 zu
 bei
 The same | Genaso wie bei
+[[Einladen]] zu
 [[Sprechen]] mit
 [[Treffen]] mit
 [[Träumen]] von
