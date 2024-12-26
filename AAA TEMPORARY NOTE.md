@@ -1,7 +1,3 @@
-18.09
-enrichten dekoriren
-[[Helfen]] / [[Beraten]]
-
 
 19.09
 KOMPARATION

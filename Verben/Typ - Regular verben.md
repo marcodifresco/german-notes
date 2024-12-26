@@ -7,6 +7,7 @@ English | German
 Accomplish (work, tasks) | [[Erledigen]]
 Accompany | [[Begleiten]]
 Admire | [[Bewundern]]
+Advise | [[Beraten]]
 Annoy | [[Ärgern]]
 Ask | [[Fragen]]
 Behave | [[Verhalten]]
