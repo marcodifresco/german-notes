@@ -16,9 +16,12 @@ Accomplish (work, tasks) | [[Erledigen]]
 Accompany | [[Begleiten]]
 Admire | [[Bewundern]]
 Advise | [[Beraten]]
+<<<<<<< HEAD
 =======
 Admire | [[Bewundern]]
 >>>>>>> bfd5231 (Added notes from June, 1st)
+=======
+>>>>>>> 8e3b02c (Added notes from 18.09 lesson)
 Annoy | [[Ärgern]]
 Ask | [[Fragen]]
 Behave | [[Verhalten]]
