@@ -74,6 +74,7 @@ Plural --> Den/Ø ...*en*
 [[Antworten]]
 [[Bringen]]
 [[Einkaufen]]
+[[Einladen]]
 [[Erklären]]
 [[Fallen]]
 [[Glauben]]
@@ -101,6 +102,7 @@ woher" --> aus/von ...
 zu
 bei
 The same | Genaso wie bei
+[[Einladen]] zu
 [[Sprechen]] mit
 [[Treffen]] mit
 [[Träumen]] von

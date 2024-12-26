@@ -1,11 +1,3 @@
-12.09
-[[Einladen]] zu + [[Dativ]]
-
-Possessivepronomen & indefinitive article in [[Dativ]]
-
-Was -> [[Akkusativ]]
-
-
 18.09
 enrichten dekoriren
 [[Helfen]] / [[Beraten]]
