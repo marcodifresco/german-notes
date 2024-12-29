@@ -2,6 +2,17 @@ ___
 Tags: #Languages/German/Vocabulary 
 Links: [[Vokabular]]
 ___
+
+Adjectivedeklination nach dem nullartikle
+
+| Case | Maskulin   | Feminin        | Neutral     | Plural       |     |
+| ---- | ---------- | -------------- | ----------- | ------------ | --- |
+| N    | Alter wein | Frische Milch  | Helles Bier | Hohe Ba:ume  |     |
+| D    | Altem Wein | Frischer Milch | Hellem Bier | Hohe Ba:umen |     |
+| A    | Alten Wein | Frische Milch  | Helles Bier | Hohe Ba:ume  |     |
+ 
+
+
 English | German
 ------------ | ------------
 Alone | Allein[^1]
