@@ -10,3 +10,4 @@ eu | oi
 äu | oi
 ...ge | ...ghe
 Qu | Kw
+
