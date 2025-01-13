@@ -8,6 +8,7 @@ ___
 | [[Common phrases]] | [[Synonyms]] | [[Switzerland variations]] |
 
 # General list
+
  English  | German |
  ------------------------------ | ---------------------------------------- |
 Adaptation | Die Verfilmung
@@ -121,6 +122,8 @@ Peace  | Der Frieden
 Elections | Die Wahl**en** (always plural)
 The first time | Das erste Mal
 Business man | Kaufmann
+Acquaintance | Der Bekannter
+
 
 
 # Specific combination

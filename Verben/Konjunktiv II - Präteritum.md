@@ -22,3 +22,21 @@ Ich hatte keine  Zeit -> Hätte ich doch Zeit Gehabt!
 Ich habe den bus vepasst -> dan hätte den Bus nicht Verpasst
 Ich hätte gern mehr Zeit! Wunsch, Präsens
 Hätte ich dock mehr Zeit gehabt! Vunsch, Vergangenheit (past)
+
+| Regelmässigen verben | Unregelmässigen verben | Gemischte verben | Sein, Haben, Werden | Modal Verben |
+| -------------------- | ---------------------- | ---------------- | ------------------- | ------------ |
+| Tanken               | (Los)fahren            | Bringen          | Sein - War          | Wollen       |
+| Bemerken             | Züruckkommen           | Verbringen       | Haben - hatten      | Müssen       |
+| Warten               | Sitzen - Sass          |                  | Werden - Wurde      |              |
+| Melden               | Steigen                |                  |                     |              |
+| Fragen               | Liegen                 |                  |                     |              |
+| Wundern              | Kommen                 |                  |                     |              |
+| Erreichen            | Verlieren              |                  |                     |              |
+| Landen               | Sehen                  |                  |                     |              |
+| Vererwechseln        | Befinden               |                  |                     |              |
+| Buchen               | Springen               |                  |                     |              |
+| Glauben              | Schwimmen              |                  |                     |              |
+| Kaufen               | Gehen                  |                  |                     |              |
+| (Aus)reichen         |                        |                  |                     |              |
+
+
