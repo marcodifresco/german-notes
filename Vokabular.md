@@ -19,6 +19,7 @@ ___
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 
  English  | German 
  ------------------------------ | ---------------------------------------- 
@@ -33,6 +34,9 @@ Addiction | Die Sucht
 Answer | Die Antwort (-en)
 >>>>>>> 251622b (Added notes from June, 13th)
 =======
+=======
+
+>>>>>>> 0b71f71 (Notes on 13.01.25)
  English  | German |
  ------------------------------ | ---------------------------------------- |
 Adaptation | Die Verfilmung
@@ -324,7 +328,12 @@ Elections | Die Wahl**en** (always plural)
 The first time | Das erste Mal
 Business man | Kaufmann
 <<<<<<< HEAD
+<<<<<<< HEAD
 Acquaintance | Der Bekannter
+=======
+Acquaintance | Der Bekannter
+
+>>>>>>> 0b71f71 (Notes on 13.01.25)
 
 =======
 Wish | Der Wunsch (-ü-e) 
