@@ -1,3 +1,1 @@
-4 bin war, besuche besuchte, mache machte, lerne lernte, habe hatte, treffe traf, fahren fuhren, gehen gingen, ist war
-
-5 a Vor drei Jahren reiste Ricardo in die Schweiz. Seine Familie und Freunde brachten ihn zum Flughafen. b In der Schweiz besuchte er einen Deutschkurs. Er wollte die Sprache gut lernen und neue Leute kennenlernen. c Nach dem Sprachkurs bekam er einen Praktikumsplatz in einer Autogarage und sammelte erste Berufserfahrungen. Er hatte viel Freude an der Arbeit und lernte viel. d Er schloss das Praktikum mit Erfolg ab. Sein Chef bot ihm eine Lehrstelle an. Er war sehr glücklich und nahm das Angebot an
+KB 16 D1 D2 (text in perfect) D3
