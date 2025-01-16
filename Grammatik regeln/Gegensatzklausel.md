@@ -4,12 +4,16 @@ Links: [[Adverbien und Präpositionen]] [[Verben]]
 ___
 # Basic
 <<<<<<< HEAD
+<<<<<<< HEAD
 aber -> unlogische Folge -> leitet den Hauptsatz ein, da Verb steht an Position 2
 trotzdem -> unlogische Folge -> leitet den Hauptsatz ein, das verb steht an Position 2
 obwhol -> Gegengrund -> Verb am Ende
 
 =======
 1 aber -> unlogische Folge -> leitet den Hauptsatz ein, da Verb steht an Position 2
+=======
+aber -> unlogische Folge -> leitet den Hauptsatz ein, da Verb steht an Position 2
+>>>>>>> 5a50baf (Added homework for 16.01.25)
 trotzdem -> unlogische Folge -> leitet den Hauptsatz ein, das verb steht an Position 2
 obwhol -> Gegengrund -> Verb am Ende
 
