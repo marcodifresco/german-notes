@@ -1,1 +1,0 @@
-KB 16 D1 D2 (text in perfect) D3
