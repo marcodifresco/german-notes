@@ -33,7 +33,7 @@ Order: [[Dativ]] -> [[Akkusativ]]
 =======
 >>>>>>> 8bc48b3 (Added notes from 2023-03-01)
 
-![[case-labels.png]]
+![[case-labels 1.png]]
 
 # Examples
 Ich fahre mit eine**m** Audi = Precise, this moment (Fahrer oder Passagier)
