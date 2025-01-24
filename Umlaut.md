@@ -1,10 +1,12 @@
 ___
 Tags: #Languages/German/Other
 ___
-Upper case | Lower case
---- | ---
-Ä | ä
-Ö | ö
-Ü | ü
+
+| Upper case | Lower Case |
+| ---------- | ---------- |
+| Ä          | ä          |
+| Ö          | ö          |
+| Ü          | ü          |
+
 
 See [[Aussprache]] for correct pronunciation.
