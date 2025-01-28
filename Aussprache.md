@@ -2,6 +2,7 @@ ___
 Tags: #Languages/German/Other
  Links: [[Vokabular]]
 ___
+
 Writing | Pronun.
 ------------ | ------------
 ei | ai
@@ -10,4 +11,3 @@ eu | oi
 äu | oi
 ...ge | ...ghe
 Qu | Kw
-
