@@ -39,3 +39,9 @@ Hätte ich nur Nachbarn zum Kaffee eingeladen
 Konjunktion: falls
 Wenn es regnet, nehme ich meinen Schirm mit
 Falls es regnet, nehme ich meinen Schirm mit
+
+zuzage
+
+je schneller ich esse, desto hungriger werde ich
+
+98 9 10 11
