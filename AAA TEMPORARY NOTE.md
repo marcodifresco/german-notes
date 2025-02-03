@@ -34,3 +34,8 @@ Hätte ich nur Nachbarn zum Kaffee eingeladen
 89 D3 -> hören
 168 23 24 25 26
 165 25 w
+
+03.02 
+Konjunktion: falls
+Wenn es regnet, nehme ich meinen Schirm mit
+Falls es regnet, nehme ich meinen Schirm mit
