@@ -45,3 +45,14 @@ zuzage
 je schneller ich esse, desto hungriger werde ich
 
 98 9 10 11
+
+
+07.02
+Irgend
++ Artikel
++ 
+
+
+28 D2
+116 23 screiben
+117 24 horen
