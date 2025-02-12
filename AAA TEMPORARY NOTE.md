@@ -62,5 +62,6 @@ Irgend
 Ich mag sowohl Pasta als auch Pizza
 Ich bin weder jung noch sportlich
 
-1222 6 7 8
-123 9 10 11
+12.05
+132  7 8 9
+133 10
