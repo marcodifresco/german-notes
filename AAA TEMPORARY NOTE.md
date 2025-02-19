@@ -52,5 +52,5 @@ Ich mag sowohl Pasta als auch Pizza
 Ich bin weder jung noch sportlich
 
 
-18.02 
-150 21
+19.02
+155 7
