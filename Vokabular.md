@@ -9,8 +9,8 @@ ___
 
 # General list
 
- English  | German |
- ------------------------------ | ---------------------------------------- |
+ English  | German 
+ ------------------------------ | ---------------------------------------- 
 Adaptation | Die Verfilmung
 Addiction | Die Sucht
 Answer | Die Antwort (-en) 
