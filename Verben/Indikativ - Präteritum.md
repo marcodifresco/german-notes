@@ -11,4 +11,12 @@ In der gesprochenen Sprache wird das Präteritum meist nur für die Verben „ha
 Jeden tag, All tag / andere verben: Litheratur, Zeitungarticle, Berichte, Blog
 
 # Conjugation
-Regular -> ..te
+For regular verbs, form the Präteritum by adding **-te, -test, -te, -ten, -tet, -ten** to the stem.
+
+For regular verbs, form the Präteritum by adding **-te, -test, -te, -ten, -tet, -ten** to the stem.
+
+Some verbs mix weak and strong patterns:
+- They change their vowel (like strong verbs).
+- They take "-te" endings (like weak verbs).
+
+Modal verbs drop the umlaut in the past. 
