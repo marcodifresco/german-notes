@@ -1,3 +1,8 @@
+___
+Tags: #Languages/German/Grammar 
+Links: [[Vokabular]]
+___
+
 | Positiv | Komparativ | Superlativ     |
 | ------- | ---------- | -------------- |
 | schnell | schneller  | am  schennsten |
