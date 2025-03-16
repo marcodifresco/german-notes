@@ -7,12 +7,12 @@ The German "Infinitiv mit zu" construction is used to form infinitive phrases th
 
 1. **After certain verbs**: There are specific verbs after which "infinitiv mit zu" must be used when they are followed by another verb. Some common verbs that require the use of "zu" include:
     
-    - _brauchen_ (to need)
-    - _scheinen_ (to seem)
-    - _versuchen_ (to try)
-    - _vergessen_ (to forget)
-    - _lernen_ (to learn)
-    - _helfen_ (to help) Example: Er scheint müde zu sein. (He seems to be tired.)
+    - _[[Brauchen]]_ (to need)
+    - _[[Scheinen]]_ (to seem)
+    - _[[Versuchen]]_ (to try)
+    - _[[Vergessen]]_ (to forget)
+    - _[[Lernen]]_ (to learn)
+    - _[[Helfen]]_ (to help) Example: Er scheint müde zu sein. (He seems to be tired.)
 2. **After certain constructions**: Phrases like "Es ist wichtig" (It is important), "Es ist notwendig" (It is necessary), or other similar constructions implying obligation, necessity, or suggestion commonly employ "infinitiv mit zu." Example: Es ist wichtig, viel Wasser zu trinken. (It is important to drink a lot of water.)
     
 3. **After certain adjectives**: When an adjective is used to qualify a subject and is linked to another verb action, "zu" is used for the infinitive verb that follows. Example: Es ist schwer, das Buch zu verstehen. (It is hard to understand the book.)
