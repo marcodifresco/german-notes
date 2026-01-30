@@ -1,43 +1,60 @@
 ___
 Tags: #Languages/German/Vocabulary 
- Links: [[Vokabular]]
+Links: [[Vokabular]]
 ___
 # [[Nominativ]]
 English | German
 ------------ | ------------
 I | Ich
-You | Du
+You (informal, singular) | Du
 He/She/It | Er/Sie/Es
 We | Wir
-You | Ihr
-They | Sie
+You (informal, plural) | Ihr
+They | sie
+You (formal) | Sie
 
 # Possessivpronomen
-| English | German         |
+*Note: The endings change based on the gender and case of the noun that follows (e.g., mein, meine, meinem).*
+
+| English | German (base form) |
 | ------- | -------------- |
-| My      | Mein(e)        |
-| Your    | Dein(e)        |
-| His/Her | Sein(e)/Ihr(e) |
-| Our     | Unser(e)       |
-| Your    | Ihr(e)         |
-| Their   |                |
+| My | mein- |
+| Your (informal, singular) | dein- |
+| His / Its | sein- |
+| Her | ihr- |
+| Our | unser- |
+| Your (informal, plural) | euer- |
+| Their | ihr- |
+| Your (formal) | Ihr- |
+
 # Reflexivpronomen
+| Pronoun | Akkusativ | Dativ |
+| ------------ | ------------ | ------------ |
+| ich | mich | mir |
+| du | dich | dir |
+| er/sie/es | sich | sich |
+| wir | uns | uns |
+| ihr | euch | euch |
+| sie/Sie | sich | sich |
+
 # [[Dativ]]
 English | German
 ------------ | ------------
 To me | Mir
-To you | Dir
+To you (informal, singular) | Dir
 To him/her/it | Ihm/Ihr/Ihm
 To us | Uns
-To you | Euch
-To them | Ihnem
+To you (informal, plural) | Euch
+To them | Ihnen
+To you (formal) | Ihnen
 
 # [[Akkusativ]]
 English | German
 ------------ | ------------
 Me | Mich
-You | Dich
-Him/Her/Its | Ihn/Sie/Es
+You (informal, singular) | Dich
+Him/Her/It | Ihn/Sie/Es
 Us | Uns
-You | Euch
-Them | Sie
+You (informal, plural) | Euch
+Them | sie
+You (formal) | Sie
