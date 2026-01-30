@@ -29,10 +29,10 @@ Generously | Grosszügig
 Good | Gut
 If  | Ob
 Immediately | Sofort
-Inadvertently | Ausversehen
-Least | Wenigsten
+Inadvertently | aus Versehen
+Least | am wenigsten
 How | Wie
-Most | Meisten 
+Most | am meisten
 Never | Nie
 Nevertheless | Trotzdem
 Now | Jetzt
@@ -42,7 +42,7 @@ On what | Worauf
 Once | Einmal
 Others | Anderen
 Otherwise | Ansonsten
-Really | Wirklish
+Really | Wirklich
 Simultaneously | Gleichzeitig
 Some | Etwas
 Sometime | Manchmal
@@ -55,7 +55,7 @@ Unintentionally | Unabsichtlich
 Urgently | Dringend
 Very | Sehr
 What | Was
-What for | Wozur
+What for | Wozu
 When | Wann
 Which | Welche
 Who | Wer
@@ -92,7 +92,6 @@ Where to | Wohin
 Under | Unter
 Until | Bis zu
 
-
 # Time
 English | German
 ------------ | ------------
@@ -101,10 +100,9 @@ Since | Seit
 During | Während
 Before | Bevor
 
-
 # Präpositionaladverb
 ## Rule
-Worauf warter er?
+Worauf wartet er?
 Er wartet auf den Bus.
 Wartet er auf den Bus? (Präposition)
 Ja, er wartet darauf (Präpositionaladverb)
@@ -113,43 +111,40 @@ English | German
 ------------ | ------------
 Thereon | Darauf
 
-Präpositionen | Fragewörter | Präposition Adverb
+Präpositionen | Fragewörter | Präpositionaladverb
 ------------ | ------------ | ------------
-Auf | Vorauf | Daruf
-Über -> Worüber  | Darüber
-An | Voran | Daran
-Von | Vovon | Davon
-Mit | Vomit | Damit
-Für | Vofür | Dafür
-
+Auf | Worauf | Darauf
+Über | Worüber | Darüber
+An | Woran | Daran
+Von | Wovon | Davon
+Mit | Womit | Damit
+Für | Wofür | Dafür
 
 # With verbs
-Sich [[Ärgern]] über + [[Akkusativ]]
-Lust [[Haben]] auf + [[Akkusativ]]
-Sich [[Freuen]] auf + [[Akkusativ]]
-Sich [[Freuen]] über: ich freue mich über den Kurs. (was hetzt in diesem Moment ist)
-Sich [[Fürchten]] vor
-[[Schreiben]] an [[Akkusativ]]
-[[Träumen]] von + [[Dativ]]
-Zufrieden [[Sein]] mit + [[Dativ]]
-
+- Sich [[Ärgern]] über + [[Akkusativ]]
+- Lust [[Haben]] auf + [[Akkusativ]]
+- Sich [[Freuen]] auf + [[Akkusativ]]
+- Sich [[Freuen]] über: ich freue mich über den Kurs. (was jetzt in diesem Moment ist)
+- Sich [[Fürchten]] vor
+- [[Schreiben]] an [[Akkusativ]]
+- [[Träumen]] von + [[Dativ]]
+- Zufrieden [[Sein]] mit + [[Dativ]]
 
 # Direktionaladverbien
 **wo**
-hier
-da
-dort
+- hier
+- da
+- dort
 
-**whoin**
-hierhin
-dahin
-dorthin
-rein -> reinkommen
-raus -> rausbringen
-rauf -> raufsteigen
-runter -> runterfallen
-rüber -> rübergeben
-
+**wohin**
+- hierhin
+- dahin
+- dorthin
+- rein -> reinkommen
+- raus -> rausbringen
+- rauf -> raufsteigen
+- runter -> runterfallen
+- rüber -> rübergeben
 
 # Notes
 Am -> An dem
@@ -196,19 +191,19 @@ EX: *Wenn ich zeit habe, dann treffe ich Freunde.*
 ![[wann-wenn-als.jpg]]
 
 Dann = then
-Denn = becuse
-EX: *Ich trinke einen kaffee und dann gehe zu arbeit*
+Denn = because
+EX: *Ich trinke einen Kaffee und dann gehe ich zur Arbeit.*
 
 im wasser -> already in water
 ins wasser -> going toward water
 
 in auf an -> lokalität
 zu only with wohin Except for Zu hause -> Wo?
-Whoin -> nach Hause
+Wohin -> nach Hause
 
 For what | Wozu
 Ich brauche ihn/sie/es um (object) zu (verb)
-For [[Typ - Trennbare verben]]: prexif - zu - verb
+For [[Typ - Trennbare verben]]: Präfix - zu - verb
 
 Gar xxx = xxx absolutely 
 
