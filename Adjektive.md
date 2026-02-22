@@ -11,7 +11,6 @@ Adjectivedeklination nach dem nullartikle
 | D    | Altem Wein | Frischer Milch | Hellem Bier | Hohe Bäumen |
 | A    | Alten Wein | Frische Milch  | Helles Bier | Hohe Bäume  |
  
-
 | English               | German                  |
 | --------------------- | ----------------------- |
 | Alone                 | Allein[^1]              |
@@ -39,7 +38,7 @@ Adjectivedeklination nach dem nullartikle
 | Happy                 | Froh                    |
 | Hardly (/ just a bit) | Kaum                    |
 | Know                  | Bekannte                |
-| Last                  | Letzte[^2]               |
+| Last                  | Letzte[^2]              |
 | Little (quantity)     | Wenig                   |
 | Married               | Verheiratet             |
 | Melted                | Geschmolzen             |
@@ -76,7 +75,7 @@ Adjectivedeklination nach dem nullartikle
 | Sweet                 | Süss                    |
 | Tense                 | Gespannt                |
 | Terrible              | Schlimm                 |
-| Thin                  | Mager[^3]                |
+| Thin                  | Mager[^3]               |
 | Thrilling             | Spannend                |
 | Tired                 | Müde                    |
 | Urgent                | Sofort                  |
