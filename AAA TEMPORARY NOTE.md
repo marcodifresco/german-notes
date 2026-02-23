@@ -7,12 +7,3 @@ AltGr + q = ä
 AltGr + p = ö
 AltGr + y = ü
 
-
----
-Created: 2026-02-18 18:14
-___
-"Seit" immer [[Dativ]]
-
-Schwer-e != leicht-e Die Arbeit
-KB P55 !1
-
