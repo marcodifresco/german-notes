@@ -78,4 +78,40 @@ Er/Sie/Es | möchte
 Wir | möchten
 Ihr | möchtet
 Sie | möchten
+<<<<<<< HEAD
 >>>>>>> e0a7ee5 (Added material from A1 book - chapter 9)
+=======
+
+# [[Indikativ - Präteritum]]
+
+# [[Indikativ - Perfekt]]
+
+# [[Indikativ - Plusquamperfekt]]
+
+# [[Indikativ - Futur I]]
+
+# [[Indikativ - Futur II]]
+
+# [[Konjunktiv I - Present]]
+
+# [[Konjunktiv I - Perfekt]]
+
+# [[Konjunktiv I - Futur I]]
+
+# [[Konjunktiv I - Futur II]]
+
+# [[Konjunktiv II - Präteritum]]
+
+# [[Konjunktiv II - Futur I]]
+
+# [[Konjunktiv II - Futur II]]
+
+# [[Konjunktiv II - Plusquamperfekt]]
+
+# [[Imperativ - Präsens]]
+
+# [[Partizips - Präsens]]
+
+# [[Partizips - Perfekt]]
+
+>>>>>>> 9ea0c9b (Added placeholder tense to existing verbs)

@@ -13,6 +13,7 @@ Sie müssen
 
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 # [[Modus - Indikativ]] - Präteritum
 Ich musste
 Du musstest
@@ -144,10 +145,45 @@ müssend
 # [[Modus - Partizips]] - Perfekt
 gemusst
 =======
+=======
+# [[Indikativ - Präteritum]]
+
+>>>>>>> 9ea0c9b (Added placeholder tense to existing verbs)
 # [[Indikativ - Perfekt]]
 [[Pronomen]] + [[Haben]] + gemusst
 
 
 # Notes
 [[Brauchen]] zu = Müssen
+<<<<<<< HEAD
 >>>>>>> 5ca01c1 (Intergrated notes from 2023-04-17 lesson)
+=======
+# [[Indikativ - Plusquamperfekt]]
+
+# [[Indikativ - Futur I]]
+
+# [[Indikativ - Futur II]]
+
+# [[Konjunktiv I - Present]]
+
+# [[Konjunktiv I - Perfekt]]
+
+# [[Konjunktiv I - Futur I]]
+
+# [[Konjunktiv I - Futur II]]
+
+# [[Konjunktiv II - Präteritum]]
+
+# [[Konjunktiv II - Futur I]]
+
+# [[Konjunktiv II - Futur II]]
+
+# [[Konjunktiv II - Plusquamperfekt]]
+
+# [[Imperativ - Präsens]]
+
+# [[Partizips - Präsens]]
+
+# [[Partizips - Perfekt]]
+
+>>>>>>> 9ea0c9b (Added placeholder tense to existing verbs)

@@ -11,6 +11,7 @@ Wir ändern
 Ihr ändert
 Sie ändern
 
+<<<<<<< HEAD
 # [[Modus - Indikativ]] - Präteritum
 Ich änderte
 Du ändertest
@@ -127,3 +128,37 @@ Sie hätten geändert
 
 # [[Modus - Partizips]] - Perfekt
 geändert
+=======
+# [[Indikativ - Präteritum]]
+
+# [[Indikativ - Perfekt]]
+[[Pronomen]] + [[Haben]] + geändert
+# [[Indikativ - Plusquamperfekt]]
+
+# [[Indikativ - Futur I]]
+
+# [[Indikativ - Futur II]]
+
+# [[Konjunktiv I - Present]]
+
+# [[Konjunktiv I - Perfekt]]
+
+# [[Konjunktiv I - Futur I]]
+
+# [[Konjunktiv I - Futur II]]
+
+# [[Konjunktiv II - Präteritum]]
+
+# [[Konjunktiv II - Futur I]]
+
+# [[Konjunktiv II - Futur II]]
+
+# [[Konjunktiv II - Plusquamperfekt]]
+
+# [[Imperativ - Präsens]]
+
+# [[Partizips - Präsens]]
+
+# [[Partizips - Perfekt]]
+
+>>>>>>> 9ea0c9b (Added placeholder tense to existing verbs)

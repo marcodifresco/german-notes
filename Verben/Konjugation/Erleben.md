@@ -12,6 +12,7 @@ Ihr erlebt
 Sie erleben
 
 
+<<<<<<< HEAD
 # [[Modus - Indikativ]] - Präteritum
 Ich erlebte
 Du erlebtest
@@ -137,3 +138,37 @@ erlebend
 
 # [[Modus - Partizips]] - Perfekt
 erlebt
+=======
+# [[Indikativ - Präteritum]]
+
+# [[Indikativ - Perfekt]]
+[[Pronomen]] + [[Haben]] + erlebt
+# [[Indikativ - Plusquamperfekt]]
+
+# [[Indikativ - Futur I]]
+
+# [[Indikativ - Futur II]]
+
+# [[Konjunktiv I - Present]]
+
+# [[Konjunktiv I - Perfekt]]
+
+# [[Konjunktiv I - Futur I]]
+
+# [[Konjunktiv I - Futur II]]
+
+# [[Konjunktiv II - Präteritum]]
+
+# [[Konjunktiv II - Futur I]]
+
+# [[Konjunktiv II - Futur II]]
+
+# [[Konjunktiv II - Plusquamperfekt]]
+
+# [[Imperativ - Präsens]]
+
+# [[Partizips - Präsens]]
+
+# [[Partizips - Perfekt]]
+
+>>>>>>> 9ea0c9b (Added placeholder tense to existing verbs)

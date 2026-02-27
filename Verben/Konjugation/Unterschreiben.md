@@ -12,6 +12,7 @@ Ihr unterschreibt
 Sie unterschreiben
 
 
+<<<<<<< HEAD
 # [[Modus - Indikativ]] - Präteritum
 Ich unterschrieb
 Du unterschriebst
@@ -128,3 +129,37 @@ unterschreibend
 
 # [[Modus - Partizips]] - Perfekt
 unterschrieben
+=======
+# [[Indikativ - Präteritum]]
+
+# [[Indikativ - Perfekt]]
+[[Pronomen]] + [[Haben]] + unterschrieben
+# [[Indikativ - Plusquamperfekt]]
+
+# [[Indikativ - Futur I]]
+
+# [[Indikativ - Futur II]]
+
+# [[Konjunktiv I - Present]]
+
+# [[Konjunktiv I - Perfekt]]
+
+# [[Konjunktiv I - Futur I]]
+
+# [[Konjunktiv I - Futur II]]
+
+# [[Konjunktiv II - Präteritum]]
+
+# [[Konjunktiv II - Futur I]]
+
+# [[Konjunktiv II - Futur II]]
+
+# [[Konjunktiv II - Plusquamperfekt]]
+
+# [[Imperativ - Präsens]]
+
+# [[Partizips - Präsens]]
+
+# [[Partizips - Perfekt]]
+
+>>>>>>> 9ea0c9b (Added placeholder tense to existing verbs)

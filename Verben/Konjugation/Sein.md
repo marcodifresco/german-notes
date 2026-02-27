@@ -21,6 +21,7 @@ Ihr wart
 Sie waren
 
 
+<<<<<<< HEAD
 # [[Modus - Indikativ]] - Perfekt
 Ich bin gewesen
 Du bist gewesen
@@ -128,3 +129,42 @@ Partizip I seiend
 # [[Modus - Partizips]] - Perfekt
 Form Conjugation
 Partizip II gewesen
+=======
+# [[Indikativ - Perfekt]]
+Pronoun|Conjugation
+------------ | ------------
+Ich | bin gewesen
+Du | bist gewesen
+Er/Sie/Es | ist gewesen
+Wir | sind gewesen
+Ihr | seid gewesen
+Sie | sind gewesen
+# [[Indikativ - Plusquamperfekt]]
+
+# [[Indikativ - Futur I]]
+
+# [[Indikativ - Futur II]]
+
+# [[Konjunktiv I - Present]]
+
+# [[Konjunktiv I - Perfekt]]
+
+# [[Konjunktiv I - Futur I]]
+
+# [[Konjunktiv I - Futur II]]
+
+# [[Konjunktiv II - Präteritum]]
+
+# [[Konjunktiv II - Futur I]]
+
+# [[Konjunktiv II - Futur II]]
+
+# [[Konjunktiv II - Plusquamperfekt]]
+
+# [[Imperativ - Präsens]]
+
+# [[Partizips - Präsens]]
+
+# [[Partizips - Perfekt]]
+
+>>>>>>> 9ea0c9b (Added placeholder tense to existing verbs)

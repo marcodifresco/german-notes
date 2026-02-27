@@ -204,5 +204,9 @@ steckend
 steckend
 
 # [[Partizips - Perfekt]]
+<<<<<<< HEAD
 >>>>>>> 6220974 (Added notes from 28.08.2024 lesson)
 gesteckt
+=======
+gesteckt
+>>>>>>> 9ea0c9b (Added placeholder tense to existing verbs)

@@ -23,6 +23,7 @@ ihr brecht ab
 Sie brechen ab
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 # [[Modus - Indikativ]] - Präteritum
 ich brach ab
 du brachst ab
@@ -143,3 +144,37 @@ abgebrochen
 # [[Indikativ - Perfekt]]
 [[Pronomen]] + [[Haben]] + abgebrochen
 >>>>>>> 0025884 (Added notes from December 14th)
+=======
+# [[Indikativ - Präteritum]]
+
+# [[Indikativ - Perfekt]]
+[[Pronomen]] + [[Haben]] + abgebrochen
+# [[Indikativ - Plusquamperfekt]]
+
+# [[Indikativ - Futur I]]
+
+# [[Indikativ - Futur II]]
+
+# [[Konjunktiv I - Present]]
+
+# [[Konjunktiv I - Perfekt]]
+
+# [[Konjunktiv I - Futur I]]
+
+# [[Konjunktiv I - Futur II]]
+
+# [[Konjunktiv II - Präteritum]]
+
+# [[Konjunktiv II - Futur I]]
+
+# [[Konjunktiv II - Futur II]]
+
+# [[Konjunktiv II - Plusquamperfekt]]
+
+# [[Imperativ - Präsens]]
+
+# [[Partizips - Präsens]]
+
+# [[Partizips - Perfekt]]
+
+>>>>>>> 9ea0c9b (Added placeholder tense to existing verbs)

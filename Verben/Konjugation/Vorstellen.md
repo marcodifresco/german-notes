@@ -19,6 +19,7 @@ ihr stellt vor
 Sie stellen vor
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 # [[Modus - Indikativ]] - Präteritum
 ich stellte vor
 du stelltest vor
@@ -139,3 +140,37 @@ vorgestellt
 # [[Indikativ - Perfekt]]
 [[Pronomen]] + [[Haben]] + vorgestellt
 >>>>>>> 586ee46 (Added notes from January 9th)
+=======
+# [[Indikativ - Präteritum]]
+
+# [[Indikativ - Perfekt]]
+[[Pronomen]] + [[Haben]] + vorgestellt
+# [[Indikativ - Plusquamperfekt]]
+
+# [[Indikativ - Futur I]]
+
+# [[Indikativ - Futur II]]
+
+# [[Konjunktiv I - Present]]
+
+# [[Konjunktiv I - Perfekt]]
+
+# [[Konjunktiv I - Futur I]]
+
+# [[Konjunktiv I - Futur II]]
+
+# [[Konjunktiv II - Präteritum]]
+
+# [[Konjunktiv II - Futur I]]
+
+# [[Konjunktiv II - Futur II]]
+
+# [[Konjunktiv II - Plusquamperfekt]]
+
+# [[Imperativ - Präsens]]
+
+# [[Partizips - Präsens]]
+
+# [[Partizips - Perfekt]]
+
+>>>>>>> 9ea0c9b (Added placeholder tense to existing verbs)

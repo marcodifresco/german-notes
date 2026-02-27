@@ -34,6 +34,7 @@ ihr wachtet auf
 Sie wachten auf
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 # [[Modus - Indikativ]] - Perfekt
 ich bin aufgewacht
 du bist aufgewacht
@@ -64,6 +65,8 @@ Sie werden aufwachen
 <<<<<<< HEAD
 # [[Modus - Indikativ]] - Futur II
 =======
+=======
+>>>>>>> 9ea0c9b (Added placeholder tense to existing verbs)
 # [[Indikativ - Perfekt]]
 ich bin aufgewacht
 du bist aufgewacht
@@ -79,6 +82,14 @@ er/sie/es war aufgewacht
 wir waren aufgewacht
 ihr wart aufgewacht
 Sie waren aufgewacht
+
+# [[Indikativ - Futur I]]
+ich werde aufwachen
+du wirst aufwachen
+er/sie/es wird aufwachen
+wir werden aufwachen
+ihr werdet aufwachen
+Sie werden aufwachen
 
 # [[Indikativ - Futur II]]
 >>>>>>> 3877dfb (Added notes from 2023-03-08)
@@ -207,5 +218,9 @@ aufwachend
 aufwachend
 
 # [[Partizips - Perfekt]]
+<<<<<<< HEAD
 >>>>>>> 3877dfb (Added notes from 2023-03-08)
 aufgewacht
+=======
+aufgewacht
+>>>>>>> 9ea0c9b (Added placeholder tense to existing verbs)

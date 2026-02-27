@@ -50,6 +50,7 @@ er/sie/es übernachtet
 # [[Indikativ - Präteritum]]
 er/sie/es übernachtete
 
+<<<<<<< HEAD
 # [[Indikativ - Futur I]]
 >>>>>>> 3877dfb (Added notes from 2023-03-08)
 ich werde übernachten
@@ -62,6 +63,8 @@ Sie werden übernachten
 <<<<<<< HEAD
 # [[Modus - Indikativ]] - Futur II
 =======
+=======
+>>>>>>> 9ea0c9b (Added placeholder tense to existing verbs)
 # [[Indikativ - Perfekt]]
 ich habe übernachtet
 du hast übernachtet
@@ -77,6 +80,14 @@ er/sie/es hatte übernachtet
 wir hatten übernachtet
 ihr hattet übernachtet
 Sie hatten übernachtet
+
+# [[Indikativ - Futur I]]
+ich werde übernachten
+du wirst übernachten
+er/sie/es wird übernachten
+wir werden übernachten
+ihr werdet übernachten
+Sie werden übernachten
 
 # [[Indikativ - Futur II]]
 >>>>>>> 3877dfb (Added notes from 2023-03-08)
@@ -200,5 +211,9 @@ Sie hätten übernachtet
 übernachtend
 
 # [[Partizips - Perfekt]]
+<<<<<<< HEAD
 >>>>>>> 3877dfb (Added notes from 2023-03-08)
 übernachtet
+=======
+übernachtet
+>>>>>>> 9ea0c9b (Added placeholder tense to existing verbs)

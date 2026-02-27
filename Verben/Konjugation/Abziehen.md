@@ -23,7 +23,11 @@ wir zogen ab
 ihr zogt ab
 Sie zogen ab
 
+<<<<<<< HEAD
 # [[Modus - Indikativ]] - Perfekt
+=======
+# [[Indikativ - Perfekt]]
+>>>>>>> 9ea0c9b (Added placeholder tense to existing verbs)
 ich bin abgezogen
 du bist abgezogen
 er/sie/es ist abgezogen
@@ -39,7 +43,11 @@ wir waren abgezogen
 ihr wart abgezogen
 Sie waren abgezogen
 
+<<<<<<< HEAD
 # [[Modus - Indikativ]] - Futur I
+=======
+# [[Indikativ - Futur I]]
+>>>>>>> 9ea0c9b (Added placeholder tense to existing verbs)
 ich werde abziehen
 du wirst abziehen
 er/sie/es wird abziehen
@@ -47,7 +55,11 @@ wir werden abziehen
 ihr werdet abziehen
 Sie werden abziehen
 
+<<<<<<< HEAD
 # [[Modus - Indikativ]] - Futur II
+=======
+# [[Indikativ - Futur II]]
+>>>>>>> 9ea0c9b (Added placeholder tense to existing verbs)
 ich werde abgezogen sein
 du wirst abgezogen sein
 er/sie/es wird abgezogen sein
@@ -55,6 +67,7 @@ wir werden abgezogen sein
 ihr werdet abgezogen sein
 Sie werden abgezogen sein
 
+<<<<<<< HEAD
 # [[Modus - Konjunktiv]] 1 - Präsens
 ich ziehe ab
 du ziehest ab
@@ -145,3 +158,31 @@ ihr bezieht euch
 # [[Indikativ - Perfekt]]
 [[Pronomen]] + [[Haben]] + Sich + bezogen
 >>>>>>> a45568a (Added notes from January 16th)
+=======
+# Variants
+English |German
+------------ | ------------
+Pull | [[Ziehen]]
+# [[Konjunktiv I - Present]]
+
+# [[Konjunktiv I - Perfekt]]
+
+# [[Konjunktiv I - Futur I]]
+
+# [[Konjunktiv I - Futur II]]
+
+# [[Konjunktiv II - Präteritum]]
+
+# [[Konjunktiv II - Futur I]]
+
+# [[Konjunktiv II - Futur II]]
+
+# [[Konjunktiv II - Plusquamperfekt]]
+
+# [[Imperativ - Präsens]]
+
+# [[Partizips - Präsens]]
+
+# [[Partizips - Perfekt]]
+
+>>>>>>> 9ea0c9b (Added placeholder tense to existing verbs)

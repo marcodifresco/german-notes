@@ -151,10 +151,43 @@ Ihr | seht an
 Sie | sehen an
 
 
+# [[Indikativ - Präteritum]]
+
 # [[Indikativ - Perfekt]]
 [[Pronomen]] + [[Haben]] + angesehen
 
 # Rules
 For viewing specific things.
 *EX: Ich sehe mir heute einen Film / eine Serie / ein Spiel an*
+<<<<<<< HEAD
 >>>>>>> 251622b (Added notes from June, 13th)
+=======
+# [[Indikativ - Plusquamperfekt]]
+
+# [[Indikativ - Futur I]]
+
+# [[Indikativ - Futur II]]
+
+# [[Konjunktiv I - Present]]
+
+# [[Konjunktiv I - Perfekt]]
+
+# [[Konjunktiv I - Futur I]]
+
+# [[Konjunktiv I - Futur II]]
+
+# [[Konjunktiv II - Präteritum]]
+
+# [[Konjunktiv II - Futur I]]
+
+# [[Konjunktiv II - Futur II]]
+
+# [[Konjunktiv II - Plusquamperfekt]]
+
+# [[Imperativ - Präsens]]
+
+# [[Partizips - Präsens]]
+
+# [[Partizips - Perfekt]]
+
+>>>>>>> 9ea0c9b (Added placeholder tense to existing verbs)

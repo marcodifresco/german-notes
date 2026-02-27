@@ -125,5 +125,10 @@ beraten Sie
 # [[Modus - Partizips]] - Präsens
 beratend
 
+<<<<<<< HEAD
 # [[Modus - Partizips]] - Perfekt
 beraten
+=======
+# [[Partizips - Perfekt]]
+beraten
+>>>>>>> 9ea0c9b (Added placeholder tense to existing verbs)

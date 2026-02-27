@@ -144,6 +144,39 @@ Ihr | haltet
 Sie | halten
 
 
+# [[Indikativ - Präteritum]]
+
 # [[Indikativ - Perfekt]]
 [[Pronomen]] + [[Haben]] + gehalten
+<<<<<<< HEAD
 >>>>>>> e81c3c1 (Added notes from September 19th)
+=======
+# [[Indikativ - Plusquamperfekt]]
+
+# [[Indikativ - Futur I]]
+
+# [[Indikativ - Futur II]]
+
+# [[Konjunktiv I - Present]]
+
+# [[Konjunktiv I - Perfekt]]
+
+# [[Konjunktiv I - Futur I]]
+
+# [[Konjunktiv I - Futur II]]
+
+# [[Konjunktiv II - Präteritum]]
+
+# [[Konjunktiv II - Futur I]]
+
+# [[Konjunktiv II - Futur II]]
+
+# [[Konjunktiv II - Plusquamperfekt]]
+
+# [[Imperativ - Präsens]]
+
+# [[Partizips - Präsens]]
+
+# [[Partizips - Perfekt]]
+
+>>>>>>> 9ea0c9b (Added placeholder tense to existing verbs)

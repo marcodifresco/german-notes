@@ -20,12 +20,15 @@ Sie fragen
 
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 # [[Modus - Indikativ]] - Präteritum
 =======
 # [[Indikativ - Perfekt]]
 [[Pronomen]] + [[Haben]] + gefragt
 
 
+=======
+>>>>>>> 9ea0c9b (Added placeholder tense to existing verbs)
 # [[Indikativ - Präteritum]]
 >>>>>>> b5ffa73 (Added November 26th)
 Ich fragte
@@ -33,6 +36,7 @@ Du fragtest
 Es/sie/es fragte
 Wir fragten
 Ihr fragtet
+<<<<<<< HEAD
 <<<<<<< HEAD
 Sie fragten
 # [[Modus - Indikativ]] - Perfekt
@@ -146,3 +150,38 @@ gefragt
 =======
 Sie fragten
 >>>>>>> b5ffa73 (Added November 26th)
+=======
+Sie fragten
+# [[Indikativ - Perfekt]]
+[[Pronomen]] + [[Haben]] + gefragt
+
+
+# [[Indikativ - Plusquamperfekt]]
+
+# [[Indikativ - Futur I]]
+
+# [[Indikativ - Futur II]]
+
+# [[Konjunktiv I - Present]]
+
+# [[Konjunktiv I - Perfekt]]
+
+# [[Konjunktiv I - Futur I]]
+
+# [[Konjunktiv I - Futur II]]
+
+# [[Konjunktiv II - Präteritum]]
+
+# [[Konjunktiv II - Futur I]]
+
+# [[Konjunktiv II - Futur II]]
+
+# [[Konjunktiv II - Plusquamperfekt]]
+
+# [[Imperativ - Präsens]]
+
+# [[Partizips - Präsens]]
+
+# [[Partizips - Perfekt]]
+
+>>>>>>> 9ea0c9b (Added placeholder tense to existing verbs)

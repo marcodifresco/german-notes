@@ -24,7 +24,11 @@ wir zogen
 ihr zogt
 Sie zogen
 
+<<<<<<< HEAD
 # [[Modus - Indikativ]] - Perfekt
+=======
+# [[Indikativ - Perfekt]]
+>>>>>>> 9ea0c9b (Added placeholder tense to existing verbs)
 ich bin gezogen
 du bist gezogen
 er/sie/es ist gezogen
@@ -40,7 +44,11 @@ wir waren gezogen
 ihr wart gezogen
 Sie waren gezogen
 
+<<<<<<< HEAD
 # [[Modus - Indikativ]] - Futur I
+=======
+# [[Indikativ - Futur I]]
+>>>>>>> 9ea0c9b (Added placeholder tense to existing verbs)
 ich werde ziehen
 du wirst ziehen
 er/sie/es wird ziehen
@@ -48,7 +56,11 @@ wir werden ziehen
 ihr werdet ziehen
 Sie werden ziehen
 
+<<<<<<< HEAD
 # [[Modus - Indikativ]] - Futur II
+=======
+# [[Indikativ - Futur II]]
+>>>>>>> 9ea0c9b (Added placeholder tense to existing verbs)
 ich werde gezogen sein
 du wirst gezogen sein
 er/sie/es wird gezogen sein
@@ -178,4 +190,29 @@ Forgive | [[Verziehen]]
 # Notes
 an ab hoch ein aus um -> [[Typ - Trennbare verben]]
 be ent ver er -> [[Typ - Regular verben]]
+<<<<<<< HEAD
 >>>>>>> a45568a (Added notes from January 16th)
+=======
+# [[Konjunktiv I - Present]]
+
+# [[Konjunktiv I - Perfekt]]
+
+# [[Konjunktiv I - Futur I]]
+
+# [[Konjunktiv I - Futur II]]
+
+# [[Konjunktiv II - Präteritum]]
+
+# [[Konjunktiv II - Futur I]]
+
+# [[Konjunktiv II - Futur II]]
+
+# [[Konjunktiv II - Plusquamperfekt]]
+
+# [[Imperativ - Präsens]]
+
+# [[Partizips - Präsens]]
+
+# [[Partizips - Perfekt]]
+
+>>>>>>> 9ea0c9b (Added placeholder tense to existing verbs)

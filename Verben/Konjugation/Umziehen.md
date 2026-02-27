@@ -17,6 +17,7 @@ Ihr zieht um
 Sie ziehen um
 
 
+<<<<<<< HEAD
 # [[Modus - Indikativ]] - Präteritum
 Ich zog um
 Du zogst um
@@ -24,6 +25,12 @@ Er/Sie/Es zog um
 Wir zogen um
 Ihr zogt um
 Sie zogen um
+=======
+# [[Indikativ - Präteritum]]
+
+# [[Indikativ - Perfekt]]
+[[Pronomen]] + [[Haben]] + umzogen
+>>>>>>> 9ea0c9b (Added placeholder tense to existing verbs)
 
 # [[Modus - Indikativ]] - Perfekt
 [[Pronomen]] + [[Haben]] + umgezogen (for 'to change clothes')
@@ -39,6 +46,7 @@ Note: For the meaning 'to move (house)', the auxiliary verb 'sein' is used (e.g.
 
 # Examples
 Change dress: Sich um|ziehen --> gehen nach Hause uns [[Umziehen|umzuziehen]]
+<<<<<<< HEAD
 # [[Modus - Indikativ]] - Plusquamperfekt
 *Meaning 'to change clothes' (with 'haben'):**
 
@@ -204,3 +212,33 @@ umziehend
 
 # [[Modus - Partizips]] - Perfekt
 umgezogen
+=======
+# [[Indikativ - Plusquamperfekt]]
+
+# [[Indikativ - Futur I]]
+
+# [[Indikativ - Futur II]]
+
+# [[Konjunktiv I - Present]]
+
+# [[Konjunktiv I - Perfekt]]
+
+# [[Konjunktiv I - Futur I]]
+
+# [[Konjunktiv I - Futur II]]
+
+# [[Konjunktiv II - Präteritum]]
+
+# [[Konjunktiv II - Futur I]]
+
+# [[Konjunktiv II - Futur II]]
+
+# [[Konjunktiv II - Plusquamperfekt]]
+
+# [[Imperativ - Präsens]]
+
+# [[Partizips - Präsens]]
+
+# [[Partizips - Perfekt]]
+
+>>>>>>> 9ea0c9b (Added placeholder tense to existing verbs)

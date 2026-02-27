@@ -34,6 +34,7 @@ ihr führtet aus
 Sie führten aus
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 # [[Modus - Indikativ]] - Perfekt
 =======
 # [[Indikativ - Futur I]]
@@ -44,6 +45,8 @@ wir werden ausführen
 ihr werdet ausführen
 Sie werden ausführen
 
+=======
+>>>>>>> 9ea0c9b (Added placeholder tense to existing verbs)
 # [[Indikativ - Perfekt]]
 >>>>>>> fb47e89 (Added notes from 20.03)
 ich habe ausgeführt
@@ -67,7 +70,11 @@ ihr hattet ausgeführt
 Sie hatten ausgeführt
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 # [[Modus - Indikativ]] - Futur I
+=======
+# [[Indikativ - Futur I]]
+>>>>>>> 9ea0c9b (Added placeholder tense to existing verbs)
 ich werde ausführen
 du wirst ausführen
 er/sie/es wird ausführen
@@ -75,8 +82,11 @@ wir werden ausführen
 ihr werdet ausführen
 Sie werden ausführen
 
+<<<<<<< HEAD
 # [[Modus - Indikativ]] - Futur II
 =======
+=======
+>>>>>>> 9ea0c9b (Added placeholder tense to existing verbs)
 # [[Indikativ - Futur II]]
 >>>>>>> fb47e89 (Added notes from 20.03)
 ich werde ausgeführt haben
@@ -214,5 +224,9 @@ ausführend
 ausführend
 
 # [[Partizips - Perfekt]]
+<<<<<<< HEAD
 >>>>>>> fb47e89 (Added notes from 20.03)
 ausgeführt
+=======
+ausgeführt
+>>>>>>> 9ea0c9b (Added placeholder tense to existing verbs)

@@ -17,12 +17,15 @@ Sie gehen
 
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 # [[Modus - Indikativ]] - Präteritum
 =======
 # [[Indikativ - Perfekt]]
 [[Pronomen]] + [[Sein]] + egangen
 
 
+=======
+>>>>>>> 9ea0c9b (Added placeholder tense to existing verbs)
 # [[Indikativ - Präteritum]]
 >>>>>>> b5ffa73 (Added November 26th)
 Ich ging
@@ -30,6 +33,7 @@ Du ging(e)st
 Er/Sie/Es ging
 Wir gingen
 Ihr ging(e)t
+<<<<<<< HEAD
 <<<<<<< HEAD
 Sie gingen
 # [[Modus - Indikativ]] - Perfekt
@@ -143,3 +147,38 @@ gegangen
 =======
 Sie gingen
 >>>>>>> b5ffa73 (Added November 26th)
+=======
+Sie gingen
+# [[Indikativ - Perfekt]]
+[[Pronomen]] + [[Sein]] + egangen
+
+
+# [[Indikativ - Plusquamperfekt]]
+
+# [[Indikativ - Futur I]]
+
+# [[Indikativ - Futur II]]
+
+# [[Konjunktiv I - Present]]
+
+# [[Konjunktiv I - Perfekt]]
+
+# [[Konjunktiv I - Futur I]]
+
+# [[Konjunktiv I - Futur II]]
+
+# [[Konjunktiv II - Präteritum]]
+
+# [[Konjunktiv II - Futur I]]
+
+# [[Konjunktiv II - Futur II]]
+
+# [[Konjunktiv II - Plusquamperfekt]]
+
+# [[Imperativ - Präsens]]
+
+# [[Partizips - Präsens]]
+
+# [[Partizips - Perfekt]]
+
+>>>>>>> 9ea0c9b (Added placeholder tense to existing verbs)

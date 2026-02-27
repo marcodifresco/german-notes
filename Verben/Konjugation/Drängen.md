@@ -19,6 +19,7 @@ Sie drängen
 
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 # [[Modus - Indikativ]] - Präteritum
 ich drängte
 du drängtest
@@ -100,6 +101,8 @@ Sie werden gedrängt haben
 
 # [[Modus - Konjunktiv]] 2 - Präteritum
 =======
+=======
+>>>>>>> 9ea0c9b (Added placeholder tense to existing verbs)
 # [[Indikativ - Präteritum]]
 >>>>>>> a45568a (Added notes from January 16th)
 ich drängte
@@ -165,6 +168,15 @@ ihr hattet gedrängt
 Sie hatten gedrängt
 
 
+# [[Indikativ - Futur I]]
+ich werde drängen
+du wirst drängen
+er/sie/es wird drängen
+wir werden drängen
+ihr werdet drängen
+Sie werden drängen
+
+
 # [[Indikativ - Futur II]]
 ich werde gedrängt haben
 du wirst gedrängt haben
@@ -172,4 +184,29 @@ er/sie/es wird gedrängt haben
 wir werden gedrängt haben
 ihr werdet gedrängt haben
 Sie werden gedrängt haben
+<<<<<<< HEAD
 >>>>>>> a45568a (Added notes from January 16th)
+=======
+# [[Konjunktiv I - Present]]
+
+# [[Konjunktiv I - Perfekt]]
+
+# [[Konjunktiv I - Futur I]]
+
+# [[Konjunktiv I - Futur II]]
+
+# [[Konjunktiv II - Präteritum]]
+
+# [[Konjunktiv II - Futur I]]
+
+# [[Konjunktiv II - Futur II]]
+
+# [[Konjunktiv II - Plusquamperfekt]]
+
+# [[Imperativ - Präsens]]
+
+# [[Partizips - Präsens]]
+
+# [[Partizips - Perfekt]]
+
+>>>>>>> 9ea0c9b (Added placeholder tense to existing verbs)

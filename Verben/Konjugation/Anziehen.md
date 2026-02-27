@@ -30,7 +30,11 @@ wir zogen an
 ihr zogt an
 Sie zogen an
 
+<<<<<<< HEAD
 # [[Modus - Indikativ]] - Perfekt
+=======
+# [[Indikativ - Perfekt]]
+>>>>>>> 9ea0c9b (Added placeholder tense to existing verbs)
 ich bin angezogen
 du bist angezogen
 er/sie/es ist angezogen
@@ -46,7 +50,11 @@ wir waren angezogen
 ihr wart angezogen
 Sie waren angezogen
 
+<<<<<<< HEAD
 # [[Modus - Indikativ]] - Futur I
+=======
+# [[Indikativ - Futur I]]
+>>>>>>> 9ea0c9b (Added placeholder tense to existing verbs)
 ich werde anziehen
 du wirst anziehen
 er/sie/es wird anziehen
@@ -54,7 +62,11 @@ wir werden anziehen
 ihr werdet anziehen
 Sie werden anziehen
 
+<<<<<<< HEAD
 # [[Modus - Indikativ]] - Futur II
+=======
+# [[Indikativ - Futur II]]
+>>>>>>> 9ea0c9b (Added placeholder tense to existing verbs)
 ich werde angezogen sein
 du wirst angezogen sein
 er/sie/es wird angezogen sein
@@ -62,6 +74,7 @@ wir werden angezogen sein
 ihr werdet angezogen sein
 Sie werdet angezogen sein
 
+<<<<<<< HEAD
 # [[Modus - Konjunktiv]] 1 - Präsens
 ich ziehe an
 du ziehest an
@@ -144,3 +157,31 @@ angezogen
 # Variant
 [[Ziehen]]
 >>>>>>> 7831a69 (Added notes from January 11th)
+=======
+# Variants
+English |German
+------------ | ------------
+Pull | [[Ziehen]]
+# [[Konjunktiv I - Present]]
+
+# [[Konjunktiv I - Perfekt]]
+
+# [[Konjunktiv I - Futur I]]
+
+# [[Konjunktiv I - Futur II]]
+
+# [[Konjunktiv II - Präteritum]]
+
+# [[Konjunktiv II - Futur I]]
+
+# [[Konjunktiv II - Futur II]]
+
+# [[Konjunktiv II - Plusquamperfekt]]
+
+# [[Imperativ - Präsens]]
+
+# [[Partizips - Präsens]]
+
+# [[Partizips - Perfekt]]
+
+>>>>>>> 9ea0c9b (Added placeholder tense to existing verbs)

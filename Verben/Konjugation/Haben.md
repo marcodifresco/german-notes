@@ -21,6 +21,7 @@ Ihr hattet
 Sie hatten
 
 
+<<<<<<< HEAD
 # [[Modus - Indikativ]] - Perfekt
 Ich habe gehabt
 Du hast gehabt
@@ -129,3 +130,42 @@ Partizip I habend
 # [[Modus - Partizips]] - Perfekt
 Form Conjugation
 Partizip II gehabt
+=======
+# [[Indikativ - Perfekt]]
+Pronoun|Conjugation
+------------ | ------------
+Ich | habe gehabt
+Du | hast gehabt
+Er/Sie/Es | hat gehabt
+Wir | haben gehabt
+Ihr | habt gehabt
+Sie | haben gehabt
+# [[Indikativ - Plusquamperfekt]]
+
+# [[Indikativ - Futur I]]
+
+# [[Indikativ - Futur II]]
+
+# [[Konjunktiv I - Present]]
+
+# [[Konjunktiv I - Perfekt]]
+
+# [[Konjunktiv I - Futur I]]
+
+# [[Konjunktiv I - Futur II]]
+
+# [[Konjunktiv II - Präteritum]]
+
+# [[Konjunktiv II - Futur I]]
+
+# [[Konjunktiv II - Futur II]]
+
+# [[Konjunktiv II - Plusquamperfekt]]
+
+# [[Imperativ - Präsens]]
+
+# [[Partizips - Präsens]]
+
+# [[Partizips - Perfekt]]
+
+>>>>>>> 9ea0c9b (Added placeholder tense to existing verbs)

@@ -11,6 +11,7 @@ Wir kommen an
 Ihr kommt an
 Sie kommen an
 
+<<<<<<< HEAD
 # [[Modus - Indikativ]] - Präteritum
 Ich kam an
 Du kamst an
@@ -129,3 +130,37 @@ Partizip I ankommend
 # [[Modus - Partizips]] - Perfekt
 Form Conjugation
 Partizip II angekommen
+=======
+# [[Indikativ - Präteritum]]
+
+# [[Indikativ - Perfekt]]
+[[Pronomen]] + [[Sein]] + angekommen
+# [[Indikativ - Plusquamperfekt]]
+
+# [[Indikativ - Futur I]]
+
+# [[Indikativ - Futur II]]
+
+# [[Konjunktiv I - Present]]
+
+# [[Konjunktiv I - Perfekt]]
+
+# [[Konjunktiv I - Futur I]]
+
+# [[Konjunktiv I - Futur II]]
+
+# [[Konjunktiv II - Präteritum]]
+
+# [[Konjunktiv II - Futur I]]
+
+# [[Konjunktiv II - Futur II]]
+
+# [[Konjunktiv II - Plusquamperfekt]]
+
+# [[Imperativ - Präsens]]
+
+# [[Partizips - Präsens]]
+
+# [[Partizips - Perfekt]]
+
+>>>>>>> 9ea0c9b (Added placeholder tense to existing verbs)

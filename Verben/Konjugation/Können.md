@@ -15,6 +15,7 @@ Sie können
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 # [[Modus - Indikativ]] - Präteritum
 Ich konnte
 Du konntest
@@ -100,6 +101,26 @@ Sie könnten
 # [[Konjunktiv II - past subjunctive]]
 >>>>>>> 8bc48b3 (Added notes from 2023-03-01)
 =======
+=======
+# [[Indikativ - Präteritum]]
+
+# [[Indikativ - Perfekt]]
+[[Pronomen]] + [[Haben]] + gekonnt
+# [[Indikativ - Plusquamperfekt]]
+
+# [[Indikativ - Futur I]]
+
+# [[Indikativ - Futur II]]
+
+# [[Konjunktiv I - Present]]
+
+# [[Konjunktiv I - Perfekt]]
+
+# [[Konjunktiv I - Futur I]]
+
+# [[Konjunktiv I - Futur II]]
+
+>>>>>>> 9ea0c9b (Added placeholder tense to existing verbs)
 # [[Konjunktiv II - Präteritum]]
 >>>>>>> d6b65de (Added notes from 2023-03-06)
 Pronoun|Conjugation
@@ -113,6 +134,7 @@ Sie | könnten
 >>>>>>> 72e1711 (Added notes from September 14th)
 
 
+<<<<<<< HEAD
 # [[Modus - Konjunktiv]] 2 - Futur I
 Ich würde können
 Du würdest können
@@ -145,3 +167,17 @@ könnend
 
 # [[Modus - Partizips]] - Perfekt
 gekonnt
+=======
+# [[Konjunktiv II - Futur I]]
+
+# [[Konjunktiv II - Futur II]]
+
+# [[Konjunktiv II - Plusquamperfekt]]
+
+# [[Imperativ - Präsens]]
+
+# [[Partizips - Präsens]]
+
+# [[Partizips - Perfekt]]
+
+>>>>>>> 9ea0c9b (Added placeholder tense to existing verbs)

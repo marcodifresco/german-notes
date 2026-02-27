@@ -19,6 +19,7 @@ Ihr ärgert
 Sie ärgern
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 # [[Modus - Indikativ]] - Präteritum
 Ich ärgerte
 Du ärgertest
@@ -136,9 +137,44 @@ Sie hätten geärgert
 # [[Modus - Partizips]] - Perfekt
 geärgert
 =======
+=======
+# [[Indikativ - Präteritum]]
+
+>>>>>>> 9ea0c9b (Added placeholder tense to existing verbs)
 # [[Indikativ - Perfekt]]
 [[Pronomen]] + [[Haben]] + geärgert
 
 # Uses
 Sich [[Ärgern]] über: Ich ärgere mich über die Nachbarn
+<<<<<<< HEAD
 >>>>>>> 7831a69 (Added notes from January 11th)
+=======
+# [[Indikativ - Plusquamperfekt]]
+
+# [[Indikativ - Futur I]]
+
+# [[Indikativ - Futur II]]
+
+# [[Konjunktiv I - Present]]
+
+# [[Konjunktiv I - Perfekt]]
+
+# [[Konjunktiv I - Futur I]]
+
+# [[Konjunktiv I - Futur II]]
+
+# [[Konjunktiv II - Präteritum]]
+
+# [[Konjunktiv II - Futur I]]
+
+# [[Konjunktiv II - Futur II]]
+
+# [[Konjunktiv II - Plusquamperfekt]]
+
+# [[Imperativ - Präsens]]
+
+# [[Partizips - Präsens]]
+
+# [[Partizips - Perfekt]]
+
+>>>>>>> 9ea0c9b (Added placeholder tense to existing verbs)
