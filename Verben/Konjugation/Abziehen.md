@@ -18,14 +18,6 @@ wir zogen ab
 ihr zogt ab
 Sie zogen ab
 
-# [[Indikativ - Futur I]]
-ich werde abziehen
-du wirst abziehen
-er/sie/es wird abziehen
-wir werden abziehen
-ihr werdet abziehen
-Sie werden abziehen
-
 # [[Indikativ - Perfekt]]
 ich bin abgezogen
 du bist abgezogen
@@ -42,6 +34,14 @@ wir waren abgezogen
 ihr wart abgezogen
 Sie waren abgezogen
 
+# [[Indikativ - Futur I]]
+ich werde abziehen
+du wirst abziehen
+er/sie/es wird abziehen
+wir werden abziehen
+ihr werdet abziehen
+Sie werden abziehen
+
 # [[Indikativ - Futur II]]
 ich werde abgezogen sein
 du wirst abgezogen sein
@@ -54,3 +54,25 @@ Sie werden abgezogen sein
 English |German
 ------------ | ------------
 Pull | [[Ziehen]]
+# [[Konjunktiv I - Present]]
+
+# [[Konjunktiv I - Perfekt]]
+
+# [[Konjunktiv I - Futur I]]
+
+# [[Konjunktiv I - Futur II]]
+
+# [[Konjunktiv II - Präteritum]]
+
+# [[Konjunktiv II - Futur I]]
+
+# [[Konjunktiv II - Futur II]]
+
+# [[Konjunktiv II - Plusquamperfekt]]
+
+# [[Imperativ - Präsens]]
+
+# [[Partizips - Präsens]]
+
+# [[Partizips - Perfekt]]
+

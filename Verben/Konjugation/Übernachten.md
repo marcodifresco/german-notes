@@ -11,14 +11,6 @@ er/sie/es übernachtet
 # [[Indikativ - Präteritum]]
 er/sie/es übernachtete
 
-# [[Indikativ - Futur I]]
-ich werde übernachten
-du wirst übernachten
-er/sie/es wird übernachten
-wir werden übernachten
-ihr werdet übernachten
-Sie werden übernachten
-
 # [[Indikativ - Perfekt]]
 ich habe übernachtet
 du hast übernachtet
@@ -34,6 +26,14 @@ er/sie/es hatte übernachtet
 wir hatten übernachtet
 ihr hattet übernachtet
 Sie hatten übernachtet
+
+# [[Indikativ - Futur I]]
+ich werde übernachten
+du wirst übernachten
+er/sie/es wird übernachten
+wir werden übernachten
+ihr werdet übernachten
+Sie werden übernachten
 
 # [[Indikativ - Futur II]]
 ich werde übernachtet haben

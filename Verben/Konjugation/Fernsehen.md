@@ -13,9 +13,39 @@ Ihr | seht fern
 Sie | sehen fern
 
 
+# [[Indikativ - Präteritum]]
+
 # [[Indikativ - Perfekt]]
 [[Pronomen]] + [[Haben]] + ferngesehen
 
 # Rules
 For generic viewing
 *EX: Ich sehe heute Abend fern.*
+# [[Indikativ - Plusquamperfekt]]
+
+# [[Indikativ - Futur I]]
+
+# [[Indikativ - Futur II]]
+
+# [[Konjunktiv I - Present]]
+
+# [[Konjunktiv I - Perfekt]]
+
+# [[Konjunktiv I - Futur I]]
+
+# [[Konjunktiv I - Futur II]]
+
+# [[Konjunktiv II - Präteritum]]
+
+# [[Konjunktiv II - Futur I]]
+
+# [[Konjunktiv II - Futur II]]
+
+# [[Konjunktiv II - Plusquamperfekt]]
+
+# [[Imperativ - Präsens]]
+
+# [[Partizips - Präsens]]
+
+# [[Partizips - Perfekt]]
+

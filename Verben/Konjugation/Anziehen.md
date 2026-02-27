@@ -18,14 +18,6 @@ wir zogen an
 ihr zogt an
 Sie zogen an
 
-# [[Indikativ - Futur I]]
-ich werde anziehen
-du wirst anziehen
-er/sie/es wird anziehen
-wir werden anziehen
-ihr werdet anziehen
-Sie werden anziehen
-
 # [[Indikativ - Perfekt]]
 ich bin angezogen
 du bist angezogen
@@ -42,6 +34,14 @@ wir waren angezogen
 ihr wart angezogen
 Sie waren angezogen
 
+# [[Indikativ - Futur I]]
+ich werde anziehen
+du wirst anziehen
+er/sie/es wird anziehen
+wir werden anziehen
+ihr werdet anziehen
+Sie werden anziehen
+
 # [[Indikativ - Futur II]]
 ich werde angezogen sein
 du wirst angezogen sein
@@ -54,3 +54,25 @@ Sie werdet angezogen sein
 English |German
 ------------ | ------------
 Pull | [[Ziehen]]
+# [[Konjunktiv I - Present]]
+
+# [[Konjunktiv I - Perfekt]]
+
+# [[Konjunktiv I - Futur I]]
+
+# [[Konjunktiv I - Futur II]]
+
+# [[Konjunktiv II - Präteritum]]
+
+# [[Konjunktiv II - Futur I]]
+
+# [[Konjunktiv II - Futur II]]
+
+# [[Konjunktiv II - Plusquamperfekt]]
+
+# [[Imperativ - Präsens]]
+
+# [[Partizips - Präsens]]
+
+# [[Partizips - Perfekt]]
+

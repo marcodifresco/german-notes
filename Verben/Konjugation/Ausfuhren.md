@@ -21,14 +21,6 @@ wir führten aus
 ihr führtet aus
 Sie führten aus
 
-# [[Indikativ - Futur I]]
-ich werde ausführen
-du wirst ausführen
-er/sie/es wird ausführen
-wir werden ausführen
-ihr werdet ausführen
-Sie werden ausführen
-
 # [[Indikativ - Perfekt]]
 ich habe ausgeführt
 du hast ausgeführt
@@ -45,6 +37,14 @@ er/sie/es hatte ausgeführt
 wir hatten ausgeführt
 ihr hattet ausgeführt
 Sie hatten ausgeführt
+
+# [[Indikativ - Futur I]]
+ich werde ausführen
+du wirst ausführen
+er/sie/es wird ausführen
+wir werden ausführen
+ihr werdet ausführen
+Sie werden ausführen
 
 # [[Indikativ - Futur II]]
 ich werde ausgeführt haben

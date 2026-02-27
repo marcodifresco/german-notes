@@ -18,14 +18,6 @@ wir zogen
 ihr zogt
 Sie zogen
 
-# [[Indikativ - Futur I]]
-ich werde ziehen
-du wirst ziehen
-er/sie/es wird ziehen
-wir werden ziehen
-ihr werdet ziehen
-Sie werden ziehen
-
 # [[Indikativ - Perfekt]]
 ich bin gezogen
 du bist gezogen
@@ -41,6 +33,14 @@ er/sie/es war gezogen
 wir waren gezogen
 ihr wart gezogen
 Sie waren gezogen
+
+# [[Indikativ - Futur I]]
+ich werde ziehen
+du wirst ziehen
+er/sie/es wird ziehen
+wir werden ziehen
+ihr werdet ziehen
+Sie werden ziehen
 
 # [[Indikativ - Futur II]]
 ich werde gezogen sein
@@ -68,3 +68,25 @@ Forgive | [[Verziehen]]
 # Notes
 an ab hoch ein aus um -> [[Typ - Trennbare verben]]
 be ent ver er -> [[Typ - Regular verben]]
+# [[Konjunktiv I - Present]]
+
+# [[Konjunktiv I - Perfekt]]
+
+# [[Konjunktiv I - Futur I]]
+
+# [[Konjunktiv I - Futur II]]
+
+# [[Konjunktiv II - Präteritum]]
+
+# [[Konjunktiv II - Futur I]]
+
+# [[Konjunktiv II - Futur II]]
+
+# [[Konjunktiv II - Plusquamperfekt]]
+
+# [[Imperativ - Präsens]]
+
+# [[Partizips - Präsens]]
+
+# [[Partizips - Perfekt]]
+

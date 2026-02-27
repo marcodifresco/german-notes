@@ -11,15 +11,6 @@ ihr drängt
 Sie drängen
 
 
-# [[Indikativ - Futur I]]
-ich werde drängen
-du wirst drängen
-er/sie/es wird drängen
-wir werden drängen
-ihr werdet drängen
-Sie werden drängen
-
-
 # [[Indikativ - Präteritum]]
 ich drängte
 du drängtest
@@ -47,6 +38,15 @@ ihr hattet gedrängt
 Sie hatten gedrängt
 
 
+# [[Indikativ - Futur I]]
+ich werde drängen
+du wirst drängen
+er/sie/es wird drängen
+wir werden drängen
+ihr werdet drängen
+Sie werden drängen
+
+
 # [[Indikativ - Futur II]]
 ich werde gedrängt haben
 du wirst gedrängt haben
@@ -54,3 +54,25 @@ er/sie/es wird gedrängt haben
 wir werden gedrängt haben
 ihr werdet gedrängt haben
 Sie werden gedrängt haben
+# [[Konjunktiv I - Present]]
+
+# [[Konjunktiv I - Perfekt]]
+
+# [[Konjunktiv I - Futur I]]
+
+# [[Konjunktiv I - Futur II]]
+
+# [[Konjunktiv II - Präteritum]]
+
+# [[Konjunktiv II - Futur I]]
+
+# [[Konjunktiv II - Futur II]]
+
+# [[Konjunktiv II - Plusquamperfekt]]
+
+# [[Imperativ - Präsens]]
+
+# [[Partizips - Präsens]]
+
+# [[Partizips - Perfekt]]
+

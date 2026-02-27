@@ -13,6 +13,24 @@ Ihr | könnt
 Sie | können
 
 
+# [[Indikativ - Präteritum]]
+
+# [[Indikativ - Perfekt]]
+[[Pronomen]] + [[Haben]] + gekonnt
+# [[Indikativ - Plusquamperfekt]]
+
+# [[Indikativ - Futur I]]
+
+# [[Indikativ - Futur II]]
+
+# [[Konjunktiv I - Present]]
+
+# [[Konjunktiv I - Perfekt]]
+
+# [[Konjunktiv I - Futur I]]
+
+# [[Konjunktiv I - Futur II]]
+
 # [[Konjunktiv II - Präteritum]]
 Pronoun|Conjugation
 ------------ | ------------
@@ -24,5 +42,15 @@ Ihr | könntet
 Sie | könnten
 
 
-# [[Indikativ - Perfekt]]
-[[Pronomen]] + [[Haben]] + gekonnt
+# [[Konjunktiv II - Futur I]]
+
+# [[Konjunktiv II - Futur II]]
+
+# [[Konjunktiv II - Plusquamperfekt]]
+
+# [[Imperativ - Präsens]]
+
+# [[Partizips - Präsens]]
+
+# [[Partizips - Perfekt]]
+

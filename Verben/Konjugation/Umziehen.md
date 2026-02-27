@@ -13,6 +13,8 @@ Ihr | zieht um
 Sie | haben um
 
 
+# [[Indikativ - Präteritum]]
+
 # [[Indikativ - Perfekt]]
 [[Pronomen]] + [[Haben]] + umzogen
 
@@ -20,3 +22,31 @@ Sie | haben um
 
 # Examples
 Change dress: Sich um|ziehen --> gehen nach Hause uns [[Umziehen|umzuziehen]]
+# [[Indikativ - Plusquamperfekt]]
+
+# [[Indikativ - Futur I]]
+
+# [[Indikativ - Futur II]]
+
+# [[Konjunktiv I - Present]]
+
+# [[Konjunktiv I - Perfekt]]
+
+# [[Konjunktiv I - Futur I]]
+
+# [[Konjunktiv I - Futur II]]
+
+# [[Konjunktiv II - Präteritum]]
+
+# [[Konjunktiv II - Futur I]]
+
+# [[Konjunktiv II - Futur II]]
+
+# [[Konjunktiv II - Plusquamperfekt]]
+
+# [[Imperativ - Präsens]]
+
+# [[Partizips - Präsens]]
+
+# [[Partizips - Perfekt]]
+

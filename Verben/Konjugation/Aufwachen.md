@@ -21,14 +21,6 @@ wir wachten auf
 ihr wachtet auf
 Sie wachten auf
 
-# [[Indikativ - Futur I]]
-ich werde aufwachen
-du wirst aufwachen
-er/sie/es wird aufwachen
-wir werden aufwachen
-ihr werdet aufwachen
-Sie werden aufwachen
-
 # [[Indikativ - Perfekt]]
 ich bin aufgewacht
 du bist aufgewacht
@@ -44,6 +36,14 @@ er/sie/es war aufgewacht
 wir waren aufgewacht
 ihr wart aufgewacht
 Sie waren aufgewacht
+
+# [[Indikativ - Futur I]]
+ich werde aufwachen
+du wirst aufwachen
+er/sie/es wird aufwachen
+wir werden aufwachen
+ihr werdet aufwachen
+Sie werden aufwachen
 
 # [[Indikativ - Futur II]]
 ich werde aufgewacht sein

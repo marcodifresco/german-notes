@@ -21,14 +21,6 @@ wir wühlten
 ihr wühltet
 Sie wühlten
 
-# [[Indikativ - Futur I]]
-ich werde wühlen
-du wirst wühlen
-er/sie/es wird wühlen
-wir werden wühlen
-ihr werdet wühlen
-Sie werden wühlen
-
 # [[Indikativ - Perfekt]]
 ich habe gewühlt
 du hast gewühlt
@@ -44,6 +36,14 @@ er/sie/es hatte gewühlt
 wir hatten gewühlt
 ihr hattet gewühlt
 Sie hatten gewühlt
+
+# [[Indikativ - Futur I]]
+ich werde wühlen
+du wirst wühlen
+er/sie/es wird wühlen
+wir werden wühlen
+ihr werdet wühlen
+Sie werden wühlen
 
 # [[Indikativ - Futur II]]
 ich werde gewühlt haben
@@ -76,6 +76,8 @@ er/sie/es habe gewühlt
 wir haben gewühlt
 ihr habet gewühlt
 Sie haben gewühlt
+
+# [[Konjunktiv I - Futur II]]
 
 # [[Konjunktiv II - Präteritum]]
 ich wühlte
