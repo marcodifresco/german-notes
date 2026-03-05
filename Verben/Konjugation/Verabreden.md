@@ -127,8 +127,8 @@ verabreden wir
 verabredet ihr
 verabreden Sie
 
-# [[Partizips - Präsens]]
+# [[Modus - Partizips]] - Präsens
 verabredend
 
-# [[Partizips - Perfekt]]
+# [[Modus - Partizips]] - Perfekt
 verabredet
