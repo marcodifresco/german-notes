@@ -2,11 +2,12 @@ ___
 Tags: #Languages/German/Grammar/Verbs/Regular  
 Links: [[Verben]]
 ___
-English | German
------------- | ------------
-Be | [[Sein]]
-Have | [[Haben]]
-Become | [[Werden]][^1]
+
+| English | German         |
+| ------- | -------------- |
+| Be      | [[Sein]]       |
+| Have    | [[Haben]]      |
+| Become  | [[Werden]][^1] |
 
 ^3ed54c
 
