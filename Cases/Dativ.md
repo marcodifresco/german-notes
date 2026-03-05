@@ -76,6 +76,7 @@ Plural --> Den/Ø ...*en*
 [[Einkaufen]]
 [[Einladen]]
 [[Erklären]]
+[[Essen]]
 [[Fallen]]
 [[Glauben]]
 [[Geben]]
