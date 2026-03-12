@@ -2,6 +2,8 @@ ___
 Links: [[Verben]] [[Typ - Regular verben]] [[Typ - Reflexive Verben]]
 Meaning: to annoy
 ___
+# Uses
+Sich [[Ärgern]] über: Ich ärgere mich über die Nachbarn
 
 # [[Modus - Indikativ]] - Präsens
 Ich ärgere
@@ -28,8 +30,6 @@ Wir haben geärgert
 Ihr habt geärgert
 Sie haben geärgert
 
-# Uses
-Sich [[Ärgern]] über: Ich ärgere mich über die Nachbarn
 # [[Modus - Indikativ]] - Plusquamperfekt
 Ich hatte geärgert
 Du hattest geärgert
