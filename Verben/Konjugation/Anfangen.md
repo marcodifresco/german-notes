@@ -1,6 +1,6 @@
 ___
-Links: [[Verben]]
-Meaning:
+Links: [[Verben]] [[Typ - Irregular verben]] [[Typ - Trennbare verben]]
+Meaning: to start/begin
 ___
 
 # [[Modus - Indikativ]] - Präsens
@@ -10,7 +10,6 @@ Er/Sie/Es fängt an
 Wir fangen an
 Ihr fangt an
 Sie fangen an
-
 
 # [[Modus - Indikativ]] - Präteritum
 Ich fing an
