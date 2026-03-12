@@ -1,6 +1,6 @@
 ___
-Links: [[Verben]]
-Meaning:
+Links: [[Verben]] [[Typ - Irregular verben]] [[Typ - Trennbare verben]]
+Meaning: to call
 ___
 
 # [[Modus - Indikativ]] - Präsens
@@ -10,7 +10,6 @@ Er/Sie/Es ruft an
 Wir rufen an
 Ihr ruft an
 Sie rufen an
-
 
 # [[Modus - Indikativ]] - Präteritum
 Ich rief an
