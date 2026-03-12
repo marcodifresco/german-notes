@@ -11,7 +11,6 @@ Wir bieten an
 Ihr bietet an
 Sie bieten an
 
-
 # [[Modus - Indikativ]] - Präteritum
 Ich bot an
 Du botst an
