@@ -1,6 +1,6 @@
 ___
 Links: [[Verben]] [[Typ - Regular verben]]
-Meaning: Put
+Meaning: to Put
 ___
 
 # [[Modus - Indikativ]] - Präsens

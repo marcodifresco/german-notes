@@ -1,6 +1,6 @@
 ___
 Links: [[Verben]] [[Typ - Irregular verben]] [[Typ - Trennbare verben]]
-Meaning: Offer
+Meaning: to offer
 ___
 
 # [[Modus - Indikativ]] - Präsens

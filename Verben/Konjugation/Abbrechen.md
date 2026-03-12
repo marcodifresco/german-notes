@@ -1,6 +1,6 @@
 ___
 Links: [[Verben]] [[Typ - Regular verben]] [[Typ - Trennbare verben]]
-Meaning: Cancel
+Meaning: to cancel
 ___
 
 # [[Modus - Indikativ]] - Präsens

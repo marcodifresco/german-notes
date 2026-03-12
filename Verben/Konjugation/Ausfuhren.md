@@ -1,6 +1,6 @@
 ___
 Links: [[Verben]] [[Typ - Regular verben]] [[Typ - Trennbare verben]]
-Meaning: Carry out
+Meaning: to Carry out
 ___
 
 # [[Modus - Indikativ]] - Präsens

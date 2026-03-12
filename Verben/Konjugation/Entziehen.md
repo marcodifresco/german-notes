@@ -1,6 +1,6 @@
 ___
 Links: [[Verben]] - [[Typ - Regular verben]]
-Meaning: Revoke
+Meaning: to Revoke
 ___
 
 # [[Modus - Indikativ]] - Präsens

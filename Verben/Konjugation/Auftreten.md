@@ -1,6 +1,6 @@
 ___
 Links: [[Verben]] [[Typ Irregular verben]] [[Typ Trennbare verben]]
-Meaning: Appear
+Meaning: to Appear
 ___
 
 # [[Indikativ Präsens]]

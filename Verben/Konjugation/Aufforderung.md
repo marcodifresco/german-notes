@@ -1,6 +1,6 @@
 ___
 Links: [[Verben]] [[Typ Regular verben]] [[Typ Trennbare verben]]
-Meaning: To request
+Meaning: to request
 ___
 
 # [[Indikativ Präsens]]

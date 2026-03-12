@@ -1,6 +1,6 @@
 ___
 Links: [[Verben]] [[Typ - Regular verben]] [[Typ - Trennbare verben]]
-Meaning: Spend the night
+Meaning: to Spend the night
 ___
 
 # [[Modus - Indikativ]] - Präsens

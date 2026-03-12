@@ -1,6 +1,6 @@
 ___
 Links: [[Verben]] [[Typ - Irregular verben]] [[Typ - Trennbare verben]]
-Meaning: contemplate/consider
+Meaning: to contemplate/consider
 ___
 
 # Rule

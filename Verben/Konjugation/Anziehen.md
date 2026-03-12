@@ -1,6 +1,6 @@
 ___
 Links: [[Verben]] - [[Typ - Irregular verben]] - [[Typ - Trennbare verben]]
-Meaning: Dress / Put on
+Meaning: to Dress / Put on
 ___
 
 # [[Modus - Indikativ]] - Präsens

@@ -1,6 +1,6 @@
 ___
 Links: [[Verben]] [[Verben]] [[Typ - Regular verben]] 
-Meaning: To dig
+Meaning: to dig
 ___
 
 # [[Modus - Indikativ]] - Präsens

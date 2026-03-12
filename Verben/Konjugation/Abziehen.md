@@ -1,6 +1,6 @@
 ___
 Links: [[Verben]] - [[Typ - Irregular verben]] - [[Typ - Trennbare verben]]
-Meaning: Pull (object) off
+Meaning: to pull (object) off
 ___
 
 # [[Modus - Indikativ]] - Präsens

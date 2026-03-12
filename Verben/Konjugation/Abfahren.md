@@ -1,6 +1,6 @@
 ___
 Links: [[Verben]] [[Typ - Irregular verben]] [[Typ - Trennbare verben]]
-Meaning: Depart
+Meaning: to depart
 ___
 
 # [[Modus - Indikativ]] - Präsens

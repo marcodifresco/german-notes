@@ -9,7 +9,7 @@ trello_board_card_id: 65341124dca0f2cee54063fb;6791ffa794ebd8fcdadca115
 ___
 
 Links: [[Verben]] [[Typ - Regular verben]]
-Meaning: make appointment
+Meaning: to make appointment
 
 ---
 

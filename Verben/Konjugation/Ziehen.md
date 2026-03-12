@@ -1,6 +1,6 @@
 ___
 Links: [[Verben]] - [[Typ - Irregular verben]]
-Meaning: Pull
+Meaning: to Pull
 ___
 
 # [[Modus - Indikativ]] - Präsens

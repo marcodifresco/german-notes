@@ -1,6 +1,6 @@
 ___
 Links: [[Verben]] [[Typ - Regular verben]] [[Typ - Trennbare verben]]
-Meaning: Vote
+Meaning: to vote
 ___
 
 # [[Modus - Indikativ]] - Präsens

@@ -1,6 +1,6 @@
 ___
 Links: [[Verben]] [[Typ - Regular verben]] [[Typ - Trennbare verben]]
-Meaning: Submit
+Meaning: to submit
 ___
 
 # [[Modus - Indikativ]] - Präsens

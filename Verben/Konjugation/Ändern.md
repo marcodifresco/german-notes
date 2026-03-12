@@ -1,6 +1,6 @@
 ___
 Links: [[Verben]] [[Typ - Regular verben]]
-Meaning: change/alter
+Meaning: to change/alter
 ___
 
 # [[Modus - Indikativ]] - Präsens

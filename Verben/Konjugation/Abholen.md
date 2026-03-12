@@ -1,6 +1,6 @@
 ___
 Links: [[Verben]] [[Typ - Regular verben]] [[Typ - Trennbare verben]]
-Meaning: Pick up
+Meaning: to pick up
 ___
 
 # [[Modus - Indikativ]] - Präsens

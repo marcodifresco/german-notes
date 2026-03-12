@@ -1,6 +1,6 @@
 ___
 Links: [[Verben]] [[Typ - Irregular verben]] [[Typ - Trennbare verben]]
-Meaning: Complete
+Meaning: to complete
 ___
 
 # [[Modus - Indikativ]] - Präsens
