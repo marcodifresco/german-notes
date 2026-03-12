@@ -20,7 +20,6 @@ ihr bracht ab
 Sie brachen ab
 
 # [[Modus - Indikativ]] - Perfekt
-[[Pronomen]] + [[Haben]] + abgebrochen
 ich habe abgebrochen
 du hast abgebrochen
 er/sie/es hat abgebrochen
