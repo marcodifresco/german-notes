@@ -1,6 +1,6 @@
 ___
-Links: [[Verben]]
-Meaning:
+Links: [[Verben]] [[Typ - Regular verben]] [[Typ - Trennbare verben]]
+Meaning: to stop
 ___
 
 # [[Modus - Indikativ]] - Präsens
@@ -11,7 +11,6 @@ Wir hören auf
 Ihr hört auf
 Sie hören auf
 
-
 # [[Modus - Indikativ]] - Präteritum
 Ich hörte auf
 Du hörtest auf
@@ -21,7 +20,6 @@ Ihr hörtet auf
 Sie hörten auf
 
 # [[Modus - Indikativ]] - Perfekt
-[[Pronomen]] + [[Haben]] + aufgehört
 Ich habe aufgehört
 Du hast aufgehört
 Er/Sie/Es hat aufgehört
@@ -118,13 +116,13 @@ Ihr hättet aufgehört
 Sie hätten aufgehört
 
 # [[Modus - Imperativ]] - Präsens
-- (du) Hör auf!
-- (ihr) Hört auf!
-- (Sie) Hören Sie auf!
-- (wir) Hören wir auf!
+(du) Hör auf!
+(ihr) Hört auf!
+(Sie) Hören Sie auf!
+(wir) Hören wir auf!
 
 # [[Modus - Partizips]] - Präsens
-- aufhörend
+aufhörend
 
 # [[Modus - Partizips]] - Perfekt
-- aufgehört
+aufgehört
