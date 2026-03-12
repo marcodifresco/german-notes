@@ -1,6 +1,6 @@
 ___
-Links: [[Verben]] [[Typ - Trennbare verben]]
-Meaning:
+Links: [[Verben]] [[Typ - Irregular verben]] [[Typ - Trennbare verben]]
+Meaning: contemplate/consider
 ___
 
 # [[Modus - Indikativ]] - Präsens
@@ -10,7 +10,6 @@ Er/Sie/Es denkt an
 Wir denken an
 Ihr denkt an
 Sie denken an
-
 
 # [[Modus - Indikativ]] - Präteritum
 Ich dachte an
