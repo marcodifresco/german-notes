@@ -1,6 +1,6 @@
 ___
-Links: [[Verben]]
-Meaning:
+Links: [[Verben]] [[Typ - Irregular verben]] [[Typ - Trennbare verben]]
+Meaning: to exit
 ___
 
 # [[Modus - Indikativ]] - Präsens
@@ -10,7 +10,6 @@ Er/Sie/Es steigt aus
 Wir steigen aus
 Ihr steigt aus
 Sie steigen aus
-
 
 # [[Modus - Indikativ]] - Präteritum
 Ich stieg aus
@@ -124,11 +123,7 @@ Sie wären ausgestiegen
 (wir) Steigen wir aus!
 
 # [[Modus - Partizips]] - Präsens
-Conjugation
-------------
 aussteigend
 
 # [[Modus - Partizips]] - Perfekt
-Conjugation
-------------
 ausgestiegen
