@@ -1,6 +1,6 @@
 ___
-Links: [[Verben]] [[Typ - Trennbare verben]]
-Meaning:
+Links: [[Verben]] [[Typ - Regular verben]] [[Typ - Trennbare verben]]
+Meaning: To testify
 ___
 
 # [[Modus - Indikativ]] - Präsens
@@ -10,7 +10,6 @@ Er/Sie/Es sagt aus
 Wir sagen aus
 Ihr sagt aus
 Sie sagen aus
-
 
 # [[Modus - Indikativ]] - Präteritum
 Ich sagte aus
