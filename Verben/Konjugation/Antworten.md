@@ -1,6 +1,6 @@
 ___
-Links: [[Verben]] [[Dativ]]
-Meaning:
+Links: [[Verben]] [[Typ - Regular verben]] [[Dativ]]
+Meaning: to answer
 ___
 
 # [[Modus - Indikativ]] - Präsens
@@ -10,7 +10,6 @@ Er/Sie/Es antwortet
 Wir antworten
 Ihr antwortet
 Sie antworten
-
 
 # [[Modus - Indikativ]] - Präteritum
 Ich antwortete
@@ -53,7 +52,7 @@ Wir werden geantwortet haben
 Ihr werdet geantwortet haben
 Sie werden geantwortet haben
 
-# [[Modus - Konjunktiv]] 1 - Present
+# [[Modus - Konjunktiv]] 1 - Präsens
 Ich antworte
 Du antwortest
 Er/Sie/Es antworte
