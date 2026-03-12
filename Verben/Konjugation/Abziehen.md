@@ -3,10 +3,13 @@ ___
 Links: [[Verben]] - [[Typ - Irregular verben]] - [[Typ - Trennbare verben]]
 Meaning: to pull (object) off
 ___
+<<<<<<< HEAD
 
 # Variants
 [[Ziehen]] --> To pull
 
+=======
+>>>>>>> 81b7927 (Updated verbs modus links)
 # [[Modus - Indikativ]] - Präsens
 ich ziehe ab
 du ziehst ab
@@ -24,10 +27,14 @@ ihr zogt ab
 Sie zogen ab
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 # [[Modus - Indikativ]] - Perfekt
 =======
 # [[Indikativ - Perfekt]]
 >>>>>>> 9ea0c9b (Added placeholder tense to existing verbs)
+=======
+# [[Modus - Indikativ]] - Perfekt
+>>>>>>> 81b7927 (Updated verbs modus links)
 ich bin abgezogen
 du bist abgezogen
 er/sie/es ist abgezogen
@@ -44,10 +51,14 @@ ihr wart abgezogen
 Sie waren abgezogen
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 # [[Modus - Indikativ]] - Futur I
 =======
 # [[Indikativ - Futur I]]
 >>>>>>> 9ea0c9b (Added placeholder tense to existing verbs)
+=======
+# [[Modus - Indikativ]] - Futur I
+>>>>>>> 81b7927 (Updated verbs modus links)
 ich werde abziehen
 du wirst abziehen
 er/sie/es wird abziehen
@@ -56,10 +67,14 @@ ihr werdet abziehen
 Sie werden abziehen
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 # [[Modus - Indikativ]] - Futur II
 =======
 # [[Indikativ - Futur II]]
 >>>>>>> 9ea0c9b (Added placeholder tense to existing verbs)
+=======
+# [[Modus - Indikativ]] - Futur II
+>>>>>>> 81b7927 (Updated verbs modus links)
 ich werde abgezogen sein
 du wirst abgezogen sein
 er/sie/es wird abgezogen sein
@@ -163,26 +178,26 @@ ihr bezieht euch
 English |German
 ------------ | ------------
 Pull | [[Ziehen]]
-# [[Konjunktiv I - Present]]
+# [[Modus - Konjunktiv]] 1 - Present
 
-# [[Konjunktiv I - Perfekt]]
+# [[Modus - Konjunktiv]] 1 - Perfekt
 
-# [[Konjunktiv I - Futur I]]
+# [[Modus - Konjunktiv]] 1 - Futur I
 
-# [[Konjunktiv I - Futur II]]
+# [[Modus - Konjunktiv]] 1 - Futur II
 
-# [[Konjunktiv II - Präteritum]]
+# [[Modus - Konjunktiv]] 2 - Präteritum
 
-# [[Konjunktiv II - Futur I]]
+# [[Modus - Konjunktiv]] 2 - Futur I
 
-# [[Konjunktiv II - Futur II]]
+# [[Modus - Konjunktiv]] 2 - Futur II
 
-# [[Konjunktiv II - Plusquamperfekt]]
+# [[Modus - Konjunktiv]] 2 - Plusquamperfekt
 
-# [[Imperativ - Präsens]]
+# [[Modus - Imperativ]] - Präsens
 
-# [[Partizips - Präsens]]
+# [[Modus - Partizips]] - Präsens
 
-# [[Partizips - Perfekt]]
+# [[Modus - Partizips]] - Perfekt
 
 >>>>>>> 9ea0c9b (Added placeholder tense to existing verbs)

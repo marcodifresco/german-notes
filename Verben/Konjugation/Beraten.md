@@ -3,6 +3,14 @@ Links: [[Verben]] [[Typ Regular verben]]
 Meaning: to Advise
 ___
 
+<<<<<<< HEAD
+=======
+Links: [[Verben]] [[Typ Regular verben]]
+Meaning: Advise
+
+---
+
+>>>>>>> 81b7927 (Updated verbs modus links)
 # [[Modus - Indikativ]] - Präsens
 ich berate
 du berätst
@@ -52,7 +60,11 @@ wir werden beraten haben
 ihr werdet beraten haben
 Sie werden beraten haben
 
+<<<<<<< HEAD
 # [[Modus - Konjunktiv]] 1 - Präsens
+=======
+# [[Modus - Konjunktiv]] 1 - Present
+>>>>>>> 81b7927 (Updated verbs modus links)
 ich berate
 du beratest
 er/sie/es berate
@@ -117,7 +129,15 @@ ihr hättet beraten
 Sie hätten beraten
 
 # [[Modus - Imperativ]] - Präsens
+<<<<<<< HEAD
 berate (du) / berat (du)
+=======
+berate (du)
+beraten wir
+beratet ihr
+beraten Sie
+berat (du)
+>>>>>>> 81b7927 (Updated verbs modus links)
 beraten wir
 beratet ihr
 beraten Sie
@@ -126,9 +146,13 @@ beraten Sie
 beratend
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 # [[Modus - Partizips]] - Perfekt
 beraten
 =======
 # [[Partizips - Perfekt]]
+=======
+# [[Modus - Partizips]] - Perfekt
+>>>>>>> 81b7927 (Updated verbs modus links)
 beraten
 >>>>>>> 9ea0c9b (Added placeholder tense to existing verbs)

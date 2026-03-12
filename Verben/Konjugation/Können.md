@@ -2,6 +2,7 @@ ___
 Links: [[Verben]]
 Meaning:
 ___
+<<<<<<< HEAD
 
 # [[Modus - Indikativ]] - Präsens
 Ich kann
@@ -103,26 +104,44 @@ Sie könnten
 =======
 =======
 # [[Indikativ - Präteritum]]
+=======
+# [[Modus - Indikativ]] - Präsens
+Pronoun|Conjugation
+------------ | ------------
+Ich | kann
+Du | kannst
+Er/Sie/Es | kann
+Wir | können
+Ihr | könnt
+Sie | können
 
-# [[Indikativ - Perfekt]]
+
+# [[Modus - Indikativ]] - Präteritum
+>>>>>>> 81b7927 (Updated verbs modus links)
+
+# [[Modus - Indikativ]] - Perfekt
 [[Pronomen]] + [[Haben]] + gekonnt
-# [[Indikativ - Plusquamperfekt]]
+# [[Modus - Indikativ]] - Plusquamperfekt
 
-# [[Indikativ - Futur I]]
+# [[Modus - Indikativ]] - Futur I
 
-# [[Indikativ - Futur II]]
+# [[Modus - Indikativ]] - Futur II
 
-# [[Konjunktiv I - Present]]
+# [[Modus - Konjunktiv]] 1 - Present
 
-# [[Konjunktiv I - Perfekt]]
+# [[Modus - Konjunktiv]] 1 - Perfekt
 
-# [[Konjunktiv I - Futur I]]
+# [[Modus - Konjunktiv]] 1 - Futur I
 
-# [[Konjunktiv I - Futur II]]
+# [[Modus - Konjunktiv]] 1 - Futur II
 
+<<<<<<< HEAD
 >>>>>>> 9ea0c9b (Added placeholder tense to existing verbs)
 # [[Konjunktiv II - Präteritum]]
 >>>>>>> d6b65de (Added notes from 2023-03-06)
+=======
+# [[Modus - Konjunktiv]] 2 - Präteritum
+>>>>>>> 81b7927 (Updated verbs modus links)
 Pronoun|Conjugation
 ------------ | ------------
 Ich | könnte
@@ -134,6 +153,7 @@ Sie | könnten
 >>>>>>> 72e1711 (Added notes from September 14th)
 
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 # [[Modus - Konjunktiv]] 2 - Futur I
 Ich würde können
@@ -169,15 +189,18 @@ könnend
 gekonnt
 =======
 # [[Konjunktiv II - Futur I]]
+=======
+# [[Modus - Konjunktiv]] 2 - Futur I
+>>>>>>> 81b7927 (Updated verbs modus links)
 
-# [[Konjunktiv II - Futur II]]
+# [[Modus - Konjunktiv]] 2 - Futur II
 
-# [[Konjunktiv II - Plusquamperfekt]]
+# [[Modus - Konjunktiv]] 2 - Plusquamperfekt
 
-# [[Imperativ - Präsens]]
+# [[Modus - Imperativ]] - Präsens
 
-# [[Partizips - Präsens]]
+# [[Modus - Partizips]] - Präsens
 
-# [[Partizips - Perfekt]]
+# [[Modus - Partizips]] - Perfekt
 
 >>>>>>> 9ea0c9b (Added placeholder tense to existing verbs)

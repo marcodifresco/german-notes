@@ -140,7 +140,7 @@ angesehen
 Tags: #Languages/German/Grammar/Verbs/Regular  
 Links: [[Verben]] [[Typ - Trennbare verben]]
 ___
-# [[Indikativ - Präsens]]
+# [[Modus - Indikativ]] - Präsens
 Pronoun|Conjugation
 ------------ | ------------
 Ich | sehe an
@@ -151,43 +151,47 @@ Ihr | seht an
 Sie | sehen an
 
 
-# [[Indikativ - Präteritum]]
+# [[Modus - Indikativ]] - Präteritum
 
-# [[Indikativ - Perfekt]]
+# [[Modus - Indikativ]] - Perfekt
 [[Pronomen]] + [[Haben]] + angesehen
 
 # Rules
 For viewing specific things.
 *EX: Ich sehe mir heute einen Film / eine Serie / ein Spiel an*
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> 251622b (Added notes from June, 13th)
 =======
 # [[Indikativ - Plusquamperfekt]]
+=======
+# [[Modus - Indikativ]] - Plusquamperfekt
+>>>>>>> 81b7927 (Updated verbs modus links)
 
-# [[Indikativ - Futur I]]
+# [[Modus - Indikativ]] - Futur I
 
-# [[Indikativ - Futur II]]
+# [[Modus - Indikativ]] - Futur II
 
-# [[Konjunktiv I - Present]]
+# [[Modus - Konjunktiv]] 1 - Present
 
-# [[Konjunktiv I - Perfekt]]
+# [[Modus - Konjunktiv]] 1 - Perfekt
 
-# [[Konjunktiv I - Futur I]]
+# [[Modus - Konjunktiv]] 1 - Futur I
 
-# [[Konjunktiv I - Futur II]]
+# [[Modus - Konjunktiv]] 1 - Futur II
 
-# [[Konjunktiv II - Präteritum]]
+# [[Modus - Konjunktiv]] 2 - Präteritum
 
-# [[Konjunktiv II - Futur I]]
+# [[Modus - Konjunktiv]] 2 - Futur I
 
-# [[Konjunktiv II - Futur II]]
+# [[Modus - Konjunktiv]] 2 - Futur II
 
-# [[Konjunktiv II - Plusquamperfekt]]
+# [[Modus - Konjunktiv]] 2 - Plusquamperfekt
 
-# [[Imperativ - Präsens]]
+# [[Modus - Imperativ]] - Präsens
 
-# [[Partizips - Präsens]]
+# [[Modus - Partizips]] - Präsens
 
-# [[Partizips - Perfekt]]
+# [[Modus - Partizips]] - Perfekt
 
 >>>>>>> 9ea0c9b (Added placeholder tense to existing verbs)

@@ -9,8 +9,12 @@ ___
 Tags: #Languages/German/Grammar/Verbs/Regular  
 Links: [[Verben]] [[Akkusativ]]
 ___
+<<<<<<< HEAD
 # [[Indikativ - Präsens]]
 >>>>>>> b5ffa73 (Added November 26th)
+=======
+# [[Modus - Indikativ]] - Präsens
+>>>>>>> 81b7927 (Updated verbs modus links)
 Ich frage
 Du fragst
 Er/Sie/Es fragt
@@ -19,6 +23,7 @@ Ihr fragt
 Sie fragen
 
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 # [[Modus - Indikativ]] - Präteritum
@@ -31,6 +36,9 @@ Sie fragen
 >>>>>>> 9ea0c9b (Added placeholder tense to existing verbs)
 # [[Indikativ - Präteritum]]
 >>>>>>> b5ffa73 (Added November 26th)
+=======
+# [[Modus - Indikativ]] - Präteritum
+>>>>>>> 81b7927 (Updated verbs modus links)
 Ich fragte
 Du fragtest
 Es/sie/es fragte
@@ -152,36 +160,36 @@ Sie fragten
 >>>>>>> b5ffa73 (Added November 26th)
 =======
 Sie fragten
-# [[Indikativ - Perfekt]]
+# [[Modus - Indikativ]] - Perfekt
 [[Pronomen]] + [[Haben]] + gefragt
 
 
-# [[Indikativ - Plusquamperfekt]]
+# [[Modus - Indikativ]] - Plusquamperfekt
 
-# [[Indikativ - Futur I]]
+# [[Modus - Indikativ]] - Futur I
 
-# [[Indikativ - Futur II]]
+# [[Modus - Indikativ]] - Futur II
 
-# [[Konjunktiv I - Present]]
+# [[Modus - Konjunktiv]] 1 - Present
 
-# [[Konjunktiv I - Perfekt]]
+# [[Modus - Konjunktiv]] 1 - Perfekt
 
-# [[Konjunktiv I - Futur I]]
+# [[Modus - Konjunktiv]] 1 - Futur I
 
-# [[Konjunktiv I - Futur II]]
+# [[Modus - Konjunktiv]] 1 - Futur II
 
-# [[Konjunktiv II - Präteritum]]
+# [[Modus - Konjunktiv]] 2 - Präteritum
 
-# [[Konjunktiv II - Futur I]]
+# [[Modus - Konjunktiv]] 2 - Futur I
 
-# [[Konjunktiv II - Futur II]]
+# [[Modus - Konjunktiv]] 2 - Futur II
 
-# [[Konjunktiv II - Plusquamperfekt]]
+# [[Modus - Konjunktiv]] 2 - Plusquamperfekt
 
-# [[Imperativ - Präsens]]
+# [[Modus - Imperativ]] - Präsens
 
-# [[Partizips - Präsens]]
+# [[Modus - Partizips]] - Präsens
 
-# [[Partizips - Perfekt]]
+# [[Modus - Partizips]] - Perfekt
 
 >>>>>>> 9ea0c9b (Added placeholder tense to existing verbs)

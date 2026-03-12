@@ -3,6 +3,14 @@ Links: [[Verben]] [[Verben]] [[Typ - Regular verben]]
 Meaning: to dig
 ___
 
+<<<<<<< HEAD
+=======
+Links: [[Verben]] [[Verben]] [[Typ - Regular verben]] 
+Meaning: To dig
+
+---
+
+>>>>>>> 81b7927 (Updated verbs modus links)
 # [[Modus - Indikativ]] - Präsens
 ich wühle
 du wühlst
@@ -20,10 +28,14 @@ ihr wühltet
 Sie wühlten
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 # [[Modus - Indikativ]] - Perfekt
 =======
 # [[Indikativ - Perfekt]]
 >>>>>>> 9ea0c9b (Added placeholder tense to existing verbs)
+=======
+# [[Modus - Indikativ]] - Perfekt
+>>>>>>> 81b7927 (Updated verbs modus links)
 ich habe gewühlt
 du hast gewühlt
 er/sie/es hat gewühlt
@@ -40,10 +52,14 @@ ihr hattet gewühlt
 Sie hatten gewühlt
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 # [[Modus - Indikativ]] - Futur I
 =======
 # [[Indikativ - Futur I]]
 >>>>>>> 9ea0c9b (Added placeholder tense to existing verbs)
+=======
+# [[Modus - Indikativ]] - Futur I
+>>>>>>> 81b7927 (Updated verbs modus links)
 ich werde wühlen
 du wirst wühlen
 er/sie/es wird wühlen
@@ -52,10 +68,14 @@ ihr werdet wühlen
 Sie werden wühlen
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 # [[Modus - Indikativ]] - Futur II
 =======
 # [[Indikativ - Futur II]]
 >>>>>>> 9ea0c9b (Added placeholder tense to existing verbs)
+=======
+# [[Modus - Indikativ]] - Futur II
+>>>>>>> 81b7927 (Updated verbs modus links)
 ich werde gewühlt haben
 du wirst gewühlt haben
 er/sie/es wird gewühlt haben
@@ -63,7 +83,11 @@ wir werden gewühlt haben
 ihr werdet gewühlt haben
 Sie werden gewühlt haben
 
+<<<<<<< HEAD
 # [[Modus - Konjunktiv]] 1 - Präsens
+=======
+# [[Modus - Konjunktiv]] 1 - Present
+>>>>>>> 81b7927 (Updated verbs modus links)
 ich wühle
 du wühlest
 er/sie/es wühle
@@ -72,6 +96,17 @@ ihr wühlet
 Sie wühlen
 
 # [[Modus - Konjunktiv]] 1 - Perfekt
+<<<<<<< HEAD
+=======
+ich werde wühlen
+du werdest wühlen
+er/sie/es werde wühlen
+wir werden wühlen
+ihr werdet wühlen
+Sie werden wühlen
+
+# [[Modus - Konjunktiv]] 1 - Futur I
+>>>>>>> 81b7927 (Updated verbs modus links)
 ich habe gewühlt
 du habest gewühlt
 er/sie/es habe gewühlt
@@ -79,6 +114,7 @@ wir haben gewühlt
 ihr habet gewühlt
 Sie haben gewühlt
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 # [[Modus - Konjunktiv]] 1 - Futur I
 ich werde wühlen
@@ -89,8 +125,11 @@ ihr werdet wühlen
 Sie werden wühlen
 =======
 # [[Konjunktiv I - Futur II]]
+=======
+# [[Modus - Konjunktiv]] 1 - Futur II
+>>>>>>> 81b7927 (Updated verbs modus links)
 
-# [[Konjunktiv II - Präteritum]]
+# [[Modus - Konjunktiv]] 2 - Präteritum
 ich wühlte
 du wühltest
 er/sie/es wühlte
@@ -99,7 +138,19 @@ ihr wühltet
 Sie wühlten
 >>>>>>> 9ea0c9b (Added placeholder tense to existing verbs)
 
+<<<<<<< HEAD
 # [[Modus - Konjunktiv]] 1 - Futur II
+=======
+# [[Modus - Konjunktiv]] 2 - Futur I
+ich würde wühlen
+du würdest wühlen
+er/sie/es würde wühlen
+wir würden wühlen
+ihr würdet wühlen
+Sie würden wühlen
+
+# [[Modus - Konjunktiv]] 2 - Futur II
+>>>>>>> 81b7927 (Updated verbs modus links)
 ich werde gewühlt haben
 du werdest gewühlt haben
 er/sie/es werde gewühlt haben
@@ -107,6 +158,7 @@ wir werden gewühlt haben
 ihr werdet gewühlt haben
 Sie werden gewühlt haben
 
+<<<<<<< HEAD
 # [[Modus - Konjunktiv]] 2 - Präteritum
 ich wühlte
 du wühltest
@@ -131,6 +183,8 @@ wir würden gewühlt haben
 ihr würdet gewühlt haben
 Sie würden gewühlt haben
 
+=======
+>>>>>>> 81b7927 (Updated verbs modus links)
 # [[Modus - Konjunktiv]] 2 - Plusquamperfekt
 ich hätte gewühlt
 du hättest gewühlt
@@ -149,9 +203,13 @@ wühlen Sie
 wühlend
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 # [[Modus - Partizips]] - Perfekt
 gewühlt
 =======
 # [[Partizips - Perfekt]]
+=======
+# [[Modus - Partizips]] - Perfekt
+>>>>>>> 81b7927 (Updated verbs modus links)
 gewühlt
 >>>>>>> 9ea0c9b (Added placeholder tense to existing verbs)

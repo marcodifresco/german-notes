@@ -2,6 +2,7 @@ ___
 Links: [[Verben]]
 Meaning:
 ___
+<<<<<<< HEAD
 
 # [[Modus - Indikativ]] - Präsens
 Ich habe
@@ -132,6 +133,31 @@ Form Conjugation
 Partizip II gehabt
 =======
 # [[Indikativ - Perfekt]]
+=======
+# [[Modus - Indikativ]] - Präsens
+Pronoun|Conjugation
+------------ | ------------
+Ich | habe
+Du | hast
+Er/Sie/Es | hat
+Wir | haben
+Ihr | habt
+Sie | haben
+
+
+# [[Modus - Indikativ]] - Präteritum
+Pronoun|Conjugation
+------------ | ------------
+Ich | hatte
+Du | hattest
+Er/Sie/Es | hatte
+Wir | hatten
+Ihr | hattet
+Sie | hatten
+
+
+# [[Modus - Indikativ]] - Perfekt
+>>>>>>> 81b7927 (Updated verbs modus links)
 Pronoun|Conjugation
 ------------ | ------------
 Ich | habe gehabt
@@ -140,32 +166,32 @@ Er/Sie/Es | hat gehabt
 Wir | haben gehabt
 Ihr | habt gehabt
 Sie | haben gehabt
-# [[Indikativ - Plusquamperfekt]]
+# [[Modus - Indikativ]] - Plusquamperfekt
 
-# [[Indikativ - Futur I]]
+# [[Modus - Indikativ]] - Futur I
 
-# [[Indikativ - Futur II]]
+# [[Modus - Indikativ]] - Futur II
 
-# [[Konjunktiv I - Present]]
+# [[Modus - Konjunktiv]] 1 - Present
 
-# [[Konjunktiv I - Perfekt]]
+# [[Modus - Konjunktiv]] 1 - Perfekt
 
-# [[Konjunktiv I - Futur I]]
+# [[Modus - Konjunktiv]] 1 - Futur I
 
-# [[Konjunktiv I - Futur II]]
+# [[Modus - Konjunktiv]] 1 - Futur II
 
-# [[Konjunktiv II - Präteritum]]
+# [[Modus - Konjunktiv]] 2 - Präteritum
 
-# [[Konjunktiv II - Futur I]]
+# [[Modus - Konjunktiv]] 2 - Futur I
 
-# [[Konjunktiv II - Futur II]]
+# [[Modus - Konjunktiv]] 2 - Futur II
 
-# [[Konjunktiv II - Plusquamperfekt]]
+# [[Modus - Konjunktiv]] 2 - Plusquamperfekt
 
-# [[Imperativ - Präsens]]
+# [[Modus - Imperativ]] - Präsens
 
-# [[Partizips - Präsens]]
+# [[Modus - Partizips]] - Präsens
 
-# [[Partizips - Perfekt]]
+# [[Modus - Partizips]] - Perfekt
 
 >>>>>>> 9ea0c9b (Added placeholder tense to existing verbs)

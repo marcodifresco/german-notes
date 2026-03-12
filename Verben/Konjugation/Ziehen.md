@@ -6,7 +6,10 @@ Meaning: to Pull
 Meaning: Pull
 >>>>>>> 42fa620 (Catch-all changes on 17 01 2023.)
 ___
+<<<<<<< HEAD
 
+=======
+>>>>>>> 81b7927 (Updated verbs modus links)
 # [[Modus - Indikativ]] - Präsens
 ich ziehe
 du ziehst
@@ -16,6 +19,9 @@ ihr zieht
 Sie ziehen
 
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 81b7927 (Updated verbs modus links)
 # [[Modus - Indikativ]] - Präteritum
 ich zog
 du zogst
@@ -25,10 +31,14 @@ ihr zogt
 Sie zogen
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 # [[Modus - Indikativ]] - Perfekt
 =======
 # [[Indikativ - Perfekt]]
 >>>>>>> 9ea0c9b (Added placeholder tense to existing verbs)
+=======
+# [[Modus - Indikativ]] - Perfekt
+>>>>>>> 81b7927 (Updated verbs modus links)
 ich bin gezogen
 du bist gezogen
 er/sie/es ist gezogen
@@ -45,10 +55,14 @@ ihr wart gezogen
 Sie waren gezogen
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 # [[Modus - Indikativ]] - Futur I
 =======
 # [[Indikativ - Futur I]]
 >>>>>>> 9ea0c9b (Added placeholder tense to existing verbs)
+=======
+# [[Modus - Indikativ]] - Futur I
+>>>>>>> 81b7927 (Updated verbs modus links)
 ich werde ziehen
 du wirst ziehen
 er/sie/es wird ziehen
@@ -57,10 +71,14 @@ ihr werdet ziehen
 Sie werden ziehen
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 # [[Modus - Indikativ]] - Futur II
 =======
 # [[Indikativ - Futur II]]
 >>>>>>> 9ea0c9b (Added placeholder tense to existing verbs)
+=======
+# [[Modus - Indikativ]] - Futur II
+>>>>>>> 81b7927 (Updated verbs modus links)
 ich werde gezogen sein
 du wirst gezogen sein
 er/sie/es wird gezogen sein
@@ -191,28 +209,32 @@ Forgive | [[Verziehen]]
 an ab hoch ein aus um -> [[Typ - Trennbare verben]]
 be ent ver er -> [[Typ - Regular verben]]
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> a45568a (Added notes from January 16th)
 =======
 # [[Konjunktiv I - Present]]
+=======
+# [[Modus - Konjunktiv]] 1 - Present
+>>>>>>> 81b7927 (Updated verbs modus links)
 
-# [[Konjunktiv I - Perfekt]]
+# [[Modus - Konjunktiv]] 1 - Perfekt
 
-# [[Konjunktiv I - Futur I]]
+# [[Modus - Konjunktiv]] 1 - Futur I
 
-# [[Konjunktiv I - Futur II]]
+# [[Modus - Konjunktiv]] 1 - Futur II
 
-# [[Konjunktiv II - Präteritum]]
+# [[Modus - Konjunktiv]] 2 - Präteritum
 
-# [[Konjunktiv II - Futur I]]
+# [[Modus - Konjunktiv]] 2 - Futur I
 
-# [[Konjunktiv II - Futur II]]
+# [[Modus - Konjunktiv]] 2 - Futur II
 
-# [[Konjunktiv II - Plusquamperfekt]]
+# [[Modus - Konjunktiv]] 2 - Plusquamperfekt
 
-# [[Imperativ - Präsens]]
+# [[Modus - Imperativ]] - Präsens
 
-# [[Partizips - Präsens]]
+# [[Modus - Partizips]] - Präsens
 
-# [[Partizips - Perfekt]]
+# [[Modus - Partizips]] - Perfekt
 
 >>>>>>> 9ea0c9b (Added placeholder tense to existing verbs)

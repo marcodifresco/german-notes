@@ -8,8 +8,12 @@ ___
 =======
 Meaning: Urge
 ___
+<<<<<<< HEAD
 # [[Indikativ - Präsens]]
 >>>>>>> a45568a (Added notes from January 16th)
+=======
+# [[Modus - Indikativ]] - Präsens
+>>>>>>> 81b7927 (Updated verbs modus links)
 ich dränge
 du drängst
 er/sie/es drängt
@@ -20,6 +24,9 @@ Sie drängen
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 81b7927 (Updated verbs modus links)
 # [[Modus - Indikativ]] - Präteritum
 ich drängte
 du drängtest
@@ -30,6 +37,7 @@ Sie drängten
 
 
 # [[Modus - Indikativ]] - Perfekt
+<<<<<<< HEAD
 ich habe gedrängt
 du hast gedrängt
 er/sie/es hat gedrängt
@@ -151,6 +159,8 @@ gedrängt
 =======
 
 # [[Indikativ - Perfekt]]
+=======
+>>>>>>> 81b7927 (Updated verbs modus links)
 ich habe gedrängt
 du hast gedrängt
 er/sie/es hat gedrängt
@@ -159,7 +169,7 @@ ihr habt gedrängt
 Sie haben gedrängt
 
 
-# [[Indikativ - Plusquamperfekt]]
+# [[Modus - Indikativ]] - Plusquamperfekt
 ich hatte gedrängt
 du hattest gedrängt
 er/sie/es hatte gedrängt
@@ -168,7 +178,7 @@ ihr hattet gedrängt
 Sie hatten gedrängt
 
 
-# [[Indikativ - Futur I]]
+# [[Modus - Indikativ]] - Futur I
 ich werde drängen
 du wirst drängen
 er/sie/es wird drängen
@@ -177,7 +187,7 @@ ihr werdet drängen
 Sie werden drängen
 
 
-# [[Indikativ - Futur II]]
+# [[Modus - Indikativ]] - Futur II
 ich werde gedrängt haben
 du wirst gedrängt haben
 er/sie/es wird gedrängt haben
@@ -185,28 +195,32 @@ wir werden gedrängt haben
 ihr werdet gedrängt haben
 Sie werden gedrängt haben
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> a45568a (Added notes from January 16th)
 =======
 # [[Konjunktiv I - Present]]
+=======
+# [[Modus - Konjunktiv]] 1 - Present
+>>>>>>> 81b7927 (Updated verbs modus links)
 
-# [[Konjunktiv I - Perfekt]]
+# [[Modus - Konjunktiv]] 1 - Perfekt
 
-# [[Konjunktiv I - Futur I]]
+# [[Modus - Konjunktiv]] 1 - Futur I
 
-# [[Konjunktiv I - Futur II]]
+# [[Modus - Konjunktiv]] 1 - Futur II
 
-# [[Konjunktiv II - Präteritum]]
+# [[Modus - Konjunktiv]] 2 - Präteritum
 
-# [[Konjunktiv II - Futur I]]
+# [[Modus - Konjunktiv]] 2 - Futur I
 
-# [[Konjunktiv II - Futur II]]
+# [[Modus - Konjunktiv]] 2 - Futur II
 
-# [[Konjunktiv II - Plusquamperfekt]]
+# [[Modus - Konjunktiv]] 2 - Plusquamperfekt
 
-# [[Imperativ - Präsens]]
+# [[Modus - Imperativ]] - Präsens
 
-# [[Partizips - Präsens]]
+# [[Modus - Partizips]] - Präsens
 
-# [[Partizips - Perfekt]]
+# [[Modus - Partizips]] - Perfekt
 
 >>>>>>> 9ea0c9b (Added placeholder tense to existing verbs)

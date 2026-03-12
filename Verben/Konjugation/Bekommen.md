@@ -2,6 +2,7 @@ ___
 Links: [[Verben]]
 Meaning:
 ___
+<<<<<<< HEAD
 
 # [[Modus - Indikativ]] - Präsens
 Ich bekomme
@@ -140,35 +141,49 @@ bekommend
 bekommen
 =======
 # [[Indikativ - Präteritum]]
+=======
+# [[Modus - Indikativ]] - Präsens
+Pronoun|Conjugation
+------------ | ------------
+Ich | bekomme
+Du | bekommst
+Er/Sie/Es | bekommt
+Wir | bekommen
+Ihr | bekommt
+Sie | bekommen
 
-# [[Indikativ - Perfekt]]
+
+# [[Modus - Indikativ]] - Präteritum
+>>>>>>> 81b7927 (Updated verbs modus links)
+
+# [[Modus - Indikativ]] - Perfekt
 [[Pronomen]] + [[Haben]] + bekommen
-# [[Indikativ - Plusquamperfekt]]
+# [[Modus - Indikativ]] - Plusquamperfekt
 
-# [[Indikativ - Futur I]]
+# [[Modus - Indikativ]] - Futur I
 
-# [[Indikativ - Futur II]]
+# [[Modus - Indikativ]] - Futur II
 
-# [[Konjunktiv I - Present]]
+# [[Modus - Konjunktiv]] 1 - Present
 
-# [[Konjunktiv I - Perfekt]]
+# [[Modus - Konjunktiv]] 1 - Perfekt
 
-# [[Konjunktiv I - Futur I]]
+# [[Modus - Konjunktiv]] 1 - Futur I
 
-# [[Konjunktiv I - Futur II]]
+# [[Modus - Konjunktiv]] 1 - Futur II
 
-# [[Konjunktiv II - Präteritum]]
+# [[Modus - Konjunktiv]] 2 - Präteritum
 
-# [[Konjunktiv II - Futur I]]
+# [[Modus - Konjunktiv]] 2 - Futur I
 
-# [[Konjunktiv II - Futur II]]
+# [[Modus - Konjunktiv]] 2 - Futur II
 
-# [[Konjunktiv II - Plusquamperfekt]]
+# [[Modus - Konjunktiv]] 2 - Plusquamperfekt
 
-# [[Imperativ - Präsens]]
+# [[Modus - Imperativ]] - Präsens
 
-# [[Partizips - Präsens]]
+# [[Modus - Partizips]] - Präsens
 
-# [[Partizips - Perfekt]]
+# [[Modus - Partizips]] - Perfekt
 
 >>>>>>> 9ea0c9b (Added placeholder tense to existing verbs)

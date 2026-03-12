@@ -7,8 +7,20 @@ Tags: #Languages/German/Grammar/Verbs/Regular
 Links: [[Verben]] [[Typ - Reflexive Verben]]
 >>>>>>> ac65051 (Added notes from August 28th)
 ___
+<<<<<<< HEAD
 # Uses
 Sich [[Ärgern]] über: Ich ärgere mich über die Nachbarn
+=======
+# [[Modus - Indikativ]] - Präsens
+Pronoun|Conjugation
+------------ | ------------
+Ich | ärgere
+Du | ärgerst
+Er/Sie/Es | ärgert
+Wir | ärgern
+Ihr | ärgert
+Sie | ärgern
+>>>>>>> 81b7927 (Updated verbs modus links)
 
 # [[Modus - Indikativ]] - Präsens
 Ich ärgere
@@ -18,6 +30,7 @@ Wir ärgern
 Ihr ärgert
 Sie ärgern
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 # [[Modus - Indikativ]] - Präteritum
@@ -142,39 +155,48 @@ geärgert
 
 >>>>>>> 9ea0c9b (Added placeholder tense to existing verbs)
 # [[Indikativ - Perfekt]]
+=======
+# [[Modus - Indikativ]] - Präteritum
+
+# [[Modus - Indikativ]] - Perfekt
+>>>>>>> 81b7927 (Updated verbs modus links)
 [[Pronomen]] + [[Haben]] + geärgert
 
 # Uses
 Sich [[Ärgern]] über: Ich ärgere mich über die Nachbarn
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> 7831a69 (Added notes from January 11th)
 =======
 # [[Indikativ - Plusquamperfekt]]
+=======
+# [[Modus - Indikativ]] - Plusquamperfekt
+>>>>>>> 81b7927 (Updated verbs modus links)
 
-# [[Indikativ - Futur I]]
+# [[Modus - Indikativ]] - Futur I
 
-# [[Indikativ - Futur II]]
+# [[Modus - Indikativ]] - Futur II
 
-# [[Konjunktiv I - Present]]
+# [[Modus - Konjunktiv]] 1 - Present
 
-# [[Konjunktiv I - Perfekt]]
+# [[Modus - Konjunktiv]] 1 - Perfekt
 
-# [[Konjunktiv I - Futur I]]
+# [[Modus - Konjunktiv]] 1 - Futur I
 
-# [[Konjunktiv I - Futur II]]
+# [[Modus - Konjunktiv]] 1 - Futur II
 
-# [[Konjunktiv II - Präteritum]]
+# [[Modus - Konjunktiv]] 2 - Präteritum
 
-# [[Konjunktiv II - Futur I]]
+# [[Modus - Konjunktiv]] 2 - Futur I
 
-# [[Konjunktiv II - Futur II]]
+# [[Modus - Konjunktiv]] 2 - Futur II
 
-# [[Konjunktiv II - Plusquamperfekt]]
+# [[Modus - Konjunktiv]] 2 - Plusquamperfekt
 
-# [[Imperativ - Präsens]]
+# [[Modus - Imperativ]] - Präsens
 
-# [[Partizips - Präsens]]
+# [[Modus - Partizips]] - Präsens
 
-# [[Partizips - Perfekt]]
+# [[Modus - Partizips]] - Perfekt
 
 >>>>>>> 9ea0c9b (Added placeholder tense to existing verbs)

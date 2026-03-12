@@ -7,6 +7,7 @@ Tags: #Languages/German/Grammar/Verbs/Irregular
 Links: [[Verben]] [[Typ - Reflexive Verben]]
 >>>>>>> 9594d25 (Catch-all changes on 15 09 2022.)
 ___
+<<<<<<< HEAD
 
 # [[Modus - Indikativ]] - Präsens
 Ich ziehe um
@@ -27,8 +28,22 @@ Ihr zogt um
 Sie zogen um
 =======
 # [[Indikativ - Präteritum]]
+=======
+# [[Modus - Indikativ]] - Präsens
+Pronoun|Conjugation
+------------ | ------------
+Ich | ziehe um
+Du | ziehst um
+Er/Sie/Es | zieht um
+Wir | ziehen um
+Ihr | zieht um
+Sie | haben um
 
-# [[Indikativ - Perfekt]]
+
+# [[Modus - Indikativ]] - Präteritum
+>>>>>>> 81b7927 (Updated verbs modus links)
+
+# [[Modus - Indikativ]] - Perfekt
 [[Pronomen]] + [[Haben]] + umzogen
 >>>>>>> 9ea0c9b (Added placeholder tense to existing verbs)
 
@@ -46,6 +61,7 @@ Note: For the meaning 'to move (house)', the auxiliary verb 'sein' is used (e.g.
 
 # Examples
 Change dress: Sich um|ziehen --> gehen nach Hause uns [[Umziehen|umzuziehen]]
+<<<<<<< HEAD
 <<<<<<< HEAD
 # [[Modus - Indikativ]] - Plusquamperfekt
 *Meaning 'to change clothes' (with 'haben'):**
@@ -214,31 +230,34 @@ umziehend
 umgezogen
 =======
 # [[Indikativ - Plusquamperfekt]]
+=======
+# [[Modus - Indikativ]] - Plusquamperfekt
+>>>>>>> 81b7927 (Updated verbs modus links)
 
-# [[Indikativ - Futur I]]
+# [[Modus - Indikativ]] - Futur I
 
-# [[Indikativ - Futur II]]
+# [[Modus - Indikativ]] - Futur II
 
-# [[Konjunktiv I - Present]]
+# [[Modus - Konjunktiv]] 1 - Present
 
-# [[Konjunktiv I - Perfekt]]
+# [[Modus - Konjunktiv]] 1 - Perfekt
 
-# [[Konjunktiv I - Futur I]]
+# [[Modus - Konjunktiv]] 1 - Futur I
 
-# [[Konjunktiv I - Futur II]]
+# [[Modus - Konjunktiv]] 1 - Futur II
 
-# [[Konjunktiv II - Präteritum]]
+# [[Modus - Konjunktiv]] 2 - Präteritum
 
-# [[Konjunktiv II - Futur I]]
+# [[Modus - Konjunktiv]] 2 - Futur I
 
-# [[Konjunktiv II - Futur II]]
+# [[Modus - Konjunktiv]] 2 - Futur II
 
-# [[Konjunktiv II - Plusquamperfekt]]
+# [[Modus - Konjunktiv]] 2 - Plusquamperfekt
 
-# [[Imperativ - Präsens]]
+# [[Modus - Imperativ]] - Präsens
 
-# [[Partizips - Präsens]]
+# [[Modus - Partizips]] - Präsens
 
-# [[Partizips - Perfekt]]
+# [[Modus - Partizips]] - Perfekt
 
 >>>>>>> 9ea0c9b (Added placeholder tense to existing verbs)

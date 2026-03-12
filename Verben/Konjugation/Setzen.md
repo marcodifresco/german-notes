@@ -133,7 +133,7 @@ Partizip II gesetzt
 Tags: #Languages/German/Grammar/Verbs/Regular 
 Links: [[Verben]] [[Typ - Reflexive Verben]]
 ___
-# [[Indikativ - Präsens]]
+# [[Modus - Indikativ]] - Präsens
 Pronoun|Conjugation
 ------------ | ------------
 Ich | setze
@@ -144,39 +144,43 @@ Ihr | setzt
 Sie | setzen
 
 
-# [[Indikativ - Präteritum]]
+# [[Modus - Indikativ]] - Präteritum
 
-# [[Indikativ - Perfekt]]
+# [[Modus - Indikativ]] - Perfekt
 [[Pronomen]] + [[Haben]] + gesetzt
+<<<<<<< HEAD
 <<<<<<< HEAD
 >>>>>>> 72e1711 (Added notes from September 14th)
 =======
 # [[Indikativ - Plusquamperfekt]]
+=======
+# [[Modus - Indikativ]] - Plusquamperfekt
+>>>>>>> 81b7927 (Updated verbs modus links)
 
-# [[Indikativ - Futur I]]
+# [[Modus - Indikativ]] - Futur I
 
-# [[Indikativ - Futur II]]
+# [[Modus - Indikativ]] - Futur II
 
-# [[Konjunktiv I - Present]]
+# [[Modus - Konjunktiv]] 1 - Present
 
-# [[Konjunktiv I - Perfekt]]
+# [[Modus - Konjunktiv]] 1 - Perfekt
 
-# [[Konjunktiv I - Futur I]]
+# [[Modus - Konjunktiv]] 1 - Futur I
 
-# [[Konjunktiv I - Futur II]]
+# [[Modus - Konjunktiv]] 1 - Futur II
 
-# [[Konjunktiv II - Präteritum]]
+# [[Modus - Konjunktiv]] 2 - Präteritum
 
-# [[Konjunktiv II - Futur I]]
+# [[Modus - Konjunktiv]] 2 - Futur I
 
-# [[Konjunktiv II - Futur II]]
+# [[Modus - Konjunktiv]] 2 - Futur II
 
-# [[Konjunktiv II - Plusquamperfekt]]
+# [[Modus - Konjunktiv]] 2 - Plusquamperfekt
 
-# [[Imperativ - Präsens]]
+# [[Modus - Imperativ]] - Präsens
 
-# [[Partizips - Präsens]]
+# [[Modus - Partizips]] - Präsens
 
-# [[Partizips - Perfekt]]
+# [[Modus - Partizips]] - Perfekt
 
 >>>>>>> 9ea0c9b (Added placeholder tense to existing verbs)

@@ -12,8 +12,12 @@ ___
 Links: [[Verben]] [[Typ - Regular verben]]
 Meaning: Dress / Put on
 ___
+<<<<<<< HEAD
 # [[Indikativ - Präsens]]
 >>>>>>> 7831a69 (Added notes from January 11th)
+=======
+# [[Modus - Indikativ]] - Präsens
+>>>>>>> 81b7927 (Updated verbs modus links)
 ich ziehe an
 du ziehst an
 er/sie/es zieht an
@@ -22,6 +26,9 @@ ihr zieht an
 Sie ziehen an
 
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 81b7927 (Updated verbs modus links)
 # [[Modus - Indikativ]] - Präteritum
 ich zog an
 du zogst an
@@ -31,10 +38,14 @@ ihr zogt an
 Sie zogen an
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 # [[Modus - Indikativ]] - Perfekt
 =======
 # [[Indikativ - Perfekt]]
 >>>>>>> 9ea0c9b (Added placeholder tense to existing verbs)
+=======
+# [[Modus - Indikativ]] - Perfekt
+>>>>>>> 81b7927 (Updated verbs modus links)
 ich bin angezogen
 du bist angezogen
 er/sie/es ist angezogen
@@ -51,10 +62,14 @@ ihr wart angezogen
 Sie waren angezogen
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 # [[Modus - Indikativ]] - Futur I
 =======
 # [[Indikativ - Futur I]]
 >>>>>>> 9ea0c9b (Added placeholder tense to existing verbs)
+=======
+# [[Modus - Indikativ]] - Futur I
+>>>>>>> 81b7927 (Updated verbs modus links)
 ich werde anziehen
 du wirst anziehen
 er/sie/es wird anziehen
@@ -63,10 +78,14 @@ ihr werdet anziehen
 Sie werden anziehen
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 # [[Modus - Indikativ]] - Futur II
 =======
 # [[Indikativ - Futur II]]
 >>>>>>> 9ea0c9b (Added placeholder tense to existing verbs)
+=======
+# [[Modus - Indikativ]] - Futur II
+>>>>>>> 81b7927 (Updated verbs modus links)
 ich werde angezogen sein
 du wirst angezogen sein
 er/sie/es wird angezogen sein
@@ -162,26 +181,26 @@ angezogen
 English |German
 ------------ | ------------
 Pull | [[Ziehen]]
-# [[Konjunktiv I - Present]]
+# [[Modus - Konjunktiv]] 1 - Present
 
-# [[Konjunktiv I - Perfekt]]
+# [[Modus - Konjunktiv]] 1 - Perfekt
 
-# [[Konjunktiv I - Futur I]]
+# [[Modus - Konjunktiv]] 1 - Futur I
 
-# [[Konjunktiv I - Futur II]]
+# [[Modus - Konjunktiv]] 1 - Futur II
 
-# [[Konjunktiv II - Präteritum]]
+# [[Modus - Konjunktiv]] 2 - Präteritum
 
-# [[Konjunktiv II - Futur I]]
+# [[Modus - Konjunktiv]] 2 - Futur I
 
-# [[Konjunktiv II - Futur II]]
+# [[Modus - Konjunktiv]] 2 - Futur II
 
-# [[Konjunktiv II - Plusquamperfekt]]
+# [[Modus - Konjunktiv]] 2 - Plusquamperfekt
 
-# [[Imperativ - Präsens]]
+# [[Modus - Imperativ]] - Präsens
 
-# [[Partizips - Präsens]]
+# [[Modus - Partizips]] - Präsens
 
-# [[Partizips - Perfekt]]
+# [[Modus - Partizips]] - Perfekt
 
 >>>>>>> 9ea0c9b (Added placeholder tense to existing verbs)

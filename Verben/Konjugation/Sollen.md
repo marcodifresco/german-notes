@@ -144,7 +144,7 @@ Meaning: Should
 
 ---
 
-# [[Indikativ - Präsens]]
+# [[Modus - Indikativ]] - Präsens
 Ich soll
 Du sollst
 Er/sie/es soll
@@ -152,34 +152,34 @@ Wir sollen
 Ihr sollt
 Sie sollen
 
-# [[Indikativ - Präteritum]]
+# [[Modus - Indikativ]] - Präteritum
 
 
-# [[Indikativ - Perfekt]]
+# [[Modus - Indikativ]] - Perfekt
 
 
-# [[Indikativ - Plusquamperfekt]]
+# [[Modus - Indikativ]] - Plusquamperfekt
 
 
-# [[Indikativ - Futur I]]
+# [[Modus - Indikativ]] - Futur I
 
 
-# [[Indikativ - Futur II]]
+# [[Modus - Indikativ]] - Futur II
 
 
-# [[Konjunktiv I - Present]]
+# [[Modus - Konjunktiv]] 1 - Present
 
 
-# [[Konjunktiv I - Perfekt]]
+# [[Modus - Konjunktiv]] 1 - Perfekt
 
 
-# [[Konjunktiv I - Futur I]]
+# [[Modus - Konjunktiv]] 1 - Futur I
 
 
-# [[Konjunktiv I - Futur II]]
+# [[Modus - Konjunktiv]] 1 - Futur II
 
 
-# [[Konjunktiv II - Präteritum]]
+# [[Modus - Konjunktiv]] 2 - Präteritum
 Ich sollte
 Du solltest
 Er/sie/es sollte
@@ -187,22 +187,22 @@ Wir sollten
 Ihr solltet
 Sie sollten
 
-# [[Konjunktiv II - Futur I]]
+# [[Modus - Konjunktiv]] 2 - Futur I
 
 
-# [[Konjunktiv II - Futur II]]
+# [[Modus - Konjunktiv]] 2 - Futur II
 
 
-# [[Konjunktiv II - Plusquamperfekt]]
+# [[Modus - Konjunktiv]] 2 - Plusquamperfekt
 
 
-# [[Imperativ - Präsens]]
+# [[Modus - Imperativ]] - Präsens
 
 
-# [[Partizips - Präsens]]
+# [[Modus - Partizips]] - Präsens
 
 
-# [[Partizips - Perfekt]]
+# [[Modus - Partizips]] - Perfekt
 
 
 
@@ -219,9 +219,13 @@ Tags: #Languages/German/Grammar/Verbs/Irregular
 Links: [[Verben]]
 ___
 <<<<<<< HEAD
+<<<<<<< HEAD
 # [[Modus - Indikativ]] - Präsens
 =======
 # [[Indikativ - Präsens]]
+=======
+# [[Modus - Indikativ]] - Präsens
+>>>>>>> 81b7927 (Updated verbs modus links)
 | Pronoun   | Conjugation |
 | --------- | ----------- |
 >>>>>>> 3a72509 (Catch-all changes on 05 09 2024.)
@@ -233,6 +237,7 @@ ___
 | Sie       | sollen      |
 
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -265,6 +270,9 @@ Sie | sollten
 
 # [[Modus - Indikativ]] - Perfekt
 =======
+=======
+# [[Modus - Konjunktiv]] 2 - Präteritum
+>>>>>>> 81b7927 (Updated verbs modus links)
 | Pronoun   | Conjugation |
 | --------- | ----------- |
 | Ich       | sollte      |
@@ -275,8 +283,12 @@ Sie | sollten
 | Sie       | sollten     |
 
 
+<<<<<<< HEAD
 # [[Indikativ - Perfekt]]
 >>>>>>> 3a72509 (Catch-all changes on 05 09 2024.)
+=======
+# [[Modus - Indikativ]] - Perfekt
+>>>>>>> 81b7927 (Updated verbs modus links)
 [[Pronomen]] + [[Haben]]  gesollt
 
 # Examples
