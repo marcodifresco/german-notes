@@ -1,6 +1,6 @@
 ___
-Links: [[Verben]]
-Meaning:
+Links: [[Verben]] [[Typ - Regular verben]]
+Meaning: change/alter
 ___
 
 # [[Modus - Indikativ]] - Präsens
@@ -10,7 +10,6 @@ Er/Sie/Es ändert
 Wir ändern
 Ihr ändert
 Sie ändern
-
 
 # [[Modus - Indikativ]] - Präteritum
 Ich änderte
