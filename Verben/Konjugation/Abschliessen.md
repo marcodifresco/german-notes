@@ -1,6 +1,6 @@
 ___
-Tags: #Languages/German/Grammar/Verbs/Irregular  
-Links: [[Verben]] [[Typ - Trennbare verben]]
+Links: [[Verben]] [[Typ - Irregular verben]] [[Typ - Trennbare verben]]
+Meaning: Complete
 ___
 # [[Modus - Indikativ]] - Präsens
 ich schliesse ab
@@ -9,7 +9,6 @@ er/sie/es schliesst ab
 wir schliessen ab
 ihr schliesst ab
 Sie schliessen ab
-
 
 # [[Modus - Indikativ]] - Präteritum
 ich schloss ab
