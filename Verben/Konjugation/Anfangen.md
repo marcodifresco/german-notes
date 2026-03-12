@@ -20,7 +20,6 @@ Ihr fingt an
 Sie fingen an
 
 # [[Modus - Indikativ]] - Perfekt
-[[Pronomen]] + [[Haben]] + angefangen
 Ich habe angefangen
 Du hast angefangen
 Er/Sie/Es hat angefangen
