@@ -1,7 +1,11 @@
 ___
-Links: [[Verben]] [[Typ - Trennbare verben]]
-Meaning:
+Links: [[Verben]] [[Typ - Irregular verben]] [[Typ - Trennbare verben]]
+Meaning: to look at/watch
 ___
+
+# Rules
+For viewing specific things.
+EX: Ich sehe mir heute einen Film / eine Serie / ein Spiel an*
 
 # [[Modus - Indikativ]] - Präsens
 Ich sehe an
@@ -10,7 +14,6 @@ Er/Sie/Es sieht an
 Wir sehen an
 Ihr seht an
 Sie sehen an
-
 
 # [[Modus - Indikativ]] - Präteritum
 Ich sah an
@@ -29,9 +32,6 @@ Wir haben angesehen
 Ihr habt angesehen
 Sie haben angesehen
 
-# Rules
-For viewing specific things.
-EX: Ich sehe mir heute einen Film / eine Serie / ein Spiel an*
 # [[Modus - Indikativ]] - Plusquamperfekt
 Ich hatte angesehen
 Du hattest angesehen
@@ -56,7 +56,7 @@ Wir werden angesehen haben
 Ihr werdet angesehen haben
 Sie werden angesehen haben
 
-# [[Modus - Konjunktiv]] 1 - Present
+# [[Modus - Konjunktiv]] 1 - Präsens
 Ich sehe an
 Du sehest an
 Er/Sie/Es sehe an
