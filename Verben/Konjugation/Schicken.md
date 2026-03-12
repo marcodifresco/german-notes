@@ -1,5 +1,6 @@
 ___
 <<<<<<< HEAD
+<<<<<<< HEAD
 Links: [[Verben]]
 Meaning:
 ___
@@ -131,20 +132,23 @@ schickend
 geschickt
 =======
 Tags: #Languages/German/Grammar/Verbs/Regular  
+=======
+>>>>>>> 5ee0bb7 (Other batch formatting on verbs conjugations)
 Links: [[Verben]]
+Meaning:
 ___
+
 # [[Modus - Indikativ]] - Präsens
-Pronoun|Conjugation
------------- | ------------
-Ich | schicke
-Du | schickst
-Er/Sie/Es | schickt
-Wir | schicken
-Ihr | schickt
-Sie | schicken
+Ich schicke
+Du schickst
+Er/Sie/Es schickt
+Wir schicken
+Ihr schickt
+Sie schicken
 
 
 # [[Modus - Indikativ]] - Präteritum
+<<<<<<< HEAD
 
 # [[Modus - Indikativ]] - Perfekt
 [[Pronomen]] + [[Haben]] + geschickt
@@ -176,6 +180,111 @@ Sie | schicken
 # [[Modus - Konjunktiv]] 2 - Futur II
 
 # [[Modus - Konjunktiv]] 2 - Plusquamperfekt
+=======
+Ich schickte
+Du schicktest
+Er/Sie/Es schickte
+Wir schickten
+Ihr schicktet
+Sie schickten
+
+# [[Modus - Indikativ]] - Perfekt
+[[Pronomen]] + [[Haben]] + geschickt
+Ich habe geschickt
+Du hast geschickt
+Er/Sie/Es hat geschickt
+Wir haben geschickt
+Ihr habt geschickt
+Sie haben geschickt
+
+# [[Modus - Indikativ]] - Plusquamperfekt
+Ich hatte geschickt
+Du hattest geschickt
+Er/Sie/Es hatte geschickt
+Wir hatten geschickt
+Ihr hattet geschickt
+Sie hatten geschickt
+
+# [[Modus - Indikativ]] - Futur I
+Ich werde schicken
+Du wirst schicken
+Er/Sie/Es wird schicken
+Wir werden schicken
+Ihr werdet schicken
+Sie werden schicken
+
+# [[Modus - Indikativ]] - Futur II
+Ich werde geschickt haben
+Du wirst geschickt haben
+Er/Sie/Es wird geschickt haben
+Wir werden geschickt haben
+Ihr werdet geschickt haben
+Sie werden geschickt haben
+
+# [[Modus - Konjunktiv]] 1 - Present
+Ich schicke
+Du schickest
+Er/Sie/Es schicke
+Wir schicken
+Ihr schicket
+Sie schicken
+
+# [[Modus - Konjunktiv]] 1 - Perfekt
+Ich habe geschickt
+Du habest geschickt
+Er/Sie/Es habe geschickt
+Wir haben geschickt
+Ihr habet geschickt
+Sie haben geschickt
+
+# [[Modus - Konjunktiv]] 1 - Futur I
+Ich werde schicken
+Du werdest schicken
+Er/Sie/Es werde schicken
+Wir werden schicken
+Ihr werdet schicken
+Sie werden schicken
+
+# [[Modus - Konjunktiv]] 1 - Futur II
+Ich werde geschickt haben
+Du werdest geschickt haben
+Er/Sie/Es werde geschickt haben
+Wir werden geschickt haben
+Ihr werdet geschickt haben
+Sie werden geschickt haben
+
+# [[Modus - Konjunktiv]] 2 - Präteritum
+Ich schickte
+Du schicktest
+Er/Sie/Es schickte
+Wir schickten
+Ihr schicktet
+Sie schickten
+
+# [[Modus - Konjunktiv]] 2 - Futur I
+Ich würde schicken
+Du würdest schicken
+Er/Sie/Es würde schicken
+Wir würden schicken
+Ihr würdet schicken
+Sie würden schicken
+
+# [[Modus - Konjunktiv]] 2 - Futur II
+Ich würde geschickt haben
+Du würdest geschickt haben
+Er/Sie/Es würde geschickt haben
+Wir würden geschickt haben
+Ihr würdet geschickt haben
+Sie würden geschickt haben
+
+# [[Modus - Konjunktiv]] 2 - Plusquamperfekt
+Ich hätte geschickt
+Du hättest geschickt
+Er/Sie/Es hätte geschickt
+Wir hätten geschickt
+Ihr hättet geschickt
+Sie hätten geschickt
+>>>>>>> 5ee0bb7 (Other batch formatting on verbs conjugations)
 
 # [[Modus - Imperativ]] - Präsens
 

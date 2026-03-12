@@ -1,4 +1,5 @@
 ___
+<<<<<<< HEAD
 Links: [[Verben]] [[Typ - Irregular verben]] [[Typ - Trennbare verben]]
 Meaning: to offer
 ___
@@ -14,6 +15,19 @@ Wir | bieten an
 Ihr | bietet an
 Sie | bieten an
 >>>>>>> 81b7927 (Updated verbs modus links)
+=======
+Links: [[Verben]]
+Meaning:
+___
+
+# [[Modus - Indikativ]] - Präsens
+Ich biete an
+Du bietest an
+Er/Sie/Es bietet an
+Wir bieten an
+Ihr bietet an
+Sie bieten an
+>>>>>>> 5ee0bb7 (Other batch formatting on verbs conjugations)
 
 # [[Modus - Indikativ]] - Präsens
 Ich biete an
@@ -66,7 +80,11 @@ Wir werden angeboten haben
 Ihr werdet angeboten haben
 Sie werden angeboten haben
 
+<<<<<<< HEAD
 # [[Modus - Konjunktiv]] 1 - Präsens
+=======
+# [[Modus - Konjunktiv]] 1 - Present
+>>>>>>> 5ee0bb7 (Other batch formatting on verbs conjugations)
 Ich biete an
 Du bietest an
 Er/Sie/Es biete an

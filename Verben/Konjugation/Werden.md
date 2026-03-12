@@ -1,6 +1,7 @@
 
 ___
 <<<<<<< HEAD
+<<<<<<< HEAD
 Links: [[Verben]] [[Typ - Regular verben]] 
 Meaning: to Become
 ___
@@ -14,11 +15,14 @@ Ihr werdet
 Sie werden
 =======
 
+=======
+>>>>>>> 5ee0bb7 (Other batch formatting on verbs conjugations)
 Links: [[Verben]] [[Typ - Regular verben]] 
 Meaning: Become
+___
 
----
 # [[Modus - Indikativ]] - Präsens
+<<<<<<< HEAD
 Pronoun|Conjugation
 ------------ | ------------
 Ich | werde
@@ -28,6 +32,14 @@ Wir | werden
 Ihr | wedet
 Sie | werden
 >>>>>>> adb912f (Intergrated notes from 2023-05-15 lesson)
+=======
+Ich werde
+Du wirst
+Er/Sie/Es wird
+Wir werden
+Ihr werdet
+Sie werden
+>>>>>>> 5ee0bb7 (Other batch formatting on verbs conjugations)
 
 
 <<<<<<< HEAD
@@ -73,7 +85,11 @@ Wir werden geworden sein
 Ihr werdet geworden sein
 Sie werden geworden sein
 
+<<<<<<< HEAD
 # [[Modus - Konjunktiv]] 1 - Präsens
+=======
+# [[Modus - Konjunktiv]] 1 - Present
+>>>>>>> 5ee0bb7 (Other batch formatting on verbs conjugations)
 Ich werde
 Du werdest
 Er/Sie/Es werde

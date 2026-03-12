@@ -4,6 +4,9 @@ Meaning:
 ___
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 5ee0bb7 (Other batch formatting on verbs conjugations)
 
 # [[Modus - Indikativ]] - Präsens
 =======

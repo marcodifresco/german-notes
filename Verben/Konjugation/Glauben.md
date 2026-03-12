@@ -3,6 +3,7 @@ Links: [[Verben]]
 Meaning:
 ___
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 # [[Modus - Indikativ]] - Präsens
 Pronoun|Conjugation
@@ -14,6 +15,16 @@ Wir | glauben
 Ihr | glaubt
 Sie | glauben
 >>>>>>> 81b7927 (Updated verbs modus links)
+=======
+
+# [[Modus - Indikativ]] - Präsens
+Ich glaube
+Du glaubst
+Er/Sie/Es glaubt
+Wir glauben
+Ihr glaubt
+Sie glauben
+>>>>>>> 5ee0bb7 (Other batch formatting on verbs conjugations)
 
 # [[Modus - Indikativ]] - Präsens
 Ich glaube
@@ -66,7 +77,11 @@ Wir werden geglaubt haben
 Ihr werdet geglaubt haben
 Sie werden geglaubt haben
 
+<<<<<<< HEAD
 # [[Modus - Konjunktiv]] 1 - Präsens
+=======
+# [[Modus - Konjunktiv]] 1 - Present
+>>>>>>> 5ee0bb7 (Other batch formatting on verbs conjugations)
 Ich glaube
 Du glaubest
 Er/Sie/Es glaube

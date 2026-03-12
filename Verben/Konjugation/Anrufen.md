@@ -1,4 +1,5 @@
 ___
+<<<<<<< HEAD
 Links: [[Verben]] [[Typ - Irregular verben]] [[Typ - Trennbare verben]]
 Meaning: to call
 ___
@@ -14,6 +15,19 @@ Wir | haben
 Ihr | habt
 Sie | haben
 >>>>>>> 81b7927 (Updated verbs modus links)
+=======
+Links: [[Verben]]
+Meaning:
+___
+
+# [[Modus - Indikativ]] - Präsens
+Ich rufe an
+Du rufst an
+Er/Sie/Es ruft an
+Wir rufen an
+Ihr ruft an
+Sie rufen an
+>>>>>>> 5ee0bb7 (Other batch formatting on verbs conjugations)
 
 # [[Modus - Indikativ]] - Präsens
 Ich rufe an
@@ -66,7 +80,11 @@ Wir werden angerufen haben
 Ihr werdet angerufen haben
 Sie werden angerufen haben
 
+<<<<<<< HEAD
 # [[Modus - Konjunktiv]] 1 - Präsens
+=======
+# [[Modus - Konjunktiv]] 1 - Present
+>>>>>>> 5ee0bb7 (Other batch formatting on verbs conjugations)
 Ich rufe an
 Du rufest an
 Er/Sie/Es rufe an

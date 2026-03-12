@@ -3,6 +3,7 @@ Links: [[Verben]]
 Meaning:
 ___
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 # [[Modus - Indikativ]] - Präsens
 Pronoun|Conjugation
@@ -14,6 +15,16 @@ Wir | mieten
 Ihr | mietet
 Sie | mieten
 >>>>>>> 81b7927 (Updated verbs modus links)
+=======
+
+# [[Modus - Indikativ]] - Präsens
+Ich miete
+Du mietest
+Er/Sie/Es mietet
+Wir mieten
+Ihr mietet
+Sie mieten
+>>>>>>> 5ee0bb7 (Other batch formatting on verbs conjugations)
 
 # [[Modus - Indikativ]] - Präsens
 Ich miete
@@ -66,7 +77,11 @@ Wir werden gemietet haben
 Ihr werdet gemietet haben
 Sie werden gemietet haben
 
+<<<<<<< HEAD
 # [[Modus - Konjunktiv]] 1 - Präsens
+=======
+# [[Modus - Konjunktiv]] 1 - Present
+>>>>>>> 5ee0bb7 (Other batch formatting on verbs conjugations)
 Ich miete
 Du mietest
 Er/Sie/Es miete
@@ -143,6 +158,7 @@ Partizip I mietend
 # [[Modus - Partizips]] - Perfekt
 Form Conjugation
 Partizip II gemietet
+<<<<<<< HEAD
 =======
 # [[Indikativ - Präteritum]]
 =======
@@ -180,3 +196,5 @@ Partizip II gemietet
 # [[Modus - Partizips]] - Perfekt
 
 >>>>>>> 9ea0c9b (Added placeholder tense to existing verbs)
+=======
+>>>>>>> 5ee0bb7 (Other batch formatting on verbs conjugations)

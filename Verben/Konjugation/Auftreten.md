@@ -1,5 +1,6 @@
 ___
 <<<<<<< HEAD
+<<<<<<< HEAD
 Links: [[Verben]] [[Typ - Irregular verben]] [[Typ - Trennbare verben]]
 Meaning: to appear
 ___
@@ -7,10 +8,11 @@ ___
 # [[Modus - Indikativ]] - Präsens
 =======
 
+=======
+>>>>>>> 5ee0bb7 (Other batch formatting on verbs conjugations)
 Links: [[Verben]] [[Typ Irregular verben]] [[Typ Trennbare verben]]
 Meaning: Appear
-
----
+___
 
 # [[Indikativ Präsens]]
 >>>>>>> e1c71b3 (Updated README)

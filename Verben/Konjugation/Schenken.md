@@ -3,6 +3,9 @@ Links: [[Verben]]
 Meaning:
 ___
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 5ee0bb7 (Other batch formatting on verbs conjugations)
 
 # [[Modus - Indikativ]] - Präsens
 Ich schenke
@@ -55,7 +58,11 @@ Wir werden geschenkt haben
 Ihr werdet geschenkt haben
 Sie werden geschenkt haben
 
+<<<<<<< HEAD
 # [[Modus - Konjunktiv]] 1 - Präsens
+=======
+# [[Modus - Konjunktiv]] 1 - Present
+>>>>>>> 5ee0bb7 (Other batch formatting on verbs conjugations)
 Ich schenke
 Du schenkest
 Er/Sie/Es schenke

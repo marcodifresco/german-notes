@@ -1,5 +1,6 @@
 ___
 <<<<<<< HEAD
+<<<<<<< HEAD
 Links: [[Verben]] [[Akkusativ]]
 Meaning:
 ___
@@ -7,12 +8,19 @@ ___
 # [[Modus - Indikativ]] - Präsens
 =======
 Tags: #Languages/German/Grammar/Verbs/Regular  
+=======
+>>>>>>> 5ee0bb7 (Other batch formatting on verbs conjugations)
 Links: [[Verben]] [[Akkusativ]]
+Meaning:
 ___
+<<<<<<< HEAD
 <<<<<<< HEAD
 # [[Indikativ - Präsens]]
 >>>>>>> b5ffa73 (Added November 26th)
 =======
+=======
+
+>>>>>>> 5ee0bb7 (Other batch formatting on verbs conjugations)
 # [[Modus - Indikativ]] - Präsens
 >>>>>>> 81b7927 (Updated verbs modus links)
 Ich frage

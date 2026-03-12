@@ -1,5 +1,8 @@
 ___
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 5ee0bb7 (Other batch formatting on verbs conjugations)
 Links: [[Verben]]
 Meaning:
 ___
@@ -54,7 +57,11 @@ Wir werden geschneit haben
 Ihr werdet geschneit haben
 Sie werden geschneit haben
 
+<<<<<<< HEAD
 # [[Modus - Konjunktiv]] 1 - Präsens
+=======
+# [[Modus - Konjunktiv]] 1 - Present
+>>>>>>> 5ee0bb7 (Other batch formatting on verbs conjugations)
 Ich schneie
 Du schneiest
 Er/Sie/Es schneie

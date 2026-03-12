@@ -1,7 +1,12 @@
 ___
 <<<<<<< HEAD
+<<<<<<< HEAD
 Links: [[Verben]] [[Typ - Regular verben]] [[Typ - Trennbare verben]]
 Meaning: to Spend the night
+=======
+Links: [[Verben]] [[Typ - Regular verben]] [[Typ - Trennbare verben]]
+Meaning: Spend the night
+>>>>>>> 5ee0bb7 (Other batch formatting on verbs conjugations)
 ___
 
 # [[Modus - Indikativ]] - Präsens

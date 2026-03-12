@@ -1,5 +1,6 @@
 ___
 <<<<<<< HEAD
+<<<<<<< HEAD
 Links: [[Verben]]
 Meaning:
 ___
@@ -8,8 +9,12 @@ ___
 Ich pendle
 =======
 Tags: #Languages/German/Grammar/Verbs/Regular  
+=======
+>>>>>>> 5ee0bb7 (Other batch formatting on verbs conjugations)
 Links: [[Verben]]
+Meaning:
 ___
+
 # [[Modus - Indikativ]] - Präsens
 Ich pende
 >>>>>>> 0025884 (Added notes from December 14th)

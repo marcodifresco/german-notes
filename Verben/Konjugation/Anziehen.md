@@ -1,5 +1,8 @@
 ___
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 5ee0bb7 (Other batch formatting on verbs conjugations)
 Links: [[Verben]] - [[Typ - Irregular verben]] - [[Typ - Trennbare verben]]
 Meaning: to dress / put on
 ___
@@ -13,9 +16,13 @@ Links: [[Verben]] [[Typ - Regular verben]]
 Meaning: Dress / Put on
 ___
 <<<<<<< HEAD
+<<<<<<< HEAD
 # [[Indikativ - Präsens]]
 >>>>>>> 7831a69 (Added notes from January 11th)
 =======
+=======
+
+>>>>>>> 5ee0bb7 (Other batch formatting on verbs conjugations)
 # [[Modus - Indikativ]] - Präsens
 >>>>>>> 81b7927 (Updated verbs modus links)
 ich ziehe an
@@ -94,7 +101,14 @@ ihr werdet angezogen sein
 Sie werdet angezogen sein
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 # [[Modus - Konjunktiv]] 1 - Präsens
+=======
+# Variants
+English German
+Pull [[Ziehen]]
+# [[Modus - Konjunktiv]] 1 - Present
+>>>>>>> 5ee0bb7 (Other batch formatting on verbs conjugations)
 ich ziehe an
 du ziehest an
 er/sie/es ziehe an

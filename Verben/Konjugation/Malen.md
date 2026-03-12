@@ -3,6 +3,7 @@ Links: [[Verben]]
 Meaning:
 ___
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 # [[Modus - Indikativ]] - Präsens
 Pronoun|Conjugation
@@ -14,6 +15,16 @@ Wir | malen
 Ihr | malt
 Sie | malen
 >>>>>>> 81b7927 (Updated verbs modus links)
+=======
+
+# [[Modus - Indikativ]] - Präsens
+Ich male
+Du malst
+Er/Sie/Es malt
+Wir malen
+Ihr malt
+Sie malen
+>>>>>>> 5ee0bb7 (Other batch formatting on verbs conjugations)
 
 # [[Modus - Indikativ]] - Präsens
 Ich male
@@ -66,7 +77,11 @@ Wir werden gemalt haben
 Ihr werdet gemalt haben
 Sie werden gemalt haben
 
+<<<<<<< HEAD
 # [[Modus - Konjunktiv]] 1 - Präsens
+=======
+# [[Modus - Konjunktiv]] 1 - Present
+>>>>>>> 5ee0bb7 (Other batch formatting on verbs conjugations)
 Ich male
 Du malest
 Er/Sie/Es male
@@ -143,6 +158,7 @@ Sie Malen Sie!
 
 # [[Modus - Partizips]] - Perfekt
 | Conjugation |
+<<<<<<< HEAD
 | gemalt |
 =======
 # [[Indikativ - Präteritum]]
@@ -181,3 +197,6 @@ Sie Malen Sie!
 # [[Modus - Partizips]] - Perfekt
 
 >>>>>>> 9ea0c9b (Added placeholder tense to existing verbs)
+=======
+| gemalt |
+>>>>>>> 5ee0bb7 (Other batch formatting on verbs conjugations)

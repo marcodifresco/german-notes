@@ -3,6 +3,7 @@ Links: [[Verben]]
 Meaning:
 ___
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 # [[Modus - Indikativ]] - Präsens
 Pronoun|Conjugation
@@ -14,6 +15,16 @@ Wir | finden statt
 Ihr | findet statt
 Sie | finden statt
 >>>>>>> 81b7927 (Updated verbs modus links)
+=======
+
+# [[Modus - Indikativ]] - Präsens
+Ich finde statt
+Du findest statt
+Er/Sie/Es findet statt
+Wir finden statt
+Ihr findet statt
+Sie finden statt
+>>>>>>> 5ee0bb7 (Other batch formatting on verbs conjugations)
 
 # [[Modus - Indikativ]] - Präsens
 Ich finde statt
@@ -66,7 +77,11 @@ Wir werden stattgefunden haben
 Ihr werdet stattgefunden haben
 Sie werden stattgefunden haben
 
+<<<<<<< HEAD
 # [[Modus - Konjunktiv]] 1 - Präsens
+=======
+# [[Modus - Konjunktiv]] 1 - Present
+>>>>>>> 5ee0bb7 (Other batch formatting on verbs conjugations)
 Ich finde statt
 Du findest statt
 Er/Sie/Es finde statt
@@ -143,6 +158,7 @@ Präsens stattfindend
 # [[Modus - Partizips]] - Perfekt
 Partizip Conjugation
 Perfekt stattgefunden
+<<<<<<< HEAD
 =======
 # [[Indikativ - Präteritum]]
 =======
@@ -180,3 +196,5 @@ Perfekt stattgefunden
 # [[Modus - Partizips]] - Perfekt
 
 >>>>>>> 9ea0c9b (Added placeholder tense to existing verbs)
+=======
+>>>>>>> 5ee0bb7 (Other batch formatting on verbs conjugations)

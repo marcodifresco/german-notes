@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ___
 <<<<<<< HEAD
 Links: [[Verben]]
@@ -132,19 +133,24 @@ geerntet
 =======
 Tags: #Languages/German/Grammar/Verbs/Regular  
 Links: [[Verben]]
+=======
+>>>>>>> 5ee0bb7 (Other batch formatting on verbs conjugations)
 ___
+Links: [[Verben]]
+Meaning:
+___
+
 # [[Modus - Indikativ]] - Präsens
-Pronoun|Conjugation
------------- | ------------
-Ich | ernte
-Du | erntest
-Er/Sie/Es | erntet
-Wir | ernten
-Ihr | erntet
-Sie | ernten
+Ich ernte
+Du erntest
+Er/Sie/Es erntet
+Wir ernten
+Ihr erntet
+Sie ernten
 
 
 # [[Modus - Indikativ]] - Präteritum
+<<<<<<< HEAD
 
 # [[Modus - Indikativ]] - Perfekt
 [[Pronomen]] + [[Haben]] + geerntet
@@ -176,6 +182,111 @@ Sie | ernten
 # [[Modus - Konjunktiv]] 2 - Futur II
 
 # [[Modus - Konjunktiv]] 2 - Plusquamperfekt
+=======
+Ich erntete
+Du erntetest
+Er/Sie/Es erntete
+Wir ernteten
+Ihr erntetet
+Sie ernteten
+
+# [[Modus - Indikativ]] - Perfekt
+[[Pronomen]] + [[Haben]] + geerntet
+Ich habe geerntet
+Du hast geerntet
+Er/Sie/Es hat geerntet
+Wir haben geerntet
+Ihr habt geerntet
+Sie haben geerntet
+
+# [[Modus - Indikativ]] - Plusquamperfekt
+Ich hatte geerntet
+Du hattest geerntet
+Er/Sie/Es hatte geerntet
+Wir hatten geerntet
+Ihr hattet geerntet
+Sie hatten geerntet
+
+# [[Modus - Indikativ]] - Futur I
+Ich werde ernten
+Du wirst ernten
+Er/Sie/Es wird ernten
+Wir werden ernten
+Ihr werdet ernten
+Sie werden ernten
+
+# [[Modus - Indikativ]] - Futur II
+Ich werde geerntet haben
+Du wirst geerntet haben
+Er/Sie/Es wird geerntet haben
+Wir werden geerntet haben
+Ihr werdet geerntet haben
+Sie werden geerntet haben
+
+# [[Modus - Konjunktiv]] 1 - Present
+Ich ernte
+Du erntest
+Er/Sie/Es ernte
+Wir ernten
+Ihr erntet
+Sie ernten
+
+# [[Modus - Konjunktiv]] 1 - Perfekt
+Ich habe geerntet
+Du habest geerntet
+Er/Sie/Es habe geerntet
+Wir haben geerntet
+Ihr habet geerntet
+Sie haben geerntet
+
+# [[Modus - Konjunktiv]] 1 - Futur I
+Ich werde ernten
+Du werdest ernten
+Er/Sie/Es werde ernten
+Wir werden ernten
+Ihr werdet ernten
+Sie werden ernten
+
+# [[Modus - Konjunktiv]] 1 - Futur II
+Ich werde geerntet haben
+Du werdest geerntet haben
+Er/Sie/Es werde geerntet haben
+Wir werden geerntet haben
+Ihr werdet geerntet haben
+Sie werden geerntet haben
+
+# [[Modus - Konjunktiv]] 2 - Präteritum
+Ich erntete
+Du erntetest
+Er/Sie/Es erntete
+Wir ernteten
+Ihr erntetet
+Sie ernteten
+
+# [[Modus - Konjunktiv]] 2 - Futur I
+Ich würde ernten
+Du würdest ernten
+Er/Sie/Es würde ernten
+Wir würden ernten
+Ihr würdet ernten
+Sie würden ernten
+
+# [[Modus - Konjunktiv]] 2 - Futur II
+Ich würde geerntet haben
+Du würdest geerntet haben
+Er/Sie/Es würde geerntet haben
+Wir würden geerntet haben
+Ihr würdet geerntet haben
+Sie würden geerntet haben
+
+# [[Modus - Konjunktiv]] 2 - Plusquamperfekt
+Ich hätte geerntet
+Du hättest geerntet
+Er/Sie/Es hätte geerntet
+Wir hätten geerntet
+Ihr hättet geerntet
+Sie hätten geerntet
+>>>>>>> 5ee0bb7 (Other batch formatting on verbs conjugations)
 
 # [[Modus - Imperativ]] - Präsens
 

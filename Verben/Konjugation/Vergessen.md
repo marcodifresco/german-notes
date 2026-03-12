@@ -3,6 +3,9 @@ Links: [[Verben]]
 Meaning:
 ___
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 5ee0bb7 (Other batch formatting on verbs conjugations)
 
 # [[Modus - Indikativ]] - Präsens
 Ich vergesse
@@ -48,7 +51,11 @@ Wir werden vergessen haben
 Ihr werdet vergessen haben
 Sie werden vergessen haben
 
+<<<<<<< HEAD
 # [[Modus - Konjunktiv]] 1 - Präsens
+=======
+# [[Modus - Konjunktiv]] 1 - Present
+>>>>>>> 5ee0bb7 (Other batch formatting on verbs conjugations)
 Ich vergesse
 Du vergessest
 Er/Sie/Es vergesse

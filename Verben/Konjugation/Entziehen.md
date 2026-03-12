@@ -9,9 +9,13 @@ ___
 Meaning: Revoke
 ___
 <<<<<<< HEAD
+<<<<<<< HEAD
 # [[Indikativ - Präsens]]
 >>>>>>> a45568a (Added notes from January 16th)
 =======
+=======
+
+>>>>>>> 5ee0bb7 (Other batch formatting on verbs conjugations)
 # [[Modus - Indikativ]] - Präsens
 >>>>>>> 81b7927 (Updated verbs modus links)
 ich entziehe

@@ -1,5 +1,6 @@
 ___
 <<<<<<< HEAD
+<<<<<<< HEAD
 Links: [[Verben]]
 Meaning:
 ___
@@ -131,20 +132,23 @@ Sie (formal) Essen Sie!
 - gegessen
 =======
 Tags: #Languages/German/Grammar/Verbs 
+=======
+>>>>>>> 5ee0bb7 (Other batch formatting on verbs conjugations)
 Links: [[Verben]]
+Meaning:
 ___
+
 # [[Modus - Indikativ]] - Präsens
-Pronoun|Conjugation
------------- | ------------
-Ich | esse
-Du | isst
-Er/Sie/Es | isst
-Wir | essen
-Ihr | esst
-Sie | essen
+Ich esse
+Du isst
+Er/Sie/Es isst
+Wir essen
+Ihr esst
+Sie essen
 
 
 # [[Modus - Indikativ]] - Präteritum
+<<<<<<< HEAD
 
 # [[Modus - Indikativ]] - Perfekt
 [[Pronomen]] + [[Haben]] + gegessen
@@ -178,6 +182,118 @@ Sie | essen
 # [[Modus - Konjunktiv]] 2 - Plusquamperfekt
 
 # [[Modus - Imperativ]] - Präsens
+=======
+Ich aß
+Du aßt
+Er/Sie/Es aß
+Wir aßen
+Ihr aßt
+Sie aßen
+
+# [[Modus - Indikativ]] - Perfekt
+[[Pronomen]] + [[Haben]] + gegessen
+Ich habe gegessen
+Du hast gegessen
+Er/Sie/Es hat gegessen
+Wir haben gegessen
+Ihr habt gegessen
+Sie haben gegessen
+
+# [[Modus - Indikativ]] - Plusquamperfekt
+Ich hatte gegessen
+Du hattest gegessen
+Er/Sie/Es hatte gegessen
+Wir hatten gegessen
+Ihr hattet gegessen
+Sie hatten gegessen
+
+# [[Modus - Indikativ]] - Futur I
+Ich werde essen
+Du wirst essen
+Er/Sie/Es wird essen
+Wir werden essen
+Ihr werdet essen
+Sie werden essen
+
+# [[Modus - Indikativ]] - Futur II
+Ich werde gegessen haben
+Du wirst gegessen haben
+Er/Sie/Es wird gegessen haben
+Wir werden gegessen haben
+Ihr werdet gegessen haben
+Sie werden gegessen haben
+
+# [[Modus - Konjunktiv]] 1 - Present
+Ich esse
+Du essest
+Er/Sie/Es esse
+Wir essen
+Ihr esset
+Sie essen
+
+# [[Modus - Konjunktiv]] 1 - Perfekt
+Ich habe gegessen
+Du habest gegessen
+Er/Sie/Es habe gegessen
+Wir haben gegessen
+Ihr habet gegessen
+Sie haben gegessen
+
+# [[Modus - Konjunktiv]] 1 - Futur I
+Ich werde essen
+Du werdest essen
+Er/Sie/Es werde essen
+Wir werden essen
+Ihr werdet essen
+Sie werden essen
+
+# [[Modus - Konjunktiv]] 1 - Futur II
+Ich werde gegessen haben
+Du werdest gegessen haben
+Er/Sie/Es werde gegessen haben
+Wir werden gegessen haben
+Ihr werdet gegessen haben
+Sie werden gegessen haben
+
+# [[Modus - Konjunktiv]] 2 - Präteritum
+Ich äße
+Du äßest
+Er/Sie/Es äße
+Wir äßen
+Ihr äßet
+Sie äßen
+
+# [[Modus - Konjunktiv]] 2 - Futur I
+Ich würde essen
+Du würdest essen
+Er/Sie/Es würde essen
+Wir würden essen
+Ihr würdet essen
+Sie würden essen
+
+# [[Modus - Konjunktiv]] 2 - Futur II
+Ich würde gegessen haben
+Du würdest gegessen haben
+Er/Sie/Es würde gegessen haben
+Wir würden gegessen haben
+Ihr würdet gegessen haben
+Sie würden gegessen haben
+
+# [[Modus - Konjunktiv]] 2 - Plusquamperfekt
+Ich hätte gegessen
+Du hättest gegessen
+Er/Sie/Es hätte gegessen
+Wir hätten gegessen
+Ihr hättet gegessen
+Sie hätten gegessen
+
+# [[Modus - Imperativ]] - Präsens
+Form Conjugation
+Du (singular informal) Iss!
+Ihr (plural informal) Esst!
+Wir (first person plural) Essen wir!
+Sie (formal) Essen Sie!
+>>>>>>> 5ee0bb7 (Other batch formatting on verbs conjugations)
 
 # [[Modus - Partizips]] - Präsens
 

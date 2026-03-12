@@ -1,7 +1,12 @@
 ___
 <<<<<<< HEAD
+<<<<<<< HEAD
 Links: [[Verben]] [[Typ - Modal verben]]
 Meaning: to Should
+=======
+Links: [[Verben]] [[Typ - Modal verben]]
+Meaning: Should
+>>>>>>> 5ee0bb7 (Other batch formatting on verbs conjugations)
 ___
 
 # [[Modus - Indikativ]] - Präsens
@@ -56,7 +61,11 @@ ___
 | Ihr       | werdet                  | gesollt     | haben                  |
 | Sie       | werden                  | gesollt     | haben                  |
 
+<<<<<<< HEAD
 # [[Modus - Konjunktiv]] 1 - Präsens
+=======
+# [[Modus - Konjunktiv]] 1 - Present
+>>>>>>> 5ee0bb7 (Other batch formatting on verbs conjugations)
 | Ich       | solle       |
 | Du        | sollest     |
 | Er/Sie/Es | solle       |
@@ -221,6 +230,7 @@ ___
 <<<<<<< HEAD
 <<<<<<< HEAD
 # [[Modus - Indikativ]] - Präsens
+<<<<<<< HEAD
 =======
 # [[Indikativ - Präsens]]
 =======
@@ -229,6 +239,8 @@ ___
 | Pronoun   | Conjugation |
 | --------- | ----------- |
 >>>>>>> 3a72509 (Catch-all changes on 05 09 2024.)
+=======
+>>>>>>> 5ee0bb7 (Other batch formatting on verbs conjugations)
 | Ich       | soll        |
 | Du        | sollst      |
 | Er/Sie/Es | soll        |
@@ -242,6 +254,7 @@ ___
 <<<<<<< HEAD
 <<<<<<< HEAD
 # [[Modus - Konjunktiv]] 2 - Präteritum
+<<<<<<< HEAD
 | Ich       | sollte      |
 | Du        | solltest    |
 | Er/Sie/Es | sollte      |
@@ -275,6 +288,8 @@ Sie | sollten
 >>>>>>> 81b7927 (Updated verbs modus links)
 | Pronoun   | Conjugation |
 | --------- | ----------- |
+=======
+>>>>>>> 5ee0bb7 (Other batch formatting on verbs conjugations)
 | Ich       | sollte      |
 | Du        | solltest    |
 | Er/Sie/Es | sollte      |

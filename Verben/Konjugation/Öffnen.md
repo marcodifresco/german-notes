@@ -3,6 +3,7 @@ Links: [[Verben]]
 Meaning:
 ___
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 # [[Modus - Indikativ]] - Präsens
 Pronoun|Conjugation
@@ -14,6 +15,16 @@ Wir | öffnen
 Ihr | öffnet
 Sie | öffnen
 >>>>>>> 81b7927 (Updated verbs modus links)
+=======
+
+# [[Modus - Indikativ]] - Präsens
+Ich öffne
+Du öffnest
+Er/Sie/Es öffnet
+Wir öffnen
+Ihr öffnet
+Sie öffnen
+>>>>>>> 5ee0bb7 (Other batch formatting on verbs conjugations)
 
 # [[Modus - Indikativ]] - Präsens
 Ich öffne
@@ -65,7 +76,11 @@ Wir werden geöffnet haben
 Ihr werdet geöffnet haben
 Sie werden geöffnet haben
 
+<<<<<<< HEAD
 # [[Modus - Konjunktiv]] 1 - Präsens
+=======
+# [[Modus - Konjunktiv]] 1 - Present
+>>>>>>> 5ee0bb7 (Other batch formatting on verbs conjugations)
 Ich öffne
 Du öffnest
 Er/Sie/Es öffne

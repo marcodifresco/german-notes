@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ___
 <<<<<<< HEAD
 Links: [[Verben]]
@@ -133,19 +134,24 @@ gemacht
 =======
 Tags: #Languages/German/Grammar/Verbs/Regular  
 Links: [[Verben]]
+=======
+>>>>>>> 5ee0bb7 (Other batch formatting on verbs conjugations)
 ___
+Links: [[Verben]]
+Meaning:
+___
+
 # [[Modus - Indikativ]] - Präsens
-Pronoun|Conjugation
------------- | ------------
-Ich | mache
-Du | machst
-Er/Sie/Es | macht
-Wir | machen
-Ihr | macht
-Sie | machen
+Ich mache
+Du machst
+Er/Sie/Es macht
+Wir machen
+Ihr macht
+Sie machen
 
 
 # [[Modus - Indikativ]] - Präteritum
+<<<<<<< HEAD
 
 # [[Modus - Indikativ]] - Perfekt
 [[Pronomen]] + [[Haben]] + gemacht
@@ -179,6 +185,118 @@ Sie | machen
 # [[Modus - Konjunktiv]] 2 - Plusquamperfekt
 
 # [[Modus - Imperativ]] - Präsens
+=======
+Ich machte
+Du machtest
+Er/Sie/Es machte
+Wir machten
+Ihr machtet
+Sie machten
+
+# [[Modus - Indikativ]] - Perfekt
+[[Pronomen]] + [[Haben]] + gemacht
+Ich habe gemacht
+Du hast gemacht
+Er/Sie/Es hat gemacht
+Wir haben gemacht
+Ihr habt gemacht
+Sie haben gemacht
+
+# [[Modus - Indikativ]] - Plusquamperfekt
+Ich hatte gemacht
+Du hattest gemacht
+Er/Sie/Es hatte gemacht
+Wir hatten gemacht
+Ihr hattet gemacht
+Sie hatten gemacht
+
+# [[Modus - Indikativ]] - Futur I
+Ich werde machen
+Du wirst machen
+Er/Sie/Es wird machen
+Wir werden machen
+Ihr werdet machen
+Sie werden machen
+
+# [[Modus - Indikativ]] - Futur II
+Ich werde gemacht haben
+Du wirst gemacht haben
+Er/Sie/Es wird gemacht haben
+Wir werden gemacht haben
+Ihr werdet gemacht haben
+Sie werden gemacht haben
+
+# [[Modus - Konjunktiv]] 1 - Present
+Ich mache
+Du machest
+Er/Sie/Es mache
+Wir machen
+Ihr machet
+Sie machen
+
+# [[Modus - Konjunktiv]] 1 - Perfekt
+Ich habe gemacht
+Du habest gemacht
+Er/Sie/Es habe gemacht
+Wir haben gemacht
+Ihr habet gemacht
+Sie haben gemacht
+
+# [[Modus - Konjunktiv]] 1 - Futur I
+Ich werde machen
+Du werdest machen
+Er/Sie/Es werde machen
+Wir werden machen
+Ihr werdet machen
+Sie werden machen
+
+# [[Modus - Konjunktiv]] 1 - Futur II
+Ich werde gemacht haben
+Du werdest gemacht haben
+Er/Sie/Es werde gemacht haben
+Wir werden gemacht haben
+Ihr werdet gemacht haben
+Sie werden gemacht haben
+
+# [[Modus - Konjunktiv]] 2 - Präteritum
+Ich machte
+Du machtest
+Er/Sie/Es machte
+Wir machten
+Ihr machtet
+Sie machten
+(Note: For regular verbs, Konjunktiv II (Präteritum) is often identical to Indikativ Präteritum. The 'würde + Infinitiv' construction is frequently used to make Konjunktiv II clear, e.g., 'ich würde machen'.)*
+
+# [[Modus - Konjunktiv]] 2 - Futur I
+Ich würde machen
+Du würdest machen
+Er/Sie/Es würde machen
+Wir würden machen
+Ihr würdet machen
+Sie würden machen
+
+# [[Modus - Konjunktiv]] 2 - Futur II
+Ich würde gemacht haben
+Du würdest gemacht haben
+Er/Sie/Es würde gemacht haben
+Wir würden gemacht haben
+Ihr würdet gemacht haben
+Sie würden gemacht haben
+
+# [[Modus - Konjunktiv]] 2 - Plusquamperfekt
+Ich hätte gemacht
+Du hättest gemacht
+Er/Sie/Es hätte gemacht
+Wir hätten gemacht
+Ihr hättet gemacht
+Sie hätten gemacht
+
+# [[Modus - Imperativ]] - Präsens
+Du Mach!
+Wir Machen wir!
+Ihr Macht!
+Sie (formal) Machen Sie!
+>>>>>>> 5ee0bb7 (Other batch formatting on verbs conjugations)
 
 # [[Modus - Partizips]] - Präsens
 

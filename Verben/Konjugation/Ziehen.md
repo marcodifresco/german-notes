@@ -7,9 +7,13 @@ Meaning: Pull
 >>>>>>> 42fa620 (Catch-all changes on 17 01 2023.)
 ___
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 =======
 >>>>>>> 81b7927 (Updated verbs modus links)
+=======
+
+>>>>>>> 5ee0bb7 (Other batch formatting on verbs conjugations)
 # [[Modus - Indikativ]] - Präsens
 ich ziehe
 du ziehst

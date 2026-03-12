@@ -1,4 +1,5 @@
 ___
+<<<<<<< HEAD
 Links: [[Verben]] [[Typ - Regular verben]] [[Typ - Trennbare verben]]
 Meaning: To testify
 ___
@@ -14,6 +15,19 @@ Wir | sagen aus
 Ihr | sagt aus
 Sie | sagen aus
 >>>>>>> 81b7927 (Updated verbs modus links)
+=======
+Links: [[Verben]] [[Typ - Trennbare verben]]
+Meaning:
+___
+
+# [[Modus - Indikativ]] - Präsens
+Ich sage aus
+Du sagst aus
+Er/Sie/Es sagt aus
+Wir sagen aus
+Ihr sagt aus
+Sie sagen aus
+>>>>>>> 5ee0bb7 (Other batch formatting on verbs conjugations)
 
 # [[Modus - Indikativ]] - Präsens
 Ich sage aus
@@ -66,7 +80,11 @@ Wir werden ausgesagt haben
 Ihr werdet ausgesagt haben
 Sie werden ausgesagt haben
 
+<<<<<<< HEAD
 # [[Modus - Konjunktiv]] 1 - Präsens
+=======
+# [[Modus - Konjunktiv]] 1 - Present
+>>>>>>> 5ee0bb7 (Other batch formatting on verbs conjugations)
 Ich sage aus
 Du sagest aus
 Er/Sie/Es sage aus

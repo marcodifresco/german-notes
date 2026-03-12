@@ -1,4 +1,5 @@
 ___
+<<<<<<< HEAD
 Links: [[Verben]] [[Typ - Irregular verben]] [[Typ - Trennbare verben]]
 Meaning: to arrive
 ___
@@ -14,6 +15,19 @@ Wir | kommen an
 Ihr | kommt an
 Sie | kommen an
 >>>>>>> 81b7927 (Updated verbs modus links)
+=======
+Links: [[Verben]]
+Meaning:
+___
+
+# [[Modus - Indikativ]] - Präsens
+Ich komme an
+Du kommst an
+Er/Sie/Es kommt an
+Wir kommen an
+Ihr kommt an
+Sie kommen an
+>>>>>>> 5ee0bb7 (Other batch formatting on verbs conjugations)
 
 # [[Modus - Indikativ]] - Präsens
 Ich komme an
@@ -66,7 +80,11 @@ Wir werden angekommen sein
 Ihr werdet angekommen sein
 Sie werden angekommen sein
 
+<<<<<<< HEAD
 # [[Modus - Konjunktiv]] 1 - Präsens
+=======
+# [[Modus - Konjunktiv]] 1 - Present
+>>>>>>> 5ee0bb7 (Other batch formatting on verbs conjugations)
 Ich komme an
 Du kommest an
 Er/Sie/Es komme an
@@ -143,6 +161,7 @@ Partizip I ankommend
 # [[Modus - Partizips]] - Perfekt
 Form Conjugation
 Partizip II angekommen
+<<<<<<< HEAD
 =======
 # [[Indikativ - Präteritum]]
 =======
@@ -180,3 +199,5 @@ Partizip II angekommen
 # [[Modus - Partizips]] - Perfekt
 
 >>>>>>> 9ea0c9b (Added placeholder tense to existing verbs)
+=======
+>>>>>>> 5ee0bb7 (Other batch formatting on verbs conjugations)

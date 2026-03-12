@@ -3,6 +3,9 @@ Links: [[Verben]]
 Meaning:
 ___
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 5ee0bb7 (Other batch formatting on verbs conjugations)
 
 # [[Modus - Indikativ]] - Präsens
 Ich sortiere
@@ -55,7 +58,11 @@ Wir werden sortiert haben
 Ihr werdet sortiert haben
 Sie werden sortiert haben
 
+<<<<<<< HEAD
 # [[Modus - Konjunktiv]] 1 - Präsens
+=======
+# [[Modus - Konjunktiv]] 1 - Present
+>>>>>>> 5ee0bb7 (Other batch formatting on verbs conjugations)
 Ich sortiere
 Du sortierest
 Er/Sie/Es sortiere

@@ -3,6 +3,7 @@ Links: [[Verben]] [[Typ - Irregular verben]] [[Typ - Trennbare verben]]
 Meaning: to depart
 ___
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 # [[Modus - Indikativ]] - Präsens
 Pronoun|Conjugation
@@ -14,6 +15,8 @@ Wir | fahren ab
 Ihr | fahrt ab
 Sie | fahren ab
 >>>>>>> 81b7927 (Updated verbs modus links)
+=======
+>>>>>>> 5ee0bb7 (Other batch formatting on verbs conjugations)
 
 # [[Modus - Indikativ]] - Präsens
 Ich fahre ab

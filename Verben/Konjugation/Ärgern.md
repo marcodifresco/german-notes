@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ___
 <<<<<<< HEAD
 Links: [[Verben]] [[Typ - Regular verben]] [[Typ - Reflexive Verben]]
@@ -21,6 +22,20 @@ Wir | ärgern
 Ihr | ärgert
 Sie | ärgern
 >>>>>>> 81b7927 (Updated verbs modus links)
+=======
+___
+Links: [[Verben]] [[Typ - Reflexive Verben]]
+Meaning:
+___
+
+# [[Modus - Indikativ]] - Präsens
+Ich ärgere
+Du ärgerst
+Er/Sie/Es ärgert
+Wir ärgern
+Ihr ärgert
+Sie ärgern
+>>>>>>> 5ee0bb7 (Other batch formatting on verbs conjugations)
 
 # [[Modus - Indikativ]] - Präsens
 Ich ärgere
@@ -74,7 +89,11 @@ Wir werden geärgert haben
 Ihr werdet geärgert haben
 Sie werden geärgert haben
 
+<<<<<<< HEAD
 # [[Modus - Konjunktiv]] 1 - Präsens
+=======
+# [[Modus - Konjunktiv]] 1 - Present
+>>>>>>> 5ee0bb7 (Other batch formatting on verbs conjugations)
 Ich ärgere
 Du ärgerest
 Er/Sie/Es ärgere

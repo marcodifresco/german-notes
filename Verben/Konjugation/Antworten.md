@@ -1,15 +1,18 @@
 ___
 <<<<<<< HEAD
+<<<<<<< HEAD
 Links: [[Verben]] [[Typ - Regular verben]] [[Dativ]]
 Meaning: to answer
 ___
 =======
 Tags: #Languages/German/Grammar/Verbs/Regular  
+=======
+>>>>>>> 5ee0bb7 (Other batch formatting on verbs conjugations)
 Links: [[Verben]] [[Dativ]]
+Meaning:
 ___
+
 # [[Modus - Indikativ]] - Präsens
-Pronoun|Conjugation
------------- | ------------
 Ich antworte
 Du antwortest
 Er/Sie/Es antwortet
@@ -69,7 +72,11 @@ Wir werden geantwortet haben
 Ihr werdet geantwortet haben
 Sie werden geantwortet haben
 
+<<<<<<< HEAD
 # [[Modus - Konjunktiv]] 1 - Präsens
+=======
+# [[Modus - Konjunktiv]] 1 - Present
+>>>>>>> 5ee0bb7 (Other batch formatting on verbs conjugations)
 Ich antworte
 Du antwortest
 Er/Sie/Es antworte

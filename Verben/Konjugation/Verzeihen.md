@@ -1,14 +1,16 @@
 ___
+<<<<<<< HEAD
 Links: [[Verben]] [[Typ - Irregular verben]] [[Typ - Trennbare verben]]
 Meaning: to Forgive
 ___
 
 <<<<<<< HEAD
 =======
+=======
+>>>>>>> 5ee0bb7 (Other batch formatting on verbs conjugations)
 Links: [[Verben]] [[Typ - Irregular verben]] [[Typ - Trennbare verben]]
 Meaning: Forgive
-
----
+___
 
 >>>>>>> 81b7927 (Updated verbs modus links)
 # [[Modus - Indikativ]] - Präsens

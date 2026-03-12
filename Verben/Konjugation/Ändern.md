@@ -1,4 +1,5 @@
 ___
+<<<<<<< HEAD
 Links: [[Verben]] [[Typ - Regular verben]]
 Meaning: to change/alter
 ___
@@ -14,6 +15,19 @@ Wir | ändern
 Ihr | ändert
 Sie | ändern
 >>>>>>> 81b7927 (Updated verbs modus links)
+=======
+Links: [[Verben]]
+Meaning:
+___
+
+# [[Modus - Indikativ]] - Präsens
+Ich ändere
+Du änderst
+Er/Sie/Es ändert
+Wir ändern
+Ihr ändert
+Sie ändern
+>>>>>>> 5ee0bb7 (Other batch formatting on verbs conjugations)
 
 # [[Modus - Indikativ]] - Präsens
 Ich ändere
@@ -66,7 +80,11 @@ Wir werden geändert haben
 Ihr werdet geändert haben
 Sie werden geändert haben
 
+<<<<<<< HEAD
 # [[Modus - Konjunktiv]] 1 - Präsens
+=======
+# [[Modus - Konjunktiv]] 1 - Present
+>>>>>>> 5ee0bb7 (Other batch formatting on verbs conjugations)
 Ich ändere
 Du änderest
 Er/Sie/Es ändere

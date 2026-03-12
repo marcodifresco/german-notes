@@ -3,6 +3,7 @@ Links: [[Verben]] [[Typ - Regular verben]] [[Typ - Trennbare verben]]
 Meaning: to pick up
 ___
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 # [[Modus - Indikativ]] - Präsens
 Pronoun|Conjugation
@@ -14,6 +15,8 @@ Wir | holen ab
 Ihr | holt ab
 Sie | holen ab
 >>>>>>> 81b7927 (Updated verbs modus links)
+=======
+>>>>>>> 5ee0bb7 (Other batch formatting on verbs conjugations)
 
 # [[Modus - Indikativ]] - Präsens
 Ich hole ab

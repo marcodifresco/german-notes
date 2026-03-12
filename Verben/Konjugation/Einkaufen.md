@@ -3,6 +3,7 @@ Links: [[Verben]]
 Meaning:
 ___
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 # [[Modus - Indikativ]] - Präsens
 Pronoun|Conjugation
@@ -16,6 +17,10 @@ Sie | kaufen ein
 >>>>>>> 81b7927 (Updated verbs modus links)
 
 # [[Modus - Indikativ]] - Präsens
+=======
+
+# [[Modus - Indikativ]] - Präsens
+>>>>>>> 5ee0bb7 (Other batch formatting on verbs conjugations)
 Ich kaufe ein
 Du kaufst ein
 Er/Sie/Es kauft ein
@@ -67,7 +72,11 @@ Wir werden eingekauft haben
 Ihr werdet eingekauft haben
 Sie werden eingekauft haben
 
+<<<<<<< HEAD
 # [[Modus - Konjunktiv]] 1 - Präsens
+=======
+# [[Modus - Konjunktiv]] 1 - Present
+>>>>>>> 5ee0bb7 (Other batch formatting on verbs conjugations)
 Ich kaufe ein
 Du kaufest ein
 Er/Sie/Es kaufe ein

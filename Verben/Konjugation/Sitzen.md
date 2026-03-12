@@ -3,6 +3,7 @@ Links: [[Verben]]
 Meaning:
 ___
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 # [[Modus - Indikativ]] - Präsens
 Ich sitze
@@ -138,18 +139,20 @@ gesessen
 =======
 # [[Indikativ - Präteritum]]
 =======
+=======
+
+>>>>>>> 5ee0bb7 (Other batch formatting on verbs conjugations)
 # [[Modus - Indikativ]] - Präsens
-Pronoun|Conjugation
------------- | ------------
-Ich | sitze
-Du | sitzt
-Er/Sie/Es | sitzt
-Wir | sitzen
-Ihr | sitzt
-Sie | sitzen
+Ich sitze
+Du sitzt
+Er/Sie/Es sitzt
+Wir sitzen
+Ihr sitzt
+Sie sitzen
 
 
 # [[Modus - Indikativ]] - Präteritum
+<<<<<<< HEAD
 >>>>>>> 81b7927 (Updated verbs modus links)
 
 # [[Modus - Indikativ]] - Perfekt
@@ -175,6 +178,111 @@ Sie | sitzen
 # [[Modus - Konjunktiv]] 2 - Futur II
 
 # [[Modus - Konjunktiv]] 2 - Plusquamperfekt
+=======
+Ich saß
+Du saßt
+Er/Sie/Es saß
+Wir saßen
+Ihr saßt
+Sie saßen
+
+# [[Modus - Indikativ]] - Perfekt
+[[Pronomen]] + [[Haben]]  + gesessen (in CH [[Sein]])
+Ich habe gesessen
+Du hast gesessen
+Er/Sie/Es hat gesessen
+Wir haben gesessen
+Ihr habt gesessen
+Sie haben gesessen
+
+# [[Modus - Indikativ]] - Plusquamperfekt
+Ich hatte gesessen
+Du hattest gesessen
+Er/Sie/Es hatte gesessen
+Wir hatten gesessen
+Ihr hattet gesessen
+Sie hatten gesessen
+
+# [[Modus - Indikativ]] - Futur I
+Ich werde sitzen
+Du wirst sitzen
+Er/Sie/Es wird sitzen
+Wir werden sitzen
+Ihr werdet sitzen
+Sie werden sitzen
+
+# [[Modus - Indikativ]] - Futur II
+Ich werde gesessen haben
+Du wirst gesessen haben
+Er/Sie/Es wird gesessen haben
+Wir werden gesessen haben
+Ihr werdet gesessen haben
+Sie werden gesessen haben
+
+# [[Modus - Konjunktiv]] 1 - Present
+Ich sitze
+Du sitzest
+Er/Sie/Es sitze
+Wir sitzen
+Ihr sitzet
+Sie sitzen
+
+# [[Modus - Konjunktiv]] 1 - Perfekt
+Ich habe gesessen
+Du habest gesessen
+Er/Sie/Es habe gesessen
+Wir haben gesessen
+Ihr habet gesessen
+Sie haben gesessen
+
+# [[Modus - Konjunktiv]] 1 - Futur I
+Ich werde sitzen
+Du werdest sitzen
+Er/Sie/Es werde sitzen
+Wir werden sitzen
+Ihr werdet sitzen
+Sie werden sitzen
+
+# [[Modus - Konjunktiv]] 1 - Futur II
+Ich werde gesessen haben
+Du werdest gesessen haben
+Er/Sie/Es werde gesessen haben
+Wir werden gesessen haben
+Ihr werdet gesessen haben
+Sie werden gesessen haben
+
+# [[Modus - Konjunktiv]] 2 - Präteritum
+Ich säße
+Du säßest
+Er/Sie/Es säße
+Wir säßen
+Ihr säßet
+Sie säßen
+
+# [[Modus - Konjunktiv]] 2 - Futur I
+Ich würde sitzen
+Du würdest sitzen
+Er/Sie/Es würde sitzen
+Wir würden sitzen
+Ihr würdet sitzen
+Sie würden sitzen
+
+# [[Modus - Konjunktiv]] 2 - Futur II
+Ich würde gesessen haben
+Du würdest gesessen haben
+Er/Sie/Es würde gesessen haben
+Wir würden gesessen haben
+Ihr würdet gesessen haben
+Sie würden gesessen haben
+
+# [[Modus - Konjunktiv]] 2 - Plusquamperfekt
+Ich hätte gesessen
+Du hättest gesessen
+Er/Sie/Es hätte gesessen
+Wir hätten gesessen
+Ihr hättet gesessen
+Sie hätten gesessen
+>>>>>>> 5ee0bb7 (Other batch formatting on verbs conjugations)
 
 # [[Modus - Imperativ]] - Präsens
 

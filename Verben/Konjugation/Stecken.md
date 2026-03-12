@@ -1,5 +1,6 @@
 ___
 <<<<<<< HEAD
+<<<<<<< HEAD
 Links: [[Verben]] [[Typ - Regular verben]]
 Meaning: to Put
 ___
@@ -7,10 +8,11 @@ ___
 # [[Modus - Indikativ]] - Präsens
 =======
 
+=======
+>>>>>>> 5ee0bb7 (Other batch formatting on verbs conjugations)
 Links: [[Verben]] [[Typ - Regular verben]]
 Meaning: Put
-
----
+___
 
 <<<<<<< HEAD
 # [[Indikativ - Präsens]]

@@ -1,4 +1,7 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 5ee0bb7 (Other batch formatting on verbs conjugations)
 ___
 Links: [[Verben]]
 Meaning:
@@ -54,7 +57,11 @@ Wir werden gestohlen haben
 Ihr werdet gestohlen haben
 Sie werden gestohlen haben
 
+<<<<<<< HEAD
 # [[Modus - Konjunktiv]] 1 - Präsens
+=======
+# [[Modus - Konjunktiv]] 1 - Present
+>>>>>>> 5ee0bb7 (Other batch formatting on verbs conjugations)
 Ich stehle
 Du stehlest
 Er/Sie/Es stehle

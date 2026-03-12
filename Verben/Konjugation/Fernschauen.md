@@ -1,5 +1,8 @@
 ___
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 5ee0bb7 (Other batch formatting on verbs conjugations)
 Links: [[Verben]] [[Typ - Trennbare verben]]
 Meaning:
 ___
@@ -57,7 +60,11 @@ Wir werden ferngeschaut haben
 Ihr werdet ferngeschaut haben
 Sie werden ferngeschaut haben
 
+<<<<<<< HEAD
 # [[Modus - Konjunktiv]] 1 - Präsens
+=======
+# [[Modus - Konjunktiv]] 1 - Present
+>>>>>>> 5ee0bb7 (Other batch formatting on verbs conjugations)
 Ich schaue fern
 Du schauest fern
 Er/Sie/Es schaue fern

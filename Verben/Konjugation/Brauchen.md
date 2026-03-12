@@ -4,6 +4,9 @@ Meaning:
 ___
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 5ee0bb7 (Other batch formatting on verbs conjugations)
 
 # [[Modus - Indikativ]] - Präsens
 Ich brauche
@@ -12,6 +15,7 @@ Er/Sie/Es braucht
 Wir brauchen
 Ihr braucht
 Sie brauchen
+<<<<<<< HEAD
 =======
 # [[Indikativ - Präsens]]
 =======
@@ -26,6 +30,8 @@ Wir | brauchen
 Ihr | braucht
 Sie | brauchen
 >>>>>>> d407dd8 (Catch-all changes on 09 06 2022.)
+=======
+>>>>>>> 5ee0bb7 (Other batch formatting on verbs conjugations)
 
 
 <<<<<<< HEAD
@@ -79,7 +85,11 @@ Ihr werdet gebraucht haben
 Sie werden gebraucht haben
 
 
+<<<<<<< HEAD
 # [[Modus - Konjunktiv]] 1 - Präsens
+=======
+# [[Modus - Konjunktiv]] 1 - Present
+>>>>>>> 5ee0bb7 (Other batch formatting on verbs conjugations)
 Ich brauche
 Du brauchest
 Er/Sie/Es brauche

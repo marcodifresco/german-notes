@@ -1,4 +1,5 @@
 ___
+<<<<<<< HEAD
 Links: [[Verben]] [[Typ - Irregular verben]] [[Typ - Trennbare verben]]
 Meaning: to wear
 ___
@@ -14,6 +15,19 @@ Wir | haben an
 Ihr | habt an
 Sie | haben an
 >>>>>>> 81b7927 (Updated verbs modus links)
+=======
+Links: [[Verben]] [[Typ - Trennbare verben]]
+Meaning:
+___
+
+# [[Modus - Indikativ]] - Präsens
+Ich habe an
+Du hast an
+Er/Sie/Es hat an
+Wir haben an
+Ihr habt an
+Sie haben an
+>>>>>>> 5ee0bb7 (Other batch formatting on verbs conjugations)
 
 # [[Modus - Indikativ]] - Präsens
 Ich habe an
@@ -66,7 +80,11 @@ Wir werden angehabt haben
 Ihr werdet angehabt haben
 Sie werden angehabt haben
 
+<<<<<<< HEAD
 # [[Modus - Konjunktiv]] 1 - Präsens
+=======
+# [[Modus - Konjunktiv]] 1 - Present
+>>>>>>> 5ee0bb7 (Other batch formatting on verbs conjugations)
 Ich habe an
 Du habest an
 Er/Sie/Es habe an

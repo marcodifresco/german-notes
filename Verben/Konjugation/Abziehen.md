@@ -4,12 +4,16 @@ Links: [[Verben]] - [[Typ - Irregular verben]] - [[Typ - Trennbare verben]]
 Meaning: to pull (object) off
 ___
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 # Variants
 [[Ziehen]] --> To pull
 
 =======
 >>>>>>> 81b7927 (Updated verbs modus links)
+=======
+
+>>>>>>> 5ee0bb7 (Other batch formatting on verbs conjugations)
 # [[Modus - Indikativ]] - Präsens
 ich ziehe ab
 du ziehst ab
@@ -83,7 +87,14 @@ ihr werdet abgezogen sein
 Sie werden abgezogen sein
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 # [[Modus - Konjunktiv]] 1 - Präsens
+=======
+# Variants
+English German
+Pull [[Ziehen]]
+# [[Modus - Konjunktiv]] 1 - Present
+>>>>>>> 5ee0bb7 (Other batch formatting on verbs conjugations)
 ich ziehe ab
 du ziehest ab
 er/sie/es ziehe ab

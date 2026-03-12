@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ___
 <<<<<<< HEAD
 Links: [[Verben]] [[Typ - Reflexive Verben]]
@@ -46,6 +47,29 @@ Sie | haben um
 # [[Modus - Indikativ]] - Perfekt
 [[Pronomen]] + [[Haben]] + umzogen
 >>>>>>> 9ea0c9b (Added placeholder tense to existing verbs)
+=======
+___
+Links: [[Verben]] [[Typ - Reflexive Verben]]
+Meaning:
+___
+
+# [[Modus - Indikativ]] - Präsens
+Ich ziehe um
+Du ziehst um
+Er/Sie/Es zieht um
+Wir ziehen um
+Ihr zieht um
+Sie ziehen um
+
+
+# [[Modus - Indikativ]] - Präteritum
+Ich zog um
+Du zogst um
+Er/Sie/Es zog um
+Wir zogen um
+Ihr zogt um
+Sie zogen um
+>>>>>>> 5ee0bb7 (Other batch formatting on verbs conjugations)
 
 # [[Modus - Indikativ]] - Perfekt
 [[Pronomen]] + [[Haben]] + umgezogen (for 'to change clothes')
@@ -109,7 +133,11 @@ Wir werden umgezogen sein
 Ihr werdet umgezogen sein
 Sie werden umgezogen sein
 
+<<<<<<< HEAD
 # [[Modus - Konjunktiv]] 1 - Präsens
+=======
+# [[Modus - Konjunktiv]] 1 - Present
+>>>>>>> 5ee0bb7 (Other batch formatting on verbs conjugations)
 Ich ziehe um
 Du ziehest um
 Er/Sie/Es ziehe um

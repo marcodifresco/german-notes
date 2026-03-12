@@ -1,5 +1,8 @@
 ___
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 5ee0bb7 (Other batch formatting on verbs conjugations)
 Links: [[Verben]] [[Typ - Irregular verben]] [[Typ - Trennbare verben]]
 Meaning: to wake up
 ___
@@ -9,8 +12,7 @@ ___
 
 Links: [[Verben]] [[Typ - Irregular verben]] [[Typ - Trennbare verben]]
 Meaning: Wake up
-
----
+___
 
 <<<<<<< HEAD
 # [[Indikativ - Präsens]]

@@ -1,14 +1,16 @@
 ___
+<<<<<<< HEAD
 Links: [[Verben]] [[Verben]] [[Typ - Regular verben]] 
 Meaning: to dig
 ___
 
 <<<<<<< HEAD
 =======
+=======
+>>>>>>> 5ee0bb7 (Other batch formatting on verbs conjugations)
 Links: [[Verben]] [[Verben]] [[Typ - Regular verben]] 
 Meaning: To dig
-
----
+___
 
 >>>>>>> 81b7927 (Updated verbs modus links)
 # [[Modus - Indikativ]] - Präsens

@@ -1,8 +1,15 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 ___
 Links: [[Verben]] [[Typ - Regular verben]]
 Meaning: to Relate
 ___
+=======
+___
+Links: [[Verben]] [[Typ - Regular verben]]
+Meaning: Relate
+___
+>>>>>>> 5ee0bb7 (Other batch formatting on verbs conjugations)
 
 # [[Modus - Indikativ]] - Präsens
 ich beziehe mich

@@ -7,8 +7,7 @@ ___
 =======
 Links: [[Verben]] [[Typ Regular verben]]
 Meaning: Advise
-
----
+___
 
 >>>>>>> 81b7927 (Updated verbs modus links)
 # [[Modus - Indikativ]] - Präsens

@@ -3,6 +3,7 @@ Links: [[Verben]]
 Meaning:
 ___
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 # [[Modus - Indikativ]] - Präsens
 Pronoun|Conjugation
@@ -14,6 +15,16 @@ Wir | beschreibeb
 Ihr | beschreibt
 Sie | beschreiben
 >>>>>>> 81b7927 (Updated verbs modus links)
+=======
+
+# [[Modus - Indikativ]] - Präsens
+Ich beschreibe
+Du beschreibst
+Er/Sie/Es beschreibt
+Wir beschreiben
+Ihr beschreibt
+Sie beschreiben
+>>>>>>> 5ee0bb7 (Other batch formatting on verbs conjugations)
 
 # [[Modus - Indikativ]] - Präsens
 Ich beschreibe
@@ -66,7 +77,11 @@ Wir werden beschrieben haben
 Ihr werdet beschrieben haben
 Sie werden beschrieben haben
 
+<<<<<<< HEAD
 # [[Modus - Konjunktiv]] 1 - Präsens
+=======
+# [[Modus - Konjunktiv]] 1 - Present
+>>>>>>> 5ee0bb7 (Other batch formatting on verbs conjugations)
 Ich beschreibe
 Du beschreibest
 Er/Sie/Es beschreibe
