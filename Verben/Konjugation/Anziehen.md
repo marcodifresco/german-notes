@@ -1,7 +1,10 @@
 ___
 Links: [[Verben]] - [[Typ - Irregular verben]] - [[Typ - Trennbare verben]]
-Meaning: to Dress / Put on
+Meaning: to dress / put on
 ___
+
+# Variants
+[[Ziehen]] --> to pull
 
 # [[Modus - Indikativ]] - Präsens
 ich ziehe an
@@ -51,10 +54,7 @@ wir werden angezogen sein
 ihr werdet angezogen sein
 Sie werdet angezogen sein
 
-# Variants
-English German
-Pull [[Ziehen]]
-# [[Modus - Konjunktiv]] 1 - Present
+# [[Modus - Konjunktiv]] 1 - Präsens
 ich ziehe an
 du ziehest an
 er/sie/es ziehe an
