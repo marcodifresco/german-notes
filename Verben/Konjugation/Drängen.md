@@ -2,7 +2,7 @@ ___
 Links: [[Verben]] - [[Typ - Regular verben]]
 Meaning: Urge
 ___
-# [[Indikativ - Präsens]]
+# [[Modus - Indikativ]] - Präsens
 ich dränge
 du drängst
 er/sie/es drängt
@@ -11,7 +11,7 @@ ihr drängt
 Sie drängen
 
 
-# [[Indikativ - Präteritum]]
+# [[Modus - Indikativ]] - Präteritum
 ich drängte
 du drängtest
 er/sie/es drängte
@@ -20,7 +20,7 @@ ihr drängtet
 Sie drängten
 
 
-# [[Indikativ - Perfekt]]
+# [[Modus - Indikativ]] - Perfekt
 ich habe gedrängt
 du hast gedrängt
 er/sie/es hat gedrängt
@@ -29,7 +29,7 @@ ihr habt gedrängt
 Sie haben gedrängt
 
 
-# [[Indikativ - Plusquamperfekt]]
+# [[Modus - Indikativ]] - Plusquamperfekt
 ich hatte gedrängt
 du hattest gedrängt
 er/sie/es hatte gedrängt
@@ -38,7 +38,7 @@ ihr hattet gedrängt
 Sie hatten gedrängt
 
 
-# [[Indikativ - Futur I]]
+# [[Modus - Indikativ]] - Futur I
 ich werde drängen
 du wirst drängen
 er/sie/es wird drängen
@@ -47,32 +47,32 @@ ihr werdet drängen
 Sie werden drängen
 
 
-# [[Indikativ - Futur II]]
+# [[Modus - Indikativ]] - Futur II
 ich werde gedrängt haben
 du wirst gedrängt haben
 er/sie/es wird gedrängt haben
 wir werden gedrängt haben
 ihr werdet gedrängt haben
 Sie werden gedrängt haben
-# [[Konjunktiv I - Present]]
+# [[Modus - Konjunktiv]] 1 - Present
 
-# [[Konjunktiv I - Perfekt]]
+# [[Modus - Konjunktiv]] 1 - Perfekt
 
-# [[Konjunktiv I - Futur I]]
+# [[Modus - Konjunktiv]] 1 - Futur I
 
-# [[Konjunktiv I - Futur II]]
+# [[Modus - Konjunktiv]] 1 - Futur II
 
-# [[Konjunktiv II - Präteritum]]
+# [[Modus - Konjunktiv]] 2 - Präteritum
 
-# [[Konjunktiv II - Futur I]]
+# [[Modus - Konjunktiv]] 2 - Futur I
 
-# [[Konjunktiv II - Futur II]]
+# [[Modus - Konjunktiv]] 2 - Futur II
 
-# [[Konjunktiv II - Plusquamperfekt]]
+# [[Modus - Konjunktiv]] 2 - Plusquamperfekt
 
-# [[Imperativ - Präsens]]
+# [[Modus - Imperativ]] - Präsens
 
-# [[Partizips - Präsens]]
+# [[Modus - Partizips]] - Präsens
 
-# [[Partizips - Perfekt]]
+# [[Modus - Partizips]] - Perfekt
 

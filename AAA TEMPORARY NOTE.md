@@ -35,3 +35,6 @@ das Verhalten = Das Benehmen
 
 AB 81
 6 7 8
+
+[[Herstellen]] [[Typ - Trennbare verben]]
+[[Verlieren]]

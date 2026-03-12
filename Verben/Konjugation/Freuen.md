@@ -2,7 +2,7 @@ ___
 Tags: #Languages/German/Grammar/Verbs 
 Links: [[Verben]] [[Typ - Reflexive Verben]]
 ___
-# [[Indikativ - Präsens]]
+# [[Modus - Indikativ]] - Präsens
 Pronoun|Conjugation
 ------------ | ------------
 Ich | freue
@@ -13,39 +13,39 @@ Ihr | freut
 Sie | freuen
 
 
-# [[Indikativ - Präteritum]]
+# [[Modus - Indikativ]] - Präteritum
 
-# [[Indikativ - Perfekt]]
+# [[Modus - Indikativ]] - Perfekt
 [[Pronomen]] + [[Haben]] + gefreut
 
 # Uses
 Sich [[Freuen]] auf: Ich freue mich auf das Wochenende. (etwas, was kommit)
 Sich [[Freuen]] über: ich freue mich über den Kurs. (was hetzt in diesem Moment ist)
-# [[Indikativ - Plusquamperfekt]]
+# [[Modus - Indikativ]] - Plusquamperfekt
 
-# [[Indikativ - Futur I]]
+# [[Modus - Indikativ]] - Futur I
 
-# [[Indikativ - Futur II]]
+# [[Modus - Indikativ]] - Futur II
 
-# [[Konjunktiv I - Present]]
+# [[Modus - Konjunktiv]] 1 - Present
 
-# [[Konjunktiv I - Perfekt]]
+# [[Modus - Konjunktiv]] 1 - Perfekt
 
-# [[Konjunktiv I - Futur I]]
+# [[Modus - Konjunktiv]] 1 - Futur I
 
-# [[Konjunktiv I - Futur II]]
+# [[Modus - Konjunktiv]] 1 - Futur II
 
-# [[Konjunktiv II - Präteritum]]
+# [[Modus - Konjunktiv]] 2 - Präteritum
 
-# [[Konjunktiv II - Futur I]]
+# [[Modus - Konjunktiv]] 2 - Futur I
 
-# [[Konjunktiv II - Futur II]]
+# [[Modus - Konjunktiv]] 2 - Futur II
 
-# [[Konjunktiv II - Plusquamperfekt]]
+# [[Modus - Konjunktiv]] 2 - Plusquamperfekt
 
-# [[Imperativ - Präsens]]
+# [[Modus - Imperativ]] - Präsens
 
-# [[Partizips - Präsens]]
+# [[Modus - Partizips]] - Präsens
 
-# [[Partizips - Perfekt]]
+# [[Modus - Partizips]] - Perfekt
 

@@ -2,7 +2,7 @@ ___
 Links: [[Verben]] - [[Typ - Irregular verben]]
 Meaning: Pull
 ___
-# [[Indikativ - Präsens]]
+# [[Modus - Indikativ]] - Präsens
 ich ziehe
 du ziehst
 er/sie/es zieht
@@ -10,7 +10,7 @@ wir ziehen
 ihr zieht
 Sie ziehen
 
-# [[Indikativ - Präteritum]]
+# [[Modus - Indikativ]] - Präteritum
 ich zog
 du zogst
 er/sie/es zog
@@ -18,7 +18,7 @@ wir zogen
 ihr zogt
 Sie zogen
 
-# [[Indikativ - Perfekt]]
+# [[Modus - Indikativ]] - Perfekt
 ich bin gezogen
 du bist gezogen
 er/sie/es ist gezogen
@@ -26,7 +26,7 @@ wir sind gezogen
 ihr seid gezogen
 Sie sind gezogen
 
-# [[Indikativ - Plusquamperfekt]]
+# [[Modus - Indikativ]] - Plusquamperfekt
 ich war gezogen
 du warst gezogen
 er/sie/es war gezogen
@@ -34,7 +34,7 @@ wir waren gezogen
 ihr wart gezogen
 Sie waren gezogen
 
-# [[Indikativ - Futur I]]
+# [[Modus - Indikativ]] - Futur I
 ich werde ziehen
 du wirst ziehen
 er/sie/es wird ziehen
@@ -42,7 +42,7 @@ wir werden ziehen
 ihr werdet ziehen
 Sie werden ziehen
 
-# [[Indikativ - Futur II]]
+# [[Modus - Indikativ]] - Futur II
 ich werde gezogen sein
 du wirst gezogen sein
 er/sie/es wird gezogen sein
@@ -68,25 +68,25 @@ Forgive | [[Verziehen]]
 # Notes
 an ab hoch ein aus um -> [[Typ - Trennbare verben]]
 be ent ver er -> [[Typ - Regular verben]]
-# [[Konjunktiv I - Present]]
+# [[Modus - Konjunktiv]] 1 - Present
 
-# [[Konjunktiv I - Perfekt]]
+# [[Modus - Konjunktiv]] 1 - Perfekt
 
-# [[Konjunktiv I - Futur I]]
+# [[Modus - Konjunktiv]] 1 - Futur I
 
-# [[Konjunktiv I - Futur II]]
+# [[Modus - Konjunktiv]] 1 - Futur II
 
-# [[Konjunktiv II - Präteritum]]
+# [[Modus - Konjunktiv]] 2 - Präteritum
 
-# [[Konjunktiv II - Futur I]]
+# [[Modus - Konjunktiv]] 2 - Futur I
 
-# [[Konjunktiv II - Futur II]]
+# [[Modus - Konjunktiv]] 2 - Futur II
 
-# [[Konjunktiv II - Plusquamperfekt]]
+# [[Modus - Konjunktiv]] 2 - Plusquamperfekt
 
-# [[Imperativ - Präsens]]
+# [[Modus - Imperativ]] - Präsens
 
-# [[Partizips - Präsens]]
+# [[Modus - Partizips]] - Präsens
 
-# [[Partizips - Perfekt]]
+# [[Modus - Partizips]] - Perfekt
 

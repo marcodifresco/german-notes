@@ -2,7 +2,7 @@ ___
 Links: [[Verben]] - [[Typ - Irregular verben]] - [[Typ - Trennbare verben]]
 Meaning: Pull (object) off
 ___
-# [[Indikativ - Präsens]]
+# [[Modus - Indikativ]] - Präsens
 ich ziehe ab
 du ziehst ab
 er/sie/es zieht ab
@@ -10,7 +10,7 @@ wir ziehen ab
 ihr zieht ab
 Sie ziehen ab
 
-# [[Indikativ - Präteritum]]
+# [[Modus - Indikativ]] - Präteritum
 ich zog ab
 du zogst ab
 er/sie/es zog ab
@@ -18,7 +18,7 @@ wir zogen ab
 ihr zogt ab
 Sie zogen ab
 
-# [[Indikativ - Perfekt]]
+# [[Modus - Indikativ]] - Perfekt
 ich bin abgezogen
 du bist abgezogen
 er/sie/es ist abgezogen
@@ -26,7 +26,7 @@ wir sind abgezogen
 ihr seid abgezogen
 Sie sind abgezogen
 
-# [[Indikativ - Plusquamperfekt]]
+# [[Modus - Indikativ]] - Plusquamperfekt
 ich war abgezogen
 du warst abgezogen
 er/sie/es war abgezogen
@@ -34,7 +34,7 @@ wir waren abgezogen
 ihr wart abgezogen
 Sie waren abgezogen
 
-# [[Indikativ - Futur I]]
+# [[Modus - Indikativ]] - Futur I
 ich werde abziehen
 du wirst abziehen
 er/sie/es wird abziehen
@@ -42,7 +42,7 @@ wir werden abziehen
 ihr werdet abziehen
 Sie werden abziehen
 
-# [[Indikativ - Futur II]]
+# [[Modus - Indikativ]] - Futur II
 ich werde abgezogen sein
 du wirst abgezogen sein
 er/sie/es wird abgezogen sein
@@ -54,25 +54,25 @@ Sie werden abgezogen sein
 English |German
 ------------ | ------------
 Pull | [[Ziehen]]
-# [[Konjunktiv I - Present]]
+# [[Modus - Konjunktiv]] 1 - Present
 
-# [[Konjunktiv I - Perfekt]]
+# [[Modus - Konjunktiv]] 1 - Perfekt
 
-# [[Konjunktiv I - Futur I]]
+# [[Modus - Konjunktiv]] 1 - Futur I
 
-# [[Konjunktiv I - Futur II]]
+# [[Modus - Konjunktiv]] 1 - Futur II
 
-# [[Konjunktiv II - Präteritum]]
+# [[Modus - Konjunktiv]] 2 - Präteritum
 
-# [[Konjunktiv II - Futur I]]
+# [[Modus - Konjunktiv]] 2 - Futur I
 
-# [[Konjunktiv II - Futur II]]
+# [[Modus - Konjunktiv]] 2 - Futur II
 
-# [[Konjunktiv II - Plusquamperfekt]]
+# [[Modus - Konjunktiv]] 2 - Plusquamperfekt
 
-# [[Imperativ - Präsens]]
+# [[Modus - Imperativ]] - Präsens
 
-# [[Partizips - Präsens]]
+# [[Modus - Partizips]] - Präsens
 
-# [[Partizips - Perfekt]]
+# [[Modus - Partizips]] - Perfekt
 

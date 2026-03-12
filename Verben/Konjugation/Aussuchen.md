@@ -2,7 +2,7 @@ ___
 Tags: #Languages/German/Grammar/Verbs/Regular 
 Links: [[Verben]] [[Typ - Trennbare verben]]
 ___
-# [[Indikativ - Präsens]]
+# [[Modus - Indikativ]] - Präsens
 Pronoun|Conjugation
 ------------ | ------------
 Ich | suche aus
@@ -12,7 +12,7 @@ Wir | suchen aus
 Ihr | sucht aus
 Sie | suchen aus
 
-# [[Indikativ - Präteritum]]
+# [[Modus - Indikativ]] - Präteritum
 | Pronoun   | Conjugation  |
 | --------- | ------------ |
 | Ich       | suchte aus   |
@@ -22,18 +22,18 @@ Sie | suchen aus
 | Ihr       | suchtet aus  |
 | Sie       | suchten aus  |
 
-# [[Indikativ - Perfekt]]
+# [[Modus - Indikativ]] - Perfekt
 [[Pronomen]] + [[Haben]] + ausgesucht
 
-# [[Indikativ - Plusquamperfekt]]
+# [[Modus - Indikativ]] - Plusquamperfekt
 [[Pronomen]] + [[Haben#Präteritum|Hatten]] + ausgesucht
 
-# [[Indikativ - Futur I]]
+# [[Modus - Indikativ]] - Futur I
 [[Pronomen]] + [[Werden]] + aussuchen
 
-# [[Indikativ - Futur II]]
-[[Pronomen]] + [[Werden]] + ausgesucht + [[Haben]]# [[Indikativ - Präsens]]
+# [[Modus - Indikativ]] - Futur II
+[[Pronomen]] + [[Werden]] + ausgesucht + [[Haben]]# [[Modus - Indikativ]] - Präsens
 
-# [[Indikativ - Perfekt]]
+# [[Modus - Indikativ]] - Perfekt
 [[Pronomen]] + [[Haben]] + ausgesucht
 
