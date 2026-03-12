@@ -1,6 +1,6 @@
 ___
-Links: [[Verben]]
-Meaning:
+Links: [[Verben]] [[Typ - Regular verben]]
+Meaning: to work
 ___
 
 # [[Modus - Indikativ]] - Präsens
@@ -10,7 +10,6 @@ Er/Sie/Es arbeitet
 Wir arbeiten
 Ihr arbeitet
 Sie arbeiten
-
 
 # [[Modus - Indikativ]] - Präteritum
 Ich arbeitete

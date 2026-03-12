@@ -103,6 +103,6 @@ Understand | [[Verstehen]]
 Urge | [[Drängen]]
 Visit | [[Besuchen]]
 Wait | [[Warten]]
-Work | [[Arbaiten]]
+Work | [[Arbeiten]]
 
 ^5ef5c7

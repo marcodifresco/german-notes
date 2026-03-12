@@ -69,7 +69,7 @@ Modal verbs drop the umlaut in the past.
 
 # Conjugation Plusquamperfekt
 Plusquamperfekt = hatte/war ([[Indikativ - Präteritum]]) + Past Participle
-**"[[Haben]]"** → Most verbs (**[[Machen]], [[Arbaiten]], [[Sagen]], [[Kaufen]]**)
+**"[[Haben]]"** → Most verbs (**[[Machen]], [[Arbeiten]], [[Sagen]], [[Kaufen]]**)
 **"[[Sein]]"** → Verbs that involve movement or change of state (**[[Gehen]], [[Fahren]], [[Kommen]], [[Aufstehen]]**)
 
 # Conjugation Future I
