@@ -3,6 +3,9 @@ Links: [[Verben]] [[Typ - Irregular verben]] [[Typ - Trennbare verben]]
 Meaning: contemplate/consider
 ___
 
+# Rule
+Denken an + [[Akkusativ]]
+
 # [[Modus - Indikativ]] - Präsens
 Ich denke an
 Du denkst an
@@ -27,8 +30,6 @@ Wir haben angedacht
 Ihr habt angedacht
 Sie haben angedacht
 
-# Rule
-Denken an + [[Akkusativ]]
 # [[Modus - Indikativ]] - Plusquamperfekt
 Ich hatte angedacht
 Du hattest angedacht
