@@ -1,6 +1,6 @@
 ___
-Links: [[Verben]]
-Meaning:
+Links: [[Verben]] [[Typ - Irregular verben]] [[Typ - Trennbare verben]]
+Meaning: to arrive
 ___
 
 # [[Modus - Indikativ]] - Präsens
@@ -10,7 +10,6 @@ Er/Sie/Es kommt an
 Wir kommen an
 Ihr kommt an
 Sie kommen an
-
 
 # [[Modus - Indikativ]] - Präteritum
 Ich kam an
