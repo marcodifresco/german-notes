@@ -29,7 +29,6 @@ Ihr habt abgestimmt
 Sie haben abgestimmt
 
 # [[Modus - Indikativ]] - Plusquamperfekt
-[[Pronomen]] + [[Hatten]] + abgestimmt
 Ich hatte abgestimmt
 Du hattest abgestimmt
 Er/Sie/Es hatte abgestimmt
@@ -38,7 +37,6 @@ Ihr hattet abgestimmt
 Sie hatten abgestimmt
 
 # [[Modus - Indikativ]] - Futur I
-[[Pronomen]] + [[Werden]] + abstimmen
 Ich werde abstimmen
 Du wirst abstimmen
 Er/Sie/Es wird abstimmen
@@ -47,7 +45,6 @@ Ihr werdet abstimmen
 Sie werden abstimmen
 
 # [[Modus - Indikativ]] - Futur II
-[[Pronomen]] + [[Werden]] + abgestimmt haben
 Ich werde abgestimmt haben
 Du wirst abgestimmt haben
 Er/Sie/Es wird abgestimmt haben
@@ -64,7 +61,6 @@ Ihr stimmet ab
 Sie stimmen ab
 
 # [[Modus - Konjunktiv]] 1 - Perfekt
-[[Pronomen]] + [[Haben (Konjunktiv 1)]] + abgestimmt
 Ich habe abgestimmt
 Du habest abgestimmt
 Er/Sie/Es habe abgestimmt
@@ -73,7 +69,6 @@ Ihr habet abgestimmt
 Sie haben abgestimmt
 
 # [[Modus - Konjunktiv]] 1 - Futur I
-[[Pronomen]] + [[Werden (Konjunktiv 1)]] + abstimmen
 Ich werde abstimmen
 Du werdest abstimmen
 Er/Sie/Es werde abstimmen
@@ -82,7 +77,6 @@ Ihr werdet abstimmen
 Sie werden abstimmen
 
 # [[Modus - Konjunktiv]] 1 - Futur II
-[[Pronomen]] + [[Werden (Konjunktiv 1)]] + abgestimmt haben
 Ich werde abgestimmt haben
 Du werdest abgestimmt haben
 Er/Sie/Es werde abgestimmt haben
@@ -99,7 +93,6 @@ Ihr stimmtet ab
 Sie stimmten ab
 
 # [[Modus - Konjunktiv]] 2 - Futur I
-[[Pronomen]] + [[Werden (Konjunktiv 2)]] + abstimmen
 Ich würde abstimmen
 Du würdest abstimmen
 Er/Sie/Es würde abstimmen
@@ -108,7 +101,6 @@ Ihr würdet abstimmen
 Sie würden abstimmen
 
 # [[Modus - Konjunktiv]] 2 - Futur II
-[[Pronomen]] + [[Werden (Konjunktiv 2)]] + abgestimmt haben
 Ich würde abgestimmt haben
 Du würdest abgestimmt haben
 Er/Sie/Es würde abgestimmt haben
@@ -117,7 +109,6 @@ Ihr würdet abgestimmt haben
 Sie würden abgestimmt haben
 
 # [[Modus - Konjunktiv]] 2 - Plusquamperfekt
-[[Pronomen]] + [[Haben (Konjunktiv 2)]] + abgestimmt
 Ich hätte abgestimmt
 Du hättest abgestimmt
 Er/Sie/Es hätte abgestimmt
