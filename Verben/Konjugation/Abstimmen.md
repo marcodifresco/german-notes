@@ -11,7 +11,6 @@ Wir stimmen ab
 Ihr stimmt ab
 Sie stimmen ab
 
-
 # [[Modus - Indikativ]] - Präteritum
 Ich stimmte ab
 Du stimmtest ab
