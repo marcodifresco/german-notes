@@ -1,6 +1,6 @@
 ___
-Links: [[Verben]] [[Typ - Trennbare verben]]
-Meaning:
+Links: [[Verben]] [[Typ - Regular verben]] [[Typ - Trennbare verben]]
+Meaning: to watch/look at
 ___
 
 # [[Modus - Indikativ]] - Präsens
@@ -10,7 +10,6 @@ Er/Sie/Es schaut an
 Wir schauen an
 Ihr schaut an
 Sie schauen an
-
 
 # [[Modus - Indikativ]] - Präteritum
 Ich schaute an
