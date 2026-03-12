@@ -123,11 +123,7 @@ Er/Sie/Es (formal) Fangen Sie an!
 Wir Fangen wir an!
 
 # [[Modus - Partizips]] - Präsens
-Conjugation
-------------
 anfangend
 
 # [[Modus - Partizips]] - Perfekt
-Conjugation
-------------
 angefangen
