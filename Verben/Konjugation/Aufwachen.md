@@ -1,6 +1,6 @@
 ___
 Links: [[Verben]] [[Typ - Irregular verben]] [[Typ - Trennbare verben]]
-Meaning: to Wake up
+Meaning: to wake up
 ___
 
 # [[Modus - Indikativ]] - Präsens
