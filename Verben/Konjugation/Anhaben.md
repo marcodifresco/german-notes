@@ -1,6 +1,6 @@
 ___
-Links: [[Verben]] [[Typ - Trennbare verben]]
-Meaning:
+Links: [[Verben]] [[Typ - Irregular verben]] [[Typ - Trennbare verben]]
+Meaning: to wear
 ___
 
 # [[Modus - Indikativ]] - Präsens
@@ -10,7 +10,6 @@ Er/Sie/Es hat an
 Wir haben an
 Ihr habt an
 Sie haben an
-
 
 # [[Modus - Indikativ]] - Präteritum
 Ich hatte an
