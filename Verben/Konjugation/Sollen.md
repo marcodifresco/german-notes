@@ -1,11 +1,9 @@
+___
 Links: [[Verben]] [[Typ - Modal verben]]
 Meaning: Should
-
----
+___
 
 # [[Modus - Indikativ]] - Präsens
-| Pronoun   | Conjugation |
-| --------- | ----------- |
 | Ich       | soll        |
 | Du        | sollst      |
 | Er/Sie/Es | soll        |
@@ -14,8 +12,6 @@ Meaning: Should
 | Sie       | sollen      |
 
 # [[Modus - Indikativ]] - Präteritum
-| Pronoun   | Conjugation |
-| --------- | ----------- |
 | Ich       | sollte      |
 | Du        | solltest    |
 | Er/Sie/Es | sollte      |
@@ -25,7 +21,6 @@ Meaning: Should
 
 # [[Modus - Indikativ]] - Perfekt
 | Pronoun   | Auxiliary Verb | Partizip II |
-| --------- | -------------- | ----------- |
 | Ich       | habe           | gesollt     |
 | Du        | hast           | gesollt     |
 | Er/Sie/Es | hat            | gesollt     |
@@ -35,7 +30,6 @@ Meaning: Should
 
 # [[Modus - Indikativ]] - Plusquamperfekt
 | Pronoun   | Auxiliary Verb | Partizip II |
-| --------- | -------------- | ----------- |
 | Ich       | hatte          | gesollt     |
 | Du        | hattest        | gesollt     |
 | Er/Sie/Es | hatte          | gesollt     |
@@ -45,7 +39,6 @@ Meaning: Should
 
 # [[Modus - Indikativ]] - Futur I
 | Pronoun   | Auxiliary Verb | Infinitive |
-| --------- | -------------- | ---------- |
 | Ich       | werde          | sollen     |
 | Du        | wirst          | sollen     |
 | Er/Sie/Es | wird           | sollen     |
@@ -55,7 +48,6 @@ Meaning: Should
 
 # [[Modus - Indikativ]] - Futur II
 | Pronoun   | Auxiliary Verb (werden) | Partizip II | Auxiliary Verb (haben) |
-| --------- | ----------------------- | ----------- | ---------------------- |
 | Ich       | werde                   | gesollt     | haben                  |
 | Du        | wirst                   | gesollt     | haben                  |
 | Er/Sie/Es | wird                    | gesollt     | haben                  |
@@ -64,8 +56,6 @@ Meaning: Should
 | Sie       | werden                  | gesollt     | haben                  |
 
 # [[Modus - Konjunktiv]] 1 - Present
-| Pronoun   | Conjugation |
-| --------- | ----------- |
 | Ich       | solle       |
 | Du        | sollest     |
 | Er/Sie/Es | solle       |
@@ -75,7 +65,6 @@ Meaning: Should
 
 # [[Modus - Konjunktiv]] 1 - Perfekt
 | Pronoun   | Auxiliary Verb (Konj. I) | Partizip II |
-| --------- | ------------------------ | ----------- |
 | Ich       | habe                     | gesollt     |
 | Du        | habest                   | gesollt     |
 | Er/Sie/Es | habe                     | gesollt     |
@@ -85,7 +74,6 @@ Meaning: Should
 
 # [[Modus - Konjunktiv]] 1 - Futur I
 | Pronoun   | Auxiliary Verb (Konj. I) | Infinitive |
-| --------- | ------------------------ | ---------- |
 | Ich       | werde                    | sollen     |
 | Du        | werdest                  | sollen     |
 | Er/Sie/Es | werde                    | sollen     |
@@ -95,7 +83,6 @@ Meaning: Should
 
 # [[Modus - Konjunktiv]] 1 - Futur II
 | Pronoun   | Auxiliary Verb (Konj. I) | Partizip II | Auxiliary Verb (haben) |
-| --------- | ------------------------ | ----------- | ---------------------- |
 | Ich       | werde                    | gesollt     | haben                  |
 | Du        | werdest                  | gesollt     | haben                  |
 | Er/Sie/Es | werde                    | gesollt     | haben                  |
@@ -104,8 +91,6 @@ Meaning: Should
 | Sie       | werden                   | gesollt     | haben                  |
 
 # [[Modus - Konjunktiv]] 2 - Präteritum
-| Pronoun   | Conjugation |
-| --------- | ----------- |
 | Ich       | sollte      |
 | Du        | solltest    |
 | Er/Sie/Es | sollte      |
@@ -115,7 +100,6 @@ Meaning: Should
 
 # [[Modus - Konjunktiv]] 2 - Futur I
 | Pronoun   | Auxiliary Verb (Konj. II) | Infinitive |
-| --------- | ------------------------- | ---------- |
 | Ich       | würde                     | sollen     |
 | Du        | würdest                   | sollen     |
 | Er/Sie/Es | würde                     | sollen     |
@@ -125,7 +109,6 @@ Meaning: Should
 
 # [[Modus - Konjunktiv]] 2 - Futur II
 | Pronoun   | Auxiliary Verb (Konj. II) | Partizip II | Auxiliary Verb (haben) |
-| --------- | ------------------------- | ----------- | ---------------------- |
 | Ich       | würde                     | gesollt     | haben                  |
 | Du        | würdest                   | gesollt     | haben                  |
 | Er/Sie/Es | würde                     | gesollt     | haben                  |
@@ -135,7 +118,6 @@ Meaning: Should
 
 # [[Modus - Konjunktiv]] 2 - Plusquamperfekt
 | Pronoun   | Auxiliary Verb (Konj. II) | Partizip II |
-| --------- | ------------------------- | ----------- |
 | Ich       | hätte                     | gesollt     |
 | Du        | hättest                   | gesollt     |
 | Er/Sie/Es | hätte                     | gesollt     |
@@ -160,8 +142,6 @@ Tags: #Languages/German/Grammar/Verbs/Irregular
 Links: [[Verben]]
 ___
 # [[Modus - Indikativ]] - Präsens
-| Pronoun   | Conjugation |
-| --------- | ----------- |
 | Ich       | soll        |
 | Du        | sollst      |
 | Er/Sie/Es | soll        |
@@ -171,8 +151,6 @@ ___
 
 
 # [[Modus - Konjunktiv]] 2 - Präteritum
-| Pronoun   | Conjugation |
-| --------- | ----------- |
 | Ich       | sollte      |
 | Du        | solltest    |
 | Er/Sie/Es | sollte      |

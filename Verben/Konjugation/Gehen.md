@@ -1,7 +1,8 @@
 ___
-Tags: #Languages/German/Grammar/Verbs/Irregular  
 Links: [[Verben]]
+Meaning:
 ___
+
 # [[Modus - Indikativ]] - Präsens
 Ich gehe
 Du gehst

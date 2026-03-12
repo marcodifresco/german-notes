@@ -1,7 +1,7 @@
+___
 Links: [[Verben]] [[Typ - Regular verben]]
 Meaning: Position
-
----
+___
 
 # [[Modus - Indikativ]] - Präsens
 ich stelle

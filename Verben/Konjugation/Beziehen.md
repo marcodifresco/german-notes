@@ -1,6 +1,8 @@
+___
 Links: [[Verben]] [[Typ - Regular verben]]
 Meaning: Relate
 ___
+
 # [[Modus - Indikativ]] - Präsens
 ich beziehe mich
 du beziehst dich

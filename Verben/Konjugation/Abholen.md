@@ -2,6 +2,7 @@ ___
 Links: [[Verben]] [[Typ - Regular verben]] [[Typ - Trennbare verben]]
 Meaning: Pick up
 ___
+
 # [[Modus - Indikativ]] - Präsens
 Ich hole ab
 Du holst ab

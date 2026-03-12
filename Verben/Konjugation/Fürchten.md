@@ -1,7 +1,8 @@
 ___
-Tags: #Languages/German/Grammar/Verbs/Regular  
 Links: [[Verben]]
+Meaning:
 ___
+
 # [[Modus - Indikativ]] - Präsens
 ich fürchte
 du fürchtest

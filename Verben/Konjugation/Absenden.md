@@ -2,6 +2,7 @@ ___
 Links: [[Verben]] [[Typ - Regular verben]] [[Typ - Trennbare verben]]
 Meaning: Submit
 ___
+
 # [[Modus - Indikativ]] - Präsens
 Ich sende ab
 Du sendest ab

@@ -2,6 +2,7 @@ ___
 Links: [[Verben]] - [[Typ - Regular verben]]
 Meaning: Revoke
 ___
+
 # [[Modus - Indikativ]] - Präsens
 ich entziehe
 du entziehst

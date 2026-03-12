@@ -1,27 +1,24 @@
 ___
-Tags: #Languages/German/Grammar/Verbs/Regular  
 Links: [[Verben]]
+Meaning:
 ___
+
 # [[Modus - Indikativ]] - Präsens
-Pronoun|Conjugation
------------- | ------------
-Ich | schneie
-Du | schneist
-Er/Sie/Es | schneit
-Wir | schneien
-Ihr | schneit
-Sie | schneien
+Ich schneie
+Du schneist
+Er/Sie/Es schneit
+Wir schneien
+Ihr schneit
+Sie schneien
 
 
 # [[Modus - Indikativ]] - Präteritum
-Pronoun|Conjugation
------------- | ------------
-Ich | schneite
-Du | schneitest
-Er/Sie/Es | schneite
-Wir | schneiten
-Ihr | schneitet
-Sie | schneiten
+Ich schneite
+Du schneitest
+Er/Sie/Es schneite
+Wir schneiten
+Ihr schneitet
+Sie schneiten
 
 # [[Modus - Indikativ]] - Perfekt
 [[Pronomen]] + [[Haben]] + geschneit
@@ -57,14 +54,12 @@ Ihr werdet geschneit haben
 Sie werden geschneit haben
 
 # [[Modus - Konjunktiv]] 1 - Present
-Pronoun|Conjugation
------------- | ------------
-Ich | schneie
-Du | schneiest
-Er/Sie/Es | schneie
-Wir | schneien
-Ihr | schneiet
-Sie | schneien
+Ich schneie
+Du schneiest
+Er/Sie/Es schneie
+Wir schneien
+Ihr schneiet
+Sie schneien
 
 # [[Modus - Konjunktiv]] 1 - Perfekt
 Ich habe geschneit
@@ -91,14 +86,12 @@ Ihr werdet geschneit haben
 Sie werden geschneit haben
 
 # [[Modus - Konjunktiv]] 2 - Präteritum
-Pronoun|Conjugation
------------- | ------------
-Ich | schneite
-Du | schneitest
-Er/Sie/Es | schneite
-Wir | schneiten
-Ihr | schneitet
-Sie | schneiten
+Ich schneite
+Du schneitest
+Er/Sie/Es schneite
+Wir schneiten
+Ihr schneitet
+Sie schneiten
 
 # [[Modus - Konjunktiv]] 2 - Futur I
 Ich würde schneien

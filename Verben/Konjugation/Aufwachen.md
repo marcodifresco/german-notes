@@ -1,7 +1,7 @@
+___
 Links: [[Verben]] [[Typ - Irregular verben]] [[Typ - Trennbare verben]]
 Meaning: Wake up
-
----
+___
 
 # [[Modus - Indikativ]] - Präsens
 ich wache auf

@@ -25,7 +25,6 @@ das Verhalten = Das Benehmen
 - Ich weiß, dass Olli die Pommes Frites zu seinem Steak hätte behalten sollen
 
 | Reklamiren                                                     | Bezhalen                |
-| -------------------------------------------------------------- | ----------------------- |
 | Verzeihen Sie, aber die suppe is kalt                          | Di Rechtnng bitte       |
 | Ich Gebe es an die Küche weiter                                | Das macht               |
 | Der Salat war nicht fisch                                      | Wir würden gern zahlen  |

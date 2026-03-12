@@ -2,6 +2,7 @@ ___
 Links: [[Verben]] [[Typ - Irregular verben]] [[Typ - Trennbare verben]]
 Meaning: Depart
 ___
+
 # [[Modus - Indikativ]] - Präsens
 Ich fahre ab
 Du fährst ab

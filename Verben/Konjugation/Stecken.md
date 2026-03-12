@@ -1,7 +1,7 @@
+___
 Links: [[Verben]] [[Typ - Regular verben]]
 Meaning: Put
-
----
+___
 
 # [[Modus - Indikativ]] - Präsens
 ich stecke

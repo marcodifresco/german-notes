@@ -1,7 +1,7 @@
+___
 Links: [[Verben]] [[Typ - Regular verben]] [[Typ - Trennbare verben]]
 Meaning: Carry out
-
----
+___
 
 # [[Modus - Indikativ]] - Präsens
 ich führe aus

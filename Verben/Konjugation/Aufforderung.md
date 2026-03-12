@@ -1,9 +1,7 @@
 ___
-
 Links: [[Verben]] [[Typ Regular verben]] [[Typ Trennbare verben]]
 Meaning: To request
-
----
+___
 
 # [[Indikativ Präsens]]
 ich fordere auf

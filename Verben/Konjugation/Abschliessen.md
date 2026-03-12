@@ -2,6 +2,7 @@ ___
 Links: [[Verben]] [[Typ - Irregular verben]] [[Typ - Trennbare verben]]
 Meaning: Complete
 ___
+
 # [[Modus - Indikativ]] - Präsens
 ich schliesse ab
 du schliesst ab

@@ -1,16 +1,15 @@
 ___
-Tags: #Languages/German/Grammar/Verbs/Regular  
 Links: [[Verben]]
+Meaning:
 ___
+
 # [[Modus - Indikativ]] - Präsens
-Pronoun|Conjugation
------------- | ------------
-Ich | lerne
-Du | lernst
-Er/Sie/Es | lernt
-Wir | lernen
-Ihr | lernt
-Sie | lernen
+Ich lerne
+Du lernst
+Er/Sie/Es lernt
+Wir lernen
+Ihr lernt
+Sie lernen
 
 
 # [[Modus - Indikativ]] - Präteritum

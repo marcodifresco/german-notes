@@ -1,7 +1,7 @@
+___
 Links: [[Verben]] [[Typ - Irregular verben]] [[Typ - Trennbare verben]]
 Meaning: Forgive
-
----
+___
 
 # [[Modus - Indikativ]] - Präsens
 

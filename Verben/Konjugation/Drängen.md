@@ -2,6 +2,7 @@ ___
 Links: [[Verben]] - [[Typ - Regular verben]]
 Meaning: Urge
 ___
+
 # [[Modus - Indikativ]] - Präsens
 ich dränge
 du drängst

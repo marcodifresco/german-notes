@@ -1,7 +1,8 @@
 ___
-Tags: #Languages/German/Grammar/Verbs/Regular 
 Links: [[Verben]] [[Typ - Trennbare verben]]
+Meaning:
 ___
+
 # [[Modus - Indikativ]] - Präsens
 ich stelle vor
 du stellst vor

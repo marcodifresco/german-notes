@@ -1,147 +1,121 @@
-Tags: #Languages/German/Grammar/Verbs/Regular  
-Links: [[Verben]]
 ___
+Links: [[Verben]]
+Meaning:
+___
+
 # [[Modus - Indikativ]] - Präsens
-Pronoun|Conjugation
------------- | ------------
-Ich | klettere
-Du | kletterst
-Er/Sie/Es | klettert
-Wir | klettern
-Ihr | klettert
-Sie | klettern
+Ich klettere
+Du kletterst
+Er/Sie/Es klettert
+Wir klettern
+Ihr klettert
+Sie klettern
 
 
 # [[Modus - Indikativ]] - Präteritum
-Pronoun|Conjugation
------------- | ------------
-Ich | kletterte
-Du | klettertest
-Er/Sie/Es | kletterte
-Wir | kletterten
-Ihr | klettertet
-Sie | kletterten
+Ich kletterte
+Du klettertest
+Er/Sie/Es kletterte
+Wir kletterten
+Ihr klettertet
+Sie kletterten
 
 # [[Modus - Indikativ]] - Perfekt
 [[Pronomen]] + [[Sein]] + geklettert
-Pronoun|Conjugation
------------- | ------------
-Ich | bin geklettert
-Du | bist geklettert
-Er/Sie/Es | ist geklettert
-Wir | sind geklettert
-Ihr | seid geklettert
-Sie | sind geklettert
+Ich bin geklettert
+Du bist geklettert
+Er/Sie/Es ist geklettert
+Wir sind geklettert
+Ihr seid geklettert
+Sie sind geklettert
 
 # [[Modus - Indikativ]] - Plusquamperfekt
-Pronoun|Conjugation
------------- | ------------
-Ich | war geklettert
-Du | warst geklettert
-Er/Sie/Es | war geklettert
-Wir | waren geklettert
-Ihr | wart geklettert
-Sie | waren geklettert
+Ich war geklettert
+Du warst geklettert
+Er/Sie/Es war geklettert
+Wir waren geklettert
+Ihr wart geklettert
+Sie waren geklettert
 
 # [[Modus - Indikativ]] - Futur I
-Pronoun|Conjugation
------------- | ------------
-Ich | werde klettern
-Du | wirst klettern
-Er/Sie/Es | wird klettern
-Wir | werden klettern
-Ihr | werdet klettern
-Sie | werden klettern
+Ich werde klettern
+Du wirst klettern
+Er/Sie/Es wird klettern
+Wir werden klettern
+Ihr werdet klettern
+Sie werden klettern
 
 # [[Modus - Indikativ]] - Futur II
-Pronoun|Conjugation
------------- | ------------
-Ich | werde geklettert sein
-Du | wirst geklettert sein
-Er/Sie/Es | wird geklettert sein
-Wir | werden geklettert sein
-Ihr | werdet geklettert sein
-Sie | werden geklettert sein
+Ich werde geklettert sein
+Du wirst geklettert sein
+Er/Sie/Es wird geklettert sein
+Wir werden geklettert sein
+Ihr werdet geklettert sein
+Sie werden geklettert sein
 
 # [[Modus - Konjunktiv]] 1 - Present
-Pronoun|Conjugation
------------- | ------------
-Ich | klettere
-Du | kletterest
-Er/Sie/Es | klettere
-Wir | klettern
-Ihr | kletteret
-Sie | klettern
+Ich klettere
+Du kletterest
+Er/Sie/Es klettere
+Wir klettern
+Ihr kletteret
+Sie klettern
 
 # [[Modus - Konjunktiv]] 1 - Perfekt
-Pronoun|Conjugation
------------- | ------------
-Ich | sei geklettert
-Du | seiest geklettert
-Er/Sie/Es | sei geklettert
-Wir | seien geklettert
-Ihr | seiet geklettert
-Sie | seien geklettert
+Ich sei geklettert
+Du seiest geklettert
+Er/Sie/Es sei geklettert
+Wir seien geklettert
+Ihr seiet geklettert
+Sie seien geklettert
 
 # [[Modus - Konjunktiv]] 1 - Futur I
-Pronoun|Conjugation
------------- | ------------
-Ich | werde klettern
-Du | werdest klettern
-Er/Sie/Es | werde klettern
-Wir | werden klettern
-Ihr | werdet klettern
-Sie | werden klettern
+Ich werde klettern
+Du werdest klettern
+Er/Sie/Es werde klettern
+Wir werden klettern
+Ihr werdet klettern
+Sie werden klettern
 
 # [[Modus - Konjunktiv]] 1 - Futur II
-Pronoun|Conjugation
------------- | ------------
-Ich | werde geklettert sein
-Du | werdest geklettert sein
-Er/Sie/Es | werde geklettert sein
-Wir | werden geklettert sein
-Ihr | werdet geklettert sein
-Sie | werden geklettert sein
+Ich werde geklettert sein
+Du werdest geklettert sein
+Er/Sie/Es werde geklettert sein
+Wir werden geklettert sein
+Ihr werdet geklettert sein
+Sie werden geklettert sein
 
 # [[Modus - Konjunktiv]] 2 - Präteritum
-Pronoun|Conjugation
------------- | ------------
-Ich | kletterte
-Du | klettertest
-Er/Sie/Es | kletterte
-Wir | kletterten
-Ihr | klettertet
-Sie | kletterten
+Ich kletterte
+Du klettertest
+Er/Sie/Es kletterte
+Wir kletterten
+Ihr klettertet
+Sie kletterten
 
 # [[Modus - Konjunktiv]] 2 - Futur I
-Pronoun|Conjugation
------------- | ------------
-Ich | würde klettern
-Du | würdest klettern
-Er/Sie/Es | würde klettern
-Wir | würden klettern
-Ihr | würdet klettern
-Sie | würden klettern
+Ich würde klettern
+Du würdest klettern
+Er/Sie/Es würde klettern
+Wir würden klettern
+Ihr würdet klettern
+Sie würden klettern
 
 # [[Modus - Konjunktiv]] 2 - Futur II
-Pronoun|Conjugation
------------- | ------------
-Ich | würde geklettert sein
-Du | würdest geklettert sein
-Er/Sie/Es | würde geklettert sein
-Wir | würden geklettert sein
-Ihr | würdet geklettert sein
-Sie | würden geklettert sein
+Ich würde geklettert sein
+Du würdest geklettert sein
+Er/Sie/Es würde geklettert sein
+Wir würden geklettert sein
+Ihr würdet geklettert sein
+Sie würden geklettert sein
 
 # [[Modus - Konjunktiv]] 2 - Plusquamperfekt
-Pronoun|Conjugation
------------- | ------------
-Ich | wäre geklettert
-Du | wärest geklettert
-Er/Sie/Es | wäre geklettert
-Wir | wären geklettert
-Ihr | wäret geklettert
-Sie | wären geklettert
+Ich wäre geklettert
+Du wärest geklettert
+Er/Sie/Es wäre geklettert
+Wir wären geklettert
+Ihr wäret geklettert
+Sie wären geklettert
 
 # [[Modus - Imperativ]] - Präsens
 klettere! (du)

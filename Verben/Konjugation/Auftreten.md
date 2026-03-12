@@ -1,9 +1,7 @@
 ___
-
 Links: [[Verben]] [[Typ Irregular verben]] [[Typ Trennbare verben]]
 Meaning: Appear
-
----
+___
 
 # [[Indikativ Präsens]]
 ich trete auf

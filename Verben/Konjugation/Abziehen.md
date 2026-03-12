@@ -2,6 +2,7 @@ ___
 Links: [[Verben]] - [[Typ - Irregular verben]] - [[Typ - Trennbare verben]]
 Meaning: Pull (object) off
 ___
+
 # [[Modus - Indikativ]] - Präsens
 ich ziehe ab
 du ziehst ab
@@ -51,9 +52,8 @@ ihr werdet abgezogen sein
 Sie werden abgezogen sein
 
 # Variants
-English |German
------------- | ------------
-Pull | [[Ziehen]]
+English German
+Pull [[Ziehen]]
 # [[Modus - Konjunktiv]] 1 - Present
 ich ziehe ab
 du ziehest ab

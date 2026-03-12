@@ -1,27 +1,24 @@
 ___
-Tags: #Languages/German/Grammar/Verbs/Regular  
 Links: [[Verben]]
+Meaning:
 ___
+
 # [[Modus - Indikativ]] - Präsens
-Pronoun|Conjugation
------------- | ------------
-Ich | sortiere
-Du | sortierst
-Er/Sie/Es | sortiert
-Wir | sortieren
-Ihr | sortiert
-Sie | sortieren
+Ich sortiere
+Du sortierst
+Er/Sie/Es sortiert
+Wir sortieren
+Ihr sortiert
+Sie sortieren
 
 
 # [[Modus - Indikativ]] - Präteritum
-Pronoun|Conjugation
------------- | ------------
-Ich | sortierte
-Du | sortiertest
-Er/Sie/Es | sortierte
-Wir | sortierten
-Ihr | sortiertet
-Sie | sortierten
+Ich sortierte
+Du sortiertest
+Er/Sie/Es sortierte
+Wir sortierten
+Ihr sortiertet
+Sie sortierten
 
 # [[Modus - Indikativ]] - Perfekt
 [[Pronomen]] + [[Haben]] + sortiert
@@ -57,14 +54,12 @@ Ihr werdet sortiert haben
 Sie werden sortiert haben
 
 # [[Modus - Konjunktiv]] 1 - Present
-Pronoun|Conjugation
------------- | ------------
-Ich | sortiere
-Du | sortierest
-Er/Sie/Es | sortiere
-Wir | sortieren
-Ihr | sortieret
-Sie | sortieren
+Ich sortiere
+Du sortierest
+Er/Sie/Es sortiere
+Wir sortieren
+Ihr sortieret
+Sie sortieren
 
 # [[Modus - Konjunktiv]] 1 - Perfekt
 Ich habe sortiert
@@ -91,14 +86,12 @@ Ihr werdet sortiert haben
 Sie werden sortiert haben
 
 # [[Modus - Konjunktiv]] 2 - Präteritum
-Pronoun|Conjugation
------------- | ------------
-Ich | sortierte
-Du | sortiertest
-Er/Sie/Es | sortierte
-Wir | sortierten
-Ihr | sortiertet
-Sie | sortierten
+Ich sortierte
+Du sortiertest
+Er/Sie/Es sortierte
+Wir sortierten
+Ihr sortiertet
+Sie sortierten
 
 # [[Modus - Konjunktiv]] 2 - Futur I
 Ich würde sortieren

@@ -1,7 +1,7 @@
+___
 Links: [[Verben]] [[Typ Regular verben]]
 Meaning: Advise
-
----
+___
 
 # [[Modus - Indikativ]] - Präsens
 ich berate

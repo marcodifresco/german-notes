@@ -1,7 +1,7 @@
+___
 Links: [[Verben]] [[Verben]] [[Typ - Regular verben]] 
 Meaning: To dig
-
----
+___
 
 # [[Modus - Indikativ]] - Präsens
 ich wühle

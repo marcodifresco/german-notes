@@ -2,6 +2,7 @@ ___
 Links: [[Verben]] - [[Typ - Irregular verben]]
 Meaning: Pull
 ___
+
 # [[Modus - Indikativ]] - Präsens
 ich ziehe
 du ziehst
@@ -51,19 +52,18 @@ ihr werdet gezogen sein
 Sie werden gezogen sein
 
 # Variants
-English |German
------------- | ------------
-Pull (object) off | [[Abziehen]]
-Dress / Put on | [[Anziehen]]
-Take off | [[Ausziehen]]
-Relate | [[Beziehen]] Sich
-Move in| [[Einziehen]]
-Revoke | [[Entziehen]]
-Educate | [[Erziehen]]
-Evade | [[Hinterziehen]]
-Pulling up | [[Hochziehen]]
-Move (Relocate) | [[Umziehen]]
-Forgive | [[Verziehen]]
+English German
+Pull (object) off [[Abziehen]]
+Dress / Put on [[Anziehen]]
+Take off [[Ausziehen]]
+Relate [[Beziehen]] Sich
+Move in [[Einziehen]]
+Revoke [[Entziehen]]
+Educate [[Erziehen]]
+Evade [[Hinterziehen]]
+Pulling up [[Hochziehen]]
+Move (Relocate) [[Umziehen]]
+Forgive [[Verziehen]]
 
 # Notes
 an ab hoch ein aus um -> [[Typ - Trennbare verben]]

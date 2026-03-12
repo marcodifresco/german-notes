@@ -1,7 +1,7 @@
+___
 Links: [[Verben]] [[Typ - Regular verben]] [[Typ - Trennbare verben]]
 Meaning: Spend the night
-
----
+___
 
 # [[Modus - Indikativ]] - Präsens
 ich übernachte

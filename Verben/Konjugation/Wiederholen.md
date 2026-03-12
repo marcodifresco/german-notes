@@ -1,147 +1,120 @@
 ___
-Tags: #Languages/German/Grammar/Verbs/Regular  
 Links: [[Verben]] [[Typ - Trennbare verben]]
+Meaning:
 ___
+
 # [[Modus - Indikativ]] - Präsens
-Pronoun|Conjugation
------------- | ------------
-Ich | wiederhole
-Du | wiederholst
-Er/Sie/Es | wiederholt
-Wir | wiederholen
-Ihr | wiederholt
-Sie | wiederholen
+Ich wiederhole
+Du wiederholst
+Er/Sie/Es wiederholt
+Wir wiederholen
+Ihr wiederholt
+Sie wiederholen
 
 
 # [[Modus - Indikativ]] - Präteritum
-Pronoun|Conjugation
------------- | ------------
-Ich | wiederholte
-Du | wiederholtest
-Er/Sie/Es | wiederholte
-Wir | wiederholten
-Ihr | wiederholtet
-Sie | wiederholten
+Ich wiederholte
+Du wiederholtest
+Er/Sie/Es wiederholte
+Wir wiederholten
+Ihr wiederholtet
+Sie wiederholten
 
 # [[Modus - Indikativ]] - Perfekt
-Pronoun|Conjugation
------------- | ------------
-Ich | habe wiederholt
-Du | hast wiederholt
-Er/Sie/Es | hat wiederholt
-Wir | haben wiederholt
-Ihr | habt wiederholt
-Sie | haben wiederholt
+Ich habe wiederholt
+Du hast wiederholt
+Er/Sie/Es hat wiederholt
+Wir haben wiederholt
+Ihr habt wiederholt
+Sie haben wiederholt
 
 # [[Modus - Indikativ]] - Plusquamperfekt
-Pronoun|Conjugation
------------- | ------------
-Ich | hatte wiederholt
-Du | hattest wiederholt
-Er/Sie/Es | hatte wiederholt
-Wir | hatten wiederholt
-Ihr | hattet wiederholt
-Sie | hatten wiederholt
+Ich hatte wiederholt
+Du hattest wiederholt
+Er/Sie/Es hatte wiederholt
+Wir hatten wiederholt
+Ihr hattet wiederholt
+Sie hatten wiederholt
 
 # [[Modus - Indikativ]] - Futur I
-Pronoun|Conjugation
------------- | ------------
-Ich | werde wiederholen
-Du | wirst wiederholen
-Er/Sie/Es | wird wiederholen
-Wir | werden wiederholen
-Ihr | werdet wiederholen
-Sie | werden wiederholen
+Ich werde wiederholen
+Du wirst wiederholen
+Er/Sie/Es wird wiederholen
+Wir werden wiederholen
+Ihr werdet wiederholen
+Sie werden wiederholen
 
 # [[Modus - Indikativ]] - Futur II
-Pronoun|Conjugation
------------- | ------------
-Ich | werde wiederholt haben
-Du | wirst wiederholt haben
-Er/Sie/Es | wird wiederholt haben
-Wir | werden wiederholt haben
-Ihr | werdet wiederholt haben
-Sie | werden wiederholt haben
+Ich werde wiederholt haben
+Du wirst wiederholt haben
+Er/Sie/Es wird wiederholt haben
+Wir werden wiederholt haben
+Ihr werdet wiederholt haben
+Sie werden wiederholt haben
 
 # [[Modus - Konjunktiv]] 1 - Present
-Pronoun|Conjugation
------------- | ------------
-Ich | wiederhole
-Du | wiederholest
-Er/Sie/Es | wiederhole
-Wir | wiederholen
-Ihr | wiederholet
-Sie | wiederholen
+Ich wiederhole
+Du wiederholest
+Er/Sie/Es wiederhole
+Wir wiederholen
+Ihr wiederholet
+Sie wiederholen
 
 # [[Modus - Konjunktiv]] 1 - Perfekt
-Pronoun|Conjugation
------------- | ------------
-Ich | habe wiederholt
-Du | habest wiederholt
-Er/Sie/Es | habe wiederholt
-Wir | haben wiederholt
-Ihr | habet wiederholt
-Sie | haben wiederholt
+Ich habe wiederholt
+Du habest wiederholt
+Er/Sie/Es habe wiederholt
+Wir haben wiederholt
+Ihr habet wiederholt
+Sie haben wiederholt
 
 # [[Modus - Konjunktiv]] 1 - Futur I
-Pronoun|Conjugation
------------- | ------------
-Ich | werde wiederholen
-Du | werdest wiederholen
-Er/Sie/Es | werde wiederholen
-Wir | werden wiederholen
-Ihr | werdet wiederholen
-Sie | werden wiederholen
+Ich werde wiederholen
+Du werdest wiederholen
+Er/Sie/Es werde wiederholen
+Wir werden wiederholen
+Ihr werdet wiederholen
+Sie werden wiederholen
 
 # [[Modus - Konjunktiv]] 1 - Futur II
-Pronoun|Conjugation
------------- | ------------
-Ich | werde wiederholt haben
-Du | werdest wiederholt haben
-Er/Sie/Es | werde wiederholt haben
-Wir | werden wiederholt haben
-Ihr | werdet wiederholt haben
-Sie | werden wiederholt haben
+Ich werde wiederholt haben
+Du werdest wiederholt haben
+Er/Sie/Es werde wiederholt haben
+Wir werden wiederholt haben
+Ihr werdet wiederholt haben
+Sie werden wiederholt haben
 
 # [[Modus - Konjunktiv]] 2 - Präteritum
-Pronoun|Conjugation
------------- | ------------
-Ich | wiederholte
-Du | wiederholtest
-Er/Sie/Es | wiederholte
-Wir | wiederholten
-Ihr | wiederholtet
-Sie | wiederholten
+Ich wiederholte
+Du wiederholtest
+Er/Sie/Es wiederholte
+Wir wiederholten
+Ihr wiederholtet
+Sie wiederholten
 
 # [[Modus - Konjunktiv]] 2 - Futur I
-Pronoun|Conjugation
------------- | ------------
-Ich | würde wiederholen
-Du | würdest wiederholen
-Er/Sie/Es | würde wiederholen
-Wir | würden wiederholen
-Ihr | würdet wiederholen
-Sie | würden wiederholen
+Ich würde wiederholen
+Du würdest wiederholen
+Er/Sie/Es würde wiederholen
+Wir würden wiederholen
+Ihr würdet wiederholen
+Sie würden wiederholen
 
 # [[Modus - Konjunktiv]] 2 - Futur II
-Pronoun|Conjugation
------------- | ------------
-Ich | würde wiederholt haben
-Du | würdest wiederholt haben
-Er/Sie/Es | würde wiederholt haben
-Wir | würden wiederholt haben
-Ihr | würdet wiederholt haben
-Sie | würden wiederholt haben
+Ich würde wiederholt haben
+Du würdest wiederholt haben
+Er/Sie/Es würde wiederholt haben
+Wir würden wiederholt haben
+Ihr würdet wiederholt haben
+Sie würden wiederholt haben
 
 # [[Modus - Konjunktiv]] 2 - Plusquamperfekt
-Pronoun|Conjugation
------------- | ------------
-Ich | hätte wiederholt
-Du | hättest wiederholt
-Er/Sie/Es | hätte wiederholt
-Wir | hätten wiederholt
-Ihr | hättet wiederholt
-Sie | hätten wiederholt
+Ich hätte wiederholt
+Du hättest wiederholt
+Er/Sie/Es hätte wiederholt
+Wir hätten wiederholt
+Ihr hättet wiederholt
+Sie hätten wiederholt
 
 # [[Modus - Imperativ]] - Präsens
 (du) wiederhole!
