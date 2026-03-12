@@ -1,6 +1,6 @@
 ___
-Links: [[Verben]] [[Typ - Trennbare verben]]
-Meaning:
+Links: [[Verben]] [[Typ - Irregular verben]] [[Typ - Trennbare verben]]
+Meaning: to cut open
 ___
 
 # [[Modus - Indikativ]] - Präsens
@@ -11,7 +11,6 @@ Wir schneiden auf
 Ihr schneidet auf
 Sie schneiden auf
 
-
 # [[Modus - Indikativ]] - Präteritum
 Ich schnitt auf
 Du schnittst auf
@@ -21,7 +20,6 @@ Ihr schnittet auf
 Sie schnitten auf
 
 # [[Modus - Indikativ]] - Perfekt
-[[Pronomen]] + [[Haben]] + aufgeschnitten
 Ich habe aufgeschnitten
 Du hast aufgeschnitten
 Er/Sie/Es hat aufgeschnitten

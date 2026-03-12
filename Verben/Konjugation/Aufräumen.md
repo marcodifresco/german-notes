@@ -19,7 +19,6 @@ Ihr räumtet auf
 Sie räumten auf
 
 # [[Modus - Indikativ]] - Perfekt
-[[Pronomen]] + [[Haben]] + aufgeräumt
 Ich habe aufgeräumt
 Du hast aufgeräumt
 Er/Sie/Es hat aufgeräumt
