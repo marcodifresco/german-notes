@@ -1,6 +1,6 @@
 ___
-Links: [[Verben]] [[Typ - Reflexive Verben]]
-Meaning:
+Links: [[Verben]] [[Typ - Regular verben]] [[Typ - Reflexive Verben]]
+Meaning: to annoy
 ___
 
 # [[Modus - Indikativ]] - Präsens
@@ -10,7 +10,6 @@ Er/Sie/Es ärgert
 Wir ärgern
 Ihr ärgert
 Sie ärgern
-
 
 # [[Modus - Indikativ]] - Präteritum
 Ich ärgerte
