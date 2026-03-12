@@ -1,6 +1,6 @@
 ___
-Tags: #Languages/German/Grammar/Verbs/Irregular  
 Links: [[Verben]]
+Meaning: Depart
 ___
 # [[Modus - Indikativ]] - Präsens
 Pronoun|Conjugation
