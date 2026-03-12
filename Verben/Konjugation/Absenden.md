@@ -11,7 +11,6 @@ Wir senden ab
 Ihr sendet ab
 Sie senden ab
 
-
 # [[Modus - Indikativ]] - Präteritum
 Ich sandte ab
 Du sandtest ab
