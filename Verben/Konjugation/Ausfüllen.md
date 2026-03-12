@@ -64,7 +64,6 @@ Ihr füllet aus
 Sie füllen aus
 
 # [[Modus - Konjunktiv]] 1 - Perfekt
-[[Pronomen]] + [[Haben (Konjunktiv 1)]] + ausgefüllt
 Ich habe ausgefüllt
 Du habest ausgefüllt
 Er/Sie/Es habe ausgefüllt
@@ -73,7 +72,6 @@ Ihr habet ausgefüllt
 Sie haben ausgefüllt
 
 # [[Modus - Konjunktiv]] 1 - Futur I
-[[Pronomen]] + [[Werden (Konjunktiv 1)]] + ausfüllen
 Ich werde ausfüllen
 Du werdest ausfüllen
 Er/Sie/Es werde ausfüllen
@@ -82,7 +80,6 @@ Ihr werdet ausfüllen
 Sie werden ausfüllen
 
 # [[Modus - Konjunktiv]] 1 - Futur II
-[[Pronomen]] + [[Werden (Konjunktiv 1)]] + ausgefüllt + haben
 Ich werde ausgefüllt haben
 Du werdest ausgefüllt haben
 Er/Sie/Es werde ausgefüllt haben
@@ -99,7 +96,6 @@ Ihr fülltet aus
 Sie füllten aus
 
 # [[Modus - Konjunktiv]] 2 - Futur I
-[[Pronomen]] + [[Werden (Konjunktiv 2)]] + ausfüllen
 Ich würde ausfüllen
 Du würdest ausfüllen
 Er/Sie/Es würde ausfüllen
@@ -108,7 +104,6 @@ Ihr würdet ausfüllen
 Sie würden ausfüllen
 
 # [[Modus - Konjunktiv]] 2 - Futur II
-[[Pronomen]] + [[Werden (Konjunktiv 2)]] + ausgefüllt + haben
 Ich würde ausgefüllt haben
 Du würdest ausgefüllt haben
 Er/Sie/Es würde ausgefüllt haben
@@ -117,7 +112,6 @@ Ihr würdet ausgefüllt haben
 Sie würden ausgefüllt haben
 
 # [[Modus - Konjunktiv]] 2 - Plusquamperfekt
-[[Pronomen]] + [[Haben (Konjunktiv 2)]] + ausgefüllt
 Ich hätte ausgefüllt
 Du hättest ausgefüllt
 Er/Sie/Es hätte ausgefüllt
