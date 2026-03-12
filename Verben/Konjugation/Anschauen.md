@@ -3,6 +3,10 @@ Links: [[Verben]] [[Typ - Regular verben]] [[Typ - Trennbare verben]]
 Meaning: to watch/look at
 ___
 
+# Rules
+For viewing specific things.
+EX: Ich schaue mir heute einen Film / eine Serie / ein Spiel an*
+
 # [[Modus - Indikativ]] - Präsens
 Ich schaue an
 Du schaust an
@@ -20,11 +24,13 @@ Ihr schautet an
 Sie schauten an
 
 # [[Modus - Indikativ]] - Perfekt
-[[Pronomen]] + [[Haben]] + angeschaut
+ich habe angeschaut
+du hast angeschaut
+er/sie/es hat angeschaut
+wir haben angeschaut
+ihr habt angeschaut
+Sie haben angeschaut
 
-# Rules
-For viewing specific things.
-EX: Ich schaue mir heute einen Film / eine Serie / ein Spiel an*
 # [[Modus - Indikativ]] - Plusquamperfekt
 Ich hatte angeschaut
 Du hattest angeschaut
@@ -49,7 +55,7 @@ Wir werden angeschaut haben
 Ihr werdet angeschaut haben
 Sie werden angeschaut haben
 
-# [[Modus - Konjunktiv]] 1 - Present
+# [[Modus - Konjunktiv]] 1 - Präsens
 Ich schaue an
 Du schauest an
 Er/Sie/Es schaue an
