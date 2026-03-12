@@ -53,7 +53,7 @@ Wir werden verloren haben
 Ihr werdet verloren haben
 Sie werden verloren haben
 
-# [[Modus - Konjunktiv]] 1 - Present
+# [[Modus - Konjunktiv]] 1 - Präsens
 Ich verliere
 Du verlierest
 Er/Sie/Es verliere

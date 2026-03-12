@@ -52,7 +52,7 @@ Wir werden angeboten haben
 Ihr werdet angeboten haben
 Sie werden angeboten haben
 
-# [[Modus - Konjunktiv]] 1 - Present
+# [[Modus - Konjunktiv]] 1 - Präsens
 Ich biete an
 Du bietest an
 Er/Sie/Es biete an

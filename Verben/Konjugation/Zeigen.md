@@ -53,7 +53,7 @@ Wir werden gezeigt haben
 Ihr werdet gezeigt haben
 Sie werden gezeigt haben
 
-# [[Modus - Konjunktiv]] 1 - Present
+# [[Modus - Konjunktiv]] 1 - Präsens
 Ich zeige
 Du zeigest
 Er/Sie/Es zeige

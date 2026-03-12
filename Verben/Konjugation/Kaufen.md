@@ -53,7 +53,7 @@ Wir werden gekauft haben
 Ihr werdet gekauft haben
 Sie werden gekauft haben
 
-# [[Modus - Konjunktiv]] 1 - Present
+# [[Modus - Konjunktiv]] 1 - Präsens
 Ich kaufe
 Du kaufest
 Er/Sie/Es kaufe

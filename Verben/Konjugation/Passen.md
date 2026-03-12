@@ -53,7 +53,7 @@ Wir werden gepasst haben
 Ihr werdet gepasst haben
 Sie werden gepasst haben
 
-# [[Modus - Konjunktiv]] 1 - Present
+# [[Modus - Konjunktiv]] 1 - Präsens
 Ich passe
 Du passest
 Er/Sie/Es passe

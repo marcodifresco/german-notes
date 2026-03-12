@@ -53,7 +53,7 @@ Wir werden kopiert haben
 Ihr werdet kopiert haben
 Sie werden kopiert haben
 
-# [[Modus - Konjunktiv]] 1 - Present
+# [[Modus - Konjunktiv]] 1 - Präsens
 Ich kopiere
 Du kopierest
 Er/Sie/Es kopiere

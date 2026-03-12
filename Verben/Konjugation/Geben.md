@@ -53,7 +53,7 @@ Wir werden gegeben haben
 Ihr werdet gegeben haben
 Sie werden gegeben haben
 
-# [[Modus - Konjunktiv]] 1 - Present
+# [[Modus - Konjunktiv]] 1 - Präsens
 Ich gebe
 Du gebest
 Er/Sie/Es gebe

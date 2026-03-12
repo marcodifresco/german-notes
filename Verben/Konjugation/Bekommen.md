@@ -56,7 +56,7 @@ Wir werden bekommen haben
 Ihr werdet bekommen haben
 Sie werden bekommen haben
 
-# [[Modus - Konjunktiv]] 1 - Present
+# [[Modus - Konjunktiv]] 1 - Präsens
 Ich bekomme
 Du bekommest
 Er/Sie/Es bekomme

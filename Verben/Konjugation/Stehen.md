@@ -53,7 +53,7 @@ Wir werden gestanden haben
 Ihr werdet gestanden haben
 Sie werden gestanden haben
 
-# [[Modus - Konjunktiv]] 1 - Present
+# [[Modus - Konjunktiv]] 1 - Präsens
 Ich stehe
 Du stehest
 Er/Sie/Es stehe

@@ -53,7 +53,7 @@ Wir werden geklettert sein
 Ihr werdet geklettert sein
 Sie werden geklettert sein
 
-# [[Modus - Konjunktiv]] 1 - Present
+# [[Modus - Konjunktiv]] 1 - Präsens
 Ich klettere
 Du kletterest
 Er/Sie/Es klettere

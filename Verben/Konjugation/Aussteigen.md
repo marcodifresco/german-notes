@@ -53,7 +53,7 @@ Wir werden ausgestiegen sein
 Ihr werdet ausgestiegen sein
 Sie werden ausgestiegen sein
 
-# [[Modus - Konjunktiv]] 1 - Present
+# [[Modus - Konjunktiv]] 1 - Präsens
 Ich steige aus
 Du steigest aus
 Er/Sie/Es steige aus

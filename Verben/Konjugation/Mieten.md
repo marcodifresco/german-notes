@@ -52,7 +52,7 @@ Wir werden gemietet haben
 Ihr werdet gemietet haben
 Sie werden gemietet haben
 
-# [[Modus - Konjunktiv]] 1 - Present
+# [[Modus - Konjunktiv]] 1 - Präsens
 Ich miete
 Du mietest
 Er/Sie/Es miete

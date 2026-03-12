@@ -53,7 +53,7 @@ Wir werden freigelassen haben
 Ihr werdet freigelassen haben
 Sie werden freigelassen haben
 
-# [[Modus - Konjunktiv]] 1 - Present
+# [[Modus - Konjunktiv]] 1 - Präsens
 Ich lasse frei
 Du lassest frei
 Er/Sie/Es lasse frei

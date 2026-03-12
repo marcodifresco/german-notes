@@ -51,7 +51,7 @@ Wir werden abgefahren sein
 Ihr werdet abgefahren sein
 Sie werden abgefahren sein
 
-# [[Modus - Konjunktiv]] 1 - Present
+# [[Modus - Konjunktiv]] 1 - Präsens
 Ich fahre ab
 Du fahrest ab
 Er/Sie/Es fahre ab

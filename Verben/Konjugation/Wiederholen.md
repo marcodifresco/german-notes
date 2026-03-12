@@ -52,7 +52,7 @@ Wir werden wiederholt haben
 Ihr werdet wiederholt haben
 Sie werden wiederholt haben
 
-# [[Modus - Konjunktiv]] 1 - Present
+# [[Modus - Konjunktiv]] 1 - Präsens
 Ich wiederhole
 Du wiederholest
 Er/Sie/Es wiederhole

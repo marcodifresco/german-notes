@@ -60,7 +60,7 @@ Ihr werdet gemusst haben
 Sie werden gemusst haben
 
 
-# [[Modus - Konjunktiv]] 1 - Present
+# [[Modus - Konjunktiv]] 1 - Präsens
 Ich müsse
 Du müssest
 Er/Sie/Es müsse

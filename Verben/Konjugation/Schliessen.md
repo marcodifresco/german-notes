@@ -53,7 +53,7 @@ Wir werden geschlossen haben
 Ihr werdet geschlossen haben
 Sie werden geschlossen haben
 
-# [[Modus - Konjunktiv]] 1 - Present
+# [[Modus - Konjunktiv]] 1 - Präsens
 Ich schliesse
 Du schliessest
 Er/Sie/Es schliesse

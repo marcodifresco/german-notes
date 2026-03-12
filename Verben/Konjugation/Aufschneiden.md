@@ -53,7 +53,7 @@ Wir werden aufgeschnitten haben
 Ihr werdet aufgeschnitten haben
 Sie werden aufgeschnitten haben
 
-# [[Modus - Konjunktiv]] 1 - Present
+# [[Modus - Konjunktiv]] 1 - Präsens
 Ich schneide auf
 Du schneidest auf
 Er/Sie/Es schneide auf

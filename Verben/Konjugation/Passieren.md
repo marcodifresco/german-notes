@@ -52,7 +52,7 @@ Wir werden passiert sein
 Ihr werdet passiert sein
 Sie werden passiert sein
 
-# [[Modus - Konjunktiv]] 1 - Present
+# [[Modus - Konjunktiv]] 1 - Präsens
 Ich passiere
 Du passierest
 Er/Sie/Es passiere

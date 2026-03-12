@@ -56,7 +56,7 @@ Wir werden gekommen sein
 Ihr werdet gekommen sein
 Sie werden gekommen sein
 
-# [[Modus - Konjunktiv]] 1 - Present
+# [[Modus - Konjunktiv]] 1 - Präsens
 Ich komme
 Du kommest
 Er/Sie/Es komme

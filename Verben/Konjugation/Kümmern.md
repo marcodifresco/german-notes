@@ -53,7 +53,7 @@ Wir werden gekümmert haben
 Ihr werdet gekümmert haben
 Sie werden gekümmert haben
 
-# [[Modus - Konjunktiv]] 1 - Present
+# [[Modus - Konjunktiv]] 1 - Präsens
 Ich kümmere
 Du kümmerst
 Er/Sie/Es kümmere

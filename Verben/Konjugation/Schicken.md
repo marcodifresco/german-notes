@@ -53,7 +53,7 @@ Wir werden geschickt haben
 Ihr werdet geschickt haben
 Sie werden geschickt haben
 
-# [[Modus - Konjunktiv]] 1 - Present
+# [[Modus - Konjunktiv]] 1 - Präsens
 Ich schicke
 Du schickest
 Er/Sie/Es schicke

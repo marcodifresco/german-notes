@@ -52,7 +52,7 @@ Wir werden angehabt haben
 Ihr werdet angehabt haben
 Sie werden angehabt haben
 
-# [[Modus - Konjunktiv]] 1 - Present
+# [[Modus - Konjunktiv]] 1 - Präsens
 Ich habe an
 Du habest an
 Er/Sie/Es habe an

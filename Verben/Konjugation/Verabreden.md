@@ -61,7 +61,7 @@ wir werden verabredet haben
 ihr werdet verabredet haben
 Sie werden verabredet haben
 
-# [[Modus - Konjunktiv]] 1 - Present
+# [[Modus - Konjunktiv]] 1 - Präsens
 ich verabrede
 du verabredest
 er/sie/es verabrede

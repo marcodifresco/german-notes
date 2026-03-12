@@ -52,7 +52,7 @@ wir werden vorgestellt haben
 ihr werdet vorgestellt haben
 Sie werden vorgestellt haben
 
-# [[Modus - Konjunktiv]] 1 - Present
+# [[Modus - Konjunktiv]] 1 - Präsens
 ich stelle vor
 du stellest vor
 er/sie/es stelle vor

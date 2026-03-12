@@ -53,7 +53,7 @@ Wir werden geholfen haben
 Ihr werdet geholfen haben
 Sie werden geholfen haben
 
-# [[Modus - Konjunktiv]] 1 - Present
+# [[Modus - Konjunktiv]] 1 - Präsens
 Ich helfe
 Du helfest
 Er/Sie/Es helfe

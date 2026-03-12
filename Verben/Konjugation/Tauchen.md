@@ -53,7 +53,7 @@ Wir werden getaucht sein
 Ihr werdet getaucht sein
 Sie werden getaucht sein
 
-# [[Modus - Konjunktiv]] 1 - Present
+# [[Modus - Konjunktiv]] 1 - Präsens
 Ich tauche
 Du tauchest
 Er/Sie/Es tauche

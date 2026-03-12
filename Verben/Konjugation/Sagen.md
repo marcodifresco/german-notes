@@ -53,7 +53,7 @@ Wir werden gesagt haben
 Ihr werdet gesagt haben
 Sie werden gesagt haben
 
-# [[Modus - Konjunktiv]] 1 - Present
+# [[Modus - Konjunktiv]] 1 - Präsens
 Ich sage
 Du sagest
 Er/Sie/Es sage

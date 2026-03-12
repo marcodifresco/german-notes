@@ -53,7 +53,7 @@ Wir werden eingeladen haben
 Ihr werdet eingeladen haben
 Sie werden eingeladen haben
 
-# [[Modus - Konjunktiv]] 1 - Present
+# [[Modus - Konjunktiv]] 1 - Präsens
 Ich lade ein
 Du ladest ein
 Er/Sie/Es lade ein

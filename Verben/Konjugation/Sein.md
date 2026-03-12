@@ -52,7 +52,7 @@ Wir werden gewesen sein
 Ihr werdet gewesen sein
 Sie werden gewesen sein
 
-# [[Modus - Konjunktiv]] 1 - Present
+# [[Modus - Konjunktiv]] 1 - Präsens
 Ich sei
 Du seiest
 Er/Sie/Es sei

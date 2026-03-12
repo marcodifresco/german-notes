@@ -52,7 +52,7 @@ Wir werden abgestimmt haben
 Ihr werdet abgestimmt haben
 Sie werden abgestimmt haben
 
-# [[Modus - Konjunktiv]] 1 - Present
+# [[Modus - Konjunktiv]] 1 - Präsens
 Ich stimme ab
 Du stimmest ab
 Er/Sie/Es stimme ab

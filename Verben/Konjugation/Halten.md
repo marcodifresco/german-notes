@@ -53,7 +53,7 @@ Wir werden gehalten haben
 Ihr werdet gehalten haben
 Sie werden gehalten haben
 
-# [[Modus - Konjunktiv]] 1 - Present
+# [[Modus - Konjunktiv]] 1 - Präsens
 Ich halte
 Du haltest
 Er/Sie/Es halte

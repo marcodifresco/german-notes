@@ -53,7 +53,7 @@ Wir werden eingebrochen sein
 Ihr werdet eingebrochen sein
 Sie werden eingebrochen sein
 
-# [[Modus - Konjunktiv]] 1 - Present
+# [[Modus - Konjunktiv]] 1 - Präsens
 Ich breche ein
 Du brechest ein
 Er/Sie/Es breche ein

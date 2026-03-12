@@ -53,7 +53,7 @@ Wir werden erklärt haben
 Ihr werdet erklärt haben
 Sie werden erklärt haben
 
-# [[Modus - Konjunktiv]] 1 - Present
+# [[Modus - Konjunktiv]] 1 - Präsens
 Ich erkläre
 Du erklärest
 Er/Sie/Es erkläre

@@ -53,7 +53,7 @@ Wir werden geschrieben haben
 Ihr werdet geschrieben haben
 Sie werden geschrieben haben
 
-# [[Modus - Konjunktiv]] 1 - Present
+# [[Modus - Konjunktiv]] 1 - Präsens
 Ich schreibe
 Du schreibest
 Er/Sie/Es schreibe

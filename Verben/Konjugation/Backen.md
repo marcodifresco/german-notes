@@ -53,7 +53,7 @@ Wir werden gebacken haben
 Ihr werdet gebacken haben
 Sie werden gebacken haben
 
-# [[Modus - Konjunktiv]] 1 - Present
+# [[Modus - Konjunktiv]] 1 - Präsens
 Ich backe
 Du backest
 Er/Sie/Es backe

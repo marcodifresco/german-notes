@@ -53,7 +53,7 @@ Wir werden geschneit haben
 Ihr werdet geschneit haben
 Sie werden geschneit haben
 
-# [[Modus - Konjunktiv]] 1 - Present
+# [[Modus - Konjunktiv]] 1 - Präsens
 Ich schneie
 Du schneiest
 Er/Sie/Es schneie

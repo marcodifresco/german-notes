@@ -53,7 +53,7 @@ Wir werden ernährt haben
 Ihr werdet ernährt haben
 Sie werden ernährt haben
 
-# [[Modus - Konjunktiv]] 1 - Present
+# [[Modus - Konjunktiv]] 1 - Präsens
 Ich ernähre
 Du ernährest
 Er/Sie/Es ernähre

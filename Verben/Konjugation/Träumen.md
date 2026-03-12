@@ -53,7 +53,7 @@ Wir werden geträumt haben
 Ihr werdet geträumt haben
 Sie werden geträumt haben
 
-# [[Modus - Konjunktiv]] 1 - Present
+# [[Modus - Konjunktiv]] 1 - Präsens
 Ich träume
 Du träumest
 Er/Sie/Es träume

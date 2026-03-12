@@ -53,7 +53,7 @@ Wir werden eingestiegen sein
 Ihr werdet eingestiegen sein
 Sie werden eingestiegen sein
 
-# [[Modus - Konjunktiv]] 1 - Present
+# [[Modus - Konjunktiv]] 1 - Präsens
 Ich steige ein
 Du steigest ein
 Er/Sie/Es steige ein

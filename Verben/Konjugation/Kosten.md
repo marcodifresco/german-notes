@@ -52,7 +52,7 @@ Wir werden gekostet haben
 Ihr werdet gekostet haben
 Sie werden gekostet haben
 
-# [[Modus - Konjunktiv]] 1 - Present
+# [[Modus - Konjunktiv]] 1 - Präsens
 Ich koste
 Du kostest
 Er/Sie/Es koste

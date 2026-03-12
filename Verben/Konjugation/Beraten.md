@@ -52,7 +52,7 @@ wir werden beraten haben
 ihr werdet beraten haben
 Sie werden beraten haben
 
-# [[Modus - Konjunktiv]] 1 - Present
+# [[Modus - Konjunktiv]] 1 - Präsens
 ich berate
 du beratest
 er/sie/es berate

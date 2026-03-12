@@ -26,7 +26,7 @@ Sie möchten
 # [[Modus - Indikativ]] - Futur II
 (Not typically formed for 'möchten' in its present-day usage. Future perfect wishes are generally expressed using 'wollen' or alternative constructions). Not typically formed
 
-# [[Modus - Konjunktiv]] 1 - Present
+# [[Modus - Konjunktiv]] 1 - Präsens
 (Not typically formed for 'möchten', as 'möchten' itself is a Konjunktiv II form. For reported speech expressing a wish, Konjunktiv I of 'wollen' (wolle) is generally used). Not typically formed
 
 # [[Modus - Konjunktiv]] 1 - Perfekt

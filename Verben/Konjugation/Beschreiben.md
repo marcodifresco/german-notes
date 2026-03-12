@@ -52,7 +52,7 @@ Wir werden beschrieben haben
 Ihr werdet beschrieben haben
 Sie werden beschrieben haben
 
-# [[Modus - Konjunktiv]] 1 - Present
+# [[Modus - Konjunktiv]] 1 - Präsens
 Ich beschreibe
 Du beschreibest
 Er/Sie/Es beschreibe

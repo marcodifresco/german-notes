@@ -53,7 +53,7 @@ Wir werden gemacht haben
 Ihr werdet gemacht haben
 Sie werden gemacht haben
 
-# [[Modus - Konjunktiv]] 1 - Present
+# [[Modus - Konjunktiv]] 1 - Präsens
 Ich mache
 Du machest
 Er/Sie/Es mache

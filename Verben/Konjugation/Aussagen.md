@@ -53,7 +53,7 @@ Wir werden ausgesagt haben
 Ihr werdet ausgesagt haben
 Sie werden ausgesagt haben
 
-# [[Modus - Konjunktiv]] 1 - Present
+# [[Modus - Konjunktiv]] 1 - Präsens
 Ich sage aus
 Du sagest aus
 Er/Sie/Es sage aus

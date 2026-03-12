@@ -56,7 +56,7 @@ Wir werden beendet haben
 Ihr werdet beendet haben
 Sie werden beendet haben
 
-# [[Modus - Konjunktiv]] 1 - Present
+# [[Modus - Konjunktiv]] 1 - Präsens
 Ich beende
 Du beendest
 Er/Sie/Es beende

@@ -53,7 +53,7 @@ Wir werden geschenkt haben
 Ihr werdet geschenkt haben
 Sie werden geschenkt haben
 
-# [[Modus - Konjunktiv]] 1 - Present
+# [[Modus - Konjunktiv]] 1 - Präsens
 Ich schenke
 Du schenkest
 Er/Sie/Es schenke

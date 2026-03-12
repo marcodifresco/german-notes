@@ -53,7 +53,7 @@ Wir werden geübt haben
 Ihr werdet geübt haben
 Sie werden geübt haben
 
-# [[Modus - Konjunktiv]] 1 - Present
+# [[Modus - Konjunktiv]] 1 - Präsens
 Ich übe
 Du übest
 Er/Sie/Es übe

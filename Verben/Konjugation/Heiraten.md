@@ -53,7 +53,7 @@ Wir werden geheiratet haben
 Ihr werdet geheiratet haben
 Sie werden geheiratet haben
 
-# [[Modus - Konjunktiv]] 1 - Present
+# [[Modus - Konjunktiv]] 1 - Präsens
 Ich heirate
 Du heiratest
 Er/Sie/Es heirate

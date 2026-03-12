@@ -52,7 +52,7 @@ wir werden erledigt haben
 ihr werdet erledigt haben
 Sie werden erledigt haben
 
-# [[Modus - Konjunktiv]] 1 - Present
+# [[Modus - Konjunktiv]] 1 - Präsens
 ich erledige
 du erledigest
 er/sie/es erledige

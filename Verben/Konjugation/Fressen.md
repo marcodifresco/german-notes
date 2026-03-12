@@ -53,7 +53,7 @@ Wir werden gefressen haben
 Ihr werdet gefressen haben
 Sie werden gefressen haben
 
-# [[Modus - Konjunktiv]] 1 - Present
+# [[Modus - Konjunktiv]] 1 - Präsens
 Ich fresse
 Du fressest
 Er/Sie/Es fresse

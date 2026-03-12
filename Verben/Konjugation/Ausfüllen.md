@@ -55,7 +55,7 @@ Wir werden ausgefüllt haben
 Ihr werdet ausgefüllt haben
 Sie werden ausgefüllt haben
 
-# [[Modus - Konjunktiv]] 1 - Present
+# [[Modus - Konjunktiv]] 1 - Präsens
 Ich fülle aus
 Du füllest aus
 Er/Sie/Es fülle aus

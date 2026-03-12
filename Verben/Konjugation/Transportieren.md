@@ -53,7 +53,7 @@ Wir werden transportiert haben
 Ihr werdet transportiert haben
 Sie werden transportiert haben
 
-# [[Modus - Konjunktiv]] 1 - Present
+# [[Modus - Konjunktiv]] 1 - Präsens
 Ich transportiere
 Du transportierest
 Er/Sie/Es transportiere

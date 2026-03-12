@@ -51,7 +51,7 @@ wir werden übernachtet haben
 ihr werdet übernachtet haben
 Sie werden übernachtet haben
 
-# [[Modus - Konjunktiv]] 1 - Present
+# [[Modus - Konjunktiv]] 1 - Präsens
 ich übernachte
 du übernachtest
 er/sie/es übernachte

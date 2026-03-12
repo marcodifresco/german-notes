@@ -53,7 +53,7 @@ Wir werden bedacht haben
 Ihr werdet bedacht haben
 Sie werden bedacht haben
 
-# [[Modus - Konjunktiv]] 1 - Present
+# [[Modus - Konjunktiv]] 1 - Präsens
 Ich bedenke
 Du bedenkest
 Er/Sie/Es bedenke

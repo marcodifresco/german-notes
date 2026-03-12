@@ -53,7 +53,7 @@ Wir werden geliehen haben
 Ihr werdet geliehen haben
 Sie werden geliehen haben
 
-# [[Modus - Konjunktiv]] 1 - Present
+# [[Modus - Konjunktiv]] 1 - Präsens
 Ich leihe
 Du leihest
 Er/Sie/Es leihe

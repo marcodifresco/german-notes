@@ -56,7 +56,7 @@ Wir werden erlebt haben
 Ihr werdet erlebt haben
 Sie werden erlebt haben
 
-# [[Modus - Konjunktiv]] 1 - Present
+# [[Modus - Konjunktiv]] 1 - Präsens
 Ich erlebe
 Du erlebest
 Er/Sie/Es erlebe

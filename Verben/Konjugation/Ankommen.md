@@ -52,7 +52,7 @@ Wir werden angekommen sein
 Ihr werdet angekommen sein
 Sie werden angekommen sein
 
-# [[Modus - Konjunktiv]] 1 - Present
+# [[Modus - Konjunktiv]] 1 - Präsens
 Ich komme an
 Du kommest an
 Er/Sie/Es komme an

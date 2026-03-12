@@ -53,7 +53,7 @@ Wir werden gefrühstückt haben
 Ihr werdet gefrühstückt haben
 Sie werden gefrühstückt haben
 
-# [[Modus - Konjunktiv]] 1 - Present
+# [[Modus - Konjunktiv]] 1 - Präsens
 Ich frühstücke
 Du frühstückest
 Er/Sie/Es frühstücke

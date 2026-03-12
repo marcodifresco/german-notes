@@ -52,7 +52,7 @@ Wir werden übergesetzt haben
 Ihr werdet übergesetzt haben
 Sie werden übergesetzt haben
 
-# [[Modus - Konjunktiv]] 1 - Present
+# [[Modus - Konjunktiv]] 1 - Präsens
 Ich setze über
 Du setzest über
 Er/Sie/Es setze über

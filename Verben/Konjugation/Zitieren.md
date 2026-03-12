@@ -53,7 +53,7 @@ Wir werden zitiert haben
 Ihr werdet zitiert haben
 Sie werden zitiert haben
 
-# [[Modus - Konjunktiv]] 1 - Present
+# [[Modus - Konjunktiv]] 1 - Präsens
 Ich zitiere
 Du zitierest
 Er/Sie/Es zitiere

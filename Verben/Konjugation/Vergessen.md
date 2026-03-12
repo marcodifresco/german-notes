@@ -46,7 +46,7 @@ Wir werden vergessen haben
 Ihr werdet vergessen haben
 Sie werden vergessen haben
 
-# [[Modus - Konjunktiv]] 1 - Present
+# [[Modus - Konjunktiv]] 1 - Präsens
 Ich vergesse
 Du vergessest
 Er/Sie/Es vergesse

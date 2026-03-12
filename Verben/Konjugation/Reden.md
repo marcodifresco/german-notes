@@ -52,7 +52,7 @@ Wir werden geredet haben
 Ihr werdet geredet haben
 Sie werden geredet haben
 
-# [[Modus - Konjunktiv]] 1 - Present
+# [[Modus - Konjunktiv]] 1 - Präsens
 Ich rede
 Du redest
 Er/Sie/Es rede

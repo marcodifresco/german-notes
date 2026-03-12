@@ -56,7 +56,7 @@ Wir werden ferngeschaut haben
 Ihr werdet ferngeschaut haben
 Sie werden ferngeschaut haben
 
-# [[Modus - Konjunktiv]] 1 - Present
+# [[Modus - Konjunktiv]] 1 - Präsens
 Ich schaue fern
 Du schauest fern
 Er/Sie/Es schaue fern

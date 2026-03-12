@@ -53,7 +53,7 @@ Wir werden gebraten haben
 Ihr werdet gebraten haben
 Sie werden gebraten haben
 
-# [[Modus - Konjunktiv]] 1 - Present
+# [[Modus - Konjunktiv]] 1 - Präsens
 Ich brate
 Du bratest
 Er/Sie/Es brate

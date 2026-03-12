@@ -53,7 +53,7 @@ Wir werden gesucht haben
 Ihr werdet gesucht haben
 Sie werden gesucht haben
 
-# [[Modus - Konjunktiv]] 1 - Present
+# [[Modus - Konjunktiv]] 1 - Präsens
 Ich suche
 Du suchest
 Er/Sie/Es suche

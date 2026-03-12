@@ -52,7 +52,7 @@ Wir werden gekonnt haben
 Ihr werdet gekonnt haben
 Sie werden gekonnt haben
 
-# [[Modus - Konjunktiv]] 1 - Present
+# [[Modus - Konjunktiv]] 1 - Präsens
 Ich könne
 Du könnest
 Er/Sie/Es könne

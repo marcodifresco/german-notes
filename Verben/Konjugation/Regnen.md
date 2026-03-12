@@ -53,7 +53,7 @@ Wir werden geregnet haben
 Ihr werdet geregnet haben
 Sie werden geregnet haben
 
-# [[Modus - Konjunktiv]] 1 - Present
+# [[Modus - Konjunktiv]] 1 - Präsens
 Ich regne
 Du regnest
 Er/Sie/Es regne

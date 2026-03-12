@@ -51,7 +51,7 @@ Wir werden abgeholt haben
 Ihr werdet abgeholt haben
 Sie werden abgeholt haben
 
-# [[Modus - Konjunktiv]] 1 - Present
+# [[Modus - Konjunktiv]] 1 - Präsens
 Ich hole ab
 Du holest ab
 Er/Sie/Es hole ab

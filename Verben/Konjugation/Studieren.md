@@ -53,7 +53,7 @@ Wir werden studiert haben
 Ihr werdet studiert haben
 Sie werden studiert haben
 
-# [[Modus - Konjunktiv]] 1 - Present
+# [[Modus - Konjunktiv]] 1 - Präsens
 Ich studiere
 Du studierest
 Er/Sie/Es studiere

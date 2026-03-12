@@ -53,7 +53,7 @@ Wir werden gesehen haben
 Ihr werdet gesehen haben
 Sie werden gesehen haben
 
-# [[Modus - Konjunktiv]] 1 - Present
+# [[Modus - Konjunktiv]] 1 - Präsens
 Ich sehe
 Du sehest
 Er/Sie/Es sehe

@@ -52,7 +52,7 @@ Wir werden verwandt haben
 Ihr werdet verwandt haben
 Sie werden verwandt haben
 
-# [[Modus - Konjunktiv]] 1 - Present
+# [[Modus - Konjunktiv]] 1 - Präsens
 Ich verwende
 Du verwendest
 Er/Sie/Es verwende

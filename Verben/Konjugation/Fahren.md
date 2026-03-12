@@ -53,7 +53,7 @@ Wir werden gefahren sein
 Ihr werdet gefahren sein
 Sie werden gefahren sein
 
-# [[Modus - Konjunktiv]] 1 - Present
+# [[Modus - Konjunktiv]] 1 - Präsens
 Ich fahre
 Du fahrest
 Er/Sie/Es fahre

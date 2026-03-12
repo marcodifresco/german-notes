@@ -53,7 +53,7 @@ Wir werden getanzt haben
 Ihr werdet getanzt haben
 Sie werden getanzt haben
 
-# [[Modus - Konjunktiv]] 1 - Present
+# [[Modus - Konjunktiv]] 1 - Präsens
 Ich tanze
 Du tanzest
 Er/Sie/Es tanze

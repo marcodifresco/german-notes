@@ -53,7 +53,7 @@ Wir werden geschnitten haben
 Ihr werdet geschnitten haben
 Sie werden geschnitten haben
 
-# [[Modus - Konjunktiv]] 1 - Present
+# [[Modus - Konjunktiv]] 1 - Präsens
 Ich schneide
 Du schneidest
 Er/Sie/Es schneide

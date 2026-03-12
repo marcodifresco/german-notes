@@ -53,7 +53,7 @@ Wir werden umgestiegen sein
 Ihr werdet umgestiegen sein
 Sie werden umgestiegen sein
 
-# [[Modus - Konjunktiv]] 1 - Present
+# [[Modus - Konjunktiv]] 1 - Präsens
 Ich steige um
 Du steigest um
 Er/Sie/Es steige um

@@ -53,7 +53,7 @@ Wir werden gekocht haben
 Ihr werdet gekocht haben
 Sie werden gekocht haben
 
-# [[Modus - Konjunktiv]] 1 - Present
+# [[Modus - Konjunktiv]] 1 - Präsens
 Ich koche
 Du kochest
 Er/Sie/Es koche

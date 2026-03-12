@@ -52,7 +52,7 @@ Wir werden besucht haben
 Ihr werdet besucht haben
 Sie werden besucht haben
 
-# [[Modus - Konjunktiv]] 1 - Present
+# [[Modus - Konjunktiv]] 1 - Präsens
 Ich besuche
 Du besuchest
 Er/Sie/Es besuche

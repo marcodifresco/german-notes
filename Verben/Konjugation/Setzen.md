@@ -53,7 +53,7 @@ Wir werden gesetzt haben
 Ihr werdet gesetzt haben
 Sie werden gesetzt haben
 
-# [[Modus - Konjunktiv]] 1 - Present
+# [[Modus - Konjunktiv]] 1 - Präsens
 Ich setze
 Du setzest
 Er/Sie/Es setze

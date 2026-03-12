@@ -52,7 +52,7 @@ Wir werden gehabt haben
 Ihr werdet gehabt haben
 Sie werden gehabt haben
 
-# [[Modus - Konjunktiv]] 1 - Present
+# [[Modus - Konjunktiv]] 1 - Präsens
 Ich habe
 Du habest
 Er/Sie/Es habe

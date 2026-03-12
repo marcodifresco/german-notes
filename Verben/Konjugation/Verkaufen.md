@@ -53,7 +53,7 @@ Wir werden verkauft haben
 Ihr werdet verkauft haben
 Sie werden verkauft haben
 
-# [[Modus - Konjunktiv]] 1 - Present
+# [[Modus - Konjunktiv]] 1 - Präsens
 Ich verkaufe
 Du verkaufest
 Er/Sie/Es verkaufe

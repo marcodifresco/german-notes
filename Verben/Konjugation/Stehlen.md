@@ -53,7 +53,7 @@ Wir werden gestohlen haben
 Ihr werdet gestohlen haben
 Sie werden gestohlen haben
 
-# [[Modus - Konjunktiv]] 1 - Present
+# [[Modus - Konjunktiv]] 1 - Präsens
 Ich stehle
 Du stehlest
 Er/Sie/Es stehle

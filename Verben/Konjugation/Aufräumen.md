@@ -53,7 +53,7 @@ Wir werden aufgeräumt haben
 Ihr werdet aufgeräumt haben
 Sie werden aufgeräumt haben
 
-# [[Modus - Konjunktiv]] 1 - Present
+# [[Modus - Konjunktiv]] 1 - Präsens
 Ich räume auf
 Du räumest auf
 Er/Sie/Es räume auf

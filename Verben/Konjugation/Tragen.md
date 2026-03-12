@@ -56,7 +56,7 @@ Wir werden getragen haben
 Ihr werdet getragen haben
 Sie werden getragen haben
 
-# [[Modus - Konjunktiv]] 1 - Present
+# [[Modus - Konjunktiv]] 1 - Präsens
 Ich trage
 Du tragest
 Er/Sie/Es trage

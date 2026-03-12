@@ -53,7 +53,7 @@ Wir werden benutzt haben
 Ihr werdet benutzt haben
 Sie werden benutzt haben
 
-# [[Modus - Konjunktiv]] 1 - Present
+# [[Modus - Konjunktiv]] 1 - Präsens
 Ich benutze
 Du benutzest
 Er/Sie/Es benutze

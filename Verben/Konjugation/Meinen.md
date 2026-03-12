@@ -53,7 +53,7 @@ Wir werden gemeint haben
 Ihr werdet gemeint haben
 Sie werden gemeint haben
 
-# [[Modus - Konjunktiv]] 1 - Present
+# [[Modus - Konjunktiv]] 1 - Präsens
 Ich meine
 Du meinest
 Er/Sie/Es meine

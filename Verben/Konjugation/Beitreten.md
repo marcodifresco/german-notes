@@ -53,7 +53,7 @@ Wir werden beigetreten sein
 Ihr werdet beigetreten sein
 Sie werden beigetreten sein
 
-# [[Modus - Konjunktiv]] 1 - Present
+# [[Modus - Konjunktiv]] 1 - Präsens
 Ich trete bei
 Du tretest bei
 Er/Sie/Es trete bei

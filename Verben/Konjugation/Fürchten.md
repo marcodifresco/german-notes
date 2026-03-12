@@ -54,7 +54,7 @@ wir werden gefürchtet haben
 ihr werdet gefürchtet haben
 Sie werden gefürchtet haben
 
-# [[Modus - Konjunktiv]] 1 - Present
+# [[Modus - Konjunktiv]] 1 - Präsens
 ich fürchte
 du fürchtest
 er/sie/es fürchte

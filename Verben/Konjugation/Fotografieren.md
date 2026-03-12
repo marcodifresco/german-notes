@@ -53,7 +53,7 @@ Wir werden fotografiert haben
 Ihr werdet fotografiert haben
 Sie werden fotografiert haben
 
-# [[Modus - Konjunktiv]] 1 - Present
+# [[Modus - Konjunktiv]] 1 - Präsens
 Ich fotografiere
 Du fotografierest
 Er/Sie/Es fotografiere

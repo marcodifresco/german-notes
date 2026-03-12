@@ -52,7 +52,7 @@ Wir werden geschwommen sein
 Ihr werdet geschwommen sein
 Sie werden geschwommen sein
 
-# [[Modus - Konjunktiv]] 1 - Present
+# [[Modus - Konjunktiv]] 1 - Präsens
 Ich schwimme
 Du schwimmest
 Er/Sie/Es schwimme

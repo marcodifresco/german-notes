@@ -52,7 +52,7 @@ Wir werden gegessen haben
 Ihr werdet gegessen haben
 Sie werden gegessen haben
 
-# [[Modus - Konjunktiv]] 1 - Present
+# [[Modus - Konjunktiv]] 1 - Präsens
 Ich esse
 Du essest
 Er/Sie/Es esse

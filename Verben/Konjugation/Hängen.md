@@ -53,7 +53,7 @@ Wir werden gehangen haben
 Ihr werdet gehangen haben
 Sie werden gehangen haben
 
-# [[Modus - Konjunktiv]] 1 - Present
+# [[Modus - Konjunktiv]] 1 - Präsens
 Ich hänge
 Du hängest
 Er/Sie/Es hänge

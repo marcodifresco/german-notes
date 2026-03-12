@@ -57,7 +57,7 @@ Wir werden ferngesehen haben
 Ihr werdet ferngesehen haben
 Sie werden ferngesehen haben
 
-# [[Modus - Konjunktiv]] 1 - Present
+# [[Modus - Konjunktiv]] 1 - Präsens
 Ich sehe fern
 Du sehest fern
 Er/Sie/Es sehe fern

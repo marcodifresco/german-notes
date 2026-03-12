@@ -53,7 +53,7 @@ Wir werden gefallen sein
 Ihr werdet gefallen sein
 Sie werden gefallen sein
 
-# [[Modus - Konjunktiv]] 1 - Present
+# [[Modus - Konjunktiv]] 1 - Präsens
 Ich falle
 Du fallest
 Er/Sie/Es falle

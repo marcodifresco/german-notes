@@ -53,7 +53,7 @@ Wir werden beschwert haben
 Ihr werdet beschwert haben
 Sie werden beschwert haben
 
-# [[Modus - Konjunktiv]] 1 - Present
+# [[Modus - Konjunktiv]] 1 - Präsens
 Ich beschwere
 Du beschwerest
 Er/Sie/Es beschwere

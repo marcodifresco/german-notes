@@ -51,7 +51,7 @@ wir werden gestellt haben
 ihr werdet gestellt haben
 Sie werden gestellt haben
 
-# [[Modus - Konjunktiv]] 1 - Present
+# [[Modus - Konjunktiv]] 1 - Präsens
 ich stelle
 du stellest
 er/sie/es stelle

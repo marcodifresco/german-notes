@@ -56,7 +56,7 @@ Wir werden uns gefreut haben
 Ihr werdet euch gefreut haben
 Sie werden sich gefreut haben
 
-# [[Modus - Konjunktiv]] 1 - Present
+# [[Modus - Konjunktiv]] 1 - Präsens
 Ich freue mich
 Du freuest dich
 Er/Sie/Es freue sich

@@ -52,7 +52,7 @@ wir werden ausgeführt haben
 ihr werdet ausgeführt haben
 Sie werden ausgeführt haben
 
-# [[Modus - Konjunktiv]] 1 - Present
+# [[Modus - Konjunktiv]] 1 - Präsens
 ich führe aus
 du führest aus
 er/sie/es führe aus

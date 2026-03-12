@@ -52,7 +52,7 @@ Wir werden gemalt haben
 Ihr werdet gemalt haben
 Sie werden gemalt haben
 
-# [[Modus - Konjunktiv]] 1 - Present
+# [[Modus - Konjunktiv]] 1 - Präsens
 Ich male
 Du malest
 Er/Sie/Es male

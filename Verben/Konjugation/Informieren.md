@@ -53,7 +53,7 @@ Wir werden informiert haben
 Ihr werdet informiert haben
 Sie werden informiert haben
 
-# [[Modus - Konjunktiv]] 1 - Present
+# [[Modus - Konjunktiv]] 1 - Präsens
 Ich informiere
 Du informierest
 Er/Sie/Es informiere

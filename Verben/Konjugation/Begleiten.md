@@ -53,7 +53,7 @@ Wir werden begleitet haben
 Ihr werdet begleitet haben
 Sie werden begleitet haben
 
-# [[Modus - Konjunktiv]] 1 - Present
+# [[Modus - Konjunktiv]] 1 - Präsens
 Ich begleite
 Du begleitest
 Er/Sie/Es begleite

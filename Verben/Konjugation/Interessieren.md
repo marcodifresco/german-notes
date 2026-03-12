@@ -53,7 +53,7 @@ Wir werden interessiert haben
 Ihr werdet interessiert haben
 Sie werden interessiert haben
 
-# [[Modus - Konjunktiv]] 1 - Present
+# [[Modus - Konjunktiv]] 1 - Präsens
 Ich interessiere
 Du interessierest
 Er/Sie/Es interessiere

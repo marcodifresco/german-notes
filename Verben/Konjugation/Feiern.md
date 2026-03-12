@@ -53,7 +53,7 @@ Wir werden gefeiert haben
 Ihr werdet gefeiert haben
 Sie werden gefeiert haben
 
-# [[Modus - Konjunktiv]] 1 - Present
+# [[Modus - Konjunktiv]] 1 - Präsens
 Ich feiere
 Du feierest
 Er/Sie/Es feiere

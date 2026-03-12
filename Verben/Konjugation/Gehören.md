@@ -53,7 +53,7 @@ Wir werden gehört haben
 Ihr werdet gehört haben
 Sie werden gehört haben
 
-# [[Modus - Konjunktiv]] 1 - Present
+# [[Modus - Konjunktiv]] 1 - Präsens
 Ich gehöre
 Du gehörest
 Er/Sie/Es gehöre

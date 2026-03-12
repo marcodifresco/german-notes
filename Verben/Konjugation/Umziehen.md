@@ -80,7 +80,7 @@ Wir werden umgezogen sein
 Ihr werdet umgezogen sein
 Sie werden umgezogen sein
 
-# [[Modus - Konjunktiv]] 1 - Present
+# [[Modus - Konjunktiv]] 1 - Präsens
 Ich ziehe um
 Du ziehest um
 Er/Sie/Es ziehe um

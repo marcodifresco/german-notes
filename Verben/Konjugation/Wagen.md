@@ -53,7 +53,7 @@ Wir werden gewagt haben
 Ihr werdet gewagt haben
 Sie werden gewagt haben
 
-# [[Modus - Konjunktiv]] 1 - Present
+# [[Modus - Konjunktiv]] 1 - Präsens
 Ich wage
 Du wagest
 Er/Sie/Es wage

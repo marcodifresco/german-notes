@@ -53,7 +53,7 @@ Wir werden eingekauft haben
 Ihr werdet eingekauft haben
 Sie werden eingekauft haben
 
-# [[Modus - Konjunktiv]] 1 - Present
+# [[Modus - Konjunktiv]] 1 - Präsens
 Ich kaufe ein
 Du kaufest ein
 Er/Sie/Es kaufe ein

@@ -51,7 +51,7 @@ wir werden abgebrochen haben
 ihr werdet abgebrochen haben
 Sie werden abgebrochen haben
 
-# [[Modus - Konjunktiv]] 1 - Present
+# [[Modus - Konjunktiv]] 1 - Präsens
 ich breche ab
 du brechest ab
 er/sie/es breche ab

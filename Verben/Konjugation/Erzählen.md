@@ -53,7 +53,7 @@ Wir werden erzählt haben
 Ihr werdet erzählt haben
 Sie werden erzählt haben
 
-# [[Modus - Konjunktiv]] 1 - Present
+# [[Modus - Konjunktiv]] 1 - Präsens
 Ich erzähle
 Du erzählest
 Er/Sie/Es erzähle

@@ -53,7 +53,7 @@ Wir werden geworden sein
 Ihr werdet geworden sein
 Sie werden geworden sein
 
-# [[Modus - Konjunktiv]] 1 - Present
+# [[Modus - Konjunktiv]] 1 - Präsens
 Ich werde
 Du werdest
 Er/Sie/Es werde

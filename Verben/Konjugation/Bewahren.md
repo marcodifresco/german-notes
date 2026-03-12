@@ -53,7 +53,7 @@ Wir werden bewahrt haben
 Ihr werdet bewahrt haben
 Sie werden bewahrt haben
 
-# [[Modus - Konjunktiv]] 1 - Present
+# [[Modus - Konjunktiv]] 1 - Präsens
 Ich bewahre
 Du bewahrest
 Er/Sie/Es bewahre

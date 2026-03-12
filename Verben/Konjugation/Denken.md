@@ -53,7 +53,7 @@ Wir werden gedacht haben
 Ihr werdet gedacht haben
 Sie werden gedacht haben
 
-# [[Modus - Konjunktiv]] 1 - Present
+# [[Modus - Konjunktiv]] 1 - Präsens
 Ich denke
 Du denkest
 Er/Sie/Es denke

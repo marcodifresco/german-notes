@@ -51,7 +51,7 @@ Wir werden geöffnet haben
 Ihr werdet geöffnet haben
 Sie werden geöffnet haben
 
-# [[Modus - Konjunktiv]] 1 - Present
+# [[Modus - Konjunktiv]] 1 - Präsens
 Ich öffne
 Du öffnest
 Er/Sie/Es öffne

@@ -53,7 +53,7 @@ Wir werden geblieben sein
 Ihr werdet geblieben sein
 Sie werden geblieben sein
 
-# [[Modus - Konjunktiv]] 1 - Present
+# [[Modus - Konjunktiv]] 1 - Präsens
 Ich bleibe
 Du bleibest
 Er/Sie/Es bleibe

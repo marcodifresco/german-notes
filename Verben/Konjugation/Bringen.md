@@ -53,7 +53,7 @@ Wir werden gebracht haben
 Ihr werdet gebracht haben
 Sie werden gebracht haben
 
-# [[Modus - Konjunktiv]] 1 - Present
+# [[Modus - Konjunktiv]] 1 - Präsens
 Ich bringe
 Du bringest
 Er/Sie/Es bringe

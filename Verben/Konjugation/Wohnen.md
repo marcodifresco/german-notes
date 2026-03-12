@@ -53,7 +53,7 @@ Wir werden gewohnt haben
 Ihr werdet gewohnt haben
 Sie werden gewohnt haben
 
-# [[Modus - Konjunktiv]] 1 - Present
+# [[Modus - Konjunktiv]] 1 - Präsens
 Ich wohne
 Du wohnest
 Er/Sie/Es wohne

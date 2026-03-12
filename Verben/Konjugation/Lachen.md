@@ -55,7 +55,7 @@ Wir werden gelacht haben
 Ihr werdet gelacht haben
 Sie werden gelacht haben
 
-# [[Modus - Konjunktiv]] 1 - Present
+# [[Modus - Konjunktiv]] 1 - Präsens
 Ich lache
 Du lachest
 Er/Sie/Es lache

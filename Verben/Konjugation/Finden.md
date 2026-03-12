@@ -53,7 +53,7 @@ Wir werden gefunden haben
 Ihr werdet gefunden haben
 Sie werden gefunden haben
 
-# [[Modus - Konjunktiv]] 1 - Present
+# [[Modus - Konjunktiv]] 1 - Präsens
 Ich finde
 Du findest
 Er/Sie/Es finde

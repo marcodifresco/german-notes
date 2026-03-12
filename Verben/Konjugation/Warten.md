@@ -55,7 +55,7 @@ Wir werden gewartet haben
 Ihr werdet gewartet haben
 Sie werden gewartet haben
 
-# [[Modus - Konjunktiv]] 1 - Present
+# [[Modus - Konjunktiv]] 1 - Präsens
 Ich warte
 Du wartest
 Er/Sie/Es warte

@@ -52,7 +52,7 @@ Wir werden gefragt haben
 Ihr werdet gefragt haben
 Sie werden gefragt haben
 
-# [[Modus - Konjunktiv]] 1 - Present
+# [[Modus - Konjunktiv]] 1 - Präsens
 Ich frage
 Du fragest
 Er/Sie/Es frage

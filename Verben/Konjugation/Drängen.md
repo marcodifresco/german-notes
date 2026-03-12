@@ -55,7 +55,7 @@ er/sie/es wird gedrängt haben
 wir werden gedrängt haben
 ihr werdet gedrängt haben
 Sie werden gedrängt haben
-# [[Modus - Konjunktiv]] 1 - Present
+# [[Modus - Konjunktiv]] 1 - Präsens
 ich dränge
 du drängest
 er/sie/es dränge

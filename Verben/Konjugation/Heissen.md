@@ -53,7 +53,7 @@ Wir werden geheissen haben
 Ihr werdet geheissen haben
 Sie werden geheissen haben
 
-# [[Modus - Konjunktiv]] 1 - Present
+# [[Modus - Konjunktiv]] 1 - Präsens
 Ich heisse
 Du heissest
 Er/Sie/Es heisse

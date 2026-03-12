@@ -53,7 +53,7 @@ Wir werden gelagert haben
 Ihr werdet gelagert haben
 Sie werden gelagert haben
 
-# [[Modus - Konjunktiv]] 1 - Present
+# [[Modus - Konjunktiv]] 1 - Präsens
 Ich lagere
 Du lagerest
 Er/Sie/Es lagere

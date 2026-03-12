@@ -53,7 +53,7 @@ Wir werden eingeworfen haben
 Ihr werdet eingeworfen haben
 Sie werden eingeworfen haben
 
-# [[Modus - Konjunktiv]] 1 - Present
+# [[Modus - Konjunktiv]] 1 - Präsens
 Ich werfe ein
 Du werfest ein
 Er/Sie/Es werfe ein

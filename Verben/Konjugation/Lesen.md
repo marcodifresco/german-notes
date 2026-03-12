@@ -53,7 +53,7 @@ Wir werden gelesen haben
 Ihr werdet gelesen haben
 Sie werden gelesen haben
 
-# [[Modus - Konjunktiv]] 1 - Present
+# [[Modus - Konjunktiv]] 1 - Präsens
 Ich lese
 Du lesest
 Er/Sie/Es lese

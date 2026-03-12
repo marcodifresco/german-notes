@@ -55,7 +55,7 @@ Wir werden geärgert haben
 Ihr werdet geärgert haben
 Sie werden geärgert haben
 
-# [[Modus - Konjunktiv]] 1 - Present
+# [[Modus - Konjunktiv]] 1 - Präsens
 Ich ärgere
 Du ärgerest
 Er/Sie/Es ärgere

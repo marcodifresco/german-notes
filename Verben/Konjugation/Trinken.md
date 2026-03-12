@@ -53,7 +53,7 @@ Wir werden getrunken haben
 Ihr werdet getrunken haben
 Sie werden getrunken haben
 
-# [[Modus - Konjunktiv]] 1 - Present
+# [[Modus - Konjunktiv]] 1 - Präsens
 Ich trinke
 Du trinkest
 Er/Sie/Es trinke

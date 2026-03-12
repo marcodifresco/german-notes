@@ -56,7 +56,7 @@ Wir werden gemocht haben
 Ihr werdet gemocht haben
 Sie werden gemocht haben
 
-# [[Modus - Konjunktiv]] 1 - Present
+# [[Modus - Konjunktiv]] 1 - Präsens
 Ich möge
 Du mögest
 Er/Sie/Es möge

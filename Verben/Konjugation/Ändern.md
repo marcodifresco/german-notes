@@ -52,7 +52,7 @@ Wir werden geändert haben
 Ihr werdet geändert haben
 Sie werden geändert haben
 
-# [[Modus - Konjunktiv]] 1 - Present
+# [[Modus - Konjunktiv]] 1 - Präsens
 Ich ändere
 Du änderest
 Er/Sie/Es ändere

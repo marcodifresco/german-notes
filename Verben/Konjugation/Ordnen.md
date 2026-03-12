@@ -53,7 +53,7 @@ Wir werden geordnet haben
 Ihr werdet geordnet haben
 Sie werden geordnet haben
 
-# [[Modus - Konjunktiv]] 1 - Present
+# [[Modus - Konjunktiv]] 1 - Präsens
 Ich ordne
 Du ordnest
 Er/Sie/Es ordne

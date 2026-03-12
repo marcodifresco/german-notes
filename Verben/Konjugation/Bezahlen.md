@@ -53,7 +53,7 @@ Wir werden bezahlt haben
 Ihr werdet bezahlt haben
 Sie werden bezahlt haben
 
-# [[Modus - Konjunktiv]] 1 - Present
+# [[Modus - Konjunktiv]] 1 - Präsens
 Ich bezahle
 Du bezahlest
 Er/Sie/Es bezahle

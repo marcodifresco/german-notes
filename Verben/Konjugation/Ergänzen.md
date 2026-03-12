@@ -53,7 +53,7 @@ Wir werden ergänzt haben
 Ihr werdet ergänzt haben
 Sie werden ergänzt haben
 
-# [[Modus - Konjunktiv]] 1 - Present
+# [[Modus - Konjunktiv]] 1 - Präsens
 Ich ergänze
 Du ergänzest
 Er/Sie/Es ergänze

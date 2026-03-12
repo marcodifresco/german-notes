@@ -53,7 +53,7 @@ Wir werden gelernt haben
 Ihr werdet gelernt haben
 Sie werden gelernt haben
 
-# [[Modus - Konjunktiv]] 1 - Present
+# [[Modus - Konjunktiv]] 1 - Präsens
 Ich lerne
 Du lernest
 Er/Sie/Es lerne

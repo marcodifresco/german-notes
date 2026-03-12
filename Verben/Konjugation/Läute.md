@@ -53,7 +53,7 @@ Wir werden geläutet haben
 Ihr werdet geläutet haben
 Sie werden geläutet haben
 
-# [[Modus - Konjunktiv]] 1 - Present
+# [[Modus - Konjunktiv]] 1 - Präsens
 Ich läute
 Du läutest
 Er/Sie/Es läute

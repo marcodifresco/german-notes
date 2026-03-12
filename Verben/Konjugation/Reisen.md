@@ -53,7 +53,7 @@ Wir werden gereist sein
 Ihr werdet gereist sein
 Sie werden gereist sein
 
-# [[Modus - Konjunktiv]] 1 - Present
+# [[Modus - Konjunktiv]] 1 - Präsens
 Ich reise
 Du reisest
 Er/Sie/Es reise

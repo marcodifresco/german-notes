@@ -53,7 +53,7 @@ Wir werden gesessen haben
 Ihr werdet gesessen haben
 Sie werden gesessen haben
 
-# [[Modus - Konjunktiv]] 1 - Present
+# [[Modus - Konjunktiv]] 1 - Präsens
 Ich sitze
 Du sitzest
 Er/Sie/Es sitze

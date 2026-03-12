@@ -52,7 +52,7 @@ Wir werden geglaubt haben
 Ihr werdet geglaubt haben
 Sie werden geglaubt haben
 
-# [[Modus - Konjunktiv]] 1 - Present
+# [[Modus - Konjunktiv]] 1 - Präsens
 Ich glaube
 Du glaubest
 Er/Sie/Es glaube

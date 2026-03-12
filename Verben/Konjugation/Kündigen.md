@@ -52,7 +52,7 @@ wir werden gekündigt haben
 ihr werdet gekündigt haben
 Sie werden gekündigt haben
 
-# [[Modus - Konjunktiv]] 1 - Present
+# [[Modus - Konjunktiv]] 1 - Präsens
 ich kündige
 du kündigest
 er/sie/es kündige

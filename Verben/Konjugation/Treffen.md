@@ -53,7 +53,7 @@ Wir werden getroffen haben
 Ihr werdet getroffen haben
 Sie werden getroffen haben
 
-# [[Modus - Konjunktiv]] 1 - Present
+# [[Modus - Konjunktiv]] 1 - Präsens
 Ich treffe
 Du treffest
 Er/Sie/Es treffe

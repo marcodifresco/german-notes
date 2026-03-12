@@ -53,7 +53,7 @@ Wir werden mitgebracht haben
 Ihr werdet mitgebracht haben
 Sie werden mitgebracht haben
 
-# [[Modus - Konjunktiv]] 1 - Present
+# [[Modus - Konjunktiv]] 1 - Präsens
 Ich bringe mit
 Du bringest mit
 Er/Sie/Es bringe mit

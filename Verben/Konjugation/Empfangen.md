@@ -53,7 +53,7 @@ Wir werden empfangen haben
 Ihr werdet empfangen haben
 Sie werden empfangen haben
 
-# [[Modus - Konjunktiv]] 1 - Present
+# [[Modus - Konjunktiv]] 1 - Präsens
 Ich empfange
 Du empfangest
 Er/Sie/Es empfange

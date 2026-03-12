@@ -52,7 +52,7 @@ Wir werden gegangen sein
 Ihr werdet gegangen sein
 Sie werden gegangen sein
 
-# [[Modus - Konjunktiv]] 1 - Present
+# [[Modus - Konjunktiv]] 1 - Präsens
 Ich gehe
 Du gehest
 Er/Sie/Es gehe

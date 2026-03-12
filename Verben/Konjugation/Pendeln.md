@@ -52,7 +52,7 @@ Wir werden gependelt haben
 Ihr werdet gependelt haben
 Sie werden gependelt haben
 
-# [[Modus - Konjunktiv]] 1 - Present
+# [[Modus - Konjunktiv]] 1 - Präsens
 Ich pendle
 Du pendlest
 Er/sie/es pendle

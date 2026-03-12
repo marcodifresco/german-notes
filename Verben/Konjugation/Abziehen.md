@@ -54,7 +54,7 @@ wir werden abgezogen sein
 ihr werdet abgezogen sein
 Sie werden abgezogen sein
 
-# [[Modus - Konjunktiv]] 1 - Present
+# [[Modus - Konjunktiv]] 1 - Präsens
 ich ziehe ab
 du ziehest ab
 er/sie/es ziehe ab

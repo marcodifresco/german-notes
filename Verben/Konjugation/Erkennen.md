@@ -57,7 +57,7 @@ Wir werden erkannt haben
 Ihr werdet erkannt haben
 Sie werden erkannt haben
 
-# [[Modus - Konjunktiv]] 1 - Present
+# [[Modus - Konjunktiv]] 1 - Präsens
 Ich erkenne
 Du erkennest
 Er/Sie/Es erkenne

@@ -56,7 +56,7 @@ Wir werden verstanden haben
 Ihr werdet verstanden haben
 Sie werden verstanden haben
 
-# [[Modus - Konjunktiv]] 1 - Present
+# [[Modus - Konjunktiv]] 1 - Präsens
 Ich verstehe
 Du verstehest
 Er/Sie/Es verstehe

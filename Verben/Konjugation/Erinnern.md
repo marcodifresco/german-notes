@@ -53,7 +53,7 @@ Wir werden erinnert haben
 Ihr werdet erinnert haben
 Sie werden erinnert haben
 
-# [[Modus - Konjunktiv]] 1 - Present
+# [[Modus - Konjunktiv]] 1 - Präsens
 Ich erinnere
 Du erinnerst
 Er/Sie/Es erinnere

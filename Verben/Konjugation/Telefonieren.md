@@ -53,7 +53,7 @@ Wir werden telefoniert haben
 Ihr werdet telefoniert haben
 Sie werden telefoniert haben
 
-# [[Modus - Konjunktiv]] 1 - Present
+# [[Modus - Konjunktiv]] 1 - Präsens
 Ich telefoniere
 Du telefonierest
 Er/Sie/Es telefoniere

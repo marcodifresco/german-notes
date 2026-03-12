@@ -53,7 +53,7 @@ Wir werden gedurft haben
 Ihr werdet gedurft haben
 Sie werden gedurft haben
 
-# [[Modus - Konjunktiv]] 1 - Present
+# [[Modus - Konjunktiv]] 1 - Präsens
 Ich dürfe
 Du dürfest
 Er/Sie/Es dürfe

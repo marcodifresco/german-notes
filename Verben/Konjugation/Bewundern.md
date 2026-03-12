@@ -53,7 +53,7 @@ Wir werden bewundert haben
 Ihr werdet bewundert haben
 Sie werden bewundert haben
 
-# [[Modus - Konjunktiv]] 1 - Present
+# [[Modus - Konjunktiv]] 1 - Präsens
 Ich bewundere
 Du bewunderest
 Er/Sie/Es bewundere

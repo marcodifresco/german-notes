@@ -51,7 +51,7 @@ wir werden gesteckt haben
 ihr werdet gesteckt haben
 Sie werden gesteckt haben
 
-# [[Modus - Konjunktiv]] 1 - Present
+# [[Modus - Konjunktiv]] 1 - Präsens
 ich stecke
 du steckest
 er/sie/es stecke

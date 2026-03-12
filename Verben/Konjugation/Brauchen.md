@@ -60,7 +60,7 @@ Ihr werdet gebraucht haben
 Sie werden gebraucht haben
 
 
-# [[Modus - Konjunktiv]] 1 - Present
+# [[Modus - Konjunktiv]] 1 - Präsens
 Ich brauche
 Du brauchest
 Er/Sie/Es brauche

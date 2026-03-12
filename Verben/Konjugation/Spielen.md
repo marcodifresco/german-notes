@@ -53,7 +53,7 @@ Wir werden gespielt haben
 Ihr werdet gespielt haben
 Sie werden gespielt haben
 
-# [[Modus - Konjunktiv]] 1 - Present
+# [[Modus - Konjunktiv]] 1 - Präsens
 Ich spiele
 Du spielest
 Er/Sie/Es spiele

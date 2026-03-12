@@ -51,7 +51,7 @@ Wir werden gesungen haben
 Ihr werdet gesungen haben
 Sie werden gesungen haben
 
-# [[Modus - Konjunktiv]] 1 - Present
+# [[Modus - Konjunktiv]] 1 - Präsens
 Ich singe
 Du singest
 Er/Sie/Es singe

@@ -53,7 +53,7 @@ Wir werden verpackt haben
 Ihr werdet verpackt haben
 Sie werden verpackt haben
 
-# [[Modus - Konjunktiv]] 1 - Present
+# [[Modus - Konjunktiv]] 1 - Präsens
 Ich verpacke
 Du verpackest
 Er/Sie/Es verpacke

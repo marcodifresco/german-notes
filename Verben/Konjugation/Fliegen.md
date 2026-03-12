@@ -53,7 +53,7 @@ Wir werden geflogen sein
 Ihr werdet geflogen sein
 Sie werden geflogen sein
 
-# [[Modus - Konjunktiv]] 1 - Present
+# [[Modus - Konjunktiv]] 1 - Präsens
 Ich fliege
 Du flieg*est*
 Er/Sie/Es fliege

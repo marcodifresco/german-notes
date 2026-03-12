@@ -53,7 +53,7 @@ Wir werden unterschrieben haben
 Ihr werdet unterschrieben haben
 Sie werden unterschrieben haben
 
-# [[Modus - Konjunktiv]] 1 - Present
+# [[Modus - Konjunktiv]] 1 - Präsens
 Ich unterschreibe
 Du unterschreibest
 Er/Sie/Es unterschreibe

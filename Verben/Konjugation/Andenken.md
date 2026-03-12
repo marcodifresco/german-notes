@@ -54,7 +54,7 @@ Wir werden angedacht haben
 Ihr werdet angedacht haben
 Sie werden angedacht haben
 
-# [[Modus - Konjunktiv]] 1 - Present
+# [[Modus - Konjunktiv]] 1 - Präsens
 Ich denke an
 Du denkest an
 Er/Sie/Es denke an

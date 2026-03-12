@@ -55,7 +55,7 @@ Wir werden gelassen haben
 Ihr werdet gelassen haben
 Sie werden gelassen haben
 
-# [[Modus - Konjunktiv]] 1 - Present
+# [[Modus - Konjunktiv]] 1 - Präsens
 Ich lasse
 Du lassest
 Er/Sie/Es lasse

@@ -53,7 +53,7 @@ Wir werden versehen haben
 Ihr werdet versehen haben
 Sie werden versehen haben
 
-# [[Modus - Konjunktiv]] 1 - Present
+# [[Modus - Konjunktiv]] 1 - Präsens
 Ich versehe
 Du versehest
 Er/Sie/Es versehe

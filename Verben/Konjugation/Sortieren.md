@@ -53,7 +53,7 @@ Wir werden sortiert haben
 Ihr werdet sortiert haben
 Sie werden sortiert haben
 
-# [[Modus - Konjunktiv]] 1 - Present
+# [[Modus - Konjunktiv]] 1 - Präsens
 Ich sortiere
 Du sortierest
 Er/Sie/Es sortiere

@@ -61,7 +61,7 @@ Ihr werdet konfisziert haben
 Sie werden konfisziert haben
 
 
-# [[Modus - Konjunktiv]] 1 - Present
+# [[Modus - Konjunktiv]] 1 - Präsens
 Ich konfisziere
 Du konfiszierest
 Er/Sie/Es konfisziere

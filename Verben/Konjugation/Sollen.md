@@ -55,7 +55,7 @@ ___
 | Ihr       | werdet                  | gesollt     | haben                  |
 | Sie       | werden                  | gesollt     | haben                  |
 
-# [[Modus - Konjunktiv]] 1 - Present
+# [[Modus - Konjunktiv]] 1 - Präsens
 | Ich       | solle       |
 | Du        | sollest     |
 | Er/Sie/Es | solle       |

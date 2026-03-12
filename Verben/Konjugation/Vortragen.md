@@ -53,7 +53,7 @@ Wir werden vorgetragen haben
 Ihr werdet vorgetragen haben
 Sie werden vorgetragen haben
 
-# [[Modus - Konjunktiv]] 1 - Present
+# [[Modus - Konjunktiv]] 1 - Präsens
 Ich trage vor
 Du tragest vor
 Er/Sie/Es trage vor

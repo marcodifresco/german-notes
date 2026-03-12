@@ -52,7 +52,7 @@ Wir werden angerufen haben
 Ihr werdet angerufen haben
 Sie werden angerufen haben
 
-# [[Modus - Konjunktiv]] 1 - Present
+# [[Modus - Konjunktiv]] 1 - Präsens
 Ich rufe an
 Du rufest an
 Er/Sie/Es rufe an

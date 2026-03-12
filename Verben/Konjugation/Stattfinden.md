@@ -52,7 +52,7 @@ Wir werden stattgefunden haben
 Ihr werdet stattgefunden haben
 Sie werden stattgefunden haben
 
-# [[Modus - Konjunktiv]] 1 - Present
+# [[Modus - Konjunktiv]] 1 - Präsens
 Ich finde statt
 Du findest statt
 Er/Sie/Es finde statt

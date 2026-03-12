@@ -53,7 +53,7 @@ Wir werden gezeichnet haben
 Ihr werdet gezeichnet haben
 Sie werden gezeichnet haben
 
-# [[Modus - Konjunktiv]] 1 - Present
+# [[Modus - Konjunktiv]] 1 - Präsens
 Ich zeichne
 Du zeichnest
 Er/Sie/Es zeichne

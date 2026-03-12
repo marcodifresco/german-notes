@@ -53,7 +53,7 @@ Wir werden verhalten haben
 Ihr werdet verhalten haben
 Sie werden verhalten haben
 
-# [[Modus - Konjunktiv]] 1 - Present
+# [[Modus - Konjunktiv]] 1 - Präsens
 Ich verhalte
 Du verhaltest
 Er/Sie/Es verhalte

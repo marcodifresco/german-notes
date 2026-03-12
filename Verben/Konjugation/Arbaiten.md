@@ -53,7 +53,7 @@ Wir werden gearbeitet haben
 Ihr werdet gearbeitet haben
 Sie werden gearbeitet haben
 
-# [[Modus - Konjunktiv]] 1 - Present
+# [[Modus - Konjunktiv]] 1 - Präsens
 Ich arbeite
 Du arbeitest
 Er/Sie/Es arbeite

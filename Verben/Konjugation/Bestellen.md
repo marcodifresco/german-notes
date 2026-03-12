@@ -56,7 +56,7 @@ Wir werden bestellt haben
 Ihr werdet bestellt haben
 Sie werden bestellt haben
 
-# [[Modus - Konjunktiv]] 1 - Present
+# [[Modus - Konjunktiv]] 1 - Präsens
 Ich bestelle
 Du bestellest
 Er/Sie/Es bestelle

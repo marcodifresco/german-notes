@@ -52,7 +52,7 @@ wir werden abgeschlossen haben
 ihr werdet abgeschlossen haben
 Sie werden abgeschlossen haben
 
-# [[Modus - Konjunktiv]] 1 - Present
+# [[Modus - Konjunktiv]] 1 - Präsens
 ich schliesse ab
 du schliessest ab
 er/sie/es schliesse ab

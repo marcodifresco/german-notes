@@ -53,7 +53,7 @@ Wir werden geschienen haben
 Ihr werdet geschienen haben
 Sie werden geschienen haben
 
-# [[Modus - Konjunktiv]] 1 - Present
+# [[Modus - Konjunktiv]] 1 - Präsens
 Ich scheine
 Du scheinest
 Er/Sie/Es scheine

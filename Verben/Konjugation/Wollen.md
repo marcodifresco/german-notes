@@ -56,7 +56,7 @@ Wir werden gewollt haben
 Ihr werdet gewollt haben
 Sie werden gewollt haben
 
-# [[Modus - Konjunktiv]] 1 - Present
+# [[Modus - Konjunktiv]] 1 - Präsens
 Ich wolle
 Du wollest
 Er/Sie/Es wolle

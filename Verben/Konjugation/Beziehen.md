@@ -54,7 +54,7 @@ wir werden uns bezogen haben
 ihr werdet euch bezogen haben
 sie/Sie werden sich bezogen haben
 
-# [[Modus - Konjunktiv]] 1 - Present
+# [[Modus - Konjunktiv]] 1 - Präsens
 ich beziehe mich
 du beziehest dich
 er/sie/es beziehe sich

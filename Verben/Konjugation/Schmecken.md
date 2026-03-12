@@ -53,7 +53,7 @@ Wir werden geschmeckt haben
 Ihr werdet geschmeckt haben
 Sie werden geschmeckt haben
 
-# [[Modus - Konjunktiv]] 1 - Present
+# [[Modus - Konjunktiv]] 1 - Präsens
 Ich schmecke
 Du schmeckest
 Er/Sie/Es schmecke

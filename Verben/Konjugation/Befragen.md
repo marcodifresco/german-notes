@@ -53,7 +53,7 @@ Wir werden befragt haben
 Ihr werdet befragt haben
 Sie werden befragt haben
 
-# [[Modus - Konjunktiv]] 1 - Present
+# [[Modus - Konjunktiv]] 1 - Präsens
 Ich befrage
 Du befragest
 Er/Sie/Es befrage

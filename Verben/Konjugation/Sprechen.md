@@ -53,7 +53,7 @@ Wir werden gesprochen haben
 Ihr werdet gesprochen haben
 Sie werden gesprochen haben
 
-# [[Modus - Konjunktiv]] 1 - Present
+# [[Modus - Konjunktiv]] 1 - Präsens
 Ich spreche
 Du sprechest
 Er/Sie/Es spreche

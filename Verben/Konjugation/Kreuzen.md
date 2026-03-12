@@ -56,7 +56,7 @@ Wir werden gekreuzt haben
 Ihr werdet gekreuzt haben
 Sie werden gekreuzt haben
 
-# [[Modus - Konjunktiv]] 1 - Present
+# [[Modus - Konjunktiv]] 1 - Präsens
 Ich kreuze
 Du kreuzest
 Er/Sie/Es kreuze

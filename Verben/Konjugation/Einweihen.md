@@ -53,7 +53,7 @@ Wir werden eingeweiht haben
 Ihr werdet eingeweiht haben
 Sie werden eingeweiht haben
 
-# [[Modus - Konjunktiv]] 1 - Present
+# [[Modus - Konjunktiv]] 1 - Präsens
 Ich weihe ein
 Du weihest ein
 Er/Sie/Es weihe ein

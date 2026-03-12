@@ -53,7 +53,7 @@ Wir werden erfüllt haben
 Ihr werdet erfüllt haben
 Sie werden erfüllt haben
 
-# [[Modus - Konjunktiv]] 1 - Present
+# [[Modus - Konjunktiv]] 1 - Präsens
 Ich erfülle
 Du erfüllest
 Er/Sie/Es erfülle

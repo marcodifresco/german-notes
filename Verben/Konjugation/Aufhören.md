@@ -53,7 +53,7 @@ Wir werden aufgehört haben
 Ihr werdet aufgehört haben
 Sie werden aufgehört haben
 
-# [[Modus - Konjunktiv]] 1 - Present
+# [[Modus - Konjunktiv]] 1 - Präsens
 Ich höre auf
 Du hörest auf
 Er/Sie/Es höre auf

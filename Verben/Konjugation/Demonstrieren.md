@@ -53,7 +53,7 @@ Wir werden demonstriert haben
 Ihr werdet demonstriert haben
 Sie werden demonstriert haben
 
-# [[Modus - Konjunktiv]] 1 - Present
+# [[Modus - Konjunktiv]] 1 - Präsens
 Ich demonstriere
 Du demonstrierest
 Er/Sie/Es demonstriere

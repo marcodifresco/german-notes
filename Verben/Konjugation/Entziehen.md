@@ -55,7 +55,7 @@ wir werden entzogen haben
 ihr werdet entzogen haben
 Sie werden entzogen haben
 
-# [[Modus - Konjunktiv]] 1 - Present
+# [[Modus - Konjunktiv]] 1 - Präsens
 ich entziehe
 du entziehest
 er/sie/es entziehe

@@ -53,7 +53,7 @@ Wir werden geschlafen haben
 Ihr werdet geschlafen haben
 Sie werden geschlafen haben
 
-# [[Modus - Konjunktiv]] 1 - Present
+# [[Modus - Konjunktiv]] 1 - Präsens
 Ich schlafe
 Du schlafst
 Er/Sie/Es schlafe

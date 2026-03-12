@@ -51,7 +51,7 @@ Wir werden abgesandt haben
 Ihr werdet abgesandt haben
 Sie werden abgesandt haben
 
-# [[Modus - Konjunktiv]] 1 - Present
+# [[Modus - Konjunktiv]] 1 - Präsens
 Ich sende ab
 Du sendest ab
 Er/Sie/Es sende ab

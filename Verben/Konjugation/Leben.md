@@ -53,7 +53,7 @@ Wir werden gelebt haben
 Ihr werdet gelebt haben
 Sie werden gelebt haben
 
-# [[Modus - Konjunktiv]] 1 - Present
+# [[Modus - Konjunktiv]] 1 - Präsens
 Ich lebe
 Du lebest
 Er/Sie/Es lebe

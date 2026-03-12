@@ -53,7 +53,7 @@ Wir werden genommen haben
 Ihr werdet genommen haben
 Sie werden genommen haben
 
-# [[Modus - Konjunktiv]] 1 - Present
+# [[Modus - Konjunktiv]] 1 - Präsens
 Ich nehme
 Du nehmest
 Er/Sie/Es nehme

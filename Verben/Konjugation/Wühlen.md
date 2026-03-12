@@ -51,7 +51,7 @@ wir werden gewühlt haben
 ihr werdet gewühlt haben
 Sie werden gewühlt haben
 
-# [[Modus - Konjunktiv]] 1 - Present
+# [[Modus - Konjunktiv]] 1 - Präsens
 ich wühle
 du wühlest
 er/sie/es wühle

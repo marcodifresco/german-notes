@@ -53,7 +53,7 @@ Wir werden geerntet haben
 Ihr werdet geerntet haben
 Sie werden geerntet haben
 
-# [[Modus - Konjunktiv]] 1 - Present
+# [[Modus - Konjunktiv]] 1 - Präsens
 Ich ernte
 Du erntest
 Er/Sie/Es ernte

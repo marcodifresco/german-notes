@@ -53,7 +53,7 @@ Wir werden gewaschen haben
 Ihr werdet gewaschen haben
 Sie werden gewaschen haben
 
-# [[Modus - Konjunktiv]] 1 - Present
+# [[Modus - Konjunktiv]] 1 - Präsens
 Ich wasche
 Du waschest
 Er/Sie/Es wasche

@@ -53,7 +53,7 @@ Wir werden durchgesagt haben
 Ihr werdet durchgesagt haben
 Sie werden durchgesagt haben
 
-# [[Modus - Konjunktiv]] 1 - Present
+# [[Modus - Konjunktiv]] 1 - Präsens
 Ich sage durch
 Du sagest durch
 Er/Sie/Es sage durch

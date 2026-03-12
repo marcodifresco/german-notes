@@ -53,7 +53,7 @@ Wir werden gestiegen sein
 Ihr werdet gestiegen sein
 Sie werden gestiegen sein
 
-# [[Modus - Konjunktiv]] 1 - Present
+# [[Modus - Konjunktiv]] 1 - Präsens
 Ich steige
 Du steigest
 Er/Sie/Es steige

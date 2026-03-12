@@ -53,7 +53,7 @@ Wir werden entspannt haben
 Ihr werdet entspannt haben
 Sie werden entspannt haben
 
-# [[Modus - Konjunktiv]] 1 - Present
+# [[Modus - Konjunktiv]] 1 - Präsens
 Ich entspanne
 Du entspannest
 Er/Sie/Es entspanne

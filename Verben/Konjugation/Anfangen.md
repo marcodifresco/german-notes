@@ -51,7 +51,7 @@ Wir werden angefangen haben
 Ihr werdet angefangen haben
 Sie werden angefangen haben
 
-# [[Modus - Konjunktiv]] 1 - Present
+# [[Modus - Konjunktiv]] 1 - Präsens
 Ich fange an
 Du fangest an
 Er/Sie/Es fange an

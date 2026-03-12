@@ -57,7 +57,7 @@ wir werden verziehen haben
 ihr werdet verziehen haben
 Sie werden verziehen haben
 
-# [[Modus - Konjunktiv]] 1 - Present
+# [[Modus - Konjunktiv]] 1 - Präsens
 
 ich verzeihe
 du verzeihest

@@ -53,7 +53,7 @@ Wir werden gelegen haben
 Ihr werdet gelegen haben
 Sie werden gelegen haben
 
-# [[Modus - Konjunktiv]] 1 - Present
+# [[Modus - Konjunktiv]] 1 - Präsens
 Ich liege
 Du liegest
 Er/Sie/Es liege

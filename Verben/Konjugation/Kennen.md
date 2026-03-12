@@ -53,7 +53,7 @@ Wir werden gekannt haben
 Ihr werdet gekannt haben
 Sie werden gekannt haben
 
-# [[Modus - Konjunktiv]] 1 - Present
+# [[Modus - Konjunktiv]] 1 - Präsens
 Ich kenne
 Du kennest
 Er/Sie/Es kenne

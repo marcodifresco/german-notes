@@ -51,7 +51,7 @@ wir werden aufgewacht sein
 ihr werdet aufgewacht sein
 Sie werden aufgewacht sein
 
-# [[Modus - Konjunktiv]] 1 - Present
+# [[Modus - Konjunktiv]] 1 - Präsens
 ich wache auf
 du wachest auf
 er/sie/es wache auf

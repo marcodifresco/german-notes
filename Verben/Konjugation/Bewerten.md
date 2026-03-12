@@ -53,7 +53,7 @@ Wir werden bewertet haben
 Ihr werdet bewertet haben
 Sie werden bewertet haben
 
-# [[Modus - Konjunktiv]] 1 - Present
+# [[Modus - Konjunktiv]] 1 - Präsens
 Ich bewerte
 Du bewertest
 Er/Sie/Es bewerte
