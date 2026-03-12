@@ -23,17 +23,41 @@ Sie | suchen aus
 | Sie       | suchten aus  |
 
 # [[Modus - Indikativ]] - Perfekt
-[[Pronomen]] + [[Haben]] + ausgesucht
+| Pronoun   | Conjugation        |
+| --------- | ------------------ |
+| Ich       | habe ausgesucht    |
+| Du        | hast ausgesucht    |
+| Er/Sie/Es | hat ausgesucht     |
+| Wir       | haben ausgesucht   |
+| Ihr       | habt ausgesucht    |
+| Sie       | haben ausgesucht   |
 
 # [[Modus - Indikativ]] - Plusquamperfekt
-[[Pronomen]] + [[Haben#Präteritum|Hatten]] + ausgesucht
+| Pronoun   | Conjugation        |
+| --------- | ------------------ |
+| Ich       | hatte ausgesucht   |
+| Du        | hattest ausgesucht |
+| Er/Sie/Es | hatte ausgesucht   |
+| Wir       | hatten ausgesucht  |
+| Ihr       | hattet ausgesucht  |
+| Sie       | hatten ausgesucht  |
 
 # [[Modus - Indikativ]] - Futur I
-[[Pronomen]] + [[Werden]] + aussuchen
+| Pronoun   | Conjugation      |
+| --------- | ---------------- |
+| Ich       | werde aussuchen  |
+| Du        | wirst aussuchen  |
+| Er/Sie/Es | wird aussuchen   |
+| Wir       | werden aussuchen |
+| Ihr       | werdet aussuchen |
+| Sie       | werden aussuchen |
 
 # [[Modus - Indikativ]] - Futur II
-[[Pronomen]] + [[Werden]] + ausgesucht + [[Haben]]# [[Modus - Indikativ]] - Präsens
-
-# [[Modus - Indikativ]] - Perfekt
-[[Pronomen]] + [[Haben]] + ausgesucht
-
+| Pronoun   | Conjugation            |
+| --------- | ---------------------- |
+| Ich       | werde ausgesucht haben |
+| Du        | wirst ausgesucht haben |
+| Er/Sie/Es | wird ausgesucht haben  |
+| Wir       | werden ausgesucht haben|
+| Ihr       | werdet ausgesucht haben|
+| Sie       | werden ausgesucht haben|

@@ -1,6 +1,4 @@
-___
-
-Links: [[Verben]] [[Typ - Irregular verben]] [[Typ - Trennbare verben]]
+Links: [[Verben]] [[Typ - Irregular verben]] [[Typ - Trennbare verben]]
 Meaning: Wake up
 
 ---

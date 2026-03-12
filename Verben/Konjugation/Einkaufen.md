@@ -12,38 +12,145 @@ Wir | kaufen ein
 Ihr | kauft ein
 Sie | kaufen ein
 
-
 # [Indikativ - Perfekt]]
 [[Pronomen]] + [[Haben]] +  eingekauft
 # [[Modus - Indikativ]] - Präteritum
+Pronoun|Conjugation
+------------ | ------------
+Ich | kaufte ein
+Du | kauftest ein
+Er/Sie/Es | kaufte ein
+Wir | kauften ein
+Ihr | kauftet ein
+Sie | kauften ein
 
 # [[Modus - Indikativ]] - Perfekt
+Pronoun|Conjugation
+------------ | ------------
+Ich | habe eingekauft
+Du | hast eingekauft
+Er/Sie/Es | hat eingekauft
+Wir | haben eingekauft
+Ihr | habt eingekauft
+Sie | haben eingekauft
 
 # [[Modus - Indikativ]] - Plusquamperfekt
+Pronoun|Conjugation
+------------ | ------------
+Ich | hatte eingekauft
+Du | hattest eingekauft
+Er/Sie/Es | hatte eingekauft
+Wir | hatten eingekauft
+Ihr | hattet eingekauft
+Sie | hatten eingekauft
 
 # [[Modus - Indikativ]] - Futur I
+Pronoun|Conjugation
+------------ | ------------
+Ich | werde einkaufen
+Du | wirst einkaufen
+Er/Sie/Es | wird einkaufen
+Wir | werden einkaufen
+Ihr | werdet einkaufen
+Sie | werden einkaufen
 
 # [[Modus - Indikativ]] - Futur II
+Pronoun|Conjugation
+------------ | ------------
+Ich | werde eingekauft haben
+Du | wirst eingekauft haben
+Er/Sie/Es | wird eingekauft haben
+Wir | werden eingekauft haben
+Ihr | werdet eingekauft haben
+Sie | werden eingekauft haben
 
 # [[Modus - Konjunktiv]] 1 - Present
+Pronoun|Conjugation
+------------ | ------------
+Ich | kaufe ein
+Du | kaufest ein
+Er/Sie/Es | kaufe ein
+Wir | kaufen ein
+Ihr | kaufet ein
+Sie | kaufen ein
 
 # [[Modus - Konjunktiv]] 1 - Perfekt
+Pronoun|Conjugation
+------------ | ------------
+Ich | habe eingekauft
+Du | habest eingekauft
+Er/Sie/Es | habe eingekauft
+Wir | haben eingekauft
+Ihr | habet eingekauft
+Sie | haben eingekauft
 
 # [[Modus - Konjunktiv]] 1 - Futur I
+Pronoun|Conjugation
+------------ | ------------
+Ich | werde einkaufen
+Du | werdest einkaufen
+Er/Sie/Es | werde einkaufen
+Wir | werden einkaufen
+Ihr | werdet einkaufen
+Sie | werden einkaufen
 
 # [[Modus - Konjunktiv]] 1 - Futur II
+Pronoun|Conjugation
+------------ | ------------
+Ich | werde eingekauft haben
+Du | werdest eingekauft haben
+Er/Sie/Es | werde eingekauft haben
+Wir | werden eingekauft haben
+Ihr | werdet eingekauft haben
+Sie | werden eingekauft haben
 
 # [[Modus - Konjunktiv]] 2 - Präteritum
+Pronoun|Conjugation
+------------ | ------------
+Ich | kaufte ein
+Du | kauftest ein
+Er/Sie/Es | kaufte ein
+Wir | kauften ein
+Ihr | kauftet ein
+Sie | kauften ein
 
 # [[Modus - Konjunktiv]] 2 - Futur I
+Pronoun|Conjugation
+------------ | ------------
+Ich | würde einkaufen
+Du | würdest einkaufen
+Er/Sie/Es | würde einkaufen
+Wir | würden einkaufen
+Ihr | würdet einkaufen
+Sie | würden einkaufen
 
 # [[Modus - Konjunktiv]] 2 - Futur II
+Pronoun|Conjugation
+------------ | ------------
+Ich | würde eingekauft haben
+Du | würdest eingekauft haben
+Er/Sie/Es | würde eingekauft haben
+Wir | würden eingekauft haben
+Ihr | würdet eingekauft haben
+Sie | würden eingekauft haben
 
 # [[Modus - Konjunktiv]] 2 - Plusquamperfekt
+Pronoun|Conjugation
+------------ | ------------
+Ich | hätte eingekauft
+Du | hättest eingekauft
+Er/Sie/Es | hätte eingekauft
+Wir | hätten eingekauft
+Ihr | hättet eingekauft
+Sie | hätten eingekauft
 
 # [[Modus - Imperativ]] - Präsens
+(du) Kauf ein!
+(ihr) Kauft ein!
+(Sie) Kaufen Sie ein!
 
 # [[Modus - Partizips]] - Präsens
+einkaufend
 
 # [[Modus - Partizips]] - Perfekt
-
+eingekauft

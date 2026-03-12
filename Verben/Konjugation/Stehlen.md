@@ -6,41 +6,151 @@ Pronoun|Conjugation
 ------------ | ------------
 Ich | stehle
 Du | stiehlst
-Er/Sie/Es | stehlt
+Er/Sie/Es | stiehlt
 Wir | stehlen
 Ihr | stehlt
 Sie | stehlen
 
 
 # [[Modus - Indikativ]] - Präteritum
+Pronoun|Conjugation
+------------ | ------------
+Ich | stahl
+Du | stahlst
+Er/Sie/Es | stahl
+Wir | stahlen
+Ihr | stahlt
+Sie | stahlen
 
 # [[Modus - Indikativ]] - Perfekt
 [[Pronomen]] + [[Haben]] + gestohlen
+Pronoun|Conjugation
+------------ | ------------
+Ich | habe gestohlen
+Du | hast gestohlen
+Er/Sie/Es | hat gestohlen
+Wir | haben gestohlen
+Ihr | habt gestohlen
+Sie | haben gestohlen
+
 # [[Modus - Indikativ]] - Plusquamperfekt
+Pronoun|Conjugation
+------------ | ------------
+Ich | hatte gestohlen
+Du | hattest gestohlen
+Er/Sie/Es | hatte gestohlen
+Wir | hatten gestohlen
+Ihr | hattet gestohlen
+Sie | hatten gestohlen
 
 # [[Modus - Indikativ]] - Futur I
+Pronoun|Conjugation
+------------ | ------------
+Ich | werde stehlen
+Du | wirst stehlen
+Er/Sie/Es | wird stehlen
+Wir | werden stehlen
+Ihr | werdet stehlen
+Sie | werden stehlen
 
 # [[Modus - Indikativ]] - Futur II
+Pronoun|Conjugation
+------------ | ------------
+Ich | werde gestohlen haben
+Du | wirst gestohlen haben
+Er/Sie/Es | wird gestohlen haben
+Wir | werden gestohlen haben
+Ihr | werdet gestohlen haben
+Sie | werden gestohlen haben
 
 # [[Modus - Konjunktiv]] 1 - Present
+Pronoun|Conjugation
+------------ | ------------
+Ich | stehle
+Du | stehlest
+Er/Sie/Es | stehle
+Wir | stehlen
+Ihr | stehlet
+Sie | stehlen
 
 # [[Modus - Konjunktiv]] 1 - Perfekt
+Pronoun|Conjugation
+------------ | ------------
+Ich | habe gestohlen
+Du | habest gestohlen
+Er/Sie/Es | habe gestohlen
+Wir | haben gestohlen
+Ihr | habet gestohlen
+Sie | haben gestohlen
 
 # [[Modus - Konjunktiv]] 1 - Futur I
+Pronoun|Conjugation
+------------ | ------------
+Ich | werde stehlen
+Du | werdest stehlen
+Er/Sie/Es | werde stehlen
+Wir | werden stehlen
+Ihr | werdet stehlen
+Sie | werden stehlen
 
 # [[Modus - Konjunktiv]] 1 - Futur II
+Pronoun|Conjugation
+------------ | ------------
+Ich | werde gestohlen haben
+Du | werdest gestohlen haben
+Er/Sie/Es | werde gestohlen haben
+Wir | werden gestohlen haben
+Ihr | werdet gestohlen haben
+Sie | werden gestohlen haben
 
 # [[Modus - Konjunktiv]] 2 - Präteritum
+Pronoun|Conjugation
+------------ | ------------
+Ich | stähle
+Du | stählest
+Er/Sie/Es | stähle
+Wir | stählen
+Ihr | stählet
+Sie | stählen
 
 # [[Modus - Konjunktiv]] 2 - Futur I
+Pronoun|Conjugation
+------------ | ------------
+Ich | würde stehlen
+Du | würdest stehlen
+Er/Sie/Es | würde stehlen
+Wir | würden stehlen
+Ihr | würdet stehlen
+Sie | würden stehlen
 
 # [[Modus - Konjunktiv]] 2 - Futur II
+Pronoun|Conjugation
+------------ | ------------
+Ich | würde gestohlen haben
+Du | würdest gestohlen haben
+Er/Sie/Es | würde gestohlen haben
+Wir | würden gestohlen haben
+Ihr | würdet gestohlen haben
+Sie | würden gestohlen haben
 
 # [[Modus - Konjunktiv]] 2 - Plusquamperfekt
+Pronoun|Conjugation
+------------ | ------------
+Ich | hätte gestohlen
+Du | hättest gestohlen
+Er/Sie/Es | hätte gestohlen
+Wir | hätten gestohlen
+Ihr | hättet gestohlen
+Sie | hätten gestohlen
 
 # [[Modus - Imperativ]] - Präsens
+Stiehl! (du)
+Stehlt! (ihr)
+Stehlen Sie! (Sie, formal)
+Stehlen wir! (wir)
 
 # [[Modus - Partizips]] - Präsens
+stehlend
 
 # [[Modus - Partizips]] - Perfekt
-
+gestohlen

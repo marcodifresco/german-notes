@@ -1,5 +1,3 @@
-___
-
 Links: [[Verben]] [[Typ - Regular verben]]
 Meaning: Position
 
@@ -16,8 +14,8 @@ Sie stellen
 # [[Modus - Indikativ]] - Präteritum
 ich stellte
 du stelltest
-er/sie/es stellt
-ewir stellten
+er/sie/es stellte
+wir stellten
 ihr stelltet
 Sie stellten
 
@@ -90,20 +88,20 @@ ich stellte
 du stelltest
 er/sie/es stellte
 wir stellten
-ihr stellte
-tSie stellten
+ihr stelltet
+Sie stellten
 
 # [[Modus - Konjunktiv]] 2 - Futur I
 ich würde stellen
 du würdest stellen
-er/sie/es würde stelle
-nwir würden stellen
+er/sie/es würde stellen
+wir würden stellen
 ihr würdet stellen
 Sie würden stellen
 
 # [[Modus - Konjunktiv]] 2 - Futur II
-ich würde gestellt habe
-ndu würdest gestellt haben
+ich würde gestellt haben
+du würdest gestellt haben
 er/sie/es würde gestellt haben
 wir würden gestellt haben
 ihr würdet gestellt haben

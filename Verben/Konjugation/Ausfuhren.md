@@ -1,5 +1,3 @@
-___
-
 Links: [[Verben]] [[Typ - Regular verben]] [[Typ - Trennbare verben]]
 Meaning: Carry out
 
@@ -64,14 +62,6 @@ Sie führen aus
 
 
 # [[Modus - Konjunktiv]] 1 - Perfekt
-ich werde ausführen
-du werdest ausführen
-er/sie/es werde ausführen
-wir werden ausführen
-ihr werdet ausführen
-Sie werden ausführen
-
-# [[Modus - Konjunktiv]] 1 - Futur I
 ich habe ausgeführt
 du habest ausgeführt
 er/sie/es habe ausgeführt
@@ -79,10 +69,18 @@ wir haben ausgeführt
 ihr habet ausgeführt
 Sie haben ausgeführt
 
+# [[Modus - Konjunktiv]] 1 - Futur I
+ich werde ausführen
+du werdest ausführen
+er/sie/es werde ausführen
+wir werden ausführen
+ihr werdet ausführen
+Sie werden ausführen
+
 # [[Modus - Konjunktiv]] 1 - Futur II
 ich werde ausgeführt haben
 du werdest ausgeführt haben
-er/sie/es werde ausgeführt haben
+er/sie/es werde ausführen
 wir werden ausgeführt haben
 ihr werdet ausgeführt haben
 Sie werden ausgeführt haben
@@ -114,8 +112,8 @@ Sie würden ausgeführt haben
 # [[Modus - Konjunktiv]] 2 - Plusquamperfekt
 ich hätte ausgeführt
 du hättest ausgeführt
-er/sie/es hätte ausgeführ
-twir hätten ausgeführt
+er/sie/es hätte ausgeführt
+wir hätten ausgeführt
 ihr hättet ausgeführt
 Sie hätten ausgeführt
 

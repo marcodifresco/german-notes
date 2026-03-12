@@ -7,45 +7,154 @@ Pronoun|Conjugation
 ------------ | ------------
 Ich | schaue fern
 Du | schaust fern
-Er/Sie/Es | sieht fern
+Er/Sie/Es | schaut fern
 Wir | schauen fern
 Ihr | schaut fern
 Sie | schauen fern
 
 
 # [[Modus - Indikativ]] - Präteritum
+Pronoun|Conjugation
+------------ | ------------
+Ich | schaute fern
+Du | schautest fern
+Er/Sie/Es | schaute fern
+Wir | schauten fern
+Ihr | schautet fern
+Sie | schauten fern
 
 # [[Modus - Indikativ]] - Perfekt
 [[Pronomen]] + [[Haben]] + ferngeschaut
+Pronoun|Conjugation
+------------ | ------------
+Ich | habe ferngeschaut
+Du | hast ferngeschaut
+Er/Sie/Es | hat ferngeschaut
+Wir | haben ferngeschaut
+Ihr | habt ferngeschaut
+Sie | haben ferngeschaut
 
 # Rules
 For generic viewing
-*EX: Ich schaue heute Abend fern.*
+EX: Ich schaue heute Abend fern.*
 # [[Modus - Indikativ]] - Plusquamperfekt
+Pronoun|Conjugation
+------------ | ------------
+Ich | hatte ferngeschaut
+Du | hattest ferngeschaut
+Er/Sie/Es | hatte ferngeschaut
+Wir | hatten ferngeschaut
+Ihr | hattet ferngeschaut
+Sie | hatten ferngeschaut
 
 # [[Modus - Indikativ]] - Futur I
+Pronoun|Conjugation
+------------ | ------------
+Ich | werde fernschauen
+Du | wirst fernschauen
+Er/Sie/Es | wird fernschauen
+Wir | werden fernschauen
+Ihr | werdet fernschauen
+Sie | werden fernschauen
 
 # [[Modus - Indikativ]] - Futur II
+Pronoun|Conjugation
+------------ | ------------
+Ich | werde ferngeschaut haben
+Du | wirst ferngeschaut haben
+Er/Sie/Es | wird ferngeschaut haben
+Wir | werden ferngeschaut haben
+Ihr | werdet ferngeschaut haben
+Sie | werden ferngeschaut haben
 
 # [[Modus - Konjunktiv]] 1 - Present
+Pronoun|Conjugation
+------------ | ------------
+Ich | schaue fern
+Du | schauest fern
+Er/Sie/Es | schaue fern
+Wir | schauen fern
+Ihr | schauet fern
+Sie | schauen fern
 
 # [[Modus - Konjunktiv]] 1 - Perfekt
+Pronoun|Conjugation
+------------ | ------------
+Ich | habe ferngeschaut
+Du | habest ferngeschaut
+Er/Sie/Es | habe ferngeschaut
+Wir | haben ferngeschaut
+Ihr | habet ferngeschaut
+Sie | haben ferngeschaut
 
 # [[Modus - Konjunktiv]] 1 - Futur I
+Pronoun|Conjugation
+------------ | ------------
+Ich | werde fernschauen
+Du | werdest fernschauen
+Er/Sie/Es | werde fernschauen
+Wir | werden fernschauen
+Ihr | werdet fernschauen
+Sie | werden fernschauen
 
 # [[Modus - Konjunktiv]] 1 - Futur II
+Pronoun|Conjugation
+------------ | ------------
+Ich | werde ferngeschaut haben
+Du | werdest ferngeschaut haben
+Er/Sie/Es | werde ferngeschaut haben
+Wir | werden ferngeschaut haben
+Ihr | werdet ferngeschaut haben
+Sie | werden ferngeschaut haben
 
 # [[Modus - Konjunktiv]] 2 - Präteritum
+Pronoun|Conjugation
+------------ | ------------
+Ich | schaute fern
+Du | schautest fern
+Er/Sie/Es | schaute fern
+Wir | schauten fern
+Ihr | schautet fern
+Sie | schauten fern
 
 # [[Modus - Konjunktiv]] 2 - Futur I
+Pronoun|Conjugation
+------------ | ------------
+Ich | würde fernschauen
+Du | würdest fernschauen
+Er/Sie/Es | würde fernschauen
+Wir | würden fernschauen
+Ihr | würdet fernschauen
+Sie | würden fernschauen
 
 # [[Modus - Konjunktiv]] 2 - Futur II
+Pronoun|Conjugation
+------------ | ------------
+Ich | würde ferngeschaut haben
+Du | würdest ferngeschaut haben
+Er/Sie/Es | würde ferngeschaut haben
+Wir | würden ferngeschaut haben
+Ihr | würdet ferngeschaut haben
+Sie | würden ferngeschaut haben
 
 # [[Modus - Konjunktiv]] 2 - Plusquamperfekt
+Pronoun|Conjugation
+------------ | ------------
+Ich | hätte ferngeschaut
+Du | hättest ferngeschaut
+Er/Sie/Es | hätte ferngeschaut
+Wir | hätten ferngeschaut
+Ihr | hättet ferngeschaut
+Sie | hätten ferngeschaut
 
 # [[Modus - Imperativ]] - Präsens
+(Du) Schau fern!
+(Ihr) Schaut fern!
+(Sie) Schauen Sie fern!
+(Wir) Schauen wir fern!
 
 # [[Modus - Partizips]] - Präsens
+fernschauend
 
 # [[Modus - Partizips]] - Perfekt
-
+ferngeschaut

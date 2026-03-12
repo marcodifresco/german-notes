@@ -1,15 +1,23 @@
-___
-
 Links: [[Verben]] [[Typ - Regular verben]] [[Typ - Trennbare verben]]
 Meaning: Spend the night
 
 ---
 
 # [[Modus - Indikativ]] - Präsens
+ich übernachte
+du übernachtest
 er/sie/es übernachtet
+wir übernachten
+ihr übernachtet
+Sie übernachten
 
 # [[Modus - Indikativ]] - Präteritum
+ich übernachtete
+du übernachtetest
 er/sie/es übernachtete
+wir übernachteten
+ihr übernachtetet
+Sie übernachteten
 
 # [[Modus - Indikativ]] - Perfekt
 ich habe übernachtet
@@ -44,7 +52,12 @@ ihr werdet übernachtet haben
 Sie werden übernachtet haben
 
 # [[Modus - Konjunktiv]] 1 - Present
+ich übernachte
+du übernachtest
 er/sie/es übernachte
+wir übernachten
+ihr übernachtet
+Sie übernachten
 
 # [[Modus - Konjunktiv]] 1 - Perfekt
 ich habe übernachtet
@@ -71,7 +84,12 @@ ihr werdet übernachtet haben
 Sie werden übernachtet haben
 
 # [[Modus - Konjunktiv]] 2 - Präteritum
+ich übernachtete
+du übernachtetest
 er/sie/es übernachtete
+wir übernachteten
+ihr übernachtetet
+Sie übernachteten
 
 # [[Modus - Konjunktiv]] 2 - Futur I
 ich würde übernachten
@@ -98,7 +116,10 @@ ihr hättet übernachtet
 Sie hätten übernachtet
 
 # [[Modus - Imperativ]] - Präsens
-
+(du) übernachte!
+(ihr) übernachtet!
+(Sie) übernachten Sie!
+(wir) übernachten wir!
 
 # [[Modus - Partizips]] - Präsens
 übernachtend

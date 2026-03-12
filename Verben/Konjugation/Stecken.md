@@ -1,5 +1,3 @@
-___
-
 Links: [[Verben]] [[Typ - Regular verben]]
 Meaning: Put
 
@@ -74,8 +72,8 @@ ich werde stecken
 du werdest stecken
 er/sie/es werde stecken
 wir werden stecken
-ihr werdet steckenS
-ie werden stecken
+ihr werdet stecken
+Sie werden stecken
 
 # [[Modus - Konjunktiv]] 1 - Futur II
 ich werde gesteckt haben
@@ -104,8 +102,8 @@ Sie würden stecken
 # [[Modus - Konjunktiv]] 2 - Futur II
 ich würde gesteckt haben
 du würdest gesteckt haben
-er/sie/es würde gesteckt habenw
-ir würden gesteckt haben
+er/sie/es würde gesteckt haben
+wir würden gesteckt haben
 ihr würdet gesteckt haben
 Sie würden gesteckt haben
 

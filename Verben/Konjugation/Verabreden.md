@@ -4,7 +4,7 @@ trello_board_card_id: 65341124dca0f2cee54063fb;6791ffa794ebd8fcdadca115
 ---
 ___
 
-Links: [[Verben]] [[Typ - Regular verben]] 
+Links: [[Verben]] [[Typ - Regular verben]]
 Meaning: make appointment
 
 ---
@@ -117,8 +117,8 @@ Sie würden verabredet haben
 ich hätte verabredet
 du hättest verabredet
 er/sie/es hätte verabredet
-wir hätten verabrede
-tihr hättet verabredet
+wir hätten verabredet
+ihr hättet verabredet
 Sie hätten verabredet
 
 # [[Modus - Imperativ]] - Präsens

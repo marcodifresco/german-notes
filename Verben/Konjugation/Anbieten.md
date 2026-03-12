@@ -14,34 +14,146 @@ Sie | bieten an
 
 
 # [[Modus - Indikativ]] - Präteritum
+Pronoun|Conjugation
+------------ | ------------
+Ich | bot an
+Du | botst an
+Er/Sie/Es | bot an
+Wir | boten an
+Ihr | botet an
+Sie | boten an
 
 # [[Modus - Indikativ]] - Perfekt
 [[Pronomen]] + [[Haben]] angeboten
+Pronoun|Conjugation
+------------ | ------------
+Ich | habe angeboten
+Du | hast angeboten
+Er/Sie/Es | hat angeboten
+Wir | haben angeboten
+Ihr | habt angeboten
+Sie | haben angeboten
+
 # [[Modus - Indikativ]] - Plusquamperfekt
+Pronoun|Conjugation
+------------ | ------------
+Ich | hatte angeboten
+Du | hattest angeboten
+Er/Sie/Es | hatte angeboten
+Wir | hatten angeboten
+Ihr | hattet angeboten
+Sie | hatten angeboten
 
 # [[Modus - Indikativ]] - Futur I
+Pronoun|Conjugation
+------------ | ------------
+Ich | werde anbieten
+Du | wirst anbieten
+Er/Sie/Es | wird anbieten
+Wir | werden anbieten
+Ihr | werdet anbieten
+Sie | werden anbieten
 
 # [[Modus - Indikativ]] - Futur II
+Pronoun|Conjugation
+------------ | ------------
+Ich | werde angeboten haben
+Du | wirst angeboten haben
+Er/Sie/Es | wird angeboten haben
+Wir | werden angeboten haben
+Ihr | werdet angeboten haben
+Sie | werden angeboten haben
 
 # [[Modus - Konjunktiv]] 1 - Present
+Pronoun|Conjugation
+------------ | ------------
+Ich | biete an
+Du | bietest an
+Er/Sie/Es | biete an
+Wir | bieten an
+Ihr | bietet an
+Sie | bieten an
 
 # [[Modus - Konjunktiv]] 1 - Perfekt
+Pronoun|Conjugation
+------------ | ------------
+Ich | habe angeboten
+Du | habest angeboten
+Er/Sie/Es | habe angeboten
+Wir | haben angeboten
+Ihr | habet angeboten
+Sie | haben angeboten
 
 # [[Modus - Konjunktiv]] 1 - Futur I
+Pronoun|Conjugation
+------------ | ------------
+Ich | werde anbieten
+Du | werdest anbieten
+Er/Sie/Es | werde anbieten
+Wir | werden anbieten
+Ihr | werdet anbieten
+Sie | werden anbieten
 
 # [[Modus - Konjunktiv]] 1 - Futur II
+Pronoun|Conjugation
+------------ | ------------
+Ich | werde angeboten haben
+Du | werdest angeboten haben
+Er/Sie/Es | werde angeboten haben
+Wir | werden angeboten haben
+Ihr | werdet angeboten haben
+Sie | werden angeboten haben
 
 # [[Modus - Konjunktiv]] 2 - Präteritum
+Pronoun|Conjugation
+------------ | ------------
+Ich | böte an
+Du | bötest an
+Er/Sie/Es | böte an
+Wir | böten an
+Ihr | bötet an
+Sie | böten an
 
 # [[Modus - Konjunktiv]] 2 - Futur I
+Pronoun|Conjugation
+------------ | ------------
+Ich | würde anbieten
+Du | würdest anbieten
+Er/Sie/Es | würde anbieten
+Wir | würden anbieten
+Ihr | würdet anbieten
+Sie | würden anbieten
 
 # [[Modus - Konjunktiv]] 2 - Futur II
+Pronoun|Conjugation
+------------ | ------------
+Ich | würde angeboten haben
+Du | würdest angeboten haben
+Er/Sie/Es | würde angeboten haben
+Wir | würden angeboten haben
+Ihr | würdet angeboten haben
+Sie | würden angeboten haben
 
 # [[Modus - Konjunktiv]] 2 - Plusquamperfekt
+Pronoun|Conjugation
+------------ | ------------
+Ich | hätte angeboten
+Du | hättest angeboten
+Er/Sie/Es | hätte angeboten
+Wir | hätten angeboten
+Ihr | hättet angeboten
+Sie | hätten angeboten
 
 # [[Modus - Imperativ]] - Präsens
+Pronoun|Conjugation
+------------ | ------------
+Du | Biete an!
+Ihr | Bietet an!
+Wir | Bieten wir an!
+Sie | Bieten Sie an!
 
 # [[Modus - Partizips]] - Präsens
+anbietend
 
 # [[Modus - Partizips]] - Perfekt
-
+angeboten

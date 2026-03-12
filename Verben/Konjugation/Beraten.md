@@ -1,6 +1,4 @@
-___
-
-Links: [[Verben]] [[Typ Regular verben]]
+Links: [[Verben]] [[Typ Regular verben]]
 Meaning: Advise
 
 ---
@@ -58,7 +56,8 @@ Sie werden beraten haben
 ich berate
 du beratest
 er/sie/es berate
-wir beratenihr beratet
+wir beraten
+ihr beratet
 Sie beraten
 
 # [[Modus - Konjunktiv]] 1 - Perfekt
@@ -118,11 +117,7 @@ ihr hättet beraten
 Sie hätten beraten
 
 # [[Modus - Imperativ]] - Präsens
-berate (du)
-beraten wir
-beratet ihr
-beraten Sie
-berat (du)
+berate (du) / berat (du)
 beraten wir
 beratet ihr
 beraten Sie

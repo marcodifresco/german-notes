@@ -1,5 +1,3 @@
-___
-
 Links: [[Verben]] [[Verben]] [[Typ - Regular verben]] 
 Meaning: To dig
 
@@ -62,14 +60,6 @@ ihr wühlet
 Sie wühlen
 
 # [[Modus - Konjunktiv]] 1 - Perfekt
-ich werde wühlen
-du werdest wühlen
-er/sie/es werde wühlen
-wir werden wühlen
-ihr werdet wühlen
-Sie werden wühlen
-
-# [[Modus - Konjunktiv]] 1 - Futur I
 ich habe gewühlt
 du habest gewühlt
 er/sie/es habe gewühlt
@@ -77,7 +67,21 @@ wir haben gewühlt
 ihr habet gewühlt
 Sie haben gewühlt
 
+# [[Modus - Konjunktiv]] 1 - Futur I
+ich werde wühlen
+du werdest wühlen
+er/sie/es werde wühlen
+wir werden wühlen
+ihr werdet wühlen
+Sie werden wühlen
+
 # [[Modus - Konjunktiv]] 1 - Futur II
+ich werde gewühlt haben
+du werdest gewühlt haben
+er/sie/es werde gewühlt haben
+wir werden gewühlt haben
+ihr werdet gewühlt haben
+Sie werden gewühlt haben
 
 # [[Modus - Konjunktiv]] 2 - Präteritum
 ich wühlte
@@ -96,12 +100,12 @@ ihr würdet wühlen
 Sie würden wühlen
 
 # [[Modus - Konjunktiv]] 2 - Futur II
-ich werde gewühlt haben
-du werdest gewühlt haben
-er/sie/es werde gewühlt haben
-wir werden gewühlt haben
-ihr werdet gewühlt haben
-Sie werden gewühlt haben
+ich würde gewühlt haben
+du würdest gewühlt haben
+er/sie/es würde gewühlt haben
+wir würden gewühlt haben
+ihr würdet gewühlt haben
+Sie würden gewühlt haben
 
 # [[Modus - Konjunktiv]] 2 - Plusquamperfekt
 ich hätte gewühlt
