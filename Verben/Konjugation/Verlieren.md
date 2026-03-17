@@ -2,7 +2,7 @@ ___
 <<<<<<< HEAD
 <<<<<<< HEAD
 Links: [[Verben]]
-Meaning:
+Meaning: to lose
 ___
 
 # [[Modus - Indikativ]] - Präsens
