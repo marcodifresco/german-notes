@@ -3,6 +3,7 @@ Tags: #Languages/German/Vocabulary
 Links: [[Vokabular]]
 ___
 
+<<<<<<< HEAD
 English | German
 ------------ | ------------
 <<<<<<< HEAD
@@ -132,6 +133,69 @@ Who | Wer
 Why | Warum
 With | Mit
 Without | Ohne
+=======
+| English         | German                |
+| --------------- | --------------------- |
+| About what      | Worüber               |
+| Accidentally    | Zufällig              |
+| After           | Nachdem               |
+| All             | Alles (Object)        |
+| All             | Alle (people)         |
+| Already         | Schon                 |
+| Almost          | Fast                  |
+| Always          | Immer                 |
+| Also            | Auch                  |
+| Also            | Ausserdem             |
+| Anything        | Irgendetwas           |
+| Approximately   | Ungefähr              |
+| As              | Als                   |
+| By the way      | Übrigens              |
+| But             | Aber                  |
+| Both            | Beide                 |
+| Constantly      | Dauernd               |
+| Early           | Frühzeitig            |
+| Even            | Noch                  |
+| Every           | Jeden                 |
+| Generously      | Grosszügig            |
+| Good            | Gut                   |
+| If              | Ob                    |
+| Immediately     | Sofort                |
+| Inadvertently   | aus Versehen          |
+| Least           | am wenigsten          |
+| How             | Wie                   |
+| Most            | am meisten            |
+| Never           | Nie                   |
+| Nevertheless    | Trotzdem              |
+| Now             | Jetzt                 |
+| Often           | Oft                   |
+| On              | Am (date) / Um (time) |
+| On what         | Worauf                |
+| Once            | Einmal                |
+| Others          | Anderen               |
+| Otherwise       | Ansonsten             |
+| Randomly        | Zufällig              |
+| Really          | Wirklich              |
+| Simultaneously  | Gleichzeitig          |
+| Some            | Etwas                 |
+| Sometime        | Manchmal              |
+| Still           | Noch                  |
+| Than            | Als                   |
+| This time       | Diesmal               |
+| Through         | Durch                 |
+| Too             | Zu                    |
+| Unintentionally | Unabsichtlich         |
+| Urgently        | Dringend              |
+| Very            | Sehr                  |
+| What            | Was                   |
+| What for        | Wozu                  |
+| When            | Wann                  |
+| Which           | Welche                |
+| Who             | Wer                   |
+| Why             | Warum                 |
+| With            | Mit                   |
+| Without         | Ohne                  |
+
+>>>>>>> 3752f03 (Added notes from 2026-02-23 lesson)
 
 # Location
 English | German
