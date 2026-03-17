@@ -1,28 +1,9 @@
 ___
-<<<<<<< HEAD
-<<<<<<< HEAD
 Links: [[Verben]] [[Typ - Trennbare verben]]
 Meaning:
 ___
 
 # [[Modus - Indikativ]] - Präsens
-=======
-Tags: #Languages/German/Grammar/Verbs/Regular 
-=======
->>>>>>> 5ee0bb7 (Other batch formatting on verbs conjugations)
-Links: [[Verben]] [[Typ - Trennbare verben]]
-Meaning:
-___
-<<<<<<< HEAD
-<<<<<<< HEAD
-# [[Indikativ - Präsens]]
->>>>>>> 586ee46 (Added notes from January 9th)
-=======
-=======
-
->>>>>>> 5ee0bb7 (Other batch formatting on verbs conjugations)
-# [[Modus - Indikativ]] - Präsens
->>>>>>> 81b7927 (Updated verbs modus links)
 ich stelle vor
 du stellst vor
 er/sie/es stellt vor
@@ -30,9 +11,6 @@ wir stellen vor
 ihr stellt vor
 Sie stellen vor
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
 # [[Modus - Indikativ]] - Präteritum
 ich stellte vor
 du stelltest vor
@@ -149,44 +127,3 @@ vorstellend
 
 # [[Modus - Partizips]] - Perfekt
 vorgestellt
-=======
-# [[Indikativ - Perfekt]]
-[[Pronomen]] + [[Haben]] + vorgestellt
->>>>>>> 586ee46 (Added notes from January 9th)
-=======
-# [[Indikativ - Präteritum]]
-=======
-# [[Modus - Indikativ]] - Präteritum
->>>>>>> 81b7927 (Updated verbs modus links)
-
-# [[Modus - Indikativ]] - Perfekt
-[[Pronomen]] + [[Haben]] + vorgestellt
-# [[Modus - Indikativ]] - Plusquamperfekt
-
-# [[Modus - Indikativ]] - Futur I
-
-# [[Modus - Indikativ]] - Futur II
-
-# [[Modus - Konjunktiv]] 1 - Present
-
-# [[Modus - Konjunktiv]] 1 - Perfekt
-
-# [[Modus - Konjunktiv]] 1 - Futur I
-
-# [[Modus - Konjunktiv]] 1 - Futur II
-
-# [[Modus - Konjunktiv]] 2 - Präteritum
-
-# [[Modus - Konjunktiv]] 2 - Futur I
-
-# [[Modus - Konjunktiv]] 2 - Futur II
-
-# [[Modus - Konjunktiv]] 2 - Plusquamperfekt
-
-# [[Modus - Imperativ]] - Präsens
-
-# [[Modus - Partizips]] - Präsens
-
-# [[Modus - Partizips]] - Perfekt
-
->>>>>>> 9ea0c9b (Added placeholder tense to existing verbs)

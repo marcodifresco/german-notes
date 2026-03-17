@@ -2,11 +2,6 @@ ___
 Links: [[Verben]]
 Meaning:
 ___
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> 5ee0bb7 (Other batch formatting on verbs conjugations)
 
 # [[Modus - Indikativ]] - Präsens
 Ich brauche
@@ -15,28 +10,8 @@ Er/Sie/Es braucht
 Wir brauchen
 Ihr braucht
 Sie brauchen
-<<<<<<< HEAD
-=======
-# [[Indikativ - Präsens]]
-=======
-# [[Modus - Indikativ]] - Präsens
->>>>>>> 81b7927 (Updated verbs modus links)
-Pronoun|Conjugation
------------- | ------------
-Ich | brauche
-Du | brauchst
-Er/Sie/Es | braucht
-Wir | brauchen
-Ihr | braucht
-Sie | brauchen
->>>>>>> d407dd8 (Catch-all changes on 09 06 2022.)
-=======
->>>>>>> 5ee0bb7 (Other batch formatting on verbs conjugations)
 
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
 # [[Modus - Indikativ]] - Präteritum
 Ich brauchte
 Du brauchtest
@@ -85,11 +60,7 @@ Ihr werdet gebraucht haben
 Sie werden gebraucht haben
 
 
-<<<<<<< HEAD
 # [[Modus - Konjunktiv]] 1 - Präsens
-=======
-# [[Modus - Konjunktiv]] 1 - Present
->>>>>>> 5ee0bb7 (Other batch formatting on verbs conjugations)
 Ich brauche
 Du brauchest
 Er/Sie/Es brauche
@@ -174,55 +145,3 @@ brauchend
 
 # [[Modus - Partizips]] - Perfekt
 gebraucht
-=======
-=======
-# [[Indikativ - Präteritum]]
-
->>>>>>> 9ea0c9b (Added placeholder tense to existing verbs)
-# [[Indikativ - Perfekt]]
-=======
-# [[Modus - Indikativ]] - Präteritum
-
-# [[Modus - Indikativ]] - Perfekt
->>>>>>> 81b7927 (Updated verbs modus links)
-[[Pronomen]] + [[Haben]] + gebraucht
-
-
-# Notes
-[[Brauchen]] zu = Müssen
-<<<<<<< HEAD
-<<<<<<< HEAD
->>>>>>> 5ca01c1 (Intergrated notes from 2023-04-17 lesson)
-=======
-# [[Indikativ - Plusquamperfekt]]
-=======
-# [[Modus - Indikativ]] - Plusquamperfekt
->>>>>>> 81b7927 (Updated verbs modus links)
-
-# [[Modus - Indikativ]] - Futur I
-
-# [[Modus - Indikativ]] - Futur II
-
-# [[Modus - Konjunktiv]] 1 - Present
-
-# [[Modus - Konjunktiv]] 1 - Perfekt
-
-# [[Modus - Konjunktiv]] 1 - Futur I
-
-# [[Modus - Konjunktiv]] 1 - Futur II
-
-# [[Modus - Konjunktiv]] 2 - Präteritum
-
-# [[Modus - Konjunktiv]] 2 - Futur I
-
-# [[Modus - Konjunktiv]] 2 - Futur II
-
-# [[Modus - Konjunktiv]] 2 - Plusquamperfekt
-
-# [[Modus - Imperativ]] - Präsens
-
-# [[Modus - Partizips]] - Präsens
-
-# [[Modus - Partizips]] - Perfekt
-
->>>>>>> 9ea0c9b (Added placeholder tense to existing verbs)

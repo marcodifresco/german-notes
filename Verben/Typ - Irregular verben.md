@@ -10,10 +10,7 @@ Bring | [[Bringen]]
 Climb | [[Steigen]]
 Come | [[Kommen]]
 Cut | [[Schneiden]]
-<<<<<<< HEAD
 Dress / Put on | [[Anziehen]]
-=======
->>>>>>> bfd5231 (Added notes from June, 1st)
 Drink | [[Trinken]]
 Drive | [[Fahren]]
 Eat (animal) | [[Fressen]]
@@ -40,26 +37,11 @@ Shine | [[Scheinen]]
 Shut down | [[Schliessen]]
 Sign | [[Unterschreiben]]
 Sing | [[Singen]]
-<<<<<<< HEAD
-<<<<<<< HEAD
 Sit (already sit) | [[Sitzen]]
-=======
-Sit | [[Sitzen]]
->>>>>>> 723d39b (Added material from A1 book - chapter 11)
-=======
-Sit (already sit) | [[Sitzen]]
->>>>>>> 72e1711 (Added notes from September 14th)
 Sleep | [[Schlafen]]
 Stand | [[Stehen]]
 Stay | [[Bleiben]]
-<<<<<<< HEAD
-<<<<<<< HEAD
 Steal | [[Stehlen]]
-=======
->>>>>>> e81c3c1 (Added notes from September 19th)
-=======
-Steal | [[Stehlen]]
->>>>>>> 7c39919 (Added notes from September 28th)
 Stop | [[Halten]]
 Swim | [[Schwimmen]]
 Take | [[Nehmen]]

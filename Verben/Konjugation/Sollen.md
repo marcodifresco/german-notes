@@ -1,12 +1,6 @@
 ___
-<<<<<<< HEAD
-<<<<<<< HEAD
 Links: [[Verben]] [[Typ - Modal verben]]
 Meaning: to Should
-=======
-Links: [[Verben]] [[Typ - Modal verben]]
-Meaning: Should
->>>>>>> 5ee0bb7 (Other batch formatting on verbs conjugations)
 ___
 
 # [[Modus - Indikativ]] - Präsens
@@ -61,11 +55,7 @@ ___
 | Ihr       | werdet                  | gesollt     | haben                  |
 | Sie       | werden                  | gesollt     | haben                  |
 
-<<<<<<< HEAD
 # [[Modus - Konjunktiv]] 1 - Präsens
-=======
-# [[Modus - Konjunktiv]] 1 - Present
->>>>>>> 5ee0bb7 (Other batch formatting on verbs conjugations)
 | Ich       | solle       |
 | Du        | sollest     |
 | Er/Sie/Es | solle       |
@@ -146,101 +136,12 @@ sollend
 
 # [[Modus - Partizips]] - Perfekt
 gesollt
-=======
-
-Links: [[Verben]] [[Typ - Modal verben]]
-Meaning: Should
-
----
-
-# [[Modus - Indikativ]] - Präsens
-Ich soll
-Du sollst
-Er/sie/es soll
-Wir sollen
-Ihr sollt
-Sie sollen
-
-# [[Modus - Indikativ]] - Präteritum
-
-
-# [[Modus - Indikativ]] - Perfekt
-
-
-# [[Modus - Indikativ]] - Plusquamperfekt
-
-
-# [[Modus - Indikativ]] - Futur I
-
-
-# [[Modus - Indikativ]] - Futur II
-
-
-# [[Modus - Konjunktiv]] 1 - Present
-
-
-# [[Modus - Konjunktiv]] 1 - Perfekt
-
-
-# [[Modus - Konjunktiv]] 1 - Futur I
-
-
-# [[Modus - Konjunktiv]] 1 - Futur II
-
-
-# [[Modus - Konjunktiv]] 2 - Präteritum
-Ich sollte
-Du solltest
-Er/sie/es sollte
-Wir sollten
-Ihr solltet
-Sie sollten
-
-# [[Modus - Konjunktiv]] 2 - Futur I
-
-
-# [[Modus - Konjunktiv]] 2 - Futur II
-
-
-# [[Modus - Konjunktiv]] 2 - Plusquamperfekt
-
-
-# [[Modus - Imperativ]] - Präsens
-
-
-# [[Modus - Partizips]] - Präsens
-
-
-# [[Modus - Partizips]] - Perfekt
-
-
-
-
-
-
-
-
-
->>>>>>> 3a72509 (Catch-all changes on 05 09 2024.)
 
 ___
 Tags: #Languages/German/Grammar/Verbs/Irregular  
 Links: [[Verben]]
 ___
-<<<<<<< HEAD
-<<<<<<< HEAD
 # [[Modus - Indikativ]] - Präsens
-<<<<<<< HEAD
-=======
-# [[Indikativ - Präsens]]
-=======
-# [[Modus - Indikativ]] - Präsens
->>>>>>> 81b7927 (Updated verbs modus links)
-| Pronoun   | Conjugation |
-| --------- | ----------- |
->>>>>>> 3a72509 (Catch-all changes on 05 09 2024.)
-=======
->>>>>>> 5ee0bb7 (Other batch formatting on verbs conjugations)
 | Ich       | soll        |
 | Du        | sollst      |
 | Er/Sie/Es | soll        |
@@ -249,47 +150,7 @@ ___
 | Sie       | sollen      |
 
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
 # [[Modus - Konjunktiv]] 2 - Präteritum
-<<<<<<< HEAD
-| Ich       | sollte      |
-| Du        | solltest    |
-| Er/Sie/Es | sollte      |
-| Wir       | sollten     |
-| Ihr       | solltet     |
-| Sie       | sollten     |
-=======
-# [[Konjunktiv - II]]
-=======
-# [[Konjunktiv II - past subjunctive]]
->>>>>>> 8bc48b3 (Added notes from 2023-03-01)
-=======
-# [[Konjunktiv II - Präteritum]]
-<<<<<<< HEAD
->>>>>>> d6b65de (Added notes from 2023-03-06)
-Pronoun|Conjugation
------------- | ------------
-Ich | sollte
-Du | solltest
-Er/Sie/Es | sollte
-Wir | sollten
-Ihr | solltet
-Sie | sollten
->>>>>>> 72e1711 (Added notes from September 14th)
-
-
-# [[Modus - Indikativ]] - Perfekt
-=======
-=======
-# [[Modus - Konjunktiv]] 2 - Präteritum
->>>>>>> 81b7927 (Updated verbs modus links)
-| Pronoun   | Conjugation |
-| --------- | ----------- |
-=======
->>>>>>> 5ee0bb7 (Other batch formatting on verbs conjugations)
 | Ich       | sollte      |
 | Du        | solltest    |
 | Er/Sie/Es | sollte      |
@@ -298,12 +159,7 @@ Sie | sollten
 | Sie       | sollten     |
 
 
-<<<<<<< HEAD
-# [[Indikativ - Perfekt]]
->>>>>>> 3a72509 (Catch-all changes on 05 09 2024.)
-=======
 # [[Modus - Indikativ]] - Perfekt
->>>>>>> 81b7927 (Updated verbs modus links)
 [[Pronomen]] + [[Haben]]  gesollt
 
 # Examples

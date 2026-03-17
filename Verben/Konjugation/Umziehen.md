@@ -1,53 +1,3 @@
-<<<<<<< HEAD
-___
-<<<<<<< HEAD
-Links: [[Verben]] [[Typ - Reflexive Verben]]
-Meaning:
-=======
-Tags: #Languages/German/Grammar/Verbs/Irregular
-Links: [[Verben]] [[Typ - Reflexive Verben]]
->>>>>>> 9594d25 (Catch-all changes on 15 09 2022.)
-___
-<<<<<<< HEAD
-
-# [[Modus - Indikativ]] - Präsens
-Ich ziehe um
-Du ziehst um
-Er/Sie/Es zieht um
-Wir ziehen um
-Ihr zieht um
-Sie ziehen um
-
-
-<<<<<<< HEAD
-# [[Modus - Indikativ]] - Präteritum
-Ich zog um
-Du zogst um
-Er/Sie/Es zog um
-Wir zogen um
-Ihr zogt um
-Sie zogen um
-=======
-# [[Indikativ - Präteritum]]
-=======
-# [[Modus - Indikativ]] - Präsens
-Pronoun|Conjugation
------------- | ------------
-Ich | ziehe um
-Du | ziehst um
-Er/Sie/Es | zieht um
-Wir | ziehen um
-Ihr | zieht um
-Sie | haben um
-
-
-# [[Modus - Indikativ]] - Präteritum
->>>>>>> 81b7927 (Updated verbs modus links)
-
-# [[Modus - Indikativ]] - Perfekt
-[[Pronomen]] + [[Haben]] + umzogen
->>>>>>> 9ea0c9b (Added placeholder tense to existing verbs)
-=======
 ___
 Links: [[Verben]] [[Typ - Reflexive Verben]]
 Meaning:
@@ -69,7 +19,6 @@ Er/Sie/Es zog um
 Wir zogen um
 Ihr zogt um
 Sie zogen um
->>>>>>> 5ee0bb7 (Other batch formatting on verbs conjugations)
 
 # [[Modus - Indikativ]] - Perfekt
 [[Pronomen]] + [[Haben]] + umgezogen (for 'to change clothes')
@@ -85,8 +34,6 @@ Note: For the meaning 'to move (house)', the auxiliary verb 'sein' is used (e.g.
 
 # Examples
 Change dress: Sich um|ziehen --> gehen nach Hause uns [[Umziehen|umzuziehen]]
-<<<<<<< HEAD
-<<<<<<< HEAD
 # [[Modus - Indikativ]] - Plusquamperfekt
 *Meaning 'to change clothes' (with 'haben'):**
 
@@ -133,11 +80,7 @@ Wir werden umgezogen sein
 Ihr werdet umgezogen sein
 Sie werden umgezogen sein
 
-<<<<<<< HEAD
 # [[Modus - Konjunktiv]] 1 - Präsens
-=======
-# [[Modus - Konjunktiv]] 1 - Present
->>>>>>> 5ee0bb7 (Other batch formatting on verbs conjugations)
 Ich ziehe um
 Du ziehest um
 Er/Sie/Es ziehe um
@@ -256,36 +199,3 @@ umziehend
 
 # [[Modus - Partizips]] - Perfekt
 umgezogen
-=======
-# [[Indikativ - Plusquamperfekt]]
-=======
-# [[Modus - Indikativ]] - Plusquamperfekt
->>>>>>> 81b7927 (Updated verbs modus links)
-
-# [[Modus - Indikativ]] - Futur I
-
-# [[Modus - Indikativ]] - Futur II
-
-# [[Modus - Konjunktiv]] 1 - Present
-
-# [[Modus - Konjunktiv]] 1 - Perfekt
-
-# [[Modus - Konjunktiv]] 1 - Futur I
-
-# [[Modus - Konjunktiv]] 1 - Futur II
-
-# [[Modus - Konjunktiv]] 2 - Präteritum
-
-# [[Modus - Konjunktiv]] 2 - Futur I
-
-# [[Modus - Konjunktiv]] 2 - Futur II
-
-# [[Modus - Konjunktiv]] 2 - Plusquamperfekt
-
-# [[Modus - Imperativ]] - Präsens
-
-# [[Modus - Partizips]] - Präsens
-
-# [[Modus - Partizips]] - Perfekt
-
->>>>>>> 9ea0c9b (Added placeholder tense to existing verbs)

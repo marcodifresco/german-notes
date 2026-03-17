@@ -2,21 +2,6 @@ ___
 Links: [[Verben]] [[Typ - Regular verben]] [[Typ - Trennbare verben]]
 Meaning: to pick up
 ___
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-# [[Modus - Indikativ]] - Präsens
-Pronoun|Conjugation
------------- | ------------
-Ich | hole ab
-Du | holst ab
-Er/Sie/Es | holt ab
-Wir | holen ab
-Ihr | holt ab
-Sie | holen ab
->>>>>>> 81b7927 (Updated verbs modus links)
-=======
->>>>>>> 5ee0bb7 (Other batch formatting on verbs conjugations)
 
 # [[Modus - Indikativ]] - Präsens
 Ich hole ab
@@ -26,8 +11,6 @@ Wir holen ab
 Ihr holt ab
 Sie holen ab
 
-<<<<<<< HEAD
-<<<<<<< HEAD
 # [[Modus - Indikativ]] - Präteritum
 Ich holte ab
 Du holtest ab
@@ -143,40 +126,3 @@ abholend
 
 # [[Modus - Partizips]] - Perfekt
  abgeholt
-=======
-# [[Indikativ - Präteritum]]
-=======
-# [[Modus - Indikativ]] - Präteritum
->>>>>>> 81b7927 (Updated verbs modus links)
-
-# [[Modus - Indikativ]] - Perfekt
-[[Pronomen]] + [[Haben]] + abgeholt
-# [[Modus - Indikativ]] - Plusquamperfekt
-
-# [[Modus - Indikativ]] - Futur I
-
-# [[Modus - Indikativ]] - Futur II
-
-# [[Modus - Konjunktiv]] 1 - Present
-
-# [[Modus - Konjunktiv]] 1 - Perfekt
-
-# [[Modus - Konjunktiv]] 1 - Futur I
-
-# [[Modus - Konjunktiv]] 1 - Futur II
-
-# [[Modus - Konjunktiv]] 2 - Präteritum
-
-# [[Modus - Konjunktiv]] 2 - Futur I
-
-# [[Modus - Konjunktiv]] 2 - Futur II
-
-# [[Modus - Konjunktiv]] 2 - Plusquamperfekt
-
-# [[Modus - Imperativ]] - Präsens
-
-# [[Modus - Partizips]] - Präsens
-
-# [[Modus - Partizips]] - Perfekt
-
->>>>>>> 9ea0c9b (Added placeholder tense to existing verbs)

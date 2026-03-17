@@ -2,19 +2,8 @@ ___
 Links: [[Verben]]
 Meaning:
 ___
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> 5ee0bb7 (Other batch formatting on verbs conjugations)
 
 # [[Modus - Indikativ]] - Präsens
-=======
-# [[Indikativ - Präsens]]
->>>>>>> b5ffa73 (Added November 26th)
-=======
-# [[Modus - Indikativ]] - Präsens
->>>>>>> 81b7927 (Updated verbs modus links)
 Ich gehe
 Du gehst
 Er/Sie/Es geht
@@ -23,29 +12,12 @@ Ihr geht
 Sie gehen
 
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
 # [[Modus - Indikativ]] - Präteritum
-=======
-# [[Indikativ - Perfekt]]
-[[Pronomen]] + [[Sein]] + egangen
-
-
-=======
->>>>>>> 9ea0c9b (Added placeholder tense to existing verbs)
-# [[Indikativ - Präteritum]]
->>>>>>> b5ffa73 (Added November 26th)
-=======
-# [[Modus - Indikativ]] - Präteritum
->>>>>>> 81b7927 (Updated verbs modus links)
 Ich ging
 Du ging(e)st
 Er/Sie/Es ging
 Wir gingen
 Ihr ging(e)t
-<<<<<<< HEAD
-<<<<<<< HEAD
 Sie gingen
 # [[Modus - Indikativ]] - Perfekt
 Ich bin gegangen
@@ -155,41 +127,3 @@ gehend
 
 # [[Modus - Partizips]] - Perfekt
 gegangen
-=======
-Sie gingen
->>>>>>> b5ffa73 (Added November 26th)
-=======
-Sie gingen
-# [[Modus - Indikativ]] - Perfekt
-[[Pronomen]] + [[Sein]] + egangen
-
-
-# [[Modus - Indikativ]] - Plusquamperfekt
-
-# [[Modus - Indikativ]] - Futur I
-
-# [[Modus - Indikativ]] - Futur II
-
-# [[Modus - Konjunktiv]] 1 - Present
-
-# [[Modus - Konjunktiv]] 1 - Perfekt
-
-# [[Modus - Konjunktiv]] 1 - Futur I
-
-# [[Modus - Konjunktiv]] 1 - Futur II
-
-# [[Modus - Konjunktiv]] 2 - Präteritum
-
-# [[Modus - Konjunktiv]] 2 - Futur I
-
-# [[Modus - Konjunktiv]] 2 - Futur II
-
-# [[Modus - Konjunktiv]] 2 - Plusquamperfekt
-
-# [[Modus - Imperativ]] - Präsens
-
-# [[Modus - Partizips]] - Präsens
-
-# [[Modus - Partizips]] - Perfekt
-
->>>>>>> 9ea0c9b (Added placeholder tense to existing verbs)

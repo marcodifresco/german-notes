@@ -1,8 +1,4 @@
 ___
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> 5ee0bb7 (Other batch formatting on verbs conjugations)
 Links: [[Verben]]
 Meaning:
 ___
@@ -133,58 +129,3 @@ fürchtend
 
 # [[Modus - Partizips]] - Perfekt
 gefürchtet
-=======
-Tags: #Languages/German/Grammar/Verbs/Regular  
-Links: [[Verben]]
-___
-# [[Modus - Indikativ]] - Präsens
-ich fürchte
-du fürchtest
-er/sie/es fürchte
-twir fürchten
-ihr fürchtet
-Sie fürchten
-
-# [[Modus - Indikativ]] - Präteritum
-
-# [[Modus - Indikativ]] - Perfekt
-[[Pronomen]] + [[Haben]] + gefürchtet
-
-# Uses
-Sich [[Fürchten]] vor
-<<<<<<< HEAD
-<<<<<<< HEAD
->>>>>>> 7831a69 (Added notes from January 11th)
-=======
-# [[Indikativ - Plusquamperfekt]]
-=======
-# [[Modus - Indikativ]] - Plusquamperfekt
->>>>>>> 81b7927 (Updated verbs modus links)
-
-# [[Modus - Indikativ]] - Futur I
-
-# [[Modus - Indikativ]] - Futur II
-
-# [[Modus - Konjunktiv]] 1 - Present
-
-# [[Modus - Konjunktiv]] 1 - Perfekt
-
-# [[Modus - Konjunktiv]] 1 - Futur I
-
-# [[Modus - Konjunktiv]] 1 - Futur II
-
-# [[Modus - Konjunktiv]] 2 - Präteritum
-
-# [[Modus - Konjunktiv]] 2 - Futur I
-
-# [[Modus - Konjunktiv]] 2 - Futur II
-
-# [[Modus - Konjunktiv]] 2 - Plusquamperfekt
-
-# [[Modus - Imperativ]] - Präsens
-
-# [[Modus - Partizips]] - Präsens
-
-# [[Modus - Partizips]] - Perfekt
-
->>>>>>> 9ea0c9b (Added placeholder tense to existing verbs)

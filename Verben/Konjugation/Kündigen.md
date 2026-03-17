@@ -1,28 +1,9 @@
 ___
-<<<<<<< HEAD
-<<<<<<< HEAD
 Links: [[Verben]]
 Meaning:
 ___
 
 # [[Modus - Indikativ]] - Präsens
-=======
-Tags: #Languages/German/Grammar/Verbs/Regular 
-=======
->>>>>>> 5ee0bb7 (Other batch formatting on verbs conjugations)
-Links: [[Verben]]
-Meaning:
-___
-<<<<<<< HEAD
-<<<<<<< HEAD
-# [[Indikativ - Präsens]]
->>>>>>> 0025884 (Added notes from December 14th)
-=======
-=======
-
->>>>>>> 5ee0bb7 (Other batch formatting on verbs conjugations)
-# [[Modus - Indikativ]] - Präsens
->>>>>>> 81b7927 (Updated verbs modus links)
 ich kündige
 du kündigst
 er/sie/es kündigt
@@ -30,9 +11,6 @@ wir kündigen
 ihr kündigt
 Sie kündigen
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
 # [[Modus - Indikativ]] - Präteritum
 ich kündigte
 du kündigtest
@@ -149,44 +127,3 @@ kündigend
 
 # [[Modus - Partizips]] - Perfekt
 gekündigt
-=======
-# [[Indikativ - Perfekt]]
-[[Pronomen]] + [[Haben]] + gekündigt
->>>>>>> 0025884 (Added notes from December 14th)
-=======
-# [[Indikativ - Präteritum]]
-=======
-# [[Modus - Indikativ]] - Präteritum
->>>>>>> 81b7927 (Updated verbs modus links)
-
-# [[Modus - Indikativ]] - Perfekt
-[[Pronomen]] + [[Haben]] + gekündigt
-# [[Modus - Indikativ]] - Plusquamperfekt
-
-# [[Modus - Indikativ]] - Futur I
-
-# [[Modus - Indikativ]] - Futur II
-
-# [[Modus - Konjunktiv]] 1 - Present
-
-# [[Modus - Konjunktiv]] 1 - Perfekt
-
-# [[Modus - Konjunktiv]] 1 - Futur I
-
-# [[Modus - Konjunktiv]] 1 - Futur II
-
-# [[Modus - Konjunktiv]] 2 - Präteritum
-
-# [[Modus - Konjunktiv]] 2 - Futur I
-
-# [[Modus - Konjunktiv]] 2 - Futur II
-
-# [[Modus - Konjunktiv]] 2 - Plusquamperfekt
-
-# [[Modus - Imperativ]] - Präsens
-
-# [[Modus - Partizips]] - Präsens
-
-# [[Modus - Partizips]] - Perfekt
-
->>>>>>> 9ea0c9b (Added placeholder tense to existing verbs)

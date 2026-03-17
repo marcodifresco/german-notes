@@ -2,8 +2,6 @@ ___
 Links: [[Verben]]
 Meaning:
 ___
-<<<<<<< HEAD
-<<<<<<< HEAD
 
 # [[Modus - Indikativ]] - Präsens
 Ich singe
@@ -14,7 +12,6 @@ Ihr singt
 Sie singen
 
 
-<<<<<<< HEAD
 # [[Modus - Indikativ]] - Präteritum
 Ich sang
 Du sangst
@@ -129,156 +126,3 @@ singend
 
 # [[Modus - Partizips]] - Perfekt
 gesungen
-=======
-# [[Indikativ - Präteritum]]
-=======
-=======
-
->>>>>>> 5ee0bb7 (Other batch formatting on verbs conjugations)
-# [[Modus - Indikativ]] - Präsens
-Ich singe
-Du singst
-Er/Sie/Es singt
-Wir singen
-Ihr singt
-Sie singen
-
-
-# [[Modus - Indikativ]] - Präteritum
-<<<<<<< HEAD
->>>>>>> 81b7927 (Updated verbs modus links)
-
-# [[Modus - Indikativ]] - Perfekt
-[[Pronomen]] + [[Haben]] + gesungen
-# [[Modus - Indikativ]] - Plusquamperfekt
-
-# [[Modus - Indikativ]] - Futur I
-
-# [[Modus - Indikativ]] - Futur II
-
-# [[Modus - Konjunktiv]] 1 - Present
-
-# [[Modus - Konjunktiv]] 1 - Perfekt
-
-# [[Modus - Konjunktiv]] 1 - Futur I
-
-# [[Modus - Konjunktiv]] 1 - Futur II
-
-# [[Modus - Konjunktiv]] 2 - Präteritum
-
-# [[Modus - Konjunktiv]] 2 - Futur I
-
-# [[Modus - Konjunktiv]] 2 - Futur II
-
-# [[Modus - Konjunktiv]] 2 - Plusquamperfekt
-=======
-Ich sang
-Du sangst
-Er/Sie/Es sang
-Wir sangen
-Ihr sangt
-Sie sangen
-
-# [[Modus - Indikativ]] - Perfekt
-Ich habe gesungen
-Du hast gesungen
-Er/Sie/Es hat gesungen
-Wir haben gesungen
-Ihr habt gesungen
-Sie haben gesungen
-# [[Modus - Indikativ]] - Plusquamperfekt
-Ich hatte gesungen
-Du hattest gesungen
-Er/Sie/Es hatte gesungen
-Wir hatten gesungen
-Ihr hattet gesungen
-Sie hatten gesungen
-
-# [[Modus - Indikativ]] - Futur I
-Ich werde singen
-Du wirst singen
-Er/Sie/Es wird singen
-Wir werden singen
-Ihr werdet singen
-Sie werden singen
-
-# [[Modus - Indikativ]] - Futur II
-Ich werde gesungen haben
-Du wirst gesungen haben
-Er/Sie/Es wird gesungen haben
-Wir werden gesungen haben
-Ihr werdet gesungen haben
-Sie werden gesungen haben
-
-# [[Modus - Konjunktiv]] 1 - Present
-Ich singe
-Du singest
-Er/Sie/Es singe
-Wir singen
-Ihr singet
-Sie singen
-
-# [[Modus - Konjunktiv]] 1 - Perfekt
-Ich habe gesungen
-Du habest gesungen
-Er/Sie/Es habe gesungen
-Wir haben gesungen
-Ihr habet gesungen
-Sie haben gesungen
-
-# [[Modus - Konjunktiv]] 1 - Futur I
-Ich werde singen
-Du werdest singen
-Er/Sie/Es werde singen
-Wir werden singen
-Ihr werdet singen
-Sie werden singen
-
-# [[Modus - Konjunktiv]] 1 - Futur II
-Ich werde gesungen haben
-Du werdest gesungen haben
-Er/Sie/Es werde gesungen haben
-Wir werden gesungen haben
-Ihr werdet gesungen haben
-Sie werden gesungen haben
-
-# [[Modus - Konjunktiv]] 2 - Präteritum
-Ich sänge
-Du sängest
-Er/Sie/Es sänge
-Wir sängen
-Ihr sänget
-Sie sängen
-
-# [[Modus - Konjunktiv]] 2 - Futur I
-Ich würde singen
-Du würdest singen
-Er/Sie/Es würde singen
-Wir würden singen
-Ihr würdet singen
-Sie würden singen
-
-# [[Modus - Konjunktiv]] 2 - Futur II
-Ich würde gesungen haben
-Du würdest gesungen haben
-Er/Sie/Es würde gesungen haben
-Wir würden gesungen haben
-Ihr würdet gesungen haben
-Sie würden gesungen haben
-
-# [[Modus - Konjunktiv]] 2 - Plusquamperfekt
-Ich hätte gesungen
-Du hättest gesungen
-Er/Sie/Es hätte gesungen
-Wir hätten gesungen
-Ihr hättet gesungen
-Sie hätten gesungen
->>>>>>> 5ee0bb7 (Other batch formatting on verbs conjugations)
-
-# [[Modus - Imperativ]] - Präsens
-
-# [[Modus - Partizips]] - Präsens
-
-# [[Modus - Partizips]] - Perfekt
-
->>>>>>> 9ea0c9b (Added placeholder tense to existing verbs)

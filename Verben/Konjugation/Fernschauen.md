@@ -1,8 +1,4 @@
 ___
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> 5ee0bb7 (Other batch formatting on verbs conjugations)
 Links: [[Verben]] [[Typ - Trennbare verben]]
 Meaning:
 ___
@@ -60,11 +56,7 @@ Wir werden ferngeschaut haben
 Ihr werdet ferngeschaut haben
 Sie werden ferngeschaut haben
 
-<<<<<<< HEAD
 # [[Modus - Konjunktiv]] 1 - Präsens
-=======
-# [[Modus - Konjunktiv]] 1 - Present
->>>>>>> 5ee0bb7 (Other batch formatting on verbs conjugations)
 Ich schaue fern
 Du schauest fern
 Er/Sie/Es schaue fern
@@ -139,62 +131,3 @@ fernschauend
 
 # [[Modus - Partizips]] - Perfekt
 ferngeschaut
-=======
-Tags: #Languages/German/Grammar/Verbs/Regular  
-Links: [[Verben]] [[Typ - Trennbare verben]]
-___
-# [[Modus - Indikativ]] - Präsens
-Pronoun|Conjugation
------------- | ------------
-Ich | schaue fern
-Du | schaust fern
-Er/Sie/Es | sieht fern
-Wir | schauen fern
-Ihr | schaut fern
-Sie | schauen fern
-
-
-# [[Modus - Indikativ]] - Präteritum
-
-# [[Modus - Indikativ]] - Perfekt
-[[Pronomen]] + [[Haben]] + ferngeschaut
-
-# Rules
-For generic viewing
-*EX: Ich schaue heute Abend fern.*
-<<<<<<< HEAD
-<<<<<<< HEAD
->>>>>>> 251622b (Added notes from June, 13th)
-=======
-# [[Indikativ - Plusquamperfekt]]
-=======
-# [[Modus - Indikativ]] - Plusquamperfekt
->>>>>>> 81b7927 (Updated verbs modus links)
-
-# [[Modus - Indikativ]] - Futur I
-
-# [[Modus - Indikativ]] - Futur II
-
-# [[Modus - Konjunktiv]] 1 - Present
-
-# [[Modus - Konjunktiv]] 1 - Perfekt
-
-# [[Modus - Konjunktiv]] 1 - Futur I
-
-# [[Modus - Konjunktiv]] 1 - Futur II
-
-# [[Modus - Konjunktiv]] 2 - Präteritum
-
-# [[Modus - Konjunktiv]] 2 - Futur I
-
-# [[Modus - Konjunktiv]] 2 - Futur II
-
-# [[Modus - Konjunktiv]] 2 - Plusquamperfekt
-
-# [[Modus - Imperativ]] - Präsens
-
-# [[Modus - Partizips]] - Präsens
-
-# [[Modus - Partizips]] - Perfekt
-
->>>>>>> 9ea0c9b (Added placeholder tense to existing verbs)

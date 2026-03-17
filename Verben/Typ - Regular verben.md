@@ -4,67 +4,25 @@ Links: [[Verben]]
 ___
 English | German
 ------------ | ------------
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
 Accomplish (work, tasks) | [[Erledigen]]
-=======
->>>>>>> 31e5a1c (Added notes from June, 16th)
-=======
-Accomplish (work, tasks) | [[Erledigen]]
->>>>>>> f2adbb7 (Added notes from November 28th)
 Accompany | [[Begleiten]]
 Admire | [[Bewundern]]
 Advise | [[Beraten]]
-<<<<<<< HEAD
-=======
-Admire | [[Bewundern]]
->>>>>>> bfd5231 (Added notes from June, 1st)
-=======
->>>>>>> 8e3b02c (Added notes from 18.09 lesson)
 Annoy | [[Ärgern]]
 Ask | [[Fragen]]
 Behave | [[Verhalten]]
 Believe | [[Glauben]]
 Belong | [[Gehören]]
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> 723d39b (Added material from A1 book - chapter 11)
 Breakfast | [[Früstüchen]]
 Buy | [[Kaufen]]
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> 0025884 (Added notes from December 14th)
 Cancel (for subscribtions) | [[Kündigen]]
 Celebrate | [[Feiern]]
-=======
-Buy | [[Kaufen]]
->>>>>>> 67119d6 (Added notes from June, 22nd)
-=======
-Celebrate | [[Feiern]]
->>>>>>> 80384e7 (Added material from A1 book - chapter 12)
 Change | [[Ändern]]
 Climbing | [[Klettern]]
-<<<<<<< HEAD
-<<<<<<< HEAD
 Commute | [[Pendeln]]
-=======
->>>>>>> cecf110 (Added notes from July, 13rd)
-=======
-Commute | [[Pendeln]]
->>>>>>> 0025884 (Added notes from December 14th)
 Complete (fill inn) | [[Ergänzen]]
 Copy | [[Kopieren]]
-<<<<<<< HEAD
-<<<<<<< HEAD
 Confiscate | [[Konfiszieren]]
-=======
->>>>>>> bfd5231 (Added notes from June, 1st)
-=======
-Confiscate | [[Konfiszieren]]
->>>>>>> 31e5a1c (Added notes from June, 16th)
 Cook | [[Kochen]]
 Cost | [[Kosten]]
 Cross (select) | [[Kreuzen]]
@@ -74,12 +32,8 @@ Dare | [[Wagen]]
 Demonstrate | [[Zeigen]]
 Describe | [[Beschreiben]]
 Dive | [[Tauchen]]
-<<<<<<< HEAD
-<<<<<<< HEAD
 Draw | [[Zeichnen]]
 Dream | [[Träumen]]
-<<<<<<< HEAD
-<<<<<<< HEAD
 Eat | [[Essen]]
 Evaluate | [[Bewerten]]
 Experience | [[Erleben]]
@@ -87,42 +41,12 @@ Explain | [[Erklären]]
 Fear | [[Fürchten]]
 Feed | [[Ernähren]]
 Finish | [[Beenden]]
-=======
-=======
-Draw | [[Zeichnen]]
->>>>>>> dca0fbe (Added notes from June, 20th)
-=======
->>>>>>> ac65051 (Added notes from August 28th)
-=======
-Dress / Put on | [[Anziehen]]
->>>>>>> 7831a69 (Added notes from January 11th)
-Eat | [[Essen]]
-Evaluate | [[Bewerten]]
-Experience | [[Erleben]]
-Explain | [[Erklären]]
-Fear | [[Fürchten]]
-Feed | [[Ernähren]]
->>>>>>> e0a7ee5 (Added material from A1 book - chapter 9)
 Fit | [[Passen]]
-<<<<<<< HEAD
-<<<<<<< HEAD
-Fly | [[Fliegen]]
-=======
->>>>>>> 308d629 (Added notes from August 31th)
-Fulfill | [[Erfüllen]]
-Give a gift | [[Schenken]]
-<<<<<<< HEAD
-Having an opinion | [[Meinen]]
-Happen | [[Passieren]]
-=======
->>>>>>> bfd5231 (Added notes from June, 1st)
-=======
 Fly | [[Fliegen]]
 Fulfill | [[Erfüllen]]
 Give a gift | [[Schenken]]
 Having an opinion | [[Meinen]]
 Happen | [[Passieren]]
->>>>>>> 80384e7 (Added material from A1 book - chapter 12)
 Harvest | [[Ernten]]
 Hear | [[Hören]]
 Inform | [[Informieren]]
@@ -143,35 +67,12 @@ Pay | [[Bezahlen]]
 Phone | [[Telefonieren]]
 Photograph | [[Fotografieren]]
 Play | [[Spielen]]
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-Position | [[Stellen]]
-=======
->>>>>>> 723d39b (Added material from A1 book - chapter 11)
-Practice | [[Üben]]
-Protest | [[Demonstrieren]]
-<<<<<<< HEAD
-=======
 Position | [[Stellen]]
 Practice | [[Üben]]
 Protest | [[Demonstrieren]]
->>>>>>> 6220974 (Added notes from 28.08.2024 lesson)
 Put | [[Stecken]]
 Quote (citation) | [[Zitieren]]
 Rain | [[Regnen]]
-<<<<<<< HEAD
-=======
->>>>>>> 251622b (Added notes from June, 13th)
-=======
-Protest | [[Demonstrieren]]
->>>>>>> 308d629 (Added notes from August 31th)
-=======
-Quote (citation) | [[Zitieren]]
->>>>>>> 3f83583 (Added notes from September 21th)
-=======
->>>>>>> a0e66ad (Added notes from September 26th)
 Receive | [[Empfangen]]
 Recognize | [[Erkennen]]
 Relate | [[Beziehen]]
@@ -184,62 +85,24 @@ Ring | [[Läute]]
 Say | [[Sagen]]
 Search | [[Suchen]]
 Sell | [[Verkaufen]]
-<<<<<<< HEAD
-<<<<<<< HEAD
 Send | [[Schicken]]
 Snow | [[Schneien]]
 Sort | [[Sortieren]]
-=======
->>>>>>> bfd5231 (Added notes from June, 1st)
-=======
-Send | [[Schicken]]
->>>>>>> 251622b (Added notes from June, 13th)
 Speak | [[Sprechen]]
 Store | [[Lagern]]
 Study | [[Studieren]]
 Talk | [[Reden]]
 Taste | [[Schmecken]]
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> 251622b (Added notes from June, 13th)
 Take into account | [[Bedenken]]
 Tell | [[Erzählen]]
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-Think  | [[Denken]]
-=======
-Think | [[Meinen]]
->>>>>>> 723d39b (Added material from A1 book - chapter 11)
-=======
-
->>>>>>> 997836b (Added notes from September 5th)
-=======
->>>>>>> f3b9819 (Added notes from September 7th)
 Transport | [[Transportieren]]
 Travel | [[Reisen]]
-=======
-Tell | [[Erzählen]]
-Transport | [[Transportieren]]
->>>>>>> bfd5231 (Added notes from June, 1st)
 Use | [[Benutzen]]
 Use | [[Verwenden]]
 Understand | [[Verstehen]]
-<<<<<<< HEAD
-<<<<<<< HEAD
 Urge | [[Drängen]]
-=======
->>>>>>> 72e1711 (Added notes from September 14th)
-=======
-Urge | [[Drängen]]
->>>>>>> a45568a (Added notes from January 16th)
 Visit | [[Besuchen]]
 Wait | [[Warten]]
-<<<<<<< HEAD
 Work | [[Arbeiten]]
-=======
-Work | [[Arbaiten]]
->>>>>>> 308d629 (Added notes from August 31th)
 
 ^5ef5c7

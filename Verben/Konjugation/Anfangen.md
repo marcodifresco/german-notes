@@ -1,33 +1,7 @@
 ___
-<<<<<<< HEAD
 Links: [[Verben]] [[Typ - Irregular verben]] [[Typ - Trennbare verben]]
 Meaning: to start/begin
 ___
-<<<<<<< HEAD
-=======
-# [[Modus - Indikativ]] - Präsens
-Pronoun|Conjugation
------------- | ------------
-Ich | fange an
-Du | fängst an
-Er/Sie/Es | fängt an
-Wir | fangen an
-Ihr | fangt an
-Sie | fangen an
->>>>>>> 81b7927 (Updated verbs modus links)
-=======
-Links: [[Verben]]
-Meaning:
-___
-
-# [[Modus - Indikativ]] - Präsens
-Ich fange an
-Du fängst an
-Er/Sie/Es fängt an
-Wir fangen an
-Ihr fangt an
-Sie fangen an
->>>>>>> 5ee0bb7 (Other batch formatting on verbs conjugations)
 
 # [[Modus - Indikativ]] - Präsens
 Ich fange an
@@ -37,8 +11,6 @@ Wir fangen an
 Ihr fangt an
 Sie fangen an
 
-<<<<<<< HEAD
-<<<<<<< HEAD
 # [[Modus - Indikativ]] - Präteritum
 Ich fing an
 Du fingst an
@@ -48,10 +20,6 @@ Ihr fingt an
 Sie fingen an
 
 # [[Modus - Indikativ]] - Perfekt
-<<<<<<< HEAD
-=======
-[[Pronomen]] + [[Haben]] + angefangen
->>>>>>> 5ee0bb7 (Other batch formatting on verbs conjugations)
 Ich habe angefangen
 Du hast angefangen
 Er/Sie/Es hat angefangen
@@ -83,11 +51,7 @@ Wir werden angefangen haben
 Ihr werdet angefangen haben
 Sie werden angefangen haben
 
-<<<<<<< HEAD
 # [[Modus - Konjunktiv]] 1 - Präsens
-=======
-# [[Modus - Konjunktiv]] 1 - Present
->>>>>>> 5ee0bb7 (Other batch formatting on verbs conjugations)
 Ich fange an
 Du fangest an
 Er/Sie/Es fange an
@@ -162,40 +126,3 @@ anfangend
 
 # [[Modus - Partizips]] - Perfekt
 angefangen
-=======
-# [[Indikativ - Präteritum]]
-=======
-# [[Modus - Indikativ]] - Präteritum
->>>>>>> 81b7927 (Updated verbs modus links)
-
-# [[Modus - Indikativ]] - Perfekt
-[[Pronomen]] + [[Haben]] + angefangen
-# [[Modus - Indikativ]] - Plusquamperfekt
-
-# [[Modus - Indikativ]] - Futur I
-
-# [[Modus - Indikativ]] - Futur II
-
-# [[Modus - Konjunktiv]] 1 - Present
-
-# [[Modus - Konjunktiv]] 1 - Perfekt
-
-# [[Modus - Konjunktiv]] 1 - Futur I
-
-# [[Modus - Konjunktiv]] 1 - Futur II
-
-# [[Modus - Konjunktiv]] 2 - Präteritum
-
-# [[Modus - Konjunktiv]] 2 - Futur I
-
-# [[Modus - Konjunktiv]] 2 - Futur II
-
-# [[Modus - Konjunktiv]] 2 - Plusquamperfekt
-
-# [[Modus - Imperativ]] - Präsens
-
-# [[Modus - Partizips]] - Präsens
-
-# [[Modus - Partizips]] - Perfekt
-
->>>>>>> 9ea0c9b (Added placeholder tense to existing verbs)

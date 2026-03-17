@@ -1,24 +1,9 @@
-<<<<<<< HEAD
 ___
-<<<<<<< HEAD
-=======
-______
->>>>>>> 6220974 (Added notes from 28.08.2024 lesson)
 Links: [[Verben]] [[Typ - Regular verben]] [[Typ - Trennbare verben]]
 Meaning: to cancel
 ___
 
 # [[Modus - Indikativ]] - Präsens
-=======
-Tags: #Languages/German/Grammar/Verbs/Regular 
-Links: [[Verben]] [[Typ - Trennbare verben]]
-___
-<<<<<<< HEAD
-# [[Indikativ - Präsens]]
->>>>>>> 0025884 (Added notes from December 14th)
-=======
-# [[Modus - Indikativ]] - Präsens
->>>>>>> 81b7927 (Updated verbs modus links)
 ich breche ab
 du brichst ab
 er/sie/es bricht ab
@@ -26,9 +11,6 @@ wir brechen ab
 ihr brecht ab
 Sie brechen ab
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
 # [[Modus - Indikativ]] - Präteritum
 ich brach ab
 du brachst ab
@@ -144,45 +126,3 @@ abbrechend
 
 # [[Modus - Partizips]] - Perfekt
 abgebrochen
-=======
-
-# [[Indikativ - Perfekt]]
-[[Pronomen]] + [[Haben]] + abgebrochen
->>>>>>> 0025884 (Added notes from December 14th)
-=======
-# [[Indikativ - Präteritum]]
-=======
-# [[Modus - Indikativ]] - Präteritum
->>>>>>> 81b7927 (Updated verbs modus links)
-
-# [[Modus - Indikativ]] - Perfekt
-[[Pronomen]] + [[Haben]] + abgebrochen
-# [[Modus - Indikativ]] - Plusquamperfekt
-
-# [[Modus - Indikativ]] - Futur I
-
-# [[Modus - Indikativ]] - Futur II
-
-# [[Modus - Konjunktiv]] 1 - Present
-
-# [[Modus - Konjunktiv]] 1 - Perfekt
-
-# [[Modus - Konjunktiv]] 1 - Futur I
-
-# [[Modus - Konjunktiv]] 1 - Futur II
-
-# [[Modus - Konjunktiv]] 2 - Präteritum
-
-# [[Modus - Konjunktiv]] 2 - Futur I
-
-# [[Modus - Konjunktiv]] 2 - Futur II
-
-# [[Modus - Konjunktiv]] 2 - Plusquamperfekt
-
-# [[Modus - Imperativ]] - Präsens
-
-# [[Modus - Partizips]] - Präsens
-
-# [[Modus - Partizips]] - Perfekt
-
->>>>>>> 9ea0c9b (Added placeholder tense to existing verbs)

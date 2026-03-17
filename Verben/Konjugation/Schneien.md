@@ -1,8 +1,4 @@
 ___
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> 5ee0bb7 (Other batch formatting on verbs conjugations)
 Links: [[Verben]]
 Meaning:
 ___
@@ -57,11 +53,7 @@ Wir werden geschneit haben
 Ihr werdet geschneit haben
 Sie werden geschneit haben
 
-<<<<<<< HEAD
 # [[Modus - Konjunktiv]] 1 - Präsens
-=======
-# [[Modus - Konjunktiv]] 1 - Present
->>>>>>> 5ee0bb7 (Other batch formatting on verbs conjugations)
 Ich schneie
 Du schneiest
 Er/Sie/Es schneie
@@ -133,58 +125,3 @@ schneiend
 
 # [[Modus - Partizips]] - Perfekt
 geschneit
-=======
-Tags: #Languages/German/Grammar/Verbs/Regular  
-Links: [[Verben]]
-___
-# [[Modus - Indikativ]] - Präsens
-Pronoun|Conjugation
------------- | ------------
-Ich | schneie
-Du | schneist
-Er/Sie/Es | schneit
-Wir | schneien
-Ihr | schneit
-Sie | schneien
-
-
-# [[Modus - Indikativ]] - Präteritum
-
-# [[Modus - Indikativ]] - Perfekt
-[[Pronomen]] + [[Haben]] + geschneit
-<<<<<<< HEAD
-<<<<<<< HEAD
->>>>>>> 308d629 (Added notes from August 31th)
-=======
-# [[Indikativ - Plusquamperfekt]]
-=======
-# [[Modus - Indikativ]] - Plusquamperfekt
->>>>>>> 81b7927 (Updated verbs modus links)
-
-# [[Modus - Indikativ]] - Futur I
-
-# [[Modus - Indikativ]] - Futur II
-
-# [[Modus - Konjunktiv]] 1 - Present
-
-# [[Modus - Konjunktiv]] 1 - Perfekt
-
-# [[Modus - Konjunktiv]] 1 - Futur I
-
-# [[Modus - Konjunktiv]] 1 - Futur II
-
-# [[Modus - Konjunktiv]] 2 - Präteritum
-
-# [[Modus - Konjunktiv]] 2 - Futur I
-
-# [[Modus - Konjunktiv]] 2 - Futur II
-
-# [[Modus - Konjunktiv]] 2 - Plusquamperfekt
-
-# [[Modus - Imperativ]] - Präsens
-
-# [[Modus - Partizips]] - Präsens
-
-# [[Modus - Partizips]] - Perfekt
-
->>>>>>> 9ea0c9b (Added placeholder tense to existing verbs)

@@ -1,25 +1,7 @@
 ___
-<<<<<<< HEAD
-<<<<<<< HEAD
 Links: [[Verben]] [[Typ - Regular verben]] [[Dativ]]
 Meaning: to answer
 ___
-=======
-Tags: #Languages/German/Grammar/Verbs/Regular  
-=======
->>>>>>> 5ee0bb7 (Other batch formatting on verbs conjugations)
-Links: [[Verben]] [[Dativ]]
-Meaning:
-___
-
-# [[Modus - Indikativ]] - Präsens
-Ich antworte
-Du antwortest
-Er/Sie/Es antwortet
-Wir antworten
-Ihr antwortet
-Sie antworten
->>>>>>> b5ffa73 (Added November 26th)
 
 # [[Modus - Indikativ]] - Präsens
 Ich antworte
@@ -29,8 +11,6 @@ Wir antworten
 Ihr antwortet
 Sie antworten
 
-<<<<<<< HEAD
-<<<<<<< HEAD
 # [[Modus - Indikativ]] - Präteritum
 Ich antwortete
 Du antwortetest
@@ -72,11 +52,7 @@ Wir werden geantwortet haben
 Ihr werdet geantwortet haben
 Sie werden geantwortet haben
 
-<<<<<<< HEAD
 # [[Modus - Konjunktiv]] 1 - Präsens
-=======
-# [[Modus - Konjunktiv]] 1 - Present
->>>>>>> 5ee0bb7 (Other batch formatting on verbs conjugations)
 Ich antworte
 Du antwortest
 Er/Sie/Es antworte
@@ -151,40 +127,3 @@ antwortend
 
 # [[Modus - Partizips]] - Perfekt
 geantwortet
-=======
-# [[Indikativ - Präteritum]]
-=======
-# [[Modus - Indikativ]] - Präteritum
->>>>>>> 81b7927 (Updated verbs modus links)
-
-# [[Modus - Indikativ]] - Perfekt
-[[Pronomen]] + [[Haben]] + geantwortet
-# [[Modus - Indikativ]] - Plusquamperfekt
-
-# [[Modus - Indikativ]] - Futur I
-
-# [[Modus - Indikativ]] - Futur II
-
-# [[Modus - Konjunktiv]] 1 - Present
-
-# [[Modus - Konjunktiv]] 1 - Perfekt
-
-# [[Modus - Konjunktiv]] 1 - Futur I
-
-# [[Modus - Konjunktiv]] 1 - Futur II
-
-# [[Modus - Konjunktiv]] 2 - Präteritum
-
-# [[Modus - Konjunktiv]] 2 - Futur I
-
-# [[Modus - Konjunktiv]] 2 - Futur II
-
-# [[Modus - Konjunktiv]] 2 - Plusquamperfekt
-
-# [[Modus - Imperativ]] - Präsens
-
-# [[Modus - Partizips]] - Präsens
-
-# [[Modus - Partizips]] - Perfekt
-
->>>>>>> 9ea0c9b (Added placeholder tense to existing verbs)

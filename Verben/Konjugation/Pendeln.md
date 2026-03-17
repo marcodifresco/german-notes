@@ -1,32 +1,16 @@
 ___
-<<<<<<< HEAD
-<<<<<<< HEAD
 Links: [[Verben]]
 Meaning:
 ___
 
 # [[Modus - Indikativ]] - Präsens
 Ich pendle
-=======
-Tags: #Languages/German/Grammar/Verbs/Regular  
-=======
->>>>>>> 5ee0bb7 (Other batch formatting on verbs conjugations)
-Links: [[Verben]]
-Meaning:
-___
-
-# [[Modus - Indikativ]] - Präsens
-Ich pende
->>>>>>> 0025884 (Added notes from December 14th)
 Du pendelst
 Er/sie/es pendelt
 Wir pendeln
 Ihr pendelt
 Sie pendeln
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
 # [[Modus - Indikativ]] - Präteritum
 Ich pendelte
 Du pendeltest
@@ -143,44 +127,3 @@ pendelnd
 
 # [[Modus - Partizips]] - Perfekt
 gependelt
-=======
-# [[Indikativ - Perfekt]]
-[[Pronomen]] + [[Sein]] + gependelt
->>>>>>> 0025884 (Added notes from December 14th)
-=======
-# [[Indikativ - Präteritum]]
-=======
-# [[Modus - Indikativ]] - Präteritum
->>>>>>> 81b7927 (Updated verbs modus links)
-
-# [[Modus - Indikativ]] - Perfekt
-[[Pronomen]] + [[Sein]] + gependelt
-# [[Modus - Indikativ]] - Plusquamperfekt
-
-# [[Modus - Indikativ]] - Futur I
-
-# [[Modus - Indikativ]] - Futur II
-
-# [[Modus - Konjunktiv]] 1 - Present
-
-# [[Modus - Konjunktiv]] 1 - Perfekt
-
-# [[Modus - Konjunktiv]] 1 - Futur I
-
-# [[Modus - Konjunktiv]] 1 - Futur II
-
-# [[Modus - Konjunktiv]] 2 - Präteritum
-
-# [[Modus - Konjunktiv]] 2 - Futur I
-
-# [[Modus - Konjunktiv]] 2 - Futur II
-
-# [[Modus - Konjunktiv]] 2 - Plusquamperfekt
-
-# [[Modus - Imperativ]] - Präsens
-
-# [[Modus - Partizips]] - Präsens
-
-# [[Modus - Partizips]] - Perfekt
-
->>>>>>> 9ea0c9b (Added placeholder tense to existing verbs)

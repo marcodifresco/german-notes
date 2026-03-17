@@ -1,28 +1,9 @@
 ___
-<<<<<<< HEAD
-<<<<<<< HEAD
 Links: [[Verben]] [[Akkusativ]]
 Meaning:
 ___
 
 # [[Modus - Indikativ]] - Präsens
-=======
-Tags: #Languages/German/Grammar/Verbs/Regular  
-=======
->>>>>>> 5ee0bb7 (Other batch formatting on verbs conjugations)
-Links: [[Verben]] [[Akkusativ]]
-Meaning:
-___
-<<<<<<< HEAD
-<<<<<<< HEAD
-# [[Indikativ - Präsens]]
->>>>>>> b5ffa73 (Added November 26th)
-=======
-=======
-
->>>>>>> 5ee0bb7 (Other batch formatting on verbs conjugations)
-# [[Modus - Indikativ]] - Präsens
->>>>>>> 81b7927 (Updated verbs modus links)
 Ich frage
 Du fragst
 Er/Sie/Es fragt
@@ -31,29 +12,12 @@ Ihr fragt
 Sie fragen
 
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
 # [[Modus - Indikativ]] - Präteritum
-=======
-# [[Indikativ - Perfekt]]
-[[Pronomen]] + [[Haben]] + gefragt
-
-
-=======
->>>>>>> 9ea0c9b (Added placeholder tense to existing verbs)
-# [[Indikativ - Präteritum]]
->>>>>>> b5ffa73 (Added November 26th)
-=======
-# [[Modus - Indikativ]] - Präteritum
->>>>>>> 81b7927 (Updated verbs modus links)
 Ich fragte
 Du fragtest
 Es/sie/es fragte
 Wir fragten
 Ihr fragtet
-<<<<<<< HEAD
-<<<<<<< HEAD
 Sie fragten
 # [[Modus - Indikativ]] - Perfekt
 [[Pronomen]] + [[Haben]] + gefragt
@@ -163,41 +127,3 @@ fragend
 
 # [[Modus - Partizips]] - Perfekt
 gefragt
-=======
-Sie fragten
->>>>>>> b5ffa73 (Added November 26th)
-=======
-Sie fragten
-# [[Modus - Indikativ]] - Perfekt
-[[Pronomen]] + [[Haben]] + gefragt
-
-
-# [[Modus - Indikativ]] - Plusquamperfekt
-
-# [[Modus - Indikativ]] - Futur I
-
-# [[Modus - Indikativ]] - Futur II
-
-# [[Modus - Konjunktiv]] 1 - Present
-
-# [[Modus - Konjunktiv]] 1 - Perfekt
-
-# [[Modus - Konjunktiv]] 1 - Futur I
-
-# [[Modus - Konjunktiv]] 1 - Futur II
-
-# [[Modus - Konjunktiv]] 2 - Präteritum
-
-# [[Modus - Konjunktiv]] 2 - Futur I
-
-# [[Modus - Konjunktiv]] 2 - Futur II
-
-# [[Modus - Konjunktiv]] 2 - Plusquamperfekt
-
-# [[Modus - Imperativ]] - Präsens
-
-# [[Modus - Partizips]] - Präsens
-
-# [[Modus - Partizips]] - Perfekt
-
->>>>>>> 9ea0c9b (Added placeholder tense to existing verbs)

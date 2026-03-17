@@ -1,7 +1,7 @@
 # Marco Di Fresco's personal German notes
 Welcome to the repository for my German's notes.
 
-I have been studying German at Klubschule Migros and at Sprachschule ILS-Zürich and I am taking these notes during class to help myself in learning the language.
+I have been studying German at Klubschule Migros and  Sprachschule ILS-Zürich and I am taking these notes during class to help myself in learning the language.
 
 To use my notes:
 1. Click on the three dots above on the right and select *"Download repository"*;

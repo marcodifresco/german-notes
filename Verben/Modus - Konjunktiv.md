@@ -1,17 +1,11 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> 8bc48b3 (Added notes from 2023-03-01)
 ___
 Tags: #Languages/German/Grammar/Verbs 
 Links: [[Verben]]
 ___
-<<<<<<< HEAD
 # WORK IN PROGRESS
 
 The **subjunctive** (also known as **conjunctive** in some languages) is a grammatical mood that indicates the speaker's attitude toward it. Subjunctive forms of  [[Verben]] are typically used to express various states of unreality such as: wish, emotion, possibility, judgment, opinion, obligation, or action that has not yet occurred.
 
-<<<<<<< HEAD
 German has two forms of the subjunctive mood, namely [[Konjunktiv I - Present]] and [[Konjunktiv II - Präteritum]]. Despite their English names, both German subjunctives can be used for past and present time.
 
 The present subjunctive occurs in certain expressions, (e.g. "Es lebe der König!" -> "Long live the king!") and in indirect (reported) speech. Its use can frequently be replaced by the indicative mood. For example, "Er sagte, er sei Arzt"  ("He said he was a physician") is a neutral representation of what was said and makes no claim as to whether the speaker thinks the reported statement is true or not.
@@ -66,15 +60,3 @@ Hätte ich dock mehr Zeit gehabt! Vunsch, Vergangenheit (past)
 | Glauben              | Schwimmen              |                  |                     |              |
 | Kaufen               | Gehen                  |                  |                     |              |
 | (Aus)reichen         |                        |                  |                     |              |
-=======
-[[Konjunktiv - I]]
-[[Konjunktiv - II]]
->>>>>>> 72e1711 (Added notes from September 14th)
-=======
-The **subjunctive** (also known as **conjunctive** in some languages) is a grammatical mood that indicates the speaker's attitude toward it. Subjunctive forms of  [[Verben]] are typically used to express various states of unreality such as: wish, emotion, possibility, judgment, opinion, obligation, or action that has not yet occurred.
-
-German has two forms of the subjunctive mood, namely [[Konjunktiv I - present subjunctive]] and [[Konjunktiv II - past subjunctive]]. Despite their English names, both German subjunctives can be used for past and present time.
->>>>>>> 8bc48b3 (Added notes from 2023-03-01)
-=======
-German has two forms of the subjunctive mood, namely [[Konjunktiv I - Present]] and [[Konjunktiv II - Präteritum]]. Despite their English names, both German subjunctives can be used for past and present time.
->>>>>>> d6b65de (Added notes from 2023-03-06)

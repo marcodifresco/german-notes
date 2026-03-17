@@ -1,33 +1,7 @@
 ___
-<<<<<<< HEAD
 Links: [[Verben]] [[Typ - Regular verben]]
 Meaning: to change/alter
 ___
-<<<<<<< HEAD
-=======
-# [[Modus - Indikativ]] - Präsens
-Pronoun|Conjugation
------------- | ------------
-Ich | ändere
-Du | änderst
-Er/Sie/Es | ändert
-Wir | ändern
-Ihr | ändert
-Sie | ändern
->>>>>>> 81b7927 (Updated verbs modus links)
-=======
-Links: [[Verben]]
-Meaning:
-___
-
-# [[Modus - Indikativ]] - Präsens
-Ich ändere
-Du änderst
-Er/Sie/Es ändert
-Wir ändern
-Ihr ändert
-Sie ändern
->>>>>>> 5ee0bb7 (Other batch formatting on verbs conjugations)
 
 # [[Modus - Indikativ]] - Präsens
 Ich ändere
@@ -37,8 +11,6 @@ Wir ändern
 Ihr ändert
 Sie ändern
 
-<<<<<<< HEAD
-<<<<<<< HEAD
 # [[Modus - Indikativ]] - Präteritum
 Ich änderte
 Du ändertest
@@ -80,11 +52,7 @@ Wir werden geändert haben
 Ihr werdet geändert haben
 Sie werden geändert haben
 
-<<<<<<< HEAD
 # [[Modus - Konjunktiv]] 1 - Präsens
-=======
-# [[Modus - Konjunktiv]] 1 - Present
->>>>>>> 5ee0bb7 (Other batch formatting on verbs conjugations)
 Ich ändere
 Du änderest
 Er/Sie/Es ändere
@@ -159,40 +127,3 @@ Sie hätten geändert
 
 # [[Modus - Partizips]] - Perfekt
 geändert
-=======
-# [[Indikativ - Präteritum]]
-=======
-# [[Modus - Indikativ]] - Präteritum
->>>>>>> 81b7927 (Updated verbs modus links)
-
-# [[Modus - Indikativ]] - Perfekt
-[[Pronomen]] + [[Haben]] + geändert
-# [[Modus - Indikativ]] - Plusquamperfekt
-
-# [[Modus - Indikativ]] - Futur I
-
-# [[Modus - Indikativ]] - Futur II
-
-# [[Modus - Konjunktiv]] 1 - Present
-
-# [[Modus - Konjunktiv]] 1 - Perfekt
-
-# [[Modus - Konjunktiv]] 1 - Futur I
-
-# [[Modus - Konjunktiv]] 1 - Futur II
-
-# [[Modus - Konjunktiv]] 2 - Präteritum
-
-# [[Modus - Konjunktiv]] 2 - Futur I
-
-# [[Modus - Konjunktiv]] 2 - Futur II
-
-# [[Modus - Konjunktiv]] 2 - Plusquamperfekt
-
-# [[Modus - Imperativ]] - Präsens
-
-# [[Modus - Partizips]] - Präsens
-
-# [[Modus - Partizips]] - Perfekt
-
->>>>>>> 9ea0c9b (Added placeholder tense to existing verbs)

@@ -1,20 +1,9 @@
 ___
-<<<<<<< HEAD
 Links: [[Verben]] [[Typ - Irregular verben]] [[Typ - Trennbare verben]]
 Meaning: to complete
 ___
 
 # [[Modus - Indikativ]] - Präsens
-=======
-Tags: #Languages/German/Grammar/Verbs/Irregular  
-Links: [[Verben]] [[Typ - Trennbare verben]]
-___
-<<<<<<< HEAD
-# [[Indikativ - Präsens]]
->>>>>>> 586ee46 (Added notes from January 9th)
-=======
-# [[Modus - Indikativ]] - Präsens
->>>>>>> 81b7927 (Updated verbs modus links)
 ich schliesse ab
 du schliesst ab
 er/sie/es schliesst ab
@@ -22,7 +11,6 @@ wir schliessen ab
 ihr schliesst ab
 Sie schliessen ab
 
-<<<<<<< HEAD
 # [[Modus - Indikativ]] - Präteritum
 ich schloss ab
 du schlossest ab
@@ -139,45 +127,3 @@ abschliessend
 
 # [[Modus - Partizips]] - Perfekt
 abgeschlossen
-=======
-
-# [[Modus - Indikativ]] - Präteritum
-
-# [[Modus - Indikativ]] - Perfekt
-[[Pronomen]] + [[Haben]] + abgeschlossen
-<<<<<<< HEAD
-<<<<<<< HEAD
->>>>>>> 586ee46 (Added notes from January 9th)
-=======
-# [[Indikativ - Plusquamperfekt]]
-=======
-# [[Modus - Indikativ]] - Plusquamperfekt
->>>>>>> 81b7927 (Updated verbs modus links)
-
-# [[Modus - Indikativ]] - Futur I
-
-# [[Modus - Indikativ]] - Futur II
-
-# [[Modus - Konjunktiv]] 1 - Present
-
-# [[Modus - Konjunktiv]] 1 - Perfekt
-
-# [[Modus - Konjunktiv]] 1 - Futur I
-
-# [[Modus - Konjunktiv]] 1 - Futur II
-
-# [[Modus - Konjunktiv]] 2 - Präteritum
-
-# [[Modus - Konjunktiv]] 2 - Futur I
-
-# [[Modus - Konjunktiv]] 2 - Futur II
-
-# [[Modus - Konjunktiv]] 2 - Plusquamperfekt
-
-# [[Modus - Imperativ]] - Präsens
-
-# [[Modus - Partizips]] - Präsens
-
-# [[Modus - Partizips]] - Perfekt
-
->>>>>>> 9ea0c9b (Added placeholder tense to existing verbs)

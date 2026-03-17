@@ -45,7 +45,6 @@ Slovak | Slowakisch
 Spanish | Spanish
 Russian | Russisch
 Turkish | Türkisch
-<<<<<<< HEAD
 
 # Location
 English | German
@@ -57,33 +56,13 @@ Station | Der Bahnhof
 Subway | Die U-Bahn (-n)
 Plattform | Das Gleis
 Roundabout | Der Kriesel
-<<<<<<< HEAD
-<<<<<<< HEAD
 Swimming pool | Das Schwimmbecken (-bäder)
-=======
->>>>>>> a98b676 (Added notes from June, 25th)
-=======
-Swimming pool | Das Schwimmbecken (-bäder)
->>>>>>> 723d39b (Added material from A1 book - chapter 11)
 Train | Der Zug (-ü-e)
 Tram | Die Strassenbahn (-n)
 Taxi | Das Taxi
-<<<<<<< HEAD
-<<<<<<< HEAD
 Historic gate | Tor
-=======
->>>>>>> cecf110 (Added notes from July, 13rd)
-=======
-Historic gate | Tor
->>>>>>> 80384e7 (Added material from A1 book - chapter 12)
 
 
 # Notes
 Der See = Lake
-<<<<<<< HEAD
 Die See = Das Meer = Sea
-=======
->>>>>>> e700df3 (Added notes from April, 18th)
-=======
-Die See = Das Meer = Sea
->>>>>>> cecf110 (Added notes from July, 13rd)

@@ -1,23 +1,9 @@
 ___
 Links: [[Verben]] - [[Typ - Regular verben]]
-<<<<<<< HEAD
 Meaning: to Revoke
 ___
 
 # [[Modus - Indikativ]] - Präsens
-=======
-Meaning: Revoke
-___
-<<<<<<< HEAD
-<<<<<<< HEAD
-# [[Indikativ - Präsens]]
->>>>>>> a45568a (Added notes from January 16th)
-=======
-=======
-
->>>>>>> 5ee0bb7 (Other batch formatting on verbs conjugations)
-# [[Modus - Indikativ]] - Präsens
->>>>>>> 81b7927 (Updated verbs modus links)
 ich entziehe
 du entziehst
 er/sie/es entzieht
@@ -26,9 +12,6 @@ ihr entzieht
 Sie entziehen
 
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
 # [[Modus - Indikativ]] - Präteritum
 ich entzog
 du entzogst
@@ -147,54 +130,3 @@ entziehend
 
 # [[Modus - Partizips]] - Perfekt
 entzogen
-=======
-=======
-# [[Indikativ - Präteritum]]
-
->>>>>>> 9ea0c9b (Added placeholder tense to existing verbs)
-# [[Indikativ - Perfekt]]
-=======
-# [[Modus - Indikativ]] - Präteritum
-
-# [[Modus - Indikativ]] - Perfekt
->>>>>>> 81b7927 (Updated verbs modus links)
-[[Pronomen]] + [[Sein]] + entzogen
-
-# Variants
-[[Ziehen]]
-<<<<<<< HEAD
-<<<<<<< HEAD
->>>>>>> a45568a (Added notes from January 16th)
-=======
-# [[Indikativ - Plusquamperfekt]]
-=======
-# [[Modus - Indikativ]] - Plusquamperfekt
->>>>>>> 81b7927 (Updated verbs modus links)
-
-# [[Modus - Indikativ]] - Futur I
-
-# [[Modus - Indikativ]] - Futur II
-
-# [[Modus - Konjunktiv]] 1 - Present
-
-# [[Modus - Konjunktiv]] 1 - Perfekt
-
-# [[Modus - Konjunktiv]] 1 - Futur I
-
-# [[Modus - Konjunktiv]] 1 - Futur II
-
-# [[Modus - Konjunktiv]] 2 - Präteritum
-
-# [[Modus - Konjunktiv]] 2 - Futur I
-
-# [[Modus - Konjunktiv]] 2 - Futur II
-
-# [[Modus - Konjunktiv]] 2 - Plusquamperfekt
-
-# [[Modus - Imperativ]] - Präsens
-
-# [[Modus - Partizips]] - Präsens
-
-# [[Modus - Partizips]] - Perfekt
-
->>>>>>> 9ea0c9b (Added placeholder tense to existing verbs)

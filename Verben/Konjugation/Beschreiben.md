@@ -2,29 +2,6 @@ ___
 Links: [[Verben]]
 Meaning:
 ___
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-# [[Modus - Indikativ]] - Präsens
-Pronoun|Conjugation
------------- | ------------
-Ich | beschreibe
-Du | beschreibst
-Er/Sie/Es | beschreibt
-Wir | beschreibeb
-Ihr | beschreibt
-Sie | beschreiben
->>>>>>> 81b7927 (Updated verbs modus links)
-=======
-
-# [[Modus - Indikativ]] - Präsens
-Ich beschreibe
-Du beschreibst
-Er/Sie/Es beschreibt
-Wir beschreiben
-Ihr beschreibt
-Sie beschreiben
->>>>>>> 5ee0bb7 (Other batch formatting on verbs conjugations)
 
 # [[Modus - Indikativ]] - Präsens
 Ich beschreibe
@@ -34,8 +11,6 @@ Wir beschreiben
 Ihr beschreibt
 Sie beschreiben
 
-<<<<<<< HEAD
-<<<<<<< HEAD
 # [[Modus - Indikativ]] - Präteritum
 Ich beschrieb
 Du beschriebst
@@ -77,11 +52,7 @@ Wir werden beschrieben haben
 Ihr werdet beschrieben haben
 Sie werden beschrieben haben
 
-<<<<<<< HEAD
 # [[Modus - Konjunktiv]] 1 - Präsens
-=======
-# [[Modus - Konjunktiv]] 1 - Present
->>>>>>> 5ee0bb7 (Other batch formatting on verbs conjugations)
 Ich beschreibe
 Du beschreibest
 Er/Sie/Es beschreibe
@@ -156,40 +127,3 @@ beschreibend
 
 # [[Modus - Partizips]] - Perfekt
 beschrieben
-=======
-# [[Indikativ - Präteritum]]
-=======
-# [[Modus - Indikativ]] - Präteritum
->>>>>>> 81b7927 (Updated verbs modus links)
-
-# [[Modus - Indikativ]] - Perfekt
-[[Pronomen]] + [[Haben]] + beschreiben
-# [[Modus - Indikativ]] - Plusquamperfekt
-
-# [[Modus - Indikativ]] - Futur I
-
-# [[Modus - Indikativ]] - Futur II
-
-# [[Modus - Konjunktiv]] 1 - Present
-
-# [[Modus - Konjunktiv]] 1 - Perfekt
-
-# [[Modus - Konjunktiv]] 1 - Futur I
-
-# [[Modus - Konjunktiv]] 1 - Futur II
-
-# [[Modus - Konjunktiv]] 2 - Präteritum
-
-# [[Modus - Konjunktiv]] 2 - Futur I
-
-# [[Modus - Konjunktiv]] 2 - Futur II
-
-# [[Modus - Konjunktiv]] 2 - Plusquamperfekt
-
-# [[Modus - Imperativ]] - Präsens
-
-# [[Modus - Partizips]] - Präsens
-
-# [[Modus - Partizips]] - Perfekt
-
->>>>>>> 9ea0c9b (Added placeholder tense to existing verbs)

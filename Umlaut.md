@@ -1,7 +1,6 @@
 ___
 Tags: #Languages/German/Other
 ___
-<<<<<<< HEAD
 
 | Upper case | Lower Case |
 | ---------- | ---------- |
@@ -9,14 +8,10 @@ ___
 | Ö          | ö          |
 | Ü          | ü          |
 
-
 See [[Aussprache]] for correct pronunciation.
-=======
-Upper case | Lower case
------------- | ------------
-Ä | ä
-Ö | ö
-Ü | ü
 
-See [[Pronunciation]] for correct pronunciation.
->>>>>>> b3ce764 (Initial commit)
+# Shortcuts
+AltGr + q = ä
+AltGr + p = ö
+AltGr + y = ü
+add +SHIFT for uppercase

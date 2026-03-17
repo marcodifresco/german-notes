@@ -1,19 +1,11 @@
-<<<<<<< HEAD
 ___
 Links: [[Verben]] - [[Typ - Irregular verben]] - [[Typ - Trennbare verben]]
 Meaning: to pull (object) off
 ___
-<<<<<<< HEAD
-<<<<<<< HEAD
 
 # Variants
 [[Ziehen]] --> To pull
 
-=======
->>>>>>> 81b7927 (Updated verbs modus links)
-=======
-
->>>>>>> 5ee0bb7 (Other batch formatting on verbs conjugations)
 # [[Modus - Indikativ]] - Präsens
 ich ziehe ab
 du ziehst ab
@@ -30,15 +22,7 @@ wir zogen ab
 ihr zogt ab
 Sie zogen ab
 
-<<<<<<< HEAD
-<<<<<<< HEAD
 # [[Modus - Indikativ]] - Perfekt
-=======
-# [[Indikativ - Perfekt]]
->>>>>>> 9ea0c9b (Added placeholder tense to existing verbs)
-=======
-# [[Modus - Indikativ]] - Perfekt
->>>>>>> 81b7927 (Updated verbs modus links)
 ich bin abgezogen
 du bist abgezogen
 er/sie/es ist abgezogen
@@ -54,15 +38,7 @@ wir waren abgezogen
 ihr wart abgezogen
 Sie waren abgezogen
 
-<<<<<<< HEAD
-<<<<<<< HEAD
 # [[Modus - Indikativ]] - Futur I
-=======
-# [[Indikativ - Futur I]]
->>>>>>> 9ea0c9b (Added placeholder tense to existing verbs)
-=======
-# [[Modus - Indikativ]] - Futur I
->>>>>>> 81b7927 (Updated verbs modus links)
 ich werde abziehen
 du wirst abziehen
 er/sie/es wird abziehen
@@ -70,15 +46,7 @@ wir werden abziehen
 ihr werdet abziehen
 Sie werden abziehen
 
-<<<<<<< HEAD
-<<<<<<< HEAD
 # [[Modus - Indikativ]] - Futur II
-=======
-# [[Indikativ - Futur II]]
->>>>>>> 9ea0c9b (Added placeholder tense to existing verbs)
-=======
-# [[Modus - Indikativ]] - Futur II
->>>>>>> 81b7927 (Updated verbs modus links)
 ich werde abgezogen sein
 du wirst abgezogen sein
 er/sie/es wird abgezogen sein
@@ -86,15 +54,7 @@ wir werden abgezogen sein
 ihr werdet abgezogen sein
 Sie werden abgezogen sein
 
-<<<<<<< HEAD
-<<<<<<< HEAD
 # [[Modus - Konjunktiv]] 1 - Präsens
-=======
-# Variants
-English German
-Pull [[Ziehen]]
-# [[Modus - Konjunktiv]] 1 - Present
->>>>>>> 5ee0bb7 (Other batch formatting on verbs conjugations)
 ich ziehe ab
 du ziehest ab
 er/sie/es ziehe ab
@@ -169,46 +129,3 @@ abziehend
 
 # [[Modus - Partizips]] - Perfekt
 abgezogen
-=======
-__
-Links: [[Verben]] [[Typ - Regular verben]] 
-Meaning: Relate
-___
-# [[Indikativ - Präsens]]
-ich beziehe mich
-du beziehst dic
-her/sie/es bezieht sich
-wir beziehen uns
-ihr bezieht euch
-
-# [[Indikativ - Perfekt]]
-[[Pronomen]] + [[Haben]] + Sich + bezogen
->>>>>>> a45568a (Added notes from January 16th)
-=======
-# Variants
-English |German
------------- | ------------
-Pull | [[Ziehen]]
-# [[Modus - Konjunktiv]] 1 - Present
-
-# [[Modus - Konjunktiv]] 1 - Perfekt
-
-# [[Modus - Konjunktiv]] 1 - Futur I
-
-# [[Modus - Konjunktiv]] 1 - Futur II
-
-# [[Modus - Konjunktiv]] 2 - Präteritum
-
-# [[Modus - Konjunktiv]] 2 - Futur I
-
-# [[Modus - Konjunktiv]] 2 - Futur II
-
-# [[Modus - Konjunktiv]] 2 - Plusquamperfekt
-
-# [[Modus - Imperativ]] - Präsens
-
-# [[Modus - Partizips]] - Präsens
-
-# [[Modus - Partizips]] - Perfekt
-
->>>>>>> 9ea0c9b (Added placeholder tense to existing verbs)

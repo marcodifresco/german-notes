@@ -2,8 +2,6 @@ ___
 Links: [[Verben]]
 Meaning:
 ___
-<<<<<<< HEAD
-<<<<<<< HEAD
 
 # [[Modus - Indikativ]] - Präsens
 Ich fahre
@@ -14,7 +12,6 @@ Ihr fahrt
 Sie fahren
 
 
-<<<<<<< HEAD
 # [[Modus - Indikativ]] - Präteritum
 Ich fuhr
 Du fuhrst
@@ -131,158 +128,3 @@ fahrend
 
 # [[Modus - Partizips]] - Perfekt
 gefahren
-=======
-# [[Indikativ - Präteritum]]
-=======
-=======
-
->>>>>>> 5ee0bb7 (Other batch formatting on verbs conjugations)
-# [[Modus - Indikativ]] - Präsens
-Ich fahre
-Du fährst
-Er/Sie/Es fährt
-Wir fahren
-Ihr fahrt
-Sie fahren
-
-
-# [[Modus - Indikativ]] - Präteritum
-<<<<<<< HEAD
->>>>>>> 81b7927 (Updated verbs modus links)
-
-# [[Modus - Indikativ]] - Perfekt
-[[Pronomen]] + [[Haben]] +  gefahren
-# [[Modus - Indikativ]] - Plusquamperfekt
-
-# [[Modus - Indikativ]] - Futur I
-
-# [[Modus - Indikativ]] - Futur II
-
-# [[Modus - Konjunktiv]] 1 - Present
-
-# [[Modus - Konjunktiv]] 1 - Perfekt
-
-# [[Modus - Konjunktiv]] 1 - Futur I
-
-# [[Modus - Konjunktiv]] 1 - Futur II
-
-# [[Modus - Konjunktiv]] 2 - Präteritum
-
-# [[Modus - Konjunktiv]] 2 - Futur I
-
-# [[Modus - Konjunktiv]] 2 - Futur II
-
-# [[Modus - Konjunktiv]] 2 - Plusquamperfekt
-=======
-Ich fuhr
-Du fuhrst
-Er/Sie/Es fuhr
-Wir fuhren
-Ihr fuhrt
-Sie fuhren
-
-# [[Modus - Indikativ]] - Perfekt
-[[Pronomen]] + [[Sein]] +  gefahren
-Ich bin gefahren
-Du bist gefahren
-Er/Sie/Es ist gefahren
-Wir sind gefahren
-Ihr seid gefahren
-Sie sind gefahren
-
-# [[Modus - Indikativ]] - Plusquamperfekt
-Ich war gefahren
-Du warst gefahren
-Er/Sie/Es war gefahren
-Wir waren gefahren
-Ihr wart gefahren
-Sie waren gefahren
-
-# [[Modus - Indikativ]] - Futur I
-Ich werde fahren
-Du wirst fahren
-Er/Sie/Es wird fahren
-Wir werden fahren
-Ihr werdet fahren
-Sie werden fahren
-
-# [[Modus - Indikativ]] - Futur II
-Ich werde gefahren sein
-Du wirst gefahren sein
-Er/Sie/Es wird gefahren sein
-Wir werden gefahren sein
-Ihr werdet gefahren sein
-Sie werden gefahren sein
-
-# [[Modus - Konjunktiv]] 1 - Present
-Ich fahre
-Du fahrest
-Er/Sie/Es fahre
-Wir fahren
-Ihr fahret
-Sie fahren
-
-# [[Modus - Konjunktiv]] 1 - Perfekt
-Ich sei gefahren
-Du seiest gefahren
-Er/Sie/Es sei gefahren
-Wir seien gefahren
-Ihr seiet gefahren
-Sie seien gefahren
-
-# [[Modus - Konjunktiv]] 1 - Futur I
-Ich werde fahren
-Du werdest fahren
-Er/Sie/Es werde fahren
-Wir werden fahren
-Ihr werdet fahren
-Sie werden fahren
-
-# [[Modus - Konjunktiv]] 1 - Futur II
-Ich werde gefahren sein
-Du werdest gefahren sein
-Er/Sie/Es werde gefahren sein
-Wir werden gefahren sein
-Ihr werdet gefahren sein
-Sie werden gefahren sein
-
-# [[Modus - Konjunktiv]] 2 - Präteritum
-Ich führe
-Du führest
-Er/Sie/Es führe
-Wir führen
-Ihr führet
-Sie führen
-
-# [[Modus - Konjunktiv]] 2 - Futur I
-Ich würde fahren
-Du würdest fahren
-Er/Sie/Es würde fahren
-Wir würden fahren
-Ihr würdet fahren
-Sie würden fahren
-
-# [[Modus - Konjunktiv]] 2 - Futur II
-Ich würde gefahren sein
-Du würdest gefahren sein
-Er/Sie/Es würde gefahren sein
-Wir würden gefahren sein
-Ihr würdet gefahren sein
-Sie würden gefahren sein
-
-# [[Modus - Konjunktiv]] 2 - Plusquamperfekt
-Ich wäre gefahren
-Du wärest gefahren
-Er/Sie/Es wäre gefahren
-Wir wären gefahren
-Ihr wäret gefahren
-Sie wären gefahren
->>>>>>> 5ee0bb7 (Other batch formatting on verbs conjugations)
-
-# [[Modus - Imperativ]] - Präsens
-
-# [[Modus - Partizips]] - Präsens
-
-# [[Modus - Partizips]] - Perfekt
-
->>>>>>> 9ea0c9b (Added placeholder tense to existing verbs)

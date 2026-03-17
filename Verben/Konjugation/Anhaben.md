@@ -1,33 +1,7 @@
 ___
-<<<<<<< HEAD
 Links: [[Verben]] [[Typ - Irregular verben]] [[Typ - Trennbare verben]]
 Meaning: to wear
 ___
-<<<<<<< HEAD
-=======
-# [[Modus - Indikativ]] - Präsens
-Pronoun|Conjugation
------------- | ------------
-Ich | habe an
-Du | hast an
-Er/Sie/Es | hat an
-Wir | haben an
-Ihr | habt an
-Sie | haben an
->>>>>>> 81b7927 (Updated verbs modus links)
-=======
-Links: [[Verben]] [[Typ - Trennbare verben]]
-Meaning:
-___
-
-# [[Modus - Indikativ]] - Präsens
-Ich habe an
-Du hast an
-Er/Sie/Es hat an
-Wir haben an
-Ihr habt an
-Sie haben an
->>>>>>> 5ee0bb7 (Other batch formatting on verbs conjugations)
 
 # [[Modus - Indikativ]] - Präsens
 Ich habe an
@@ -37,8 +11,6 @@ Wir haben an
 Ihr habt an
 Sie haben an
 
-<<<<<<< HEAD
-<<<<<<< HEAD
 # [[Modus - Indikativ]] - Präteritum
 Ich hatte an
 Du hattest an
@@ -80,11 +52,7 @@ Wir werden angehabt haben
 Ihr werdet angehabt haben
 Sie werden angehabt haben
 
-<<<<<<< HEAD
 # [[Modus - Konjunktiv]] 1 - Präsens
-=======
-# [[Modus - Konjunktiv]] 1 - Present
->>>>>>> 5ee0bb7 (Other batch formatting on verbs conjugations)
 Ich habe an
 Du habest an
 Er/Sie/Es habe an
@@ -159,40 +127,3 @@ anhabend
 
 # [[Modus - Partizips]] - Perfekt
 angehabt
-=======
-# [[Indikativ - Präteritum]]
-=======
-# [[Modus - Indikativ]] - Präteritum
->>>>>>> 81b7927 (Updated verbs modus links)
-
-# [[Modus - Indikativ]] - Perfekt
-[[Pronomen]] + [[Haben]] + angehabt
-# [[Modus - Indikativ]] - Plusquamperfekt
-
-# [[Modus - Indikativ]] - Futur I
-
-# [[Modus - Indikativ]] - Futur II
-
-# [[Modus - Konjunktiv]] 1 - Present
-
-# [[Modus - Konjunktiv]] 1 - Perfekt
-
-# [[Modus - Konjunktiv]] 1 - Futur I
-
-# [[Modus - Konjunktiv]] 1 - Futur II
-
-# [[Modus - Konjunktiv]] 2 - Präteritum
-
-# [[Modus - Konjunktiv]] 2 - Futur I
-
-# [[Modus - Konjunktiv]] 2 - Futur II
-
-# [[Modus - Konjunktiv]] 2 - Plusquamperfekt
-
-# [[Modus - Imperativ]] - Präsens
-
-# [[Modus - Partizips]] - Präsens
-
-# [[Modus - Partizips]] - Perfekt
-
->>>>>>> 9ea0c9b (Added placeholder tense to existing verbs)
