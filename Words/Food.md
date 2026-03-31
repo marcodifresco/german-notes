@@ -2,6 +2,7 @@ ___
 Tags: #Languages/German/Vocabulary
  Links: [[Vocabulary]]
 ___
+
 English | German
 ------------ | ------------
 Beer | Das Bier (-e)
@@ -17,12 +18,18 @@ Orange | Die Orange(-n)
 Snack | Das Schnitz (-e)
 Water | Das Wasser
 
-<<<<<<< HEAD
-English | German
------------- | ------------
-Bottle | Die Flasche
-Plate | Der Teller
-=======
+| English | German      |
+| ------- | ----------- |
+| Bottle  | Die Flasche |
+| Plate   | Der Teller  |
+
+| English   | German          |
+| --------- | --------------- |
+| Meal      | Die Mahlzeit    |
+| Breakfast | Das Frühstück   |
+| Lunch     | Das Mittagessen |
+| Dinner    | Das Abendessen  |
+|           |                 |
+
 
 [^1]: Only for the drink - for the Café: Das Café:
->>>>>>> 362ad76 (Integrated notes from 03-05-22 lesson)
