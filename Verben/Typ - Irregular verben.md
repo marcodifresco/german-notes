@@ -1,54 +1,8 @@
 ___
-Tags: #Languages/German/Grammar/Verbs/Irregular  
 Links: [[Verben]]
 ___
-English | German
------------- | ------------
-Bake | [[Backen]]
-Be called | [[Heissen]]
-Bring | [[Bringen]]
-Climb | [[Steigen]]
-Come | [[Kommen]]
-Cut | [[Schneiden]]
-Dress / Put on | [[Anziehen]]
-Drink | [[Trinken]]
-Drive | [[Fahren]]
-Eat (animal) | [[Fressen]]
-Fall | [[Fallen]]
-Find | [[Finden]]
-Forget | [[Vergessen]]
-Forgive | [[Verzeihen]]
-Get | [[Bekommen]]
-Give | [[Geben]]
-Hang | [[Hängen]]
-Help | [[Helfen]]
-Know | [[Kennen]]
-Lend | [[Leihen]]
-Lie (in a place) | [[Liegen]]
-Lose | [[Verlieren]]
-Meet | [[Treffen]]
-Order | [[Bestellen]]
-Permit | [[Lassen]]
-Pull | [[Ziehen]]
-Read  | [[Lesen]]
-Roast | [[Braten]]
-See | [[Sehen]]
-Shine | [[Scheinen]]
-Shut down | [[Schliessen]]
-Sign | [[Unterschreiben]]
-Sing | [[Singen]]
-Sit (already sit) | [[Sitzen]]
-Sleep | [[Schlafen]]
-Stand | [[Stehen]]
-Stay | [[Bleiben]]
-Steal | [[Stehlen]]
-Stop | [[Halten]]
-Swim | [[Schwimmen]]
-Take | [[Nehmen]]
-Think | [[Denken]]
-Walk | [[Gehen]]
-Wash | [[Waschen]]
-Wear | [[Tragen]]
-Write | [[Schreiben]]
+# Definition
+Unregelmässige Verben im Deutschen (starke Verben) ändern im Gegensatz zu regelmässigen Verben ihren Stammvokal im Präsens (meist bei "du" und "er/sie/es"), Präteritum und Partizip II. Die wichtigsten unregelmäßigen Verben sind sein, haben und werden. Sie folgen oft Vokalwechseln wie e$\to$i/ie, a$\to$ä oder o$\to$ö.
 
-^5057b3
+# Technical note
+Enable "Show backlinks at the bottom of notes" in Obsidian's settings to get the list of irregular verbs below.
