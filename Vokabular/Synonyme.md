@@ -2,6 +2,7 @@ ___
 Tags: #Languages/German/Vocabulary 
 Links: [[Vokabular]]
 ___
+
 [[Tragen]] = [[Anhaben]]
 Deshalb = Aus diesem Grund
 Deshalb = darum = deswegen

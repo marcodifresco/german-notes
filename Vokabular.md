@@ -5,7 +5,7 @@ ___
 | [[Farben]] | [[Familie]] | [[Languages/German/Vokabular/Essen]] | [[Geographie]] | [[Gesundheit]] | [[Haus]] | [[Natur]] | [[Zahlen]] | [[Work place]] | [[Menge]] | [[Time]] | [[Weather]] | 
 
 # Phrases
-| [[Gängige Redewendungen]] | [[Synonyms]] | [[Schweizer Varianten]] |
+| [[Gängige Redewendungen]] | [[Synonyme]] | [[Schweizer Varianten]] |
 
 # General list
 
