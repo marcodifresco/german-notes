@@ -2,10 +2,10 @@ ___
 Tags: #Languages/German/Vocabulary 
 ___
 # Specific categories:
-| [[Farben]] | [[Familie]] | [[Languages/German/Vokabular/Essen]] | [[Geographie]] | [[Gesundheit]] | [[Haus]] | [[Natur]] | [[Zahlen]] | [[Work place]] | [[Quantity]] | [[Time]] | [[Weather]] | 
+| [[Farben]] | [[Familie]] | [[Languages/German/Vokabular/Essen]] | [[Geographie]] | [[Gesundheit]] | [[Haus]] | [[Natur]] | [[Zahlen]] | [[Work place]] | [[Menge]] | [[Time]] | [[Weather]] | 
 
 # Phrases
-| [[Gängige Redewendungen]] | [[Synonyms]] | [[Switzerland variations]] |
+| [[Gängige Redewendungen]] | [[Synonyms]] | [[Schweizer Varianten]] |
 
 # General list
 

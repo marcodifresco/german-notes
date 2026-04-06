@@ -2,6 +2,7 @@ ___
 Tags: #Languages/German/Vocabulary 
 Links: [[Vokabular]] 
 ___
+
 German | Swiss German
 ------------ | ------------
 Hallo | Grüetzi
