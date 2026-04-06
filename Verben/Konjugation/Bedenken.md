@@ -1,6 +1,6 @@
 ___
-Links: [[Verben]]
-Meaning:
+Links: [[Verben]] [[Typ - Irregular verben]]
+Meaning: To consider
 ___
 
 # [[Modus - Indikativ]] - Präsens
