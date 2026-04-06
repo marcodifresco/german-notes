@@ -44,6 +44,7 @@ English | German
 Breakfast | Das Frühstück
 Lunch | Das Mittagessen
 Dinner | Das Abendessen
+Meal | Die Mahlzeit
 Starter | Die Vorspeise
 Main dish | Das Hauptgericht
 Dessert | Das Dessert
