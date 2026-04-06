@@ -21,7 +21,6 @@ Ihr backtet
 Sie backten
 
 # [[Modus - Indikativ]] - Perfekt
-[[Pronomen]] + [[Haben]] + gebacken
 Ich habe gebacken
 Du hast gebacken
 Er/Sie/Es hat gebacken
