@@ -11,6 +11,13 @@ EX: Wenn das Wetter gut ist, dann grilliere ich
 wenn (second phrase): first part normal, second part verb at the end
 EX: Du kommst spätzur Arbeit, wenn du den Weckwe nicht Hört
 
+|               | Einmalig | Mehhrmalig |
+| ------------- | -------- | ---------- |
+| Zukunft       | wenn     | wenn       |
+| Gegenwart     | wenn     | wenn       |
+| Vergangenheit | als      | wenn       |
+
+
 ![[wann-wenn-als.jpg]]
 
 # Examples
