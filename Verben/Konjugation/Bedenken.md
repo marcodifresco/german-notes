@@ -21,7 +21,6 @@ Ihr bedachtet
 Sie bedachten
 
 # [[Modus - Indikativ]] - Perfekt
-[[Pronomen]] + [[Haben]] + bedacht
 Ich habe bedacht
 Du hast bedacht
 Er/Sie/Es hat bedacht
@@ -124,7 +123,7 @@ Wir Bedenken wir!
 Sie Bedenken Sie!
 
 # [[Modus - Partizips]] - Präsens
-- bedenkend
+bedenkend
 
 # [[Modus - Partizips]] - Perfekt
-- bedacht
+bedacht
