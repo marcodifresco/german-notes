@@ -76,7 +76,7 @@ Plural --> Den/Ø ...*en*
 [[Einkaufen]]
 [[Einladen]]
 [[Erklären]]
-[[Essen]]
+[[Languages/German/Verben/Konjugation/Essen]]
 [[Fallen]]
 [[Glauben]]
 [[Geben]]
