@@ -118,10 +118,10 @@ ihr wäret aufgewacht
 Sie wären aufgewacht
 
 # [[Modus - Imperativ]] - Präsens
-wache (du) auf
-wachen wir auf
-wacht ihr auf
-wachen Sie auf
+(du) Wach auf!
+(ihr) Wacht auf!
+(wir) Wachen wir auf!
+(Sie) Wachen Sie auf!
 
 # [[Modus - Partizips]] - Präsens
 aufwachend

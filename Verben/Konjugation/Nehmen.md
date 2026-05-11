@@ -118,10 +118,10 @@ Ihr hättet genommen
 Sie hätten genommen
 
 # [[Modus - Imperativ]] - Präsens
-Nimm! (du)
-Nehmt! (ihr)
-Nehmen wir! (wir)
-Nehmen Sie! (Sie, formal)
+(du) Nimm!
+(ihr) Nehmt!
+(wir) Nehmen wir!
+(Sie) Nehmen Sie!
 
 # [[Modus - Partizips]] - Präsens
 nehmend

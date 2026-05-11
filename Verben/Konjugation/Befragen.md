@@ -117,10 +117,10 @@ Ihr hättet befragt
 Sie hätten befragt
 
 # [[Modus - Imperativ]] - Präsens
-**Du:** Befrag!
-**Ihr:** Befragt!
-**Sie:** Befragen Sie!
-**Wir:** Befragen wir!
+(du) befrage!
+(ihr) befragt!
+(wir) Befragen wir!
+(Sie) Befragen Sie!
 
 # [[Modus - Partizips]] - Präsens
 befragend

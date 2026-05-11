@@ -120,8 +120,8 @@ Sie hätten geregnet
 # [[Modus - Imperativ]] - Präsens
 (du) regne!
 (ihr) regnet!
-(Sie) regnen Sie!
 (wir) regnen wir!
+(Sie) regnen Sie!
 
 # [[Modus - Partizips]] - Präsens
 regnend

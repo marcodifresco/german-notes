@@ -118,10 +118,7 @@ Ihr hättet geschrieben
 Sie hätten geschrieben
 
 # [[Modus - Imperativ]] - Präsens
-- Du: Schreib!
-- Ihr: Schreibt!
-- Sie (formal): Schreiben Sie!
-- Wir: Schreiben wir!
+(wir) Schreiben wir!
 
 # [[Modus - Partizips]] - Präsens
 - schreibend

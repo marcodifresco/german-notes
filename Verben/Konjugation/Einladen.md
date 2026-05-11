@@ -118,10 +118,10 @@ Ihr hättet eingeladen
 Sie hätten eingeladen
 
 # [[Modus - Imperativ]] - Präsens
-(Du) lade ein! / lad ein!
-(Ihr) ladet ein!
-(Sie) laden Sie ein!
-(Wir) laden wir ein!
+(du) lade ein / lad ein!
+(ihr) ladet ein!
+(wir) laden wir!
+(Sie) laden Sie!
 
 # [[Modus - Partizips]] - Präsens
 einladend

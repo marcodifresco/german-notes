@@ -118,9 +118,9 @@ Ihr hättet gelagert
 Sie hätten gelagert
 
 # [[Modus - Imperativ]] - Präsens
-(Du) lagere! / lager!
-(Ihr) lagert!
-(Wir) Lagern wir!
+(du) lagere / lager!
+(ihr) lagert!
+(wir) Lagern wir!
 (Sie) Lagern Sie!
 
 # [[Modus - Partizips]] - Präsens

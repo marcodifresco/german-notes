@@ -118,10 +118,10 @@ Ihr hättet verpackt
 Sie hätten verpackt
 
 # [[Modus - Imperativ]] - Präsens
-Du: verpack
-Wir: verpacken wir
-Ihr: verpackt
-Sie: verpacken Sie
+(du) verpack!
+(ihr) verpackt!
+(wir) Wir: verpacken wir!
+(Sie) Sie: verpacken Sie!
 
 # [[Modus - Partizips]] - Präsens
 verpackend

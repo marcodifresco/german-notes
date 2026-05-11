@@ -117,10 +117,10 @@ Ihr hättet abgestimmt
 Sie hätten abgestimmt
 
 # [[Modus - Imperativ]] - Präsens
-Du: Stimm ab!
-Ihr: Stimmt ab!
-Sie: Stimmen Sie ab!
-Wir: Stimmen wir ab!
+(du) Stimm ab!
+(ihr) Stimmt ab!
+(wir) Stimmen wir ab!
+(Sie) Stimmen Sie ab!
 
 # [[Modus - Partizips]] - Präsens
 abstimmend

@@ -118,10 +118,10 @@ Ihr hättet unterschrieben
 Sie hätten unterschrieben
 
 # [[Modus - Imperativ]] - Präsens
-Du Unterschreib! (or Unterschreibe!)
-Ihr Unterschreibt!
-Sie Unterschreiben Sie!
-Wir Unterschreiben wir!
+(du) Unterschreib (or Unterschreibe)!
+(ihr) Unterschreibt!
+(wir) Unterschreiben wir!
+(Sie) Unterschreiben Sie!
 
 # [[Modus - Partizips]] - Präsens
 unterschreibend

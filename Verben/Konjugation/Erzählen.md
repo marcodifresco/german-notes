@@ -118,10 +118,10 @@ Ihr hättet erzählt
 Sie hätten erzählt
 
 # [[Modus - Imperativ]] - Präsens
-(du) Erzähl! / Erzähle!
+(du) Erzähl / Erzähle!
 (ihr) Erzählt!
-(Sie) Erzählen Sie!
 (wir) Erzählen wir!
+(Sie) Erzählen Sie!
 
 # [[Modus - Partizips]] - Präsens
 erzählend

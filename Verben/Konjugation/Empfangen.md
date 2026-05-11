@@ -118,10 +118,10 @@ Ihr hättet empfangen
 Sie hätten empfangen
 
 # [[Modus - Imperativ]] - Präsens
-Du: Empfang!
-Wir: Empfangen wir!
-Ihr: Empfangt!
-Sie: Empfangen Sie!
+(du) Empfang!
+(ihr) Empfangt!
+(wir) Empfangen wir!
+(Sie) Empfangen Sie!
 
 # [[Modus - Partizips]] - Präsens
 empfangend

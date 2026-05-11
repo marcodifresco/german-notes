@@ -117,10 +117,10 @@ Ihr hättet bedacht
 Sie hätten bedacht
 
 # [[Modus - Imperativ]] - Präsens
-Du Bedenke!
-Ihr Bedenkt!
-Wir Bedenken wir!
-Sie Bedenken Sie!
+(du) Bedenke!
+(ihr) Bedenkt!
+(wir) Bedenken wir!
+(Sie) Bedenken Sie!
 
 # [[Modus - Partizips]] - Präsens
 bedenkend

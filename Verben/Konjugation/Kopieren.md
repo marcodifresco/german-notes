@@ -118,9 +118,9 @@ Ihr hättet kopiert
 Sie hätten kopiert
 
 # [[Modus - Imperativ]] - Präsens
-(Du) kopier(e)!
-(Ihr) kopiert!
-(Wir) kopieren wir!
+(du) kopier(e)!
+(ihr) kopiert!
+(wir) kopieren wir!
 (Sie) kopieren Sie!
 
 # [[Modus - Partizips]] - Präsens

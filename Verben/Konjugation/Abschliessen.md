@@ -119,8 +119,8 @@ Sie hätten abgeschlossen
 # [[Modus - Imperativ]] - Präsens
 (du) Schliess ab!
 (ihr) Schliesst ab!
-(Sie) Schliessen Sie ab!
 (wir) Schliessen wir ab!
+(Sie) Schliessen Sie ab!
 
 # [[Modus - Partizips]] - Präsens
 abschliessend

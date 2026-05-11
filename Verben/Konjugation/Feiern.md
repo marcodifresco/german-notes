@@ -118,11 +118,10 @@ Ihr hättet gefeiert
 Sie hätten gefeiert
 
 # [[Modus - Imperativ]] - Präsens
-Form Conjugation
-Du Feier!
-Ihr Feiert!
-Wir Feiern wir!
-Sie Feiern Sie!
+(du) Feier!
+(ihr) Feiert!
+(wir) Feiern wir!
+(Sie) Feiern Sie!
 
 # [[Modus - Partizips]] - Präsens
 Form Conjugation

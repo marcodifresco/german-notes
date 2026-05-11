@@ -135,8 +135,8 @@ Sie hätten gebraucht
 # [[Modus - Imperativ]] - Präsens
 (du) brauch!
 (ihr) braucht!
-(Sie) brauchen Sie!
 (wir) brauchen wir!
+(Sie) brauchen Sie!
 
 
 # [[Modus - Partizips]] - Präsens

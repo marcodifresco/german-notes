@@ -120,6 +120,7 @@ Sie wären gefallen
 # [[Modus - Imperativ]] - Präsens
 (du) Fall!
 (ihr) Fallt!
+(wir) Fallen wir!
 (Sie) Fallen Sie!
 
 # [[Modus - Partizips]] - Präsens

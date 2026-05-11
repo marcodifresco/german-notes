@@ -124,7 +124,8 @@ Sie hätten ferngesehen
 # [[Modus - Imperativ]] - Präsens
 (du) Sieh fern!
 (ihr) Seht fern!
-(Sie) Sehen Sie fern!
+(wir) Sehen wir!
+(Sie) Sehen Sie!
 
 # [[Modus - Partizips]] - Präsens
 fernsehend

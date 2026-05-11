@@ -118,10 +118,10 @@ Ihr hättet begleitet
 Sie hätten begleitet
 
 # [[Modus - Imperativ]] - Präsens
-Du Begleite!
-Ihr Begleitet!
-Sie Begleiten Sie!
-Wir Begleiten wir!
+(du) Begleite!
+(ihr) Begleitet!
+(wir) Begleiten wir!
+(Sie) Begleiten Sie!
 
 # [[Modus - Partizips]] - Präsens
 Form Conjugation

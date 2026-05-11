@@ -120,8 +120,8 @@ Sie hätten eingeworfen
 # [[Modus - Imperativ]] - Präsens
 (du) wirf ein!
 (ihr) werft ein!
-(Sie) werfen Sie ein!
-(wir) werfen wir ein!
+(wir) werfen wir!
+(Sie) werfen Sie!
 
 # [[Modus - Partizips]] - Präsens
 einwerfend

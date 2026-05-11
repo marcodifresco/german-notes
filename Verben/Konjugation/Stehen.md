@@ -118,10 +118,10 @@ Ihr hättet gestanden
 Sie hätten gestanden
 
 # [[Modus - Imperativ]] - Präsens
-(du) Steh! / Stehe!
+(du) Steh / Stehe!
 (ihr) Steht!
-(Sie) Stehen Sie!
 (wir) Stehen wir!
+(Sie) Stehen Sie!
 
 # [[Modus - Partizips]] - Präsens
 stehend

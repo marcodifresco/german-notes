@@ -119,8 +119,8 @@ Sie hätten übergesetzt
 # [[Modus - Imperativ]] - Präsens
 (du) Setz über!
 (ihr) Setzt über!
-(Sie) Setzen Sie über!
-(wir) Setzen wir über!
+(wir) Setzen wir!
+(Sie) Setzen Sie!
 
 # [[Modus - Partizips]] - Präsens
 übersetzend

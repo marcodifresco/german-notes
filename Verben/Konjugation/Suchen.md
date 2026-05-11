@@ -120,8 +120,8 @@ Sie hätten gesucht
 # [[Modus - Imperativ]] - Präsens
 (du) Such!
 (ihr) Sucht!
-(Sie) Suchen Sie!
 (wir) Suchen wir!
+(Sie) Suchen Sie!
 
 # [[Modus - Partizips]] - Präsens
 suchend

@@ -118,11 +118,10 @@ Ihr hättet erinnert
 Sie hätten erinnert
 
 # [[Modus - Imperativ]] - Präsens
-Form Conjugation
 (du) Erinner(e)!
 (ihr) Erinnert!
-(Sie) Erinnern Sie!
 (wir) Erinnern wir!
+(Sie) Erinnern Sie!
 
 # [[Modus - Partizips]] - Präsens
 - erinnernd

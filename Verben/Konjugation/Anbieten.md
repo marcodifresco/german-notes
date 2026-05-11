@@ -117,10 +117,10 @@ Ihr hättet angeboten
 Sie hätten angeboten
 
 # [[Modus - Imperativ]] - Präsens
-Du Biete an!
-Ihr Bietet an!
-Wir Bieten wir an!
-Sie Bieten Sie an!
+(du) Biete an!
+(ihr) Bietet an!
+(wir) Bieten wir an!
+(Sie) Bieten Sie an!
 
 # [[Modus - Partizips]] - Präsens
 anbietend

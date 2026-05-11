@@ -118,9 +118,9 @@ Ihr hättet geheiratet
 Sie hätten geheiratet
 
 # [[Modus - Imperativ]] - Präsens
-(Du) heirate!
-(Ihr) heiratet!
-(Wir) heiraten wir!
+(du) heirate!
+(ihr) heiratet!
+(wir) heiraten wir!
 (Sie) heiraten Sie!
 
 # [[Modus - Partizips]] - Präsens

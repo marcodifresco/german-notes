@@ -119,6 +119,7 @@ Sie hätten erledigt
 # [[Modus - Imperativ]] - Präsens
 (du) erledige!
 (ihr) erledigt!
+(wir) erledigen wir!
 (Sie) erledigen Sie!
 
 # [[Modus - Partizips]] - Präsens

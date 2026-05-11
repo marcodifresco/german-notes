@@ -118,9 +118,9 @@ Ihr hättet gewagt
 Sie hätten gewagt
 
 # [[Modus - Imperativ]] - Präsens
-Du: wage!
-Ihr: wagt!
-Sie: wagen Sie!
+(du) wage!
+(ihr) wagt!
+(Sie) Sie: wagen Sie!
 
 # [[Modus - Partizips]] - Präsens
 wagend

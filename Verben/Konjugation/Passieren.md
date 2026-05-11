@@ -117,10 +117,10 @@ Ihr wäret passiert
 Sie wären passiert
 
 # [[Modus - Imperativ]] - Präsens
-Du Passier! / Passiere!
-Wir Passieren wir!
-Ihr Passiert!
-Sie Passieren Sie!
+(du) Passier / Passiere!
+(ihr) Passiert!
+(wir) Passieren wir!
+(Sie) Passieren Sie!
 
 # [[Modus - Partizips]] - Präsens
 passierend

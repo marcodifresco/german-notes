@@ -119,6 +119,7 @@ Sie hätten geglaubt
 # [[Modus - Imperativ]] - Präsens
 (du) Glaub!
 (ihr) Glaubt!
+(wir) Glauben wir!
 (Sie) Glauben Sie!
 
 # [[Modus - Partizips]] - Präsens

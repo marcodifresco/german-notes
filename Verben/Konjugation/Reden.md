@@ -117,10 +117,10 @@ Ihr hättet geredet
 Sie hätten geredet
 
 # [[Modus - Imperativ]] - Präsens
-Du Rede!
-Ihr Redet!
-Er/Sie/Es (formal) Reden Sie!
-Wir (let's) Reden wir!
+(du) Rede!
+(ihr) Redet!
+(wir) Reden wir!
+(Sie) Reden Sie!
 
 # [[Modus - Partizips]] - Präsens
 Conjugation

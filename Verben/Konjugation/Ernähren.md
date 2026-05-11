@@ -118,11 +118,10 @@ Ihr hättet ernährt
 Sie hätten ernährt
 
 # [[Modus - Imperativ]] - Präsens
-Form Conjugation
-Du Ernähre!
-Ihr Ernährt!
-Wir Ernähren wir!
-Sie Ernähren Sie!
+(du) Ernähre!
+(ihr) Ernährt!
+(wir) Ernähren wir!
+(Sie) Ernähren Sie!
 
 # [[Modus - Partizips]] - Präsens
 Conjugation

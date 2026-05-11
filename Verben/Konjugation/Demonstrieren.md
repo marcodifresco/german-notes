@@ -118,10 +118,10 @@ Ihr hättet demonstriert
 Sie hätten demonstriert
 
 # [[Modus - Imperativ]] - Präsens
-Du: demonstriere!
-Ihr: demonstriert!
-Wir: demonstrieren wir!
-Sie: demonstrieren Sie!
+(du) demonstriere!
+(ihr) demonstriert!
+(wir) demonstrieren wir!
+(Sie) demonstrieren Sie!
 
 # [[Modus - Partizips]] - Präsens
 demonstrierend

@@ -127,7 +127,6 @@ Ihr hättet gewollt
 Sie hätten gewollt
 
 # [[Modus - Imperativ]] - Präsens
-No imperative forms exist for 'wollen'.
 
 # [[Modus - Partizips]] - Präsens
 wollend

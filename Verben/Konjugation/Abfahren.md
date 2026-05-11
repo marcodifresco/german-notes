@@ -118,6 +118,7 @@ Sie wären abgefahren
 # [[Modus - Imperativ]] - Präsens
 (du) Fahr ab!
 (ihr) Fahrt ab!
+(wir) Fahren wir ab!
 (Sie) Fahren Sie ab!
 
 # [[Modus - Partizips]] - Präsens

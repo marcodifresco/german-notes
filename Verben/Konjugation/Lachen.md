@@ -128,8 +128,8 @@ Sie hätten gelacht
 # [[Modus - Imperativ]] - Präsens
 (du) lach!
 (ihr) lacht!
-(Sie) lachen Sie!
 (wir) lachen wir!
+(Sie) lachen Sie!
 
 # [[Modus - Partizips]] - Präsens
 lachend

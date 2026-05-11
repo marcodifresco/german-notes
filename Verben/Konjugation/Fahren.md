@@ -118,10 +118,10 @@ Ihr wäret gefahren
 Sie wären gefahren
 
 # [[Modus - Imperativ]] - Präsens
-(du) Fahr! / Fahre!
+(du) Fahr / Fahre!
 (ihr) Fahrt!
-(Sie) Fahren Sie!
 (wir) Fahren wir!
+(Sie) Fahren Sie!
 
 # [[Modus - Partizips]] - Präsens
 fahrend

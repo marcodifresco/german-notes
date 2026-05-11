@@ -118,10 +118,10 @@ Ihr hättet geheissen
 Sie hätten geheissen
 
 # [[Modus - Imperativ]] - Präsens
-Du heiss
-Ihr heisst
-Wir heissen wir
-Sie heissen Sie
+(du) heiss!
+(ihr) heisst!
+(wir) heissen wir!
+(Sie) heissen Sie!
 
 # [[Modus - Partizips]] - Präsens
 Form Conjugation

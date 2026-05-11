@@ -119,8 +119,8 @@ Sie hätten geantwortet
 # [[Modus - Imperativ]] - Präsens
 (du) Antworte!
 (ihr) Antwortet!
-(Sie) Antworten Sie!
 (wir) Antworten wir!
+(Sie) Antworten Sie!
 
 # [[Modus - Partizips]] - Präsens
 antwortend

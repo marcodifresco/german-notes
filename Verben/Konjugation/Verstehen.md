@@ -127,10 +127,8 @@ Ihr hättet verstanden
 Sie hätten verstanden
 
 # [[Modus - Imperativ]] - Präsens
-**Du:** Versteh! (or Verstehe!)
-**Ihr:** Versteht!
-**Sie:** Verstehen Sie!
-**Wir:** Verstehen wir!
+(wir) **Wir:** Verstehen wir!
+(Sie) **Sie:** Verstehen Sie!
 
 # [[Modus - Partizips]] - Präsens
 verstehend

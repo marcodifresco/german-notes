@@ -124,8 +124,8 @@ Sie hätten erkannt
 # [[Modus - Imperativ]] - Präsens
 (du) Erkenne!
 (ihr) Erkennt!
-(Sie) Erkennen Sie!
 (wir) Erkennen wir!
+(Sie) Erkennen Sie!
 
 # [[Modus - Partizips]] - Präsens
 erkennend

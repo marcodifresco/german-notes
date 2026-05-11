@@ -117,10 +117,10 @@ ihr hättet beraten
 Sie hätten beraten
 
 # [[Modus - Imperativ]] - Präsens
-berate (du) / berat (du)
-beraten wir
-beratet ihr
-beraten Sie
+(du) Berat!
+(ihr) Beratet!
+(wir) Beraten wir!
+(Sie) Beraten Sie!
 
 # [[Modus - Partizips]] - Präsens
 beratend

@@ -115,10 +115,8 @@ ihr hättet verletzt
 Sie hätten verletzt
 
 # [[Modus - Imperativ]] - Präsens
-verletze (du)
-verletzen wir
-verletzt ihr
-verletzen Sie
+(wir) verletzen wir!
+(Sie) verletzen Sie!
 
 # [[Modus - Partizips]] - Präsens
 verletzend

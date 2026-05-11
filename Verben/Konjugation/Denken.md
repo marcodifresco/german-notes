@@ -118,10 +118,10 @@ Ihr hättet gedacht
 Sie hätten gedacht
 
 # [[Modus - Imperativ]] - Präsens
-Du Denk!
-Wir Denken wir!
-Ihr Denkt!
-Sie Denken Sie!
+(du) denk!
+(ihr) denkt!
+(wir) denken wir!
+(Sie) denken Sie!
 
 # [[Modus - Partizips]] - Präsens
 Conjugation

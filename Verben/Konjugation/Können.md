@@ -118,7 +118,10 @@ Ihr hättet gekonnt
 Sie hätten gekonnt
 
 # [[Modus - Imperativ]] - Präsens
-Für Modalverben wie 'können' ist die Imperativform nicht gebräuchlich.
+(du) -
+(ihr) -
+(wir) -
+(Sie) -
 
 # [[Modus - Partizips]] - Präsens
 könnend

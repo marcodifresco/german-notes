@@ -117,11 +117,10 @@ Ihr hättet gemalt
 Sie hätten gemalt
 
 # [[Modus - Imperativ]] - Präsens
-Form Conjugation
-Du Male!
-Ihr Malt!
-Wir Malen wir!
-Sie Malen Sie!
+(du) Male!
+(ihr) Malt!
+(wir) Malen wir!
+(Sie) Malen Sie!
 
 # [[Modus - Partizips]] - Präsens
 | Conjugation |

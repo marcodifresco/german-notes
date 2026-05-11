@@ -120,6 +120,7 @@ Sie hätten eingekauft
 # [[Modus - Imperativ]] - Präsens
 (du) Kauf ein!
 (ihr) Kauft ein!
+(wir) Kaufen wir ein!
 (Sie) Kaufen Sie ein!
 
 # [[Modus - Partizips]] - Präsens

@@ -118,10 +118,10 @@ Ihr hättet geschienen
 Sie hätten geschienen
 
 # [[Modus - Imperativ]] - Präsens
-Du Schein!
-Ihr Scheint!
-Sie Scheinen Sie!
-Wir Scheinen wir!
+(du) Schein!
+(ihr) Scheint!
+(wir) Scheinen wir!
+(Sie) Scheinen Sie!
 
 # [[Modus - Partizips]] - Präsens
 Conjugation

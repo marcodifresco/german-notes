@@ -118,11 +118,10 @@ Ihr hättet gefunden
 Sie hätten gefunden
 
 # [[Modus - Imperativ]] - Präsens
-- Conjugation
-Du Finde!
-Ihr Findet!
-Wir Finden wir!
-Sie Finden Sie!
+(du) Finde!
+(ihr) Findet!
+(wir) Finden wir!
+(Sie) Finden Sie!
 
 # [[Modus - Partizips]] - Präsens
 - Conjugation

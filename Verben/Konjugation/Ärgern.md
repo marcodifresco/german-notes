@@ -119,10 +119,10 @@ Ihr hättet geärgert
 Sie hätten geärgert
 
 # [[Modus - Imperativ]] - Präsens
-(Du) Ärger(e) (dich)!
-(Ihr) Ärgert (euch)!
-(Wir) Ärgern wir (uns)!
-(Sie) Ärgern Sie (sich)!
+(du) Ärger(e) (dich)!
+(ihr) Ärgert (euch)!
+(wir) Ärgern wir!
+(Sie) Ärgern Sie!
 
 # [[Modus - Partizips]] - Präsens
 ärgernd

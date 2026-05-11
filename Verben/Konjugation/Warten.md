@@ -122,8 +122,8 @@ Sie hätten gewartet
 # [[Modus - Imperativ]] - Präsens
 (du) Warte!
 (ihr) Wartet!
-(Sie) Warten Sie!
-(wir) Warten wir!
+(wir) (wir) Warten wir!
+(Sie) (Sie) Warten Sie!
 
 # [[Modus - Partizips]] - Präsens
 wartend

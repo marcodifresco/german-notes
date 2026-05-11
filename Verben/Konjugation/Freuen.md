@@ -123,8 +123,8 @@ Sie hätten sich gefreut
 # [[Modus - Imperativ]] - Präsens
 (du) Freu dich!
 (ihr) Freut euch!
-(Sie) Freuen Sie sich!
 (wir) Freuen wir uns!
+(Sie) Freuen Sie sich!
 
 # [[Modus - Partizips]] - Präsens
 sich freuend

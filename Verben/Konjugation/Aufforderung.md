@@ -116,10 +116,10 @@ ihr hättet aufgefordert
 sie/Sie hätten aufgefordert
 
 # [[Modus - Imperativ]] - Präsens
-(du) Fordere auf! / (du) Forder auf! / (du) Fordre auf!
-(wir) Fordern wir auf!
-(ihr) Fordert auf!
-(Sie) Fordern Sie auf!
+(du) Fordere auf / Forder auf / Fordre auf!
+(ihr) Fordert auf!
+(wir) Fordern wir auf!
+(Sie) Fordern Sie auf!
 
 # [[Modus - Partizips]] - Präsens
 auffordernd

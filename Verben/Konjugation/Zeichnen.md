@@ -120,8 +120,8 @@ Sie hätten gezeichnet
 # [[Modus - Imperativ]] - Präsens
 (du) Zeichne!
 (ihr) Zeichnet!
-(Sie) Zeichnen Sie!
-(wir) Zeichnen wir!
+(wir) (wir) Zeichnen wir!
+(Sie) (Sie) Zeichnen Sie!
 
 # [[Modus - Partizips]] - Präsens
 zeichnend

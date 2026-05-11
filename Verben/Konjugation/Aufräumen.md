@@ -115,10 +115,10 @@ Ihr hättet aufgeräumt
 Sie hätten aufgeräumt
 
 # [[Modus - Imperativ]] - Präsens
-**Du**: Räum auf!
-**Ihr**: Räumt auf!
-**Sie**: Räumen Sie auf!
-**Wir**: Räumen wir auf!
+(du) Räum auf!
+(ihr) Räumt auf!
+(wir) Räumen wir auf!
+(Sie) Räumen Sie auf!
 
 # [[Modus - Partizips]] - Präsens
 aufräumend

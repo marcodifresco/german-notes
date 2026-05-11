@@ -120,8 +120,8 @@ Sie hätten geerntet
 # [[Modus - Imperativ]] - Präsens
 (du) ernte!
 (ihr) erntet!
-(Sie) ernten Sie!
 (wir) ernten wir!
+(Sie) ernten Sie!
 
 # [[Modus - Partizips]] - Präsens
 erntend

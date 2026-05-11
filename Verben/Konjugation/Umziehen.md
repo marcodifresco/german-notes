@@ -191,8 +191,8 @@ Sie wären umgezogen
 # [[Modus - Imperativ]] - Präsens
 (du) Zieh (dich) um!
 (ihr) Zieht (euch) um!
-(Sie) Ziehen Sie (sich) um!
-(wir) Ziehen wir (uns) um!
+(wir) Ziehen wir!
+(Sie) Ziehen Sie!
 
 # [[Modus - Partizips]] - Präsens
 umziehend

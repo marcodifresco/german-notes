@@ -117,11 +117,10 @@ Ihr wäret geschwommen
 Sie wären geschwommen
 
 # [[Modus - Imperativ]] - Präsens
-Form Conjugation
-Du Schwimm!
-Ihr Schwimmt!
-Wir Schwimmen wir!
-Sie Schwimmen Sie!
+(du) Schwimm!
+(ihr) Schwimmt!
+(wir) Schwimmen wir!
+(Sie) Schwimmen Sie!
 
 # [[Modus - Partizips]] - Präsens
 schwimmend

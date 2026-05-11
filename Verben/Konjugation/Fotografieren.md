@@ -118,10 +118,10 @@ Ihr hättet fotografiert
 Sie hätten fotografiert
 
 # [[Modus - Imperativ]] - Präsens
-Du: Fotografiere!
-Ihr: Fotografiert!
-Sie (formal): Fotografieren Sie!
-Wir: Fotografieren wir!
+(du) Fotografiere!
+(ihr) Fotografiert!
+(wir) Fotografieren wir!
+(Sie) Fotografieren Sie!
 
 # [[Modus - Partizips]] - Präsens
 fotografierend

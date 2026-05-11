@@ -118,10 +118,10 @@ Ihr hättet eingeweiht
 Sie hätten eingeweiht
 
 # [[Modus - Imperativ]] - Präsens
-**Du:** Weih(e) ein!
-**Ihr:** Weiht ein!
-**Sie (formal):** Weihen Sie ein!
-**Wir:** Weihen wir ein!
+(du) weihe ein!
+(ihr) weiht ein!
+(wir) Weihen wir!
+(Sie) Weihen Sie!
 
 # [[Modus - Partizips]] - Präsens
 einweihend

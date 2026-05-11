@@ -119,8 +119,8 @@ Sie hätten verwandt
 # [[Modus - Imperativ]] - Präsens
 (du) Verwende!
 (ihr) Verwendet!
-(Sie) Verwenden Sie!
-(wir) Verwenden wir!
+(wir) (wir) Verwenden wir!
+(Sie) (Sie) Verwenden Sie!
 
 # [[Modus - Partizips]] - Präsens
 verwendend

@@ -117,10 +117,10 @@ Ihr wäret angekommen
 Sie wären angekommen
 
 # [[Modus - Imperativ]] - Präsens
-Du Komm an!
-Ihr Kommt an!
-Wir Kommen wir an!
-Sie Kommen Sie an!
+(du) Komm an!
+(ihr) Kommt an!
+(wir) Kommen wir an!
+(Sie) Kommen Sie an!
 
 # [[Modus - Partizips]] - Präsens
 Form Conjugation

@@ -117,8 +117,9 @@ Ihr hättet beendet
 Sie hätten beendet
 
 # [[Modus - Imperativ]] - Präsens
-(Du) Beende!
-(Ihr) Beendet!
+(du) Beende!
+(ihr) Beendet!
+(wir) beenden wir!
 (Sie) Beenden Sie!
 
 # [[Modus - Partizips]] - Präsens

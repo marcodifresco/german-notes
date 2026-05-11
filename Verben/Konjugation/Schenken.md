@@ -118,10 +118,10 @@ Ihr hättet geschenkt
 Sie hätten geschenkt
 
 # [[Modus - Imperativ]] - Präsens
-Du: Schenk! / Schenke!
-Ihr: Schenkt!
-Wir: Schenken wir!
-Sie (formal): Schenken Sie!
+(du) Schenk / Schenke!
+(ihr) Schenkt!
+(wir) Schenken wir!
+(Sie) Schenken Sie!
 
 # [[Modus - Partizips]] - Präsens
 schenkend

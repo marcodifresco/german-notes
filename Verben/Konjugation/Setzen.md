@@ -118,10 +118,10 @@ Ihr hättet gesetzt
 Sie hätten gesetzt
 
 # [[Modus - Imperativ]] - Präsens
-Du Setz! / Setze!
-Ihr Setzt!
-Wir Setzen wir!
-Sie Setzen Sie!
+(du) Setz / Setze!
+(ihr) Setzt!
+(wir) Setzen wir!
+(Sie) Setzen Sie!
 
 # [[Modus - Partizips]] - Präsens
 Partizip I setzend

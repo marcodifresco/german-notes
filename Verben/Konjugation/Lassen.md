@@ -122,6 +122,7 @@ Sie hätten gelassen
 # [[Modus - Imperativ]] - Präsens
 (du) Lass!
 (ihr) Lasst!
+(wir) Lassen wir!
 (Sie) Lassen Sie!
 
 # [[Modus - Partizips]] - Präsens

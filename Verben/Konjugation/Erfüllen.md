@@ -118,10 +118,10 @@ Ihr hättet erfüllt
 Sie hätten erfüllt
 
 # [[Modus - Imperativ]] - Präsens
-(Du) Erfülle!
-(Ihr) Erfüllt!
+(du) Erfülle!
+(ihr) Erfüllt!
+(wir) Erfüllen wir!
 (Sie) Erfüllen Sie!
-(Wir) Erfüllen wir!
 
 # [[Modus - Partizips]] - Präsens
 erfüllend

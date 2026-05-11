@@ -118,10 +118,10 @@ Ihr hättet bewertet
 Sie hätten bewertet
 
 # [[Modus - Imperativ]] - Präsens
-Du bewerte! / bewert!
-Wir Bewerten wir!
-Ihr Bewertet!
-Sie Bewerten Sie!
+(du) bewerte / bewert!
+(ihr) bewertet!
+(wir) bewerten wir!
+(Sie) bewerten Sie!
 
 # [[Modus - Partizips]] - Präsens
 Form 

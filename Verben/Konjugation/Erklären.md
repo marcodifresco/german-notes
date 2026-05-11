@@ -118,10 +118,10 @@ Ihr hättet erklärt
 Sie hätten erklärt
 
 # [[Modus - Imperativ]] - Präsens
-Du Erklär(e)!
-Ihr Erklärt!
-Wir Erklären wir!
-Sie Erklären Sie!
+(du) Erklär(e)!
+(ihr) Erklärt!
+(wir) Erklären wir!
+(Sie) Erklären Sie!
 
 # [[Modus - Partizips]] - Präsens
 Conjugation

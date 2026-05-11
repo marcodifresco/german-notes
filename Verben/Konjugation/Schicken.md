@@ -120,8 +120,8 @@ Sie hätten geschickt
 # [[Modus - Imperativ]] - Präsens
 (du) schick!
 (ihr) schickt!
-(Sie) schicken Sie!
 (wir) schicken wir!
+(Sie) schicken Sie!
 
 # [[Modus - Partizips]] - Präsens
 schickend

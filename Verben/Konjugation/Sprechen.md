@@ -118,10 +118,10 @@ Ihr hättet gesprochen
 Sie hätten gesprochen
 
 # [[Modus - Imperativ]] - Präsens
-Du Sprich!
-Ihr Sprecht!
-Wir Sprechen wir!
-Sie Sprechen Sie!
+(du) Sprich!
+(ihr) Sprecht!
+(wir) Sprechen wir!
+(Sie) Sprechen Sie!
 
 # [[Modus - Partizips]] - Präsens
 Conjugation 

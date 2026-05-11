@@ -117,10 +117,10 @@ Ihr hättet stattgefunden
 Sie hätten stattgefunden
 
 # [[Modus - Imperativ]] - Präsens
-du Finde statt!
-ihr Findet statt!
-Sie Finden Sie statt!
-wir Finden wir statt!
+(du) Finde statt!
+(ihr) Findet statt!
+(wir) Finden wir!
+(Sie) Finden Sie!
 
 # [[Modus - Partizips]] - Präsens
 Partizip Conjugation

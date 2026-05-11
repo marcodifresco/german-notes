@@ -120,8 +120,8 @@ Sie hätten gelesen
 # [[Modus - Imperativ]] - Präsens
 (du) Lies!
 (ihr) Lest!
-(Sie) Lesen Sie!
 (wir) Lesen wir!
+(Sie) Lesen Sie!
 
 # [[Modus - Partizips]] - Präsens
 lesend

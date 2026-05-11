@@ -130,11 +130,10 @@ ihr hättet verziehen
 Sie hätten verziehen
 
 # [[Modus - Imperativ]] - Präsens
-
 (du) verzeih!
 (ihr) verzeiht!
-(wir) verzeihen wir!
-(Sie) verzeihen Sie!
+(wir) (wir) verzeihen wir!
+(Sie) (Sie) verzeihen Sie!
 
 # [[Modus - Partizips]] - Präsens
 

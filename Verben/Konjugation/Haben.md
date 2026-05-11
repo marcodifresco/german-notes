@@ -117,10 +117,10 @@ Ihr hättet gehabt
 Sie hätten gehabt
 
 # [[Modus - Imperativ]] - Präsens
-Du Hab! (or Habe!)
-Ihr Habt!
-Wir Haben wir!
-Sie Haben Sie!
+(du) Hab (or Habe)!
+(ihr) Habt!
+(wir) Haben wir!
+(Sie) Haben Sie!
 
 # [[Modus - Partizips]] - Präsens
 Form Conjugation

@@ -117,10 +117,10 @@ Ihr hättet beschrieben
 Sie hätten beschrieben
 
 # [[Modus - Imperativ]] - Präsens
-Du Beschreib!
-Ihr Beschreibt!
-Sie Beschreiben Sie!
-Wir Beschreiben wir!
+(du) Beschreib!
+(ihr) Beschreibt!
+(wir) Beschreiben wir!
+(Sie) Beschreiben Sie!
 
 # [[Modus - Partizips]] - Präsens
 beschreibend

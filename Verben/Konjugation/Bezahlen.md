@@ -118,11 +118,10 @@ Ihr hättet bezahlt
 Sie hätten bezahlt
 
 # [[Modus - Imperativ]] - Präsens
-Form Conjugation
-Du Bezahl!
-Ihr Bezahlt!
-Wir Bezahlen wir!
-Sie (formal) Bezahlen Sie!
+(du) bezahl!
+(ihr) bezahlt!
+(wir) bezahlen wir!
+(Sie) bezahlen Sie!
 
 # [[Modus - Partizips]] - Präsens
 bezahlend

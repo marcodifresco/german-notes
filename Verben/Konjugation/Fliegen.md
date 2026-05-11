@@ -118,10 +118,10 @@ Ihr wäret geflogen
 Sie wären geflogen
 
 # [[Modus - Imperativ]] - Präsens
-flieg! (du)
-fliegt! (ihr)
-fliegen Sie! (Sie, formal)
-fliegen wir! (wir)
+(du) Flieg!
+(ihr) Fliegt!
+(wir) fliegen wir!
+(Sie) fliegen Sie!
 
 # [[Modus - Partizips]] - Präsens
 fliegend

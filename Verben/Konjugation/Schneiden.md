@@ -118,10 +118,10 @@ Ihr hättet geschnitten
 Sie hätten geschnitten
 
 # [[Modus - Imperativ]] - Präsens
-Du: Schneide!
-Ihr: Schneidet!
-Sie (formal): Schneiden Sie!
-Wir: Schneiden wir!
+(du) Schneide!
+(ihr) Schneidet!
+(wir) Schneiden wir!
+(Sie) Schneiden Sie!
 
 # [[Modus - Partizips]] - Präsens
 schneidend

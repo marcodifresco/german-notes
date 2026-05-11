@@ -118,10 +118,10 @@ Ihr hättet gebracht
 Sie hätten gebracht
 
 # [[Modus - Imperativ]] - Präsens
-- **Du**: Bring!
-- **Ihr**: Bringt!
-- **Sie (formal)**: Bringen Sie!
-- **Wir**: Bringen wir!
+(du) bring!
+(ihr) bringt!
+(wir) bringen wir!
+(Sie) bringen Sie!
 
 # [[Modus - Partizips]] - Präsens
 bringend

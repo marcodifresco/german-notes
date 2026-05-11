@@ -127,10 +127,8 @@ Ihr hättet getragen
 Sie hätten getragen
 
 # [[Modus - Imperativ]] - Präsens
-Trag! (du)
-Tragt! (ihr)
-Tragen wir! (wir)
-Tragen Sie! (Sie, formal)
+(wir) Tragen wir!
+(Sie) Tragen Sie!
 
 # [[Modus - Partizips]] - Präsens
 tragend

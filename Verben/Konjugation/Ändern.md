@@ -119,8 +119,8 @@ Sie hätten geändert
 # [[Modus - Imperativ]] - Präsens
 (du) Ändere!
 (ihr) Ändert!
-(Sie) Ändern Sie!
 (wir) Ändern wir!
+(Sie) Ändern Sie!
 
 # [[Modus - Partizips]] - Präsens
 ändernd

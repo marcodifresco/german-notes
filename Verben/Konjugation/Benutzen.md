@@ -118,10 +118,10 @@ Ihr hättet benutzt
 Sie hätten benutzt
 
 # [[Modus - Imperativ]] - Präsens
-du benutz
-ihr benutzt
-Sie benutzen Sie
-wir benutzen wir
+(du) Benutz!
+(ihr) Benutzt!
+(wir) Benutzen wir!
+(Sie) Benutzen Sie!
 
 # [[Modus - Partizips]] - Präsens
 Conjugation

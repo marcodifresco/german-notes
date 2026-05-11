@@ -121,8 +121,8 @@ Sie hätten gefürchtet
 # [[Modus - Imperativ]] - Präsens
 (du) fürchte!
 (ihr) fürchtet!
-(Sie) fürchten Sie!
 (wir) fürchten wir!
+(Sie) fürchten Sie!
 
 # [[Modus - Partizips]] - Präsens
 fürchtend

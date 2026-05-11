@@ -118,10 +118,10 @@ Ihr hättet telefoniert
 Sie hätten telefoniert
 
 # [[Modus - Imperativ]] - Präsens
-Du Telefoniere!
-Ihr Telefoniert!
-Wir Telefonieren wir!
-Sie Telefonieren Sie!
+(du) Telefoniere!
+(ihr) Telefoniert!
+(wir) Telefonieren wir!
+(Sie) Telefonieren Sie!
 
 # [[Modus - Partizips]] - Präsens
 telefonierend

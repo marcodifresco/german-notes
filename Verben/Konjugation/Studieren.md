@@ -118,10 +118,10 @@ Ihr hättet studiert
 Sie hätten studiert
 
 # [[Modus - Imperativ]] - Präsens
-Du Studier(e)!
-Ihr Studiert!
-Sie Studieren Sie!
-Wir Studieren wir!
+(du) Studier(e)!
+(ihr) Studiert!
+(wir) Studieren wir!
+(Sie) Studieren Sie!
 
 # [[Modus - Partizips]] - Präsens
 Conjugation

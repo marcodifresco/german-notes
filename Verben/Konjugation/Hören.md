@@ -116,10 +116,10 @@ Ihr hättet gehört
 Sie hätten gehört
 
 # [[Modus - Imperativ]] - Präsens
-du: Hör!
-ihr: Hört!
-Sie: Hören Sie!
-wir: Hören wir!
+(du) Hör!
+(ihr) Hört!
+(wir) Hören wir!
+(Sie) Hören Sie!
 
 # [[Modus - Partizips]] - Präsens
 hörend

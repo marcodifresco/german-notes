@@ -118,10 +118,10 @@ Ihr hättet gegeben
 Sie hätten gegeben
 
 # [[Modus - Imperativ]] - Präsens
-Du Gib!
-Ihr Gebt!
-Sie Geben Sie!
-Wir Geben wir!
+(du) Gib!
+(ihr) Gebt!
+(wir) Geben wir!
+(Sie) Geben Sie!
 
 # [[Modus - Partizips]] - Präsens
 Conjugation

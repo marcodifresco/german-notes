@@ -118,10 +118,10 @@ Ihr hättet durchgesagt
 Sie hätten durchgesagt
 
 # [[Modus - Imperativ]] - Präsens
-**Du:** Sag durch!
-**Ihr:** Sagt durch!
-**Wir:** Sagen wir durch!
-**Sie:** Sagen Sie durch!
+(du) Sag durch!
+(ihr) Sagt durch!
+(wir) Sagen wir durch!
+(Sie) Sagen Sie durch!
 
 # [[Modus - Partizips]] - Präsens
 durchsagend

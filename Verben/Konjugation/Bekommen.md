@@ -127,10 +127,10 @@ Ihr hättet bekommen
 Sie hätten bekommen
 
 # [[Modus - Imperativ]] - Präsens
-Bekomm! (du)
-Bekommt! (ihr)
-Bekommen Sie! (Sie)
-Bekommen wir! (wir)
+(du) Bekomme!
+(ihr) Bekommt!
+(wir) Bekommen wir!
+(Sie) Bekommen Sie!
 
 # [[Modus - Partizips]] - Präsens
 bekommend

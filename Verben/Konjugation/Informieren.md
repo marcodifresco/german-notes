@@ -118,10 +118,10 @@ Ihr hättet informiert
 Sie hätten informiert
 
 # [[Modus - Imperativ]] - Präsens
-Du Informiere!
-Ihr Informiert!
-Sie Informieren Sie!
-Wir Informieren wir!
+(du) Informiere!
+(ihr) Informiert!
+(wir) Informieren wir!
+(Sie) Informieren Sie!
 
 # [[Modus - Partizips]] - Präsens
 Conjugation

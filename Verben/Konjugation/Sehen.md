@@ -118,9 +118,9 @@ Ihr hättet gesehen
 Sie hätten gesehen
 
 # [[Modus - Imperativ]] - Präsens
-Du Sieh!
-Ihr Seht!
-Sie Sehen Sie!
+(du) Sieh!
+(ihr) Seht!
+(Sie) Sehen Sie!
 
 # [[Modus - Partizips]] - Präsens
 Conjugation

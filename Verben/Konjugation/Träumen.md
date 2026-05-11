@@ -118,10 +118,8 @@ Ihr hättet geträumt
 Sie hätten geträumt
 
 # [[Modus - Imperativ]] - Präsens
-**Du:** Träum!
-**Ihr:** Träumt!
-**Wir:** Träumen wir!
-**Sie (formal):** Träumen Sie!
+(wir) Träumen wir!
+(Sie) Träumen Sie!
 
 # [[Modus - Partizips]] - Präsens
 träumend

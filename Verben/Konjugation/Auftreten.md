@@ -116,11 +116,10 @@ ihr wäret aufgetreten / ihr wärt aufgetreten
 sie/Sie wären aufgetreten
 
 # [[Modus - Imperativ]] - Präsens
-(_du_) Tritt auf!
-(_wir_) Treten wir auf!
-(_ihr_) Tretet auf!
-(_Sie_) Treten Sie auf!
-
+(du) Tritt auf!
+(ihr) Tretet auf!
+(wir) Treten wir auf!
+(Sie) Treten Sie auf!
 # [[Modus - Partizips]] - Präsens
 auftretend
 

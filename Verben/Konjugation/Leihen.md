@@ -118,10 +118,10 @@ Ihr hättet geliehen
 Sie hätten geliehen
 
 # [[Modus - Imperativ]] - Präsens
-**Du**: Leih!
-**Ihr**: Leiht!
-**Wir**: Leihen wir!
-**Sie (formal)**: Leihen Sie!
+(du) Leih!
+(ihr) Leiht!
+(wir) Leihen wir!
+(Sie) Leihen Sie!
 
 # [[Modus - Partizips]] - Präsens
 leihend

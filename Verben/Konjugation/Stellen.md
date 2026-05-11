@@ -116,10 +116,8 @@ ihr hättet gestellt
 Sie hätten gestellt
 
 # [[Modus - Imperativ]] - Präsens
-stelle (du)
-stellen wir
-stellt ihr
-stellen Sie
+(wir) stellen wir!
+(Sie) stellen Sie!
 
 # [[Modus - Partizips]] - Präsens
 stellend

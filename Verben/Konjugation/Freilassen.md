@@ -118,11 +118,10 @@ Ihr hättet freigelassen
 Sie hätten freigelassen
 
 # [[Modus - Imperativ]] - Präsens
-Form Conjugation
 (du) Lass frei!
 (ihr) Lasst frei!
-(Sie) Lassen Sie frei!
 (wir) Lassen wir frei!
+(Sie) Lassen Sie frei!
 
 # [[Modus - Partizips]] - Präsens
 Form Conjugation

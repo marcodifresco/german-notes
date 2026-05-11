@@ -118,10 +118,8 @@ Ihr hättet gestohlen
 Sie hätten gestohlen
 
 # [[Modus - Imperativ]] - Präsens
-Stiehl! (du)
-Stehlt! (ihr)
-Stehlen Sie! (Sie, formal)
-Stehlen wir! (wir)
+(wir) Stehlen wir!
+(Sie) Stehlen Sie!
 
 # [[Modus - Partizips]] - Präsens
 stehlend

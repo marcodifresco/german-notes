@@ -119,8 +119,8 @@ Sie hätten angerufen
 # [[Modus - Imperativ]] - Präsens
 (du) Ruf an!
 (ihr) Ruft an!
-(Sie) Rufen Sie an!
 (wir) Rufen wir an!
+(Sie) Rufen Sie an!
 
 # [[Modus - Partizips]] - Präsens
 anrufend

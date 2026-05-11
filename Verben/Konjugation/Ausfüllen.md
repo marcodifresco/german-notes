@@ -120,10 +120,10 @@ Ihr hättet ausgefüllt
 Sie hätten ausgefüllt
 
 # [[Modus - Imperativ]] - Präsens
-Du Füll aus!
-Ihr Füllt aus!
-Wir Füllen wir aus!
-Sie (formal) Füllen Sie aus!
+(du) Füll aus!
+(ihr) Füllt aus!
+(wir) Füllen wir aus!
+(Sie) Füllen Sie aus!
 
 # [[Modus - Partizips]] - Präsens
 ausfüllend

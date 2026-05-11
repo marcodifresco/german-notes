@@ -118,10 +118,10 @@ Ihr hättet interessiert
 Sie hätten interessiert
 
 # [[Modus - Imperativ]] - Präsens
-Du: interessiere
-Ihr: interessiert
-Sie: interessieren Sie
-Wir: interessieren wir
+(du) interessiere!
+(ihr) interessiert!
+(wir) interessieren wir!
+(Sie) interessieren Sie!
 
 # [[Modus - Partizips]] - Präsens
 interessierend

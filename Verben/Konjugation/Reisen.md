@@ -118,10 +118,10 @@ Ihr wäret gereist
 Sie wären gereist
 
 # [[Modus - Imperativ]] - Präsens
-**Du:** Reise!
-**Ihr:** Reist!
-**Wir:** Reisen wir!
-**Sie (formal):** Reisen Sie!
+(du) Reis!
+(ihr) Reist!
+(wir) Reisen wir!
+(Sie) Reisen Sie!
 
 # [[Modus - Partizips]] - Präsens
 reisend

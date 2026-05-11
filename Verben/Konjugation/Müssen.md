@@ -133,7 +133,7 @@ Sie hätten gemusst
 
 
 # [[Modus - Imperativ]] - Präsens
-Modal verbs generally do not form imperatives.
+(Not used. 'müssen' expresses necessity and does not form a command.)
 
 
 # [[Modus - Partizips]] - Präsens

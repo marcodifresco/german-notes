@@ -119,8 +119,8 @@ Sie hätten gekündigt
 # [[Modus - Imperativ]] - Präsens
 (du) kündige!
 (ihr) kündigt!
-(Sie) kündigen Sie!
 (wir) kündigen wir!
+(Sie) kündigen Sie!
 
 # [[Modus - Partizips]] - Präsens
 kündigend

@@ -122,8 +122,8 @@ Sie hätten gedrängt
 # [[Modus - Imperativ]] - Präsens
 (du) dräng!
 (ihr) drängt!
-(Sie) drängen Sie!
 (wir) drängen wir!
+(Sie) drängen Sie!
 
 # [[Modus - Partizips]] - Präsens
 drängend

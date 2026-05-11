@@ -118,9 +118,10 @@ Ihr hättet gebraten
 Sie hätten gebraten
 
 # [[Modus - Imperativ]] - Präsens
-du brat!
-ihr bratet!
-Sie braten Sie!
+(du) brat!
+(ihr) bratet!
+(wir) braten wir!
+(Sie) braten Sie!
 
 # [[Modus - Partizips]] - Präsens
 bratend

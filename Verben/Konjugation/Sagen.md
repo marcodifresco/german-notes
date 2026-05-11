@@ -120,8 +120,8 @@ Sie hätten gesagt
 # [[Modus - Imperativ]] - Präsens
 (du) sag!
 (ihr) sagt!
-(Sie) sagen Sie!
 (wir) sagen wir!
+(Sie) sagen Sie!
 
 # [[Modus - Partizips]] - Präsens
 sagend

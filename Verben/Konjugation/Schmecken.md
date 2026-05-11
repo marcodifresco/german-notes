@@ -120,8 +120,8 @@ Sie hätten geschmeckt
 # [[Modus - Imperativ]] - Präsens
 (du) Schmeck!
 (ihr) Schmeckt!
-(Sie) Schmecken Sie!
 (wir) Schmecken wir!
+(Sie) Schmecken Sie!
 
 # [[Modus - Partizips]] - Präsens
 schmeckend

@@ -118,11 +118,10 @@ Ihr hättet geordnet
 Sie hätten geordnet
 
 # [[Modus - Imperativ]] - Präsens
-Form Conjugation
-Du Ordne!
-Ihr Ordnet!
-Wir Ordnen wir!
-Sie (formal) Ordnen Sie!
+(du) Ordne!
+(ihr) Ordnet!
+(wir) Ordnen wir!
+(Sie) Ordnen Sie!
 
 # [[Modus - Partizips]] - Präsens
 Form Conjugation

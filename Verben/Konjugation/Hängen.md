@@ -118,10 +118,10 @@ Ihr hättet gehangen
 Sie hätten gehangen
 
 # [[Modus - Imperativ]] - Präsens
-Häng! (du)
-Hängt! (ihr)
-Hängen Sie! (Sie)
-Hängen wir! (wir)
+(du) Hänge!
+(ihr) Hängt!
+(wir) Hängen wir!
+(Sie) Hängen Sie!
 
 # [[Modus - Partizips]] - Präsens
 hängend

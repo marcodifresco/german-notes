@@ -118,10 +118,10 @@ Ihr hättet gewaschen
 Sie hätten gewaschen
 
 # [[Modus - Imperativ]] - Präsens
-Du: Wasch!
-Ihr: Wascht!
-Sie: Waschen Sie!
-Wir: Waschen wir!
+(du) Wasch!
+(ihr) Wascht!
+(wir) Wir: Waschen wir!
+(Sie) Sie: Waschen Sie!
 
 # [[Modus - Partizips]] - Präsens
 waschend

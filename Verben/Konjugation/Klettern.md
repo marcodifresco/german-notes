@@ -118,10 +118,10 @@ Ihr wäret geklettert
 Sie wären geklettert
 
 # [[Modus - Imperativ]] - Präsens
-klettere! (du)
-klettert! (ihr)
-klettern wir! (wir)
-klettern Sie! (Sie)
+(du) klettere!
+(ihr) klettert!
+(wir) klettern wir!
+(Sie) klettern Sie!
 
 # [[Modus - Partizips]] - Präsens
 kletternd

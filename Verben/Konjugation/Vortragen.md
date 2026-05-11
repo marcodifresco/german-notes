@@ -118,10 +118,10 @@ Ihr hättet vorgetragen
 Sie hätten vorgetragen
 
 # [[Modus - Imperativ]] - Präsens
-(du) Trag vor! / Trage vor!
+(du) Trag vor / Trage vor!
 (ihr) Tragt vor!
-(Sie) Tragen Sie vor!
-(wir) Tragen wir vor!
+(wir) (wir) Tragen wir!
+(Sie) (Sie) Tragen Sie!
 
 # [[Modus - Partizips]] - Präsens
 vortragend

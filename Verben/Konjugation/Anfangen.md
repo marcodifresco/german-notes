@@ -116,10 +116,10 @@ Ihr hättet angefangen
 Sie hätten angefangen
 
 # [[Modus - Imperativ]] - Präsens
-Du Fang an!
-Ihr Fangt an!
-Er/Sie/Es (formal) Fangen Sie an!
-Wir Fangen wir an!
+(du) Fang an!
+(ihr) Fangt an!
+(wir) Fangen wir an!
+(Sie) Fangen Sie an!
 
 # [[Modus - Partizips]] - Präsens
 anfangend

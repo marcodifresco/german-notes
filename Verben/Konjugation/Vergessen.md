@@ -111,10 +111,10 @@ Ihr hättet vergessen
 Sie hätten vergessen
 
 # [[Modus - Imperativ]] - Präsens
-Du: Vergiss!
-Ihr: Vergesst!
-Wir: Vergessen wir!
-Sie (formal): Vergessen Sie!
+(du) Vergiss!
+(ihr) Vergesst!
+(wir) Vergessen wir!
+(Sie) Vergessen Sie!
 
 # [[Modus - Partizips]] - Präsens
 vergessend

@@ -116,10 +116,10 @@ Ihr hättet aufgeschnitten
 Sie hätten aufgeschnitten
 
 # [[Modus - Imperativ]] - Präsens
-**Du**: Schneid auf!
-**Ihr**: Schneidet auf!
-**Wir**: Schneiden wir auf!
-**Sie**: Schneiden Sie auf!
+(du) Schneid auf!
+(ihr) Schneidet auf!
+(wir) Schneiden wir auf!
+(Sie) Schneiden Sie auf!
 
 # [[Modus - Partizips]] - Präsens
 aufschneidend

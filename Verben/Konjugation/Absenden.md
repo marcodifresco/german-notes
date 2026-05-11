@@ -116,10 +116,10 @@ Ihr hättet abgesandt
 Sie hätten abgesandt
 
 # [[Modus - Imperativ]] - Präsens
-Du: Sende ab!
-Ihr: Sendet ab!
-Wir: Senden wir ab!
-Sie: Senden Sie ab!
+(du) Sende ab!
+(ihr) Sendet ab!
+(wir) Senden wir ab!
+(Sie) Senden Sie ab!
 
 # [[Modus - Partizips]] - Präsens
 absendend

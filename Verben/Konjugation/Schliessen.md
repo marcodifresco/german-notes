@@ -120,8 +120,8 @@ Sie hätten geschlossen
 # [[Modus - Imperativ]] - Präsens
 (du) Schliess!
 (ihr) Schliesst!
-(Sie) Schliessen Sie!
 (wir) Schliessen wir!
+(Sie) Schliessen Sie!
 
 # [[Modus - Partizips]] - Präsens
 schliessend

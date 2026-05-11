@@ -118,10 +118,8 @@ Ihr hättet verhalten
 Sie hätten verhalten
 
 # [[Modus - Imperativ]] - Präsens
-**Du**: Verhalte! (or Verhalt!)
-**Wir**: Verhalten wir!
-**Ihr**: Verhaltet!
-**Sie (formal)**: Verhalten Sie!
+(wir) Verhalten wir!
+(Sie) Verhalten Sie!
 
 # [[Modus - Partizips]] - Präsens
 verhaltend

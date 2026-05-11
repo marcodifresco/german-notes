@@ -118,7 +118,6 @@ Ihr hättet gedurft
 Sie hätten gedurft
 
 # [[Modus - Imperativ]] - Präsens
-Modal verbs typically do not form an imperative.*
 
 # [[Modus - Partizips]] - Präsens
 dürfend

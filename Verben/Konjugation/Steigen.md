@@ -118,10 +118,10 @@ Ihr wäret gestiegen
 Sie wären gestiegen
 
 # [[Modus - Imperativ]] - Präsens
-Du: steige (or steig)
-Ihr: steigt
-Wir: steigen wir
-Sie: steigen Sie
+(du) steige (or steig)!
+(ihr) steigt!
+(wir) steigen wir!
+(Sie) steigen Sie!
 
 # [[Modus - Partizips]] - Präsens
 steigend

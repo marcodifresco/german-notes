@@ -133,10 +133,8 @@ ihr wäret gezogen
 Sie wären gezogen
 
 # [[Modus - Imperativ]] - Präsens
-zieh! (du)
-zieht! (ihr)
-ziehen Sie! (Sie)
-ziehen wir! (wir)
+(wir) ziehen wir!
+(Sie) ziehen Sie!
 
 # [[Modus - Partizips]] - Präsens
 ziehend

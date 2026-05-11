@@ -118,10 +118,10 @@ Ihr hättet geschlafen
 Sie hätten geschlafen
 
 # [[Modus - Imperativ]] - Präsens
-Du Schlaf!
-Ihr Schlaft!
-Wir Schlafen wir!
-Sie Schlafen Sie!
+(du) Schlaf!
+(ihr) Schlaft!
+(wir) Schlafen wir!
+(Sie) Schlafen Sie!
 
 # [[Modus - Partizips]] - Präsens
 Conjugation

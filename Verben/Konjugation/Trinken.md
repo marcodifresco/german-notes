@@ -118,10 +118,10 @@ Ihr hättet getrunken
 Sie hätten getrunken
 
 # [[Modus - Imperativ]] - Präsens
-Du Trink!
-Ihr Trinkt!
-Wir Trinken wir!
-Sie (formal) Trinken Sie!
+(du) Trink!
+(ihr) Trinkt!
+(wir) Trinken wir!
+(Sie) Trinken Sie!
 
 # [[Modus - Partizips]] - Präsens
 Partizip Form

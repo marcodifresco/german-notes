@@ -120,8 +120,8 @@ Sie wären geblieben
 # [[Modus - Imperativ]] - Präsens
 (du) bleib!
 (ihr) bleibt!
-(Sie) bleiben Sie!
 (wir) bleiben wir!
+(Sie) bleiben Sie!
 
 # [[Modus - Partizips]] - Präsens
 bleibend

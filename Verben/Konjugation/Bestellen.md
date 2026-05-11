@@ -127,11 +127,10 @@ Ihr hättet bestellt
 Sie hätten bestellt
 
 # [[Modus - Imperativ]] - Präsens
-Form Conjugation
-Du Bestell!
-Ihr Bestellt!
-Wir Bestellen wir!
-Sie (formal) Bestellen Sie!
+(du) Bestell!
+(ihr) Bestellt!
+(wir) Bestellen wir!
+(Sie) Bestellen Sie!
 
 # [[Modus - Partizips]] - Präsens
 bestellend

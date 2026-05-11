@@ -118,7 +118,6 @@ Ihr hättet geschneit
 Sie hätten geschneit
 
 # [[Modus - Imperativ]] - Präsens
-As an impersonal verb, "schneien" does not form an imperative.
 
 # [[Modus - Partizips]] - Präsens
 schneiend

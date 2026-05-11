@@ -118,11 +118,10 @@ Ihr hättet bewahrt
 Sie hätten bewahrt
 
 # [[Modus - Imperativ]] - Präsens
-Form Conjugation
-Du Bewahre!
-Ihr Bewahrt!
-Wir Bewahren wir!
-Sie (formal) Bewahren Sie!
+(du) Bewahre!
+(ihr) Bewahrt!
+(wir) Bewahren wir!
+(Sie) Bewahren Sie!
 
 # [[Modus - Partizips]] - Präsens
 Conjugation

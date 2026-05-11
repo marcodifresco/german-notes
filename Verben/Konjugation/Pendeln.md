@@ -117,10 +117,10 @@ Ihr hättet gependelt
 Sie hätten gependelt
 
 # [[Modus - Imperativ]] - Präsens
-(du) Pendle! / Pendele!
+(du) Pendle / Pendele!
 (ihr) Pendelt!
-(Sie) Pendeln Sie!
 (wir) Pendeln wir!
+(Sie) Pendeln Sie!
 
 # [[Modus - Partizips]] - Präsens
 pendelnd

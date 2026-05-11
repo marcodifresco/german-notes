@@ -117,9 +117,10 @@ Ihr hättet gebacken
 Sie hätten gebacken
 
 # [[Modus - Imperativ]] - Präsens
-Du backe!
-Ihr backt!
-Sie backen Sie!
+(du) backe!
+(ihr) backt!
+(wir) backen wir!
+(Sie) backen Sie!
 
 # [[Modus - Partizips]] - Präsens
 Partizip Form

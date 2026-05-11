@@ -117,9 +117,10 @@ Ihr hättet gekostet
 Sie hätten gekostet
 
 # [[Modus - Imperativ]] - Präsens
-du Kost! / Koste!
-ihr Kostet!
-Sie Kosten Sie!
+(du) Kost / Koste!
+(ihr) Kostet!
+(wir) Kosten wir!
+(Sie) Kosten Sie!
 
 # [[Modus - Partizips]] - Präsens
 Form Conjugation

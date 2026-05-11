@@ -120,6 +120,7 @@ Sie wären beigetreten
 # [[Modus - Imperativ]] - Präsens
 (du) Tritt bei!
 (ihr) Tretet bei!
+(wir) Treten wir bei!
 (Sie) Treten Sie bei!
 
 # [[Modus - Partizips]] - Präsens

@@ -118,10 +118,10 @@ Ihr hättet gezeigt
 Sie hätten gezeigt
 
 # [[Modus - Imperativ]] - Präsens
-Du Zeig!
-Ihr Zeigt!
-Wir Zeigen wir!
-Sie Zeigen Sie!
+(du) Zeig!
+(ihr) Zeigt!
+(wir) Wir Zeigen wir!
+(Sie) Sie Zeigen Sie!
 
 # [[Modus - Partizips]] - Präsens
 Conjugation

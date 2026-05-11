@@ -118,9 +118,10 @@ Ihr hättet gelegen
 Sie hätten gelegen
 
 # [[Modus - Imperativ]] - Präsens
-Du Lieg!
-Ihr Liegt!
-Sie Liegen Sie!
+(du) Lieg!
+(ihr) Liegt!
+(wir) Liegen wir!
+(Sie) Liegen Sie!
 
 # [[Modus - Partizips]] - Präsens
 Conjugation

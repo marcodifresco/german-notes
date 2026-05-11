@@ -118,11 +118,10 @@ Ihr hättet verkauft
 Sie hätten verkauft
 
 # [[Modus - Imperativ]] - Präsens
-Form Conjugation
-Du Verkauf!
-Ihr Verkauft!
-Sie Verkaufen Sie!
-Wir Verkaufen wir!
+(du) Verkauf!
+(ihr) Verkauft!
+(wir) Verkaufen wir!
+(Sie) Verkaufen Sie!
 
 # [[Modus - Partizips]] - Präsens
 verkaufend

@@ -117,10 +117,10 @@ Ihr hättet angehabt
 Sie hätten angehabt
 
 # [[Modus - Imperativ]] - Präsens
-Form Conjugation
-Du Hab an!
-Ihr Habt an!
-Sie (formal) Haben Sie an!
+(du) Hab an!
+(ihr) Habt an!
+(wir) Haben wir an!
+(Sie) Haben Sie an!
 
 # [[Modus - Partizips]] - Präsens
 anhabend

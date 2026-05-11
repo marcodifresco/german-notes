@@ -118,10 +118,10 @@ Ihr hättet entspannt
 Sie hätten entspannt
 
 # [[Modus - Imperativ]] - Präsens
-Du: entspann!
-Ihr: entspannt!
-Sie (polite): entspannen Sie!
-Wir: entspannen wir!
+(du) entspann!
+(ihr) entspannt!
+(wir) entspannen wir!
+(Sie) entspannen Sie!
 
 # [[Modus - Partizips]] - Präsens
 entspannend

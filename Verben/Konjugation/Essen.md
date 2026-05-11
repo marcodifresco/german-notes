@@ -117,11 +117,10 @@ Ihr hättet gegessen
 Sie hätten gegessen
 
 # [[Modus - Imperativ]] - Präsens
-Form Conjugation
-Du (singular informal) Iss!
-Ihr (plural informal) Esst!
-Wir (first person plural) Essen wir!
-Sie (formal) Essen Sie!
+(du) Iss!
+(ihr) Esst!
+(wir) Essen wir!
+(Sie) Essen Sie!
 
 # [[Modus - Partizips]] - Präsens
 - essend

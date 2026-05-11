@@ -119,8 +119,8 @@ Sie hätten wiederholt
 # [[Modus - Imperativ]] - Präsens
 (du) wiederhole!
 (ihr) wiederholt!
-(Sie) wiederholen Sie!
-(wir) wiederholen wir!
+(wir) (wir) wiederholen wir!
+(Sie) (Sie) wiederholen Sie!
 
 # [[Modus - Partizips]] - Präsens
 wiederholend

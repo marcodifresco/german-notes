@@ -116,10 +116,10 @@ Ihr hättet gesungen
 Sie hätten gesungen
 
 # [[Modus - Imperativ]] - Präsens
-Du: Sing!
-Ihr: Singt!
-Sie: Singen Sie!
-Wir: Singen wir!
+(du) Sing!
+(ihr) Singt!
+(wir) Singen wir!
+(Sie) Singen Sie!
 
 # [[Modus - Partizips]] - Präsens
 singend

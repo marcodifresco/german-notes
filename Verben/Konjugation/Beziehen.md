@@ -119,10 +119,10 @@ ihr hättet euch bezogen
 sie/Sie hätten sich bezogen
 
 # [[Modus - Imperativ]] - Präsens
-bezieh dich! (du)
-bezieht euch! (ihr)
-beziehen Sie sich! (Sie)
-beziehen wir uns! (wir)
+(du) bezieh dich!
+(ihr) bezieht euch!
+(wir) beziehen wir uns!
+(Sie) beziehen Sie sich!
 
 # [[Modus - Partizips]] - Präsens
 sich beziehend

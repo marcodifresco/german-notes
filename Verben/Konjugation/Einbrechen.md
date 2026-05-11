@@ -118,10 +118,10 @@ Ihr wäret eingebrochen
 Sie wären eingebrochen
 
 # [[Modus - Imperativ]] - Präsens
-Du: Brich ein!
-Ihr: Brecht ein!
-Wir: Brechen wir ein!
-Sie: Brechen Sie ein!
+(du) Brich ein!
+(ihr) Brecht ein!
+(wir) Brechen wir ein!
+(Sie) Brechen Sie ein!
 
 # [[Modus - Partizips]] - Präsens
 einbrechend

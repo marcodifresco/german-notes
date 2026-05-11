@@ -118,10 +118,10 @@ Ihr hättet verloren
 Sie hätten verloren
 
 # [[Modus - Imperativ]] - Präsens
-Du Verlier!
-Ihr Verliert!
-Wir Verlieren wir!
-Sie Verlieren Sie!
+(du) Verlier!
+(ihr) Verliert!
+(wir) Verlieren wir!
+(Sie) Verlieren Sie!
 
 # [[Modus - Partizips]] - Präsens
 verlierend

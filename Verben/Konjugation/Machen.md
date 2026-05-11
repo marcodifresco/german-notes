@@ -119,10 +119,10 @@ Ihr hättet gemacht
 Sie hätten gemacht
 
 # [[Modus - Imperativ]] - Präsens
-Du Mach!
-Wir Machen wir!
-Ihr Macht!
-Sie (formal) Machen Sie!
+(du) Mach!
+(ihr) Macht!
+(wir) Machen wir!
+(Sie) Machen Sie!
 
 # [[Modus - Partizips]] - Präsens
 machend

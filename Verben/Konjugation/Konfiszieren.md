@@ -140,10 +140,10 @@ Sie hätten konfisziert
 
 
 # [[Modus - Imperativ]] - Präsens
-Du konfisziere!
-Ihr konfisziert!
-Wir konfiszieren wir!
-Sie konfiszieren Sie!
+(du) konfisziere!
+(ihr) konfisziert!
+(wir) konfiszieren wir!
+(Sie) konfiszieren Sie!
 
 
 # [[Modus - Partizips]] - Präsens

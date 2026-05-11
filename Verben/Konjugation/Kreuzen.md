@@ -129,8 +129,8 @@ Sie hätten gekreuzt
 # [[Modus - Imperativ]] - Präsens
 (du) Kreuz(e)!
 (ihr) Kreuzt!
-(Sie) Kreuzen Sie!
 (wir) Kreuzen wir!
+(Sie) Kreuzen Sie!
 
 # [[Modus - Partizips]] - Präsens
 kreuzend

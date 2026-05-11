@@ -120,8 +120,8 @@ Sie hätten gelernt
 # [[Modus - Imperativ]] - Präsens
 (du) Lern!
 (ihr) Lernt!
-(Sie) Lernen Sie!
 (wir) Lernen wir!
+(Sie) Lernen Sie!
 
 # [[Modus - Partizips]] - Präsens
 lernend

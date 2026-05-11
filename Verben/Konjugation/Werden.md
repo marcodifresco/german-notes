@@ -118,10 +118,8 @@ Ihr wäret geworden
 Sie wären geworden
 
 # [[Modus - Imperativ]] - Präsens
-- du: werde!
-- ihr: werdet!
-- Sie: werden Sie!
-- wir: werden wir!
+(wir) - wir!
+(Sie) - Sie!
 
 # [[Modus - Partizips]] - Präsens
 - werdend

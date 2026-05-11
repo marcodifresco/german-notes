@@ -118,10 +118,10 @@ Ihr hättet geübt
 Sie hätten geübt
 
 # [[Modus - Imperativ]] - Präsens
-Du: Üb! / Übe!
-Ihr: Übt!
-Sie (formal): Üben Sie!
-Wir: Üben wir!
+(du) Üb / Übe!
+(ihr) Übt!
+(wir) Üben wir!
+(Sie) Üben Sie!
 
 # [[Modus - Partizips]] - Präsens
 üb_end_

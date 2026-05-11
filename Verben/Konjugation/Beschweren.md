@@ -118,10 +118,10 @@ Ihr hättet beschwert
 Sie hätten beschwert
 
 # [[Modus - Imperativ]] - Präsens
-Du Beschwere!
-Ihr Beschwert!
-Wir Beschweren wir!
-Sie Beschweren Sie!
+(du) Beschwere!
+(ihr) Beschwert!
+(wir) Beschweren wir!
+(Sie) Beschweren Sie!
 
 # [[Modus - Partizips]] - Präsens
 beschwerend

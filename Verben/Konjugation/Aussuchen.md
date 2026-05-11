@@ -116,11 +116,10 @@ ihr würdet ausgesucht haben
 Sie würden ausgesucht haben
 
 # [[Modus - Imperativ]] - Präsens
-
-suche (du) aus
-suchen wir aus
-sucht ihr aus
-suchen Sie aus
+(du) Such aus!
+(ihr) Sucht aus!
+(wir) Suchen wir aus!
+(Sie) Suchen Sie aus!
 # [[Modus - Partizips]] - Präsens
 aussuchend
 

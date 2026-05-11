@@ -118,8 +118,8 @@ Sie hätten aufgehört
 # [[Modus - Imperativ]] - Präsens
 (du) Hör auf!
 (ihr) Hört auf!
-(Sie) Hören Sie auf!
 (wir) Hören wir auf!
+(Sie) Hören Sie auf!
 
 # [[Modus - Partizips]] - Präsens
 aufhörend

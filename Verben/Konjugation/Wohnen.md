@@ -118,10 +118,8 @@ Ihr hättet gewohnt
 Sie hätten gewohnt
 
 # [[Modus - Imperativ]] - Präsens
-- Du: Wohn!
-- Ihr: Wohnt!
-- Wir: Wohnen wir!
-- Sie (formal): Wohnen Sie!
+(wir) - Wir: Wohnen wir!
+(Sie) - Sie!
 
 # [[Modus - Partizips]] - Präsens
 - wohnend

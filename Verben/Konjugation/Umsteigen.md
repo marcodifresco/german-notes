@@ -120,8 +120,8 @@ Sie wären umgestiegen
 # [[Modus - Imperativ]] - Präsens
 (du) Steig um!
 (ihr) Steigt um!
-(Sie) Steigen Sie um!
-(wir) Steigen wir um!
+(wir) Steigen wir!
+(Sie) Steigen Sie!
 
 # [[Modus - Partizips]] - Präsens
 umsteigend

@@ -118,10 +118,10 @@ Ihr hättet gekauft
 Sie hätten gekauft
 
 # [[Modus - Imperativ]] - Präsens
-Du: Kauf!
-Ihr: Kauft!
-Wir: Kaufen wir!
-Sie (formal): Kaufen Sie!
+(du) Kauf!
+(ihr) Kauft!
+(wir) Kaufen wir!
+(Sie) Kaufen Sie!
 
 # [[Modus - Partizips]] - Präsens
 kaufend

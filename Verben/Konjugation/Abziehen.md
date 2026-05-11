@@ -121,8 +121,8 @@ Sie wären abgezogen
 # [[Modus - Imperativ]] - Präsens
 (du) zieh ab!
 (ihr) zieht ab!
-(Sie) ziehen Sie ab!
-(wir) ziehen wir ab!
+(wir) Ziehen wir ab!
+(Sie) Ziehen Sie ab!
 
 # [[Modus - Partizips]] - Präsens
 abziehend

@@ -118,9 +118,9 @@ Ihr hättet gelebt
 Sie hätten gelebt
 
 # [[Modus - Imperativ]] - Präsens
-(Du) Leb!
-(Ihr) Lebt!
-(Wir) Leben wir!
+(du) Leb!
+(ihr) Lebt!
+(wir) Leben wir!
 (Sie) Leben Sie!
 
 # [[Modus - Partizips]] - Präsens

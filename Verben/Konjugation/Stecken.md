@@ -116,10 +116,8 @@ ihr hättet gesteckt
 Sie hätten gesteckt
 
 # [[Modus - Imperativ]] - Präsens
-stecke (du)
-stecken wir
-steckt ihr
-stecken Sie
+(wir) stecken wir!
+(Sie) stecken Sie!
 
 # [[Modus - Partizips]] - Präsens
 steckend

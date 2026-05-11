@@ -119,8 +119,8 @@ Sie hätten gefressen
 
 # [[Modus - Imperativ]] - Präsens
 (du) Friss!
-(wir) Fressen wir!
 (ihr) Fresst!
+(wir) Fressen wir!
 (Sie) Fressen Sie!
 
 # [[Modus - Partizips]] - Präsens

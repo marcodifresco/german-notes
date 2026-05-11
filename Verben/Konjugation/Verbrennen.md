@@ -115,10 +115,8 @@ ihr hättet verbrannt
 Sie hätten verbrannt
 
 # [[Modus - Imperativ]] - Präsens
-verbrenne (du)
-verbrennen wir
-verbrennt ihr
-verbrennen Sie
+(wir) verbrennen wir!
+(Sie) verbrennen Sie!
 
 # [[Modus - Partizips]] - Präsens
 verbrennend

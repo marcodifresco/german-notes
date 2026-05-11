@@ -120,7 +120,7 @@ Sie hätten versehen
 # [[Modus - Imperativ]] - Präsens
 (du) Versieh!
 (ihr) Verseht!
-(Sie) Versehen Sie!
+(Sie) (Sie) Versehen Sie!
 
 # [[Modus - Partizips]] - Präsens
 versehend

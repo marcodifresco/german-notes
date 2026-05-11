@@ -122,8 +122,8 @@ Sie hätten angeschaut
 # [[Modus - Imperativ]] - Präsens
 (du) Schau an!
 (ihr) Schaut an!
-(Sie) Schauen Sie an!
 (wir) Schauen wir an!
+(Sie) Schauen Sie an!
 
 # [[Modus - Partizips]] - Präsens
 anschauend

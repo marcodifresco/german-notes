@@ -118,10 +118,10 @@ Ihr hättet bewundert
 Sie hätten bewundert
 
 # [[Modus - Imperativ]] - Präsens
-Du bewundere!
-Ihr bewundert!
-Wir bewundern wir!
-Sie bewundern Sie!
+(du) bewundere!
+(ihr) bewundert!
+(wir) bewundern wir!
+(Sie) bewundern Sie!
 
 # [[Modus - Partizips]] - Präsens
 bewundernd

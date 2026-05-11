@@ -116,10 +116,10 @@ Ihr hättet abgeholt
 Sie hätten abgeholt
 
 # [[Modus - Imperativ]] - Präsens
-Du Hol ab!
-Ihr Holt ab!
-Wir Holen wir ab!
-Sie (formal) Holen Sie ab!
+(du) Hol ab!
+(ihr) Holt ab!
+(wir) Holen wir ab!
+(Sie) Holen Sie ab!
 
 # [[Modus - Partizips]] - Präsens
 abholend

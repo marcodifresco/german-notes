@@ -120,8 +120,8 @@ Sie hätten gefrühstückt
 # [[Modus - Imperativ]] - Präsens
 (du) frühstücke!
 (ihr) frühstückt!
-(Sie) frühstücken Sie!
 (wir) frühstücken wir!
+(Sie) frühstücken Sie!
 
 # [[Modus - Partizips]] - Präsens
 frühstückend

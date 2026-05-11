@@ -118,10 +118,10 @@ Ihr hättet gespielt
 Sie hätten gespielt
 
 # [[Modus - Imperativ]] - Präsens
-Du spiel!
-Ihr spielt!
-Wir spielen wir!
-Sie spielen Sie!
+(du) spiel!
+(ihr) spielt!
+(wir) spielen wir!
+(Sie) spielen Sie!
 
 # [[Modus - Partizips]] - Präsens
 Conjugation

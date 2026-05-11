@@ -121,8 +121,8 @@ Sie wären angezogen
 # [[Modus - Imperativ]] - Präsens
 (du) Zieh an!
 (ihr) Zieht an!
-(wir) Ziehen wir an!
-(Sie) Ziehen Sie an!
+(wir) Ziehen wir!
+(Sie) Ziehen Sie!
 
 # [[Modus - Partizips]] - Präsens
 anziehend

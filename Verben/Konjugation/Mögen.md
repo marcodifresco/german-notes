@@ -127,7 +127,10 @@ Ihr hättet gemocht
 Sie hätten gemocht
 
 # [[Modus - Imperativ]] - Präsens
-Mögen Sie!
+(du) - (not used)
+(ihr) - (not used)
+(wir) - (not used)
+(Sie) Mögen Sie!
 
 # [[Modus - Partizips]] - Präsens
 mögend

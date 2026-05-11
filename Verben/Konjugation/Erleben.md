@@ -127,10 +127,10 @@ Ihr hättet erlebt
 Sie hätten erlebt
 
 # [[Modus - Imperativ]] - Präsens
-Du: erlebe!
-Wir: erleben wir!
-Ihr: erlebt!
-Sie (formal): erleben Sie!
+(du) erlebe!
+(ihr) erlebt!
+(wir) erleben wir!
+(Sie) erleben Sie!
 
 # [[Modus - Partizips]] - Präsens
 erlebend

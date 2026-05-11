@@ -118,10 +118,10 @@ Ihr hättet gekocht
 Sie hätten gekocht
 
 # [[Modus - Imperativ]] - Präsens
-**du**: Koch! / Koche!
-**wir**: Kochen wir!
-**ihr**: Kocht!
-**Sie**: Kochen Sie!
+(du) koche!
+(ihr) kocht!
+(wir) Kochen wir!
+(Sie) Kochen Sie!
 
 # [[Modus - Partizips]] - Präsens
 kochend

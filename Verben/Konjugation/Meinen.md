@@ -118,8 +118,9 @@ Ihr hättet gemeint
 Sie hätten gemeint
 
 # [[Modus - Imperativ]] - Präsens
-(du) Mein! (or Meine!)
+(du) Mein (or Meine)!
 (ihr) Meint!
+(wir) Meinen wir!
 (Sie) Meinen Sie!
 
 # [[Modus - Partizips]] - Präsens

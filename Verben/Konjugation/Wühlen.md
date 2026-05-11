@@ -116,10 +116,8 @@ ihr hättet gewühlt
 Sie hätten gewühlt
 
 # [[Modus - Imperativ]] - Präsens
-wühle (du)
-wühlen wir
-wühlt ihr
-wühlen Sie
+(wir) wühlen wir!
+(Sie) wühlen Sie!
 
 # [[Modus - Partizips]] - Präsens
 wühlend

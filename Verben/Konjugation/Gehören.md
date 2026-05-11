@@ -118,10 +118,10 @@ Ihr hättet gehört
 Sie hätten gehört
 
 # [[Modus - Imperativ]] - Präsens
-Du Gehör(e)!
-Ihr Gehört!
-Sie Gehören Sie!
-Wir Gehören wir!
+(du) Gehör(e)!
+(ihr) Gehört!
+(wir) Gehören wir!
+(Sie) Gehören Sie!
 
 # [[Modus - Partizips]] - Präsens
 gehörend

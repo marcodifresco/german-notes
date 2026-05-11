@@ -118,10 +118,10 @@ Ihr hättet transportiert
 Sie hätten transportiert
 
 # [[Modus - Imperativ]] - Präsens
-Du: transportiere!
-Ihr: transportiert!
-Wir: transportieren wir!
-Sie: transportieren Sie!
+(du) transportiere!
+(ihr) transportiert!
+(wir) transportieren wir!
+(Sie) transportieren Sie!
 
 # [[Modus - Partizips]] - Präsens
 transportierend

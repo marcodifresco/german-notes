@@ -127,11 +127,10 @@ Ihr wäret gekommen
 Sie wären gekommen
 
 # [[Modus - Imperativ]] - Präsens
-Form Conjugation
-Du Komm!
-Wir Kommen wir!
-Ihr Kommt!
-Sie (formal) Kommen Sie!
+(du) Komm!
+(ihr) Kommt!
+(wir) Kommen wir!
+(Sie) Kommen Sie!
 
 # [[Modus - Partizips]] - Präsens
 kommend

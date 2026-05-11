@@ -57,7 +57,7 @@ Sie möchten
 (Not typically formed for 'möchten'. 'Hätte gemocht' (from mögen) or 'hätte gewollt' (from wollen) would be used for past unreal wishes). Not typically formed
 
 # [[Modus - Imperativ]] - Präsens
-(The verb 'möchten' expresses a personal wish and therefore has no imperative forms). Not applicable
+(Not typically formed for 'möchten' as it is a Konjunktiv II form and does not have an imperative.)
 
 # [[Modus - Partizips]] - Präsens
 (Not typically formed for 'möchten' in its modal-like usage. 'Mögend' is the Partizip Präsens of 'mögen'). Not applicable

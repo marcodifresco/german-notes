@@ -119,8 +119,8 @@ Sie wären ausgestiegen
 # [[Modus - Imperativ]] - Präsens
 (du) Steig aus!
 (ihr) Steigt aus!
-(Sie) Steigen Sie aus!
 (wir) Steigen wir aus!
+(Sie) Steigen Sie aus!
 
 # [[Modus - Partizips]] - Präsens
 aussteigend

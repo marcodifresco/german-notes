@@ -118,10 +118,10 @@ Ihr wäret eingestiegen
 Sie wären eingestiegen
 
 # [[Modus - Imperativ]] - Präsens
-(Du) Steig ein!
-(Ihr) Steigt ein!
-(Wir) Steigen wir ein!
-(Sie) Steigen Sie ein!
+(du) Steig ein!
+(ihr) Steigt ein!
+(wir) Steigen wir!
+(Sie) Steigen Sie!
 
 # [[Modus - Partizips]] - Präsens
 einsteigend

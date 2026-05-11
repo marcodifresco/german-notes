@@ -118,10 +118,10 @@ ihr hättet ausgeführt
 Sie hätten ausgeführt
 
 # [[Modus - Imperativ]] - Präsens
-führe (du) aus
-führen wir aus
-führt ihr aus
-führen Sie aus
+(du) Führ aus!
+(ihr) Führt aus!
+(wir) Führen wir aus!
+(Sie) Führen Sie aus!
 
 # [[Modus - Partizips]] - Präsens
 ausführend

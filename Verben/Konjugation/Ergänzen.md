@@ -120,8 +120,8 @@ Sie hätten ergänzt
 # [[Modus - Imperativ]] - Präsens
 (du) Ergänz(e)!
 (ihr) Ergänzt!
-(Sie) Ergänzen Sie!
 (wir) Ergänzen wir!
+(Sie) Ergänzen Sie!
 
 # [[Modus - Partizips]] - Präsens
 ergänzend

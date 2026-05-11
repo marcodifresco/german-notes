@@ -118,8 +118,8 @@ Sie hätten geöffnet
 # [[Modus - Imperativ]] - Präsens
 (du) Öffne!
 (ihr) Öffnet!
-(Sie) Öffnen Sie!
 (wir) Öffnen wir!
+(Sie) Öffnen Sie!
 
 # [[Modus - Partizips]] - Präsens
 öffnend

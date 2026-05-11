@@ -120,8 +120,8 @@ Sie hätten geholfen
 # [[Modus - Imperativ]] - Präsens
 (du) Hilf!
 (ihr) Helft!
-(Sie) Helfen Sie!
 (wir) Helfen wir!
+(Sie) Helfen Sie!
 
 # [[Modus - Partizips]] - Präsens
 helfend

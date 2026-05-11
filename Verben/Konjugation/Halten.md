@@ -118,10 +118,10 @@ Ihr hättet gehalten
 Sie hätten gehalten
 
 # [[Modus - Imperativ]] - Präsens
-Du Halt! / Halte!
-Wir Halten wir!
-Ihr Haltet!
-Sie Halten Sie!
+(du) Halt / Halte!
+(ihr) Haltet!
+(wir) Halten wir!
+(Sie) Halten Sie!
 
 # [[Modus - Partizips]] - Präsens
  haltend

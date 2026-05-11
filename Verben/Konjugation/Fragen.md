@@ -119,8 +119,8 @@ Sie hätten gefragt
 # [[Modus - Imperativ]] - Präsens
 (du) Frag!
 (ihr) Fragt!
-(Sie) Fragen Sie!
 (wir) Fragen wir!
+(Sie) Fragen Sie!
 
 # [[Modus - Partizips]] - Präsens
 fragend

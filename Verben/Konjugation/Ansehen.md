@@ -121,10 +121,10 @@ Ihr hättet angesehen
 Sie hätten angesehen
 
 # [[Modus - Imperativ]] - Präsens
-Du Sieh an!
-Ihr Seht an!
-Wir Sehen wir an!
-Sie (formal) Sehen Sie an!
+(du) Sieh an!
+(ihr) Seht an!
+(wir) Sehen wir an!
+(Sie) Sehen Sie an!
 
 # [[Modus - Partizips]] - Präsens
 Conjugation

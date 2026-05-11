@@ -118,10 +118,10 @@ Ihr hättet zitiert
 Sie hätten zitiert
 
 # [[Modus - Imperativ]] - Präsens
-Du Zitier! / Zitiere!
-Wir Zitieren wir!
-Ihr Zitiert!
-Sie (formal) Zitieren Sie!
+(du) Zitier / Zitiere!
+(ihr) Zitiert!
+(wir) Wir Zitieren wir!
+(Sie) Sie (formal) Zitieren Sie!
 
 # [[Modus - Partizips]] - Präsens
 Conjugation

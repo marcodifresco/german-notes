@@ -118,10 +118,10 @@ Ihr wäret getaucht
 Sie wären getaucht
 
 # [[Modus - Imperativ]] - Präsens
-(du) Tauch! / Tauche!
+(du) Tauch / Tauche!
 (ihr) Taucht!
-(Sie) Tauchen Sie!
 (wir) Tauchen wir!
+(Sie) Tauchen Sie!
 
 # [[Modus - Partizips]] - Präsens
 tauchend

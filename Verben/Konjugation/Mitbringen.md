@@ -118,10 +118,10 @@ Ihr hättet mitgebracht
 Sie hätten mitgebracht
 
 # [[Modus - Imperativ]] - Präsens
-Du Bring mit!
-Ihr Bringt mit!
-Wir Bringen wir mit!
-Sie Bringen Sie mit!
+(du) Bring mit!
+(ihr) Bringt mit!
+(wir) Bringen wir mit!
+(Sie) Bringen Sie mit!
 
 # [[Modus - Partizips]] - Präsens
 Conjugation

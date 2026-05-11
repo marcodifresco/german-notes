@@ -120,8 +120,8 @@ Sie hätten gekümmert
 # [[Modus - Imperativ]] - Präsens
 (du) kümmere!
 (ihr) kümmert!
-(Sie) kümmern Sie!
 (wir) kümmern wir!
+(Sie) kümmern Sie!
 
 # [[Modus - Partizips]] - Präsens
 kümmernd

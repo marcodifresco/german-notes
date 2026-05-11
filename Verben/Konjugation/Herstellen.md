@@ -115,10 +115,10 @@ ihr hättet hergestellt
 Sie hätten hergestellt
 
 # [[Modus - Imperativ]] - Präsens
-stelle (du) her
-stellen wir her
-stellt ihr her
-stellen Sie her
+(du) Stell her!
+(ihr) Stellt her!
+(wir) Stellen wir her!
+(Sie) Stellen Sie her!
 
 # [[Modus - Partizips]] - Präsens
 herstellend

@@ -118,10 +118,10 @@ Ihr hättet gepasst
 Sie hätten gepasst
 
 # [[Modus - Imperativ]] - Präsens
-**Du:** Pass! / Passe!
-**Ihr:** Passt!
-**Wir:** Passen wir!
-**Sie:** Passen Sie!
+(du) Pass!
+(ihr) Passt!
+(wir) Passen wir!
+(Sie) Passen Sie!
 
 # [[Modus - Partizips]] - Präsens
 passend

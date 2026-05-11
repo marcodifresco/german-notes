@@ -126,10 +126,8 @@ ihr hättet verabredet
 Sie hätten verabredet
 
 # [[Modus - Imperativ]] - Präsens
-verabrede (du)
-verabreden wir
-verabredet ihr
-verabreden Sie
+(wir) verabreden wir!
+(Sie) verabreden Sie!
 
 # [[Modus - Partizips]] - Präsens
 verabredend

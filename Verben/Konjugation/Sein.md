@@ -117,9 +117,9 @@ Ihr wäret gewesen
 Sie wären gewesen
 
 # [[Modus - Imperativ]] - Präsens
-Du Sei!
-Ihr Seid!
-Sie Seien Sie!
+(du) Sei!
+(ihr) Seid!
+(Sie) Seien Sie!
 
 # [[Modus - Partizips]] - Präsens
 Form Conjugation

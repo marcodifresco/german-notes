@@ -121,8 +121,8 @@ Sie hätten angedacht
 # [[Modus - Imperativ]] - Präsens
 (du) denk an!
 (ihr) denkt an!
-(Sie) denken Sie an!
-(wir) denken wir an!
+(wir) denken wir!
+(Sie) denken Sie!
 
 # [[Modus - Partizips]] - Präsens
 andenkend

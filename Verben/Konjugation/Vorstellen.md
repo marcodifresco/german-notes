@@ -119,8 +119,8 @@ Sie hätten vorgestellt
 # [[Modus - Imperativ]] - Präsens
 (du) Stell vor!
 (ihr) Stellt vor!
-(wir) Stellen wir vor!
-(Sie) Stellen Sie vor!
+(wir) (wir) Stellen wir!
+(Sie) (Sie) Stellen Sie!
 
 # [[Modus - Partizips]] - Präsens
 vorstellend

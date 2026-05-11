@@ -117,10 +117,10 @@ Ihr hättet gemietet
 Sie hätten gemietet
 
 # [[Modus - Imperativ]] - Präsens
-Du Miete!
-Ihr Mietet!
-Wir Mieten wir!
-Sie Mieten Sie!
+(du) Miete!
+(ihr) Mietet!
+(wir) Mieten wir!
+(Sie) Mieten Sie!
 
 # [[Modus - Partizips]] - Präsens
 Form Conjugation

@@ -118,10 +118,10 @@ Ihr hättet geläutet
 Sie hätten geläutet
 
 # [[Modus - Imperativ]] - Präsens
-**Du**: Läute!
-**Ihr**: Läutet!
-**Wir**: Läuten wir!
-**Sie (formal)**: Läuten Sie!
+(du) Läute!
+(ihr) Läutet!
+(wir) Läuten wir!
+(Sie) Läuten Sie!
 
 # [[Modus - Partizips]] - Präsens
 läutend

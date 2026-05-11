@@ -118,10 +118,9 @@ Ihr hättet getroffen
 Sie hätten getroffen
 
 # [[Modus - Imperativ]] - Präsens
-Form Conjugation
-Du Triff!
-Ihr Trefft!
-Sie (formal) Treffen Sie!
+(du) Triff!
+(ihr) Trefft!
+(Sie) Treffen Sie!
 
 # [[Modus - Partizips]] - Präsens
 treffend

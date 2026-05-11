@@ -128,8 +128,8 @@ ___
 # [[Modus - Imperativ]] - Präsens
 (du) soll!
 (ihr) sollt!
-(Sie) sollen Sie!
 (wir) sollen wir!
+(Sie) sollen Sie!
 
 # [[Modus - Partizips]] - Präsens
 sollend

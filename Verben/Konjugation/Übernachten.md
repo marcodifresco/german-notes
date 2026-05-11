@@ -118,8 +118,8 @@ Sie hätten übernachtet
 # [[Modus - Imperativ]] - Präsens
 (du) übernachte!
 (ihr) übernachtet!
-(Sie) übernachten Sie!
 (wir) übernachten wir!
+(Sie) übernachten Sie!
 
 # [[Modus - Partizips]] - Präsens
 übernachtend

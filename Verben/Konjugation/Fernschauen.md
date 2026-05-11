@@ -121,10 +121,10 @@ Ihr hättet ferngeschaut
 Sie hätten ferngeschaut
 
 # [[Modus - Imperativ]] - Präsens
-(Du) Schau fern!
-(Ihr) Schaut fern!
-(Sie) Schauen Sie fern!
-(Wir) Schauen wir fern!
+(du) Schau fern!
+(ihr) Schaut fern!
+(wir) Schauen wir!
+(Sie) Schauen Sie!
 
 # [[Modus - Partizips]] - Präsens
 fernschauend

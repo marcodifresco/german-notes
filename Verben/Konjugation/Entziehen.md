@@ -122,8 +122,8 @@ Sie hätten entzogen
 # [[Modus - Imperativ]] - Präsens
 (du) Entzieh!
 (ihr) Entzieht!
-(Sie) Entziehen Sie!
 (wir) Entziehen wir!
+(Sie) Entziehen Sie!
 
 # [[Modus - Partizips]] - Präsens
 entziehend

@@ -117,10 +117,10 @@ Ihr hättet besucht
 Sie hätten besucht
 
 # [[Modus - Imperativ]] - Präsens
-Du Besuch!
-Ihr Besucht!
-Wir Besuchen wir!
-Sie (formal) Besuchen Sie!
+(du) Besuch!
+(ihr) Besucht!
+(wir) Besuchen wir!
+(Sie) Besuchen Sie!
 
 # [[Modus - Partizips]] - Präsens
 Conjugation

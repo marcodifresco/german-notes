@@ -117,10 +117,10 @@ Ihr wäret gegangen
 Sie wären gegangen
 
 # [[Modus - Imperativ]] - Präsens
-Geh! (du)
-Geht! (ihr)
-Gehen Sie! (Sie)
-Gehen wir! (wir)
+(du) Geh!
+(ihr) Geht!
+(wir) Gehen wir!
+(Sie) Gehen Sie!
 
 # [[Modus - Partizips]] - Präsens
 gehend
