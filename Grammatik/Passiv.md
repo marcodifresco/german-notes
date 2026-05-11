@@ -12,6 +12,7 @@ Sind -> done
 If you want to mention the agent (who is performing the action), you use:
 - **von (+ Dativ)** → for people
 - **durch (+ Akkusativ)** → for means/instruments
+![[Passive.jpg]]
 
 # Examples
 Das Fenster wird geputzt

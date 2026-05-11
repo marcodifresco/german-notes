@@ -23,16 +23,16 @@ Keine | Keiner
 (pl) | Keinen
 
 # [[Pronomen]]
-[[Nominativ]] | [[Dativ]]
------------- | ------------
-Ich | Mir
-Du | Dir
-He | Ihm
-She| Ihr
-Es | Ihm
-Wir | Uns
-Ihr | Euch
-Sie | Ihnem
+| [[Nominativ]] | [[Dativ]] |
+| ------------- | --------- |
+| Ich           | Mir       |
+| Du            | Dir       |
+| Er            | Ihm       |
+| Sie           | Ihr       |
+| Es            | Ihm       |
+| Wir           | Uns       |
+| Ihr           | Euch      |
+| Sie           | Ihnen     |
 
 # Possessivepronomemen
 

@@ -1,6 +1,6 @@
 ___
 Links: [[Verben]]
-Meaning:
+Meaning: To question
 ___
 
 # [[Modus - Indikativ]] - Präsens
@@ -21,7 +21,6 @@ Ihr befragtet
 Sie befragten
 
 # [[Modus - Indikativ]] - Perfekt
-[[Pronomen]] + [[Haben]] + befragt
 Ich habe befragt
 Du hast befragt
 Er/Sie/Es hat befragt

@@ -38,16 +38,16 @@ The accusative case is used for the direct object in a sentence. The accusative 
 | Die     | Welche/Keine | Weilche/Keine |
 
 # [[Pronomen]]
-[[Nominativ]] | [[Akkusativ]]
------------- | ------------
-Ich | Mich
-Du | Dich
-He | Ihn
-She| Sie
-Es | Es
-Wir | Uns
-Ihr | Euch
-Sie | Sie
+| [[Nominativ]] | [[Akkusativ]] |
+| ------------- | ------------- |
+| Ich           | Mich          |
+| Du            | Dich          |
+| Er            | Ihn           |
+| Sie           | Sie           |
+| Es            | Es            |
+| Wir           | Uns           |
+| Ihr           | Euch          |
+| Sie           | Sie           |
 
 
 # Possessiv Pronomen
