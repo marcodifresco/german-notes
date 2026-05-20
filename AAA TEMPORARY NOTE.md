@@ -6,3 +6,9 @@ AltGr + y = ü
 
 ___
 
+Uhr -> um
+Other -> in
+Letzen Simmer besuchte ich 
+
+Mir ist es kalt
+
