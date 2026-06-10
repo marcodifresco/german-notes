@@ -1,6 +1,6 @@
 ___
-Links: [[Verben]]
-Meaning:
+Links: [[Verben]] [[Typ - Regular verben]]
+Meaning: to need
 ___
 
 # [[Modus - Indikativ]] - Präsens
@@ -31,8 +31,6 @@ Ihr habt gebraucht
 Sie haben gebraucht
 
 
-# Notes
-[[Brauchen]] zu = Müssen
 # [[Modus - Indikativ]] - Plusquamperfekt
 Ich hatte gebraucht
 Du hattest gebraucht
