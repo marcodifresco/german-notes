@@ -1,6 +1,6 @@
 ___
 Links: [[Verben]]
-Meaning:
+Meaning: To accompany
 ___
 
 # [[Modus - Indikativ]] - Präsens
@@ -21,7 +21,6 @@ Ihr begleitetet
 Sie begleiteten
 
 # [[Modus - Indikativ]] - Perfekt
-[[Pronomen]] + [[Haben]] + begleitet
 Ich habe begleitet
 Du hast begleitet
 Er/Sie/Es hat begleitet
