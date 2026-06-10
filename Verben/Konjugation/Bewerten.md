@@ -1,6 +1,6 @@
 ___
 Links: [[Verben]]
-Meaning:
+Meaning: to evaluate
 ___
 
 # [[Modus - Indikativ]] - Präsens
