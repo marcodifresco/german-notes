@@ -1,6 +1,6 @@
 ___
 Links: [[Verben]]
-Meaning:
+Meaning: to preserve
 ___
 
 # [[Modus - Indikativ]] - Präsens
@@ -21,7 +21,6 @@ Ihr bewahrtet
 Sie bewahrten
 
 # [[Modus - Indikativ]] - Perfekt
-[[Pronomen]] + [[Haben]] + bewahrt
 Ich habe bewahrt
 Du hast bewahrt
 Er/Sie/Es hat bewahrt
@@ -124,11 +123,7 @@ Sie hätten bewahrt
 (Sie) Bewahren Sie!
 
 # [[Modus - Partizips]] - Präsens
-Conjugation
-------------
 bewahrend
 
 # [[Modus - Partizips]] - Perfekt
-Conjugation
-------------
 bewahrt
