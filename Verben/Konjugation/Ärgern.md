@@ -22,7 +22,6 @@ Ihr ärgertet
 Sie ärgerten
 
 # [[Modus - Indikativ]] - Perfekt
-[[Pronomen]] + [[Haben]] + geärgert
 Ich habe geärgert
 Du hast geärgert
 Er/Sie/Es hat geärgert

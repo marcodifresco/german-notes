@@ -31,6 +31,7 @@ Adjectivedeklination nach dem nullartikle
 | Different             | Anders                  |
 | Divorced              | Geschieden              |
 | Expensive             | Teuer                   |
+| Excellent             | Ausgezeichnet           |
 | Forgiven              | Verziehen               |
 | Generous              | Grosszügig              |
 | Great                 | Toll                    |
