@@ -1,6 +1,6 @@
 ___
 Links: [[Verben]]
-Meaning:
+Meaning: to admire
 ___
 
 # [[Modus - Indikativ]] - Präsens
