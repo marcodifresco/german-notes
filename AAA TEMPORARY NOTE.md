@@ -8,14 +8,6 @@ ___
 
 
 ___
-Created: 2026-06-01 17:57
-___
-
-Nach immer with name of place
-
-worum gehts es
-
-___
 Created: 2026-06-08 19:19
 ___
   
