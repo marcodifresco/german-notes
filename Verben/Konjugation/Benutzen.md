@@ -1,5 +1,5 @@
 ___
-Links: [[Verben]]
+Links: [[Verben]] [[Typ - Regular verben]]
 Meaning: to use
 ___
 
