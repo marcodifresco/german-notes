@@ -1,6 +1,6 @@
 ___
-Links: [[Verben]]
-Meaning:
+Links: [[Verben]] [[Typ - Irregular verben]]
+Meaning: to bring
 ___
 
 # [[Modus - Indikativ]] - Präsens
