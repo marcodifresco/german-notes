@@ -1,6 +1,6 @@
 ___
 Links: [[Verben]]
-Meaning:
+Meaning: to order
 ___
 
 # [[Modus - Indikativ]] - Präsens
@@ -21,7 +21,6 @@ Ihr bestelltet
 Sie bestellten
 
 # [[Modus - Indikativ]] - Perfekt
-[[Pronomen]] + [[Haben]] +  bestellt
 Ich habe bestellt
 Du hast bestellt
 Er/Sie/Es hat bestellt
@@ -30,7 +29,6 @@ Ihr habt bestellt
 Sie haben bestellt
 
 # [[Modus - Indikativ]] - Plusquamperfekt
-[[Pronomen]] + [[Haben]] (Präteritum) + bestellt
 Ich hatte bestellt
 Du hattest bestellt
 Er/Sie/Es hatte bestellt
@@ -39,7 +37,6 @@ Ihr hattet bestellt
 Sie hatten bestellt
 
 # [[Modus - Indikativ]] - Futur I
-[[Pronomen]] + [[Werden]] (Präsens) + bestellen
 Ich werde bestellen
 Du wirst bestellen
 Er/Sie/Es wird bestellen
@@ -48,7 +45,6 @@ Ihr werdet bestellen
 Sie werden bestellen
 
 # [[Modus - Indikativ]] - Futur II
-[[Pronomen]] + [[Werden]] (Präsens) + bestellt + [[Haben]]
 Ich werde bestellt haben
 Du wirst bestellt haben
 Er/Sie/Es wird bestellt haben
@@ -65,7 +61,6 @@ Ihr bestellet
 Sie bestellen
 
 # [[Modus - Konjunktiv]] 1 - Perfekt
-[[Pronomen]] + [[Haben]] (Konjunktiv I) + bestellt
 Ich habe bestellt
 Du habest bestellt
 Er/Sie/Es habe bestellt
@@ -74,7 +69,6 @@ Ihr habet bestellt
 Sie haben bestellt
 
 # [[Modus - Konjunktiv]] 1 - Futur I
-[[Pronomen]] + [[Werden]] (Konjunktiv I) + bestellen
 Ich werde bestellen
 Du werdest bestellen
 Er/Sie/Es werde bestellen
@@ -83,7 +77,6 @@ Ihr werdet bestellen
 Sie werden bestellen
 
 # [[Modus - Konjunktiv]] 1 - Futur II
-[[Pronomen]] + [[Werden]] (Konjunktiv I) + bestellt + [[Haben]]
 Ich werde bestellt haben
 Du werdest bestellt haben
 Er/Sie/Es werde bestellt haben
@@ -100,7 +93,6 @@ Ihr bestelltet
 Sie bestellten
 
 # [[Modus - Konjunktiv]] 2 - Futur I
-[[Pronomen]] + [[Werden]] (Konjunktiv II) + bestellen
 Ich würde bestellen
 Du würdest bestellen
 Er/Sie/Es würde bestellen
@@ -109,7 +101,6 @@ Ihr würdet bestellen
 Sie würden bestellen
 
 # [[Modus - Konjunktiv]] 2 - Futur II
-[[Pronomen]] + [[Werden]] (Konjunktiv II) + bestellt + [[Haben]]
 Ich würde bestellt haben
 Du würdest bestellt haben
 Er/Sie/Es würde bestellt haben
