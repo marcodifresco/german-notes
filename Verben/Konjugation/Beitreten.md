@@ -1,6 +1,6 @@
 ___
 Links: [[Verben]]
-Meaning:
+Meaning: to join
 ___
 
 # [[Modus - Indikativ]] - Präsens
@@ -21,7 +21,6 @@ Ihr tratet bei
 Sie traten bei
 
 # [[Modus - Indikativ]] - Perfekt
-[[Pronomen]] + [[Sein]] + beigetreten
 Ich bin beigetreten
 Du bist beigetreten
 Er/Sie/Es ist beigetreten
@@ -124,11 +123,7 @@ Sie wären beigetreten
 (Sie) Treten Sie bei!
 
 # [[Modus - Partizips]] - Präsens
-Conjugation
-------------
 beitretend
 
 # [[Modus - Partizips]] - Perfekt
-Conjugation
-------------
 beigetreten
