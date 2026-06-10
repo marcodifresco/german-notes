@@ -1,6 +1,6 @@
 ___
 Links: [[Verben]]
-Meaning:
+Meaning: to pay
 ___
 
 # [[Modus - Indikativ]] - Präsens
