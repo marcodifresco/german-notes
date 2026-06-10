@@ -1,6 +1,6 @@
 ___
-Links: [[Verben]]
-Meaning:
+Links: [[Verben]] [[Typ - Irregular verben]]
+Meaning: to fry
 ___
 
 # [[Modus - Indikativ]] - Präsens
@@ -21,7 +21,6 @@ Ihr brietet
 Sie brieten
 
 # [[Modus - Indikativ]] - Perfekt
-[[Pronomen]] + [[Haben]] + gebraten
 Ich habe gebraten
 Du hast gebraten
 Er/Sie/Es hat gebraten
