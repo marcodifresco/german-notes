@@ -1,6 +1,6 @@
 ___
 Links: [[Verben]]
-Meaning:
+Meaning: to visit
 ___
 
 # [[Modus - Indikativ]] - Präsens
@@ -123,11 +123,7 @@ Sie hätten besucht
 (Sie) Besuchen Sie!
 
 # [[Modus - Partizips]] - Präsens
-Conjugation
-------------
 besuchend
 
 # [[Modus - Partizips]] - Perfekt
-Conjugation
-------------
 besucht
