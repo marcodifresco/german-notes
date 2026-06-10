@@ -1,6 +1,6 @@
 ___
 Links: [[Verben]]
-Meaning:
+Meaning: To descrive
 ___
 
 # [[Modus - Indikativ]] - Präsens
@@ -20,7 +20,6 @@ Ihr beschriebt
 Sie beschrieben
 
 # [[Modus - Indikativ]] - Perfekt
-[[Pronomen]] + [[Haben]] + beschreiben
 Ich habe beschrieben
 Du hast beschrieben
 Er/Sie/Es hat beschrieben
