@@ -1,6 +1,6 @@
 ___
 Links: [[Verben]] [[Typ Regular verben]]
-Meaning: to Advise
+Meaning: to advise
 ___
 
 # [[Modus - Indikativ]] - Präsens
