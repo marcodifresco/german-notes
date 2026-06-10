@@ -1,6 +1,6 @@
 ___
 Links: [[Verben]] [[Typ - Regular verben]]
-Meaning: to Relate
+Meaning: to relate
 ___
 
 # [[Modus - Indikativ]] - Präsens
