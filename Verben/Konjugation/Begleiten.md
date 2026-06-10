@@ -123,9 +123,7 @@ Sie hätten begleitet
 (Sie) Begleiten Sie!
 
 # [[Modus - Partizips]] - Präsens
-Form Conjugation
 Partizip I begleitend
 
 # [[Modus - Partizips]] - Perfekt
-Form Conjugation
 Partizip II begleitet
