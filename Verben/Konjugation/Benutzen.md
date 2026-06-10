@@ -1,6 +1,6 @@
 ___
 Links: [[Verben]]
-Meaning:
+Meaning: to use
 ___
 
 # [[Modus - Indikativ]] - Präsens
@@ -21,7 +21,6 @@ Ihr benutztet
 Sie benutzten
 
 # [[Modus - Indikativ]] - Perfekt
-[[Pronomen]] + [[Haben]] + benutzt
 Ich habe benutzt
 Du hast benutzt
 Er/Sie/Es hat benutzt
@@ -124,11 +123,7 @@ Sie hätten benutzt
 (Sie) Benutzen Sie!
 
 # [[Modus - Partizips]] - Präsens
-Conjugation
-------------
 benutzend
 
 # [[Modus - Partizips]] - Perfekt
-Conjugation
-------------
 benutzt
