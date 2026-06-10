@@ -1,6 +1,6 @@
 ___
 Links: [[Verben]]
-Meaning:
+Meaning: to complain
 ___
 
 # [[Modus - Indikativ]] - Präsens
@@ -21,7 +21,6 @@ Ihr beschwertet
 Sie beschwerten
 
 # [[Modus - Indikativ]] - Perfekt
-[[Pronomen]] + [[Haben]] + beschwert
 Ich habe beschwert
 Du hast beschwert
 Er/Sie/Es hat beschwert
