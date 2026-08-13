@@ -1,6 +1,6 @@
 ___
-Links: [[Verben]]
-Meaning:
+Links: [[Verben]] [[Typ - Regular verben]]
+Meaning: to demonstrate
 ___
 
 # [[Modus - Indikativ]] - Präsens
