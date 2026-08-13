@@ -11,7 +11,6 @@ Wir verkaufen
 Ihr verkauft
 Sie verkaufen
 
-
 # [[Modus - Indikativ]] - Präteritum
 Ich verkaufte
 Du verkauftest
@@ -21,7 +20,6 @@ Ihr verkauftet
 Sie verkauften
 
 # [[Modus - Indikativ]] - Perfekt
-[[Pronomen]] + [[Haben]] + verkauft
 Ich habe verkauft
 Du hast verkauft
 Er/Sie/Es hat verkauft

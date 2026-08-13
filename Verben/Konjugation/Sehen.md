@@ -11,7 +11,6 @@ Wir sehen
 Ihr seht
 Sie sehen
 
-
 # [[Modus - Indikativ]] - Präteritum
 Ich sah
 Du sahst
@@ -21,7 +20,6 @@ Ihr saht
 Sie sahen
 
 # [[Modus - Indikativ]] - Perfekt
-[[Pronomen]] + [[Haben]] + gesehen
 Ich habe gesehen
 Du hast gesehen
 Er/Sie/Es hat gesehen
@@ -123,11 +121,7 @@ Sie hätten gesehen
 (Sie) Sehen Sie!
 
 # [[Modus - Partizips]] - Präsens
-Conjugation
-------------
 sehend
 
 # [[Modus - Partizips]] - Perfekt
-Conjugation
-------------
 gesehen

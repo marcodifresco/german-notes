@@ -11,7 +11,6 @@ Wir empfangen
 Ihr empfängt
 Sie empfangen
 
-
 # [[Modus - Indikativ]] - Präteritum
 Ich empfing
 Du empfingst

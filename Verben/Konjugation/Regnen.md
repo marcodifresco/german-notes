@@ -11,7 +11,6 @@ Wir regnen
 Ihr regnet
 Sie regnen
 
-
 # [[Modus - Indikativ]] - Präteritum
 Ich regnete
 Du regnetest

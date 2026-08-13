@@ -11,7 +11,6 @@ Wir gehören
 Ihr gehört
 Sie gehören
 
-
 # [[Modus - Indikativ]] - Präteritum
 Ich gehörte
 Du gehörtest

@@ -11,7 +11,6 @@ Wir erkennen
 Ihr erkennt
 Sie erkennen
 
-
 # [[Modus - Indikativ]] - Präteritum
 Ich erkannte
 Du erkanntest

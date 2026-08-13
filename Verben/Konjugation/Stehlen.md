@@ -11,7 +11,6 @@ Wir stehlen
 Ihr stehlt
 Sie stehlen
 
-
 # [[Modus - Indikativ]] - Präteritum
 Ich stahl
 Du stahlst
@@ -21,7 +20,6 @@ Ihr stahlt
 Sie stahlen
 
 # [[Modus - Indikativ]] - Perfekt
-[[Pronomen]] + [[Haben]] + gestohlen
 Ich habe gestohlen
 Du hast gestohlen
 Er/Sie/Es hat gestohlen

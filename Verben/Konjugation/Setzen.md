@@ -11,7 +11,6 @@ Wir setzen
 Ihr setzt
 Sie setzen
 
-
 # [[Modus - Indikativ]] - Präteritum
 Ich setzte
 Du setztest
@@ -21,7 +20,6 @@ Ihr setztet
 Sie setzten
 
 # [[Modus - Indikativ]] - Perfekt
-[[Pronomen]] + [[Haben]] + gesetzt
 Ich habe gesetzt
 Du hast gesetzt
 Er/Sie/Es hat gesetzt
@@ -124,7 +122,7 @@ Sie hätten gesetzt
 (Sie) Setzen Sie!
 
 # [[Modus - Partizips]] - Präsens
-Partizip I setzend
+setzend
 
 # [[Modus - Partizips]] - Perfekt
-Partizip II gesetzt
+gesetzt

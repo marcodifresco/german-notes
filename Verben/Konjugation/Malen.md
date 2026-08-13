@@ -20,7 +20,6 @@ Ihr maltet
 Sie malten
 
 # [[Modus - Indikativ]] - Perfekt
-[[Pronomen]] + [[Haben]] + gemalt
 Ich habe gemalt
 Du hast gemalt
 Er/Sie/Es hat gemalt
@@ -123,9 +122,7 @@ Sie hätten gemalt
 (Sie) Malen Sie!
 
 # [[Modus - Partizips]] - Präsens
-| Conjugation |
-| malend |
+malend
 
 # [[Modus - Partizips]] - Perfekt
-| Conjugation |
-| gemalt |
+gemalt

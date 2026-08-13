@@ -11,7 +11,6 @@ Wir bringen mit
 Ihr bringt mit
 Sie bringen mit
 
-
 # [[Modus - Indikativ]] - Präteritum
 Ich brachte mit
 Du brachtest mit
@@ -124,11 +123,7 @@ Sie hätten mitgebracht
 (Sie) Bringen Sie mit!
 
 # [[Modus - Partizips]] - Präsens
-Conjugation
-------------
 mitbringend
 
 # [[Modus - Partizips]] - Perfekt
-Conjugation
-------------
 mitgebracht

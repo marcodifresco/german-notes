@@ -11,7 +11,6 @@ Wir lesen
 Ihr lest
 Sie lesen
 
-
 # [[Modus - Indikativ]] - Präteritum
 Ich las
 Du lasest
@@ -21,7 +20,6 @@ Ihr last
 Sie lasen
 
 # [[Modus - Indikativ]] - Perfekt
-[[Pronomen]] + [[Haben]] +  gelesen
 Ich habe gelesen
 Du hast gelesen
 Er/Sie/Es hat gelesen

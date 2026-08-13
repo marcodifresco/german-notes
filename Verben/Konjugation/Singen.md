@@ -11,7 +11,6 @@ Wir singen
 Ihr singt
 Sie singen
 
-
 # [[Modus - Indikativ]] - Präteritum
 Ich sang
 Du sangst

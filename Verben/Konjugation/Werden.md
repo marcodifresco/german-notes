@@ -11,7 +11,6 @@ Wir werden
 Ihr werdet
 Sie werden
 
-
 # [[Modus - Indikativ]] - Präteritum
 Ich wurde
 Du wurdest
@@ -118,8 +117,10 @@ Ihr wäret geworden
 Sie wären geworden
 
 # [[Modus - Imperativ]] - Präsens
-(wir) - wir!
-(Sie) - Sie!
+(du) werde
+(wir) werden
+(ihr) werdet
+(sie) werden
 
 # [[Modus - Partizips]] - Präsens
 - werdend

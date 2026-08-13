@@ -11,7 +11,6 @@ Wir lassen frei
 Ihr lasst frei
 Sie lassen frei
 
-
 # [[Modus - Indikativ]] - Präteritum
 Ich liess frei
 Du liessest frei

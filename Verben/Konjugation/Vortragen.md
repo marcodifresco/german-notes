@@ -11,7 +11,6 @@ Wir tragen vor
 Ihr tragt vor
 Sie tragen vor
 
-
 # [[Modus - Indikativ]] - Präteritum
 Ich trug vor
 Du trugst vor

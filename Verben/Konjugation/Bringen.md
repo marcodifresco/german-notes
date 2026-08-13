@@ -11,7 +11,6 @@ Wir bringen
 Ihr bringt
 Sie bringen
 
-
 # [[Modus - Indikativ]] - Präteritum
 Ich brachte
 Du brachtest

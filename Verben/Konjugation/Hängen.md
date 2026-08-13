@@ -11,7 +11,6 @@ Wir hängen
 Ihr hängt
 Sie hängen
 
-
 # [[Modus - Indikativ]] - Präteritum
 Ich hing
 Du hingst

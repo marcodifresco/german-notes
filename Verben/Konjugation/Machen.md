@@ -11,7 +11,6 @@ Wir machen
 Ihr macht
 Sie machen
 
-
 # [[Modus - Indikativ]] - Präteritum
 Ich machte
 Du machtest
@@ -92,7 +91,6 @@ Er/Sie/Es machte
 Wir machten
 Ihr machtet
 Sie machten
-(Note: For regular verbs, Konjunktiv II (Präteritum) is often identical to Indikativ Präteritum. The 'würde + Infinitiv' construction is frequently used to make Konjunktiv II clear, e.g., 'ich würde machen'.)*
 
 # [[Modus - Konjunktiv]] 2 - Futur I
 Ich würde machen

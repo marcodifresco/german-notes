@@ -11,7 +11,6 @@ Wir bewunderen
 Ihr bewundert
 Sie bewunderen
 
-
 # [[Modus - Indikativ]] - Präteritum
 Ich bewunderte
 Du bewundertest

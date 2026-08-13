@@ -11,7 +11,6 @@ wir drängen
 ihr drängt
 Sie drängen
 
-
 # [[Modus - Indikativ]] - Präteritum
 ich drängte
 du drängtest
@@ -19,7 +18,6 @@ er/sie/es drängte
 wir drängten
 ihr drängtet
 Sie drängten
-
 
 # [[Modus - Indikativ]] - Perfekt
 ich habe gedrängt
@@ -29,7 +27,6 @@ wir haben gedrängt
 ihr habt gedrängt
 Sie haben gedrängt
 
-
 # [[Modus - Indikativ]] - Plusquamperfekt
 ich hatte gedrängt
 du hattest gedrängt
@@ -38,7 +35,6 @@ wir hatten gedrängt
 ihr hattet gedrängt
 Sie hatten gedrängt
 
-
 # [[Modus - Indikativ]] - Futur I
 ich werde drängen
 du wirst drängen
@@ -46,7 +42,6 @@ er/sie/es wird drängen
 wir werden drängen
 ihr werdet drängen
 Sie werden drängen
-
 
 # [[Modus - Indikativ]] - Futur II
 ich werde gedrängt haben

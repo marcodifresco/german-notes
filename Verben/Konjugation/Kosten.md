@@ -123,9 +123,7 @@ Sie hätten gekostet
 (Sie) Kosten Sie!
 
 # [[Modus - Partizips]] - Präsens
-Form Conjugation
-Partizip I kostend
+kostend
 
 # [[Modus - Partizips]] - Perfekt
-Form Conjugation
-Partizip II gekostet
+gekostet

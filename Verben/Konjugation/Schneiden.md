@@ -11,7 +11,6 @@ Wir schneiden
 Ihr schneidet
 Sie schneiden
 
-
 # [[Modus - Indikativ]] - Präteritum
 Ich schnitt
 Du schnittst

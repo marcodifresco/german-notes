@@ -11,7 +11,6 @@ Wir tanzen
 Ihr tanzt
 Sie tanzen
 
-
 # [[Modus - Indikativ]] - Präteritum
 Ich tanzte
 Du tanztest

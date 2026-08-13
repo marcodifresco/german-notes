@@ -11,7 +11,6 @@ Wir schreiben
 Ihr schreibt
 Sie schreiben
 
-
 # [[Modus - Indikativ]] - Präteritum
 Ich schrieb
 Du schriebst

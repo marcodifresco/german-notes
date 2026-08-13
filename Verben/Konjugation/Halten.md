@@ -11,7 +11,6 @@ Wir halten
 Ihr haltet
 Sie halten
 
-
 # [[Modus - Indikativ]] - Präteritum
 Ich hielt
 Du hieltest

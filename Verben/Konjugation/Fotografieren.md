@@ -11,7 +11,6 @@ Wir fotografieren
 Ihr fotografiert
 Sie fotografieren
 
-
 # [[Modus - Indikativ]] - Präteritum
 Ich fotografierte
 Du fotografiertest

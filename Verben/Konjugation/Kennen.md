@@ -11,7 +11,6 @@ Wir kennen
 Ihr kennt
 Sie kennen
 
-
 # [[Modus - Indikativ]] - Präteritum
 Ich kannte
 Du kanntest

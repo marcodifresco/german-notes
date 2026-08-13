@@ -11,7 +11,6 @@ Wir haben
 Ihr habt
 Sie haben
 
-
 # [[Modus - Indikativ]] - Präteritum
 Ich hatte
 Du hattest
@@ -20,7 +19,6 @@ Wir hatten
 Ihr hattet
 Sie hatten
 
-
 # [[Modus - Indikativ]] - Perfekt
 Ich habe gehabt
 Du hast gehabt
@@ -28,6 +26,7 @@ Er/Sie/Es hat gehabt
 Wir haben gehabt
 Ihr habt gehabt
 Sie haben gehabt
+
 # [[Modus - Indikativ]] - Plusquamperfekt
 Ich hatte gehabt
 Du hattest gehabt
@@ -123,9 +122,7 @@ Sie hätten gehabt
 (Sie) Haben Sie!
 
 # [[Modus - Partizips]] - Präsens
-Form Conjugation
-Partizip I habend
+habend
 
 # [[Modus - Partizips]] - Perfekt
-Form Conjugation
-Partizip II gehabt
+gehabt

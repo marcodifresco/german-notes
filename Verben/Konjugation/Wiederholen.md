@@ -11,7 +11,6 @@ Wir wiederholen
 Ihr wiederholt
 Sie wiederholen
 
-
 # [[Modus - Indikativ]] - Präteritum
 Ich wiederholte
 Du wiederholtest

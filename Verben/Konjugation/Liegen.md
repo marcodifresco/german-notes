@@ -11,7 +11,6 @@ Wir liegen
 Ihr liegt
 Sie liegen
 
-
 # [[Modus - Indikativ]] - Präteritum
 Ich lag
 Du lagst
@@ -124,11 +123,7 @@ Sie hätten gelegen
 (Sie) Liegen Sie!
 
 # [[Modus - Partizips]] - Präsens
-Conjugation
-------------
 liegend
 
 # [[Modus - Partizips]] - Perfekt
-Conjugation
-------------
 gelegen

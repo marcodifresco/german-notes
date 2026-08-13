@@ -11,7 +11,6 @@ Wir denken
 Ihr denkt
 Sie denken
 
-
 # [[Modus - Indikativ]] - Präteritum
 Ich dachte
 Du dachtest

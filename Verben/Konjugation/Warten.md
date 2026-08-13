@@ -11,7 +11,6 @@ Wir warten
 Ihr wartet
 Sie warten
 
-
 # [[Modus - Indikativ]] - Präteritum
 Ich wartete
 Du wartetest
@@ -29,8 +28,6 @@ Wir haben gewartet
 Ihr habt gewartet
 Sie haben gewartet
 
-# Uses
-[[Warten]] auf: Ich warte auf den Bus
 # [[Modus - Indikativ]] - Plusquamperfekt
 Ich hatte gewartet
 Du hattest gewartet

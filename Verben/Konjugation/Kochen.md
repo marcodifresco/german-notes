@@ -11,7 +11,6 @@ Wir kochen
 Ihr kocht
 Sie kochen
 
-
 # [[Modus - Indikativ]] - Präteritum
 Ich kochte
 Du kochtest

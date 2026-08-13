@@ -22,7 +22,6 @@ Sie konfiszierten
 
 
 # [[Modus - Indikativ]] - Perfekt
-[[Pronomen]] + [[Haben]] + konfisziert
 Ich habe konfisziert
 Du hast konfisziert
 Er/Sie/Es hat konfisziert
@@ -32,7 +31,6 @@ Sie haben konfisziert
 
 
 # [[Modus - Indikativ]] - Plusquamperfekt
-[[Pronomen]] + [[Haben (Präteritum)]] + konfisziert
 Ich hatte konfisziert
 Du hattest konfisziert
 Er/Sie/Es hatte konfisziert
@@ -42,7 +40,6 @@ Sie hatten konfisziert
 
 
 # [[Modus - Indikativ]] - Futur I
-[[Pronomen]] + [[Werden]] + konfiszieren
 Ich werde konfiszieren
 Du wirst konfiszieren
 Er/Sie/Es wird konfiszieren
@@ -52,7 +49,6 @@ Sie werden konfiszieren
 
 
 # [[Modus - Indikativ]] - Futur II
-[[Pronomen]] + [[Werden]] + konfisziert + haben
 Ich werde konfisziert haben
 Du wirst konfisziert haben
 Er/Sie/Es wird konfisziert haben
@@ -71,7 +67,6 @@ Sie konfiszieren
 
 
 # [[Modus - Konjunktiv]] 1 - Perfekt
-[[Pronomen]] + [[Haben (Konjunktiv 1)]] + konfisziert
 Ich habe konfisziert
 Du habest konfisziert
 Er/Sie/Es habe konfisziert
@@ -81,7 +76,6 @@ Sie haben konfisziert
 
 
 # [[Modus - Konjunktiv]] 1 - Futur I
-[[Pronomen]] + [[Werden (Konjunktiv 1)]] + konfiszieren
 Ich werde konfiszieren
 Du werdest konfiszieren
 Er/Sie/Es werde konfiszieren
@@ -91,7 +85,6 @@ Sie werden konfiszieren
 
 
 # [[Modus - Konjunktiv]] 1 - Futur II
-[[Pronomen]] + [[Werden (Konjunktiv 1)]] + konfisziert + haben
 Ich werde konfisziert haben
 Du werdest konfisziert haben
 Er/Sie/Es werde konfisziert haben
@@ -110,7 +103,6 @@ Sie konfiszierten
 
 
 # [[Modus - Konjunktiv]] 2 - Futur I
-[[Pronomen]] + [[Werden (Konjunktiv 2)]] + konfiszieren
 Ich würde konfiszieren
 Du würdest konfiszieren
 Er/Sie/Es würde konfiszieren
@@ -120,7 +112,6 @@ Sie würden konfiszieren
 
 
 # [[Modus - Konjunktiv]] 2 - Futur II
-[[Pronomen]] + [[Werden (Konjunktiv 2)]] + konfisziert + haben
 Ich würde konfisziert haben
 Du würdest konfisziert haben
 Er/Sie/Es würde konfisziert haben
@@ -130,7 +121,6 @@ Sie würden konfisziert haben
 
 
 # [[Modus - Konjunktiv]] 2 - Plusquamperfekt
-[[Pronomen]] + [[Haben (Konjunktiv 2)]] + konfisziert
 Ich hätte konfisziert
 Du hättest konfisziert
 Er/Sie/Es hätte konfisziert

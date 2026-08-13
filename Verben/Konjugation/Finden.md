@@ -11,7 +11,6 @@ Wir finden
 Ihr findet
 Sie finden
 
-
 # [[Modus - Indikativ]] - Präteritum
 Ich fand
 Du fandst
@@ -124,9 +123,7 @@ Sie hätten gefunden
 (Sie) Finden Sie!
 
 # [[Modus - Partizips]] - Präsens
-- Conjugation
- findend
+findend
 
 # [[Modus - Partizips]] - Perfekt
-- Conjugation
- gefunden
+gefunden

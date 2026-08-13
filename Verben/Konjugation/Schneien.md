@@ -11,7 +11,6 @@ Wir schneien
 Ihr schneit
 Sie schneien
 
-
 # [[Modus - Indikativ]] - Präteritum
 Ich schneite
 Du schneitest
@@ -118,6 +117,10 @@ Ihr hättet geschneit
 Sie hätten geschneit
 
 # [[Modus - Imperativ]] - Präsens
+(du) schneie
+(wir) schneien
+(ihr) schneit
+(sie) schneien
 
 # [[Modus - Partizips]] - Präsens
 schneiend

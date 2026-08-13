@@ -11,7 +11,6 @@ Wir geben
 Ihr gebt
 Sie geben
 
-
 # [[Modus - Indikativ]] - Präteritum
 Ich gab
 Du gabst
@@ -21,7 +20,6 @@ Ihr gabt
 Sie gaben
 
 # [[Modus - Indikativ]] - Perfekt
-[[Pronomen]] + [[Haben]] + gegeben
 Ich habe gegeben
 Du hast gegeben
 Er/Sie/Es hat gegeben
@@ -124,11 +122,7 @@ Sie hätten gegeben
 (Sie) Geben Sie!
 
 # [[Modus - Partizips]] - Präsens
-Conjugation
-------------
 gebend
 
 # [[Modus - Partizips]] - Perfekt
-Conjugation
-------------
 gegeben

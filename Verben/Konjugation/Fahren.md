@@ -11,7 +11,6 @@ Wir fahren
 Ihr fahrt
 Sie fahren
 
-
 # [[Modus - Indikativ]] - Präteritum
 Ich fuhr
 Du fuhrst

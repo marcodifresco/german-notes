@@ -11,7 +11,6 @@ Wir klettern
 Ihr klettert
 Sie klettern
 
-
 # [[Modus - Indikativ]] - Präteritum
 Ich kletterte
 Du klettertest

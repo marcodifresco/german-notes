@@ -11,7 +11,6 @@ Wir spielen
 Ihr spielt
 Sie spielen
 
-
 # [[Modus - Indikativ]] - Präteritum
 Ich spielte
 Du spieltest
@@ -21,7 +20,6 @@ Ihr spieltet
 Sie spielten
 
 # [[Modus - Indikativ]] - Perfekt
-[[Pronomen]] + [[Haben]] + gespielt
 Ich habe gespielt
 Du hast gespielt
 Er/Sie/Es hat gespielt
@@ -124,11 +122,7 @@ Sie hätten gespielt
 (Sie) spielen Sie!
 
 # [[Modus - Partizips]] - Präsens
-Conjugation
-------------
 spielend
 
 # [[Modus - Partizips]] - Perfekt
-Conjugation
-------------
 gespielt

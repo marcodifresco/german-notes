@@ -29,8 +29,6 @@ Wir haben gelassen
 Ihr habt gelassen
 Sie haben gelassen
 
-# Notes
-eine andere Person macht etwas, was wir nicht machen ku:nnen/wollen
 # [[Modus - Indikativ]] - Plusquamperfekt
 Ich hatte gelassen
 Du hattest gelassen

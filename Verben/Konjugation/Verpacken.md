@@ -11,7 +11,6 @@ Wir verpacken
 Ihr verpackt
 Sie verpacken
 
-
 # [[Modus - Indikativ]] - Präteritum
 Ich verpackte
 Du verpacktest
@@ -21,7 +20,6 @@ Ihr verpacktet
 Sie verpackten
 
 # [[Modus - Indikativ]] - Perfekt
-[[Pronomen]] + [[Haben]] + verpackt
 Ich habe verpackt
 Du hast verpackt
 Er/Sie/Es hat verpackt

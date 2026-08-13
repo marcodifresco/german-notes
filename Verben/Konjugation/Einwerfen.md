@@ -11,7 +11,6 @@ Wir werfen ein
 Ihr werft ein
 Sie werfen ein
 
-
 # [[Modus - Indikativ]] - Präteritum
 Ich warf ein
 Du warfst ein

@@ -11,7 +11,6 @@ Wir erzählen
 Ihr erzählt
 Sie erzählen
 
-
 # [[Modus - Indikativ]] - Präteritum
 Ich erzählte
 Du erzähltest

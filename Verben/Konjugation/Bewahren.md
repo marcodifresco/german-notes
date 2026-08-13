@@ -11,7 +11,6 @@ Wir bewahren
 Ihr bewahrt
 Sie bewahren
 
-
 # [[Modus - Indikativ]] - Präteritum
 Ich bewahrte
 Du bewahrtest

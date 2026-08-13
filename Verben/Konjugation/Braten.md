@@ -11,7 +11,6 @@ Wir braten
 Ihr bratet
 Sie braten
 
-
 # [[Modus - Indikativ]] - Präteritum
 Ich briet
 Du brietst

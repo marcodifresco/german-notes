@@ -11,7 +11,6 @@ Wir leihen
 Ihr leiht
 Sie leihen
 
-
 # [[Modus - Indikativ]] - Präteritum
 Ich lieh
 Du liehst
@@ -21,7 +20,6 @@ Ihr lieht
 Sie liehen
 
 # [[Modus - Indikativ]] - Perfekt
-[[Pronomen]] + [[Haben]] + geliehen
 Ich habe geliehen
 Du hast geliehen
 Er/Sie/Es hat geliehen

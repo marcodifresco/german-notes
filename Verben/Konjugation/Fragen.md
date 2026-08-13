@@ -11,7 +11,6 @@ Wir fragen
 Ihr fragt
 Sie fragen
 
-
 # [[Modus - Indikativ]] - Präteritum
 Ich fragte
 Du fragtest

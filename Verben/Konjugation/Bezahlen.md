@@ -11,7 +11,6 @@ Wir bezahlen
 Ihr bezahlt
 Sie bezahlen
 
-
 # [[Modus - Indikativ]] - Präteritum
 Ich bezahlte
 Du bezahltest

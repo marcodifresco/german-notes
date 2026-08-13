@@ -11,7 +11,6 @@ Wir sitzen
 Ihr sitzt
 Sie sitzen
 
-
 # [[Modus - Indikativ]] - Präteritum
 Ich sass
 Du sasst
@@ -21,7 +20,6 @@ Ihr sasst
 Sie sassen
 
 # [[Modus - Indikativ]] - Perfekt
-[[Pronomen]] + [[Haben]]  + gesessen (in CH [[Sein]])
 Ich habe gesessen
 Du hast gesessen
 Er/Sie/Es hat gesessen

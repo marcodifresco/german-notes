@@ -11,7 +11,6 @@ Wir feiern
 Ihr feiert
 Sie feiern
 
-
 # [[Modus - Indikativ]] - Präteritum
 Ich feierte
 Du feiertest
@@ -124,9 +123,7 @@ Sie hätten gefeiert
 (Sie) Feiern Sie!
 
 # [[Modus - Partizips]] - Präsens
-Form Conjugation
-- feiernd
+feiernd
 
 # [[Modus - Partizips]] - Perfekt
-Form Conjugation
-- gefeiert
+gefeiert

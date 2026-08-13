@@ -11,7 +11,6 @@ Wir fliegen
 Ihr fliegt
 Sie fliegen
 
-
 # [[Modus - Indikativ]] - Präteritum
 Ich flog
 Du flogst

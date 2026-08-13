@@ -11,7 +11,6 @@ Wir trinken
 Ihr trinkt
 Sie trinken
 
-
 # [[Modus - Indikativ]] - Präteritum
 Ich trank
 Du trankst
@@ -21,7 +20,6 @@ Ihr trankt
 Sie tranken
 
 # [[Modus - Indikativ]] - Perfekt
-[[Pronomen]] + [[Haben]] + getrunken
 Ich habe getrunken
 Du hast getrunken
 Er/Sie/Es hat getrunken

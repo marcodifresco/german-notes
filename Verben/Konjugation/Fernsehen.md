@@ -11,7 +11,6 @@ Wir sehen fern
 Ihr seht fern
 Sie sehen fern
 
-
 # [[Modus - Indikativ]] - Präteritum
 Ich sah fern
 Du sahst fern
@@ -30,9 +29,6 @@ Wir haben ferngesehen
 Ihr habt ferngesehen
 Sie haben ferngesehen
 
-# Rules
-For generic viewing
-EX: Ich sehe heute Abend fern.*
 # [[Modus - Indikativ]] - Plusquamperfekt
 Ich hatte ferngesehen
 Du hattest ferngesehen
@@ -53,7 +49,7 @@ Sie werden fernsehen
 Ich werde ferngesehen haben
 Du wirst ferngesehen haben
 Er/Sie/Es wird ferngesehen haben
-Wir werden ferngesehen haben
+Wir werden ferngsehen haben
 Ihr werdet ferngesehen haben
 Sie werden ferngesehen haben
 

@@ -11,7 +11,6 @@ Wir kommen
 Ihr kommt
 Sie kommen
 
-
 # [[Modus - Indikativ]] - Präteritum
 Ich kam
 Du kamst
@@ -21,7 +20,6 @@ Ihr kamt
 Sie kamen
 
 # [[Modus - Indikativ]] - Perfekt
-[[Pronomen]] + [[Sein]] + gekommen
 Ich bin gekommen
 Du bist gekommen
 Er/Sie/Es ist gekommen
@@ -30,7 +28,6 @@ Ihr seid gekommen
 Sie sind gekommen
 
 # [[Modus - Indikativ]] - Plusquamperfekt
-[[Pronomen]] + [[Sein]] (Präteritum) + gekommen
 Ich war gekommen
 Du warst gekommen
 Er/Sie/Es war gekommen
@@ -39,7 +36,6 @@ Ihr wart gekommen
 Sie waren gekommen
 
 # [[Modus - Indikativ]] - Futur I
-[[Pronomen]] + [[Werden]] + kommen
 Ich werde kommen
 Du wirst kommen
 Er/Sie/Es wird kommen
@@ -48,7 +44,6 @@ Ihr werdet kommen
 Sie werden kommen
 
 # [[Modus - Indikativ]] - Futur II
-[[Pronomen]] + [[Werden]] + gekommen + [[Sein]]
 Ich werde gekommen sein
 Du wirst gekommen sein
 Er/Sie/Es wird gekommen sein
@@ -65,7 +60,6 @@ Ihr kommet
 Sie kommen
 
 # [[Modus - Konjunktiv]] 1 - Perfekt
-[[Pronomen]] + [[Sein]] (Konjunktiv I) + gekommen
 Ich sei gekommen
 Du seiest gekommen
 Er/Sie/Es sei gekommen
@@ -74,7 +68,6 @@ Ihr seiet gekommen
 Sie seien gekommen
 
 # [[Modus - Konjunktiv]] 1 - Futur I
-[[Pronomen]] + [[Werden]] (Konjunktiv I) + kommen
 Ich werde kommen
 Du werdest kommen
 Er/Sie/Es werde kommen
@@ -83,7 +76,6 @@ Ihr werdet kommen
 Sie werden kommen
 
 # [[Modus - Konjunktiv]] 1 - Futur II
-[[Pronomen]] + [[Werden]] (Konjunktiv I) + gekommen + [[Sein]]
 Ich werde gekommen sein
 Du werdest gekommen sein
 Er/Sie/Es werde gekommen sein
@@ -100,7 +92,6 @@ Ihr kämet
 Sie kämen
 
 # [[Modus - Konjunktiv]] 2 - Futur I
-[[Pronomen]] + [[Werden]] (Konjunktiv II) + kommen
 Ich würde kommen
 Du würdest kommen
 Er/Sie/Es würde kommen
@@ -109,7 +100,6 @@ Ihr würdet kommen
 Sie würden kommen
 
 # [[Modus - Konjunktiv]] 2 - Futur II
-[[Pronomen]] + [[Werden]] (Konjunktiv II) + gekommen + [[Sein]]
 Ich würde gekommen sein
 Du würdest gekommen sein
 Er/Sie/Es würde gekommen sein
@@ -118,7 +108,6 @@ Ihr würdet gekommen sein
 Sie würden gekommen sein
 
 # [[Modus - Konjunktiv]] 2 - Plusquamperfekt
-[[Pronomen]] + [[Sein]] (Konjunktiv II) + gekommen
 Ich wäre gekommen
 Du wärest gekommen
 Er/Sie/Es wäre gekommen

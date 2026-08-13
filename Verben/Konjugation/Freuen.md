@@ -11,7 +11,6 @@ Wir freuen
 Ihr freut
 Sie freuen
 
-
 # [[Modus - Indikativ]] - Präteritum
 Ich freute mich
 Du freutest dich

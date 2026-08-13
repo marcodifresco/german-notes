@@ -11,7 +11,6 @@ Wir wagen
 Ihr wagt
 Sie wagen
 
-
 # [[Modus - Indikativ]] - Präteritum
 Ich wagte
 Du wagtest

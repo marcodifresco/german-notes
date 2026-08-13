@@ -11,7 +11,6 @@ Wir treffen
 Ihr trefft
 Sie treffen
 
-
 # [[Modus - Indikativ]] - Präteritum
 Ich traf
 Du trafst
@@ -21,7 +20,6 @@ Ihr traft
 Sie trafen
 
 # [[Modus - Indikativ]] - Perfekt
-[[Pronomen]] + [[Haben]] + getroffen
 Ich habe getroffen
 Du hast getroffen
 Er/Sie/Es hat getroffen

@@ -11,7 +11,6 @@ Wir steigen ein
 Ihr steigt ein
 Sie steigen ein
 
-
 # [[Modus - Indikativ]] - Präteritum
 Ich stieg ein
 Du stiegst ein

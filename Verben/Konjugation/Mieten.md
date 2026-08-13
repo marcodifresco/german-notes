@@ -123,9 +123,7 @@ Sie hätten gemietet
 (Sie) Mieten Sie!
 
 # [[Modus - Partizips]] - Präsens
-Form Conjugation
-Partizip I mietend
+mietend
 
 # [[Modus - Partizips]] - Perfekt
-Form Conjugation
-Partizip II gemietet
+gemietet

@@ -27,7 +27,6 @@ wir haben ausgeführt
 ihr habt ausgeführt
 Sie haben ausgeführt
 
-
 # [[Modus - Indikativ]] - Plusquamperfekt
 ich hatte ausgeführt
 du hattest ausgeführt
@@ -59,7 +58,6 @@ er/sie/es führe aus
 wir führen aus
 ihr führet aus
 Sie führen aus
-
 
 # [[Modus - Konjunktiv]] 1 - Perfekt
 ich habe ausgeführt

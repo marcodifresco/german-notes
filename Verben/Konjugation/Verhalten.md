@@ -11,7 +11,6 @@ Wir verhalten
 Ihr verhaltet
 Sie verhalten
 
-
 # [[Modus - Indikativ]] - Präteritum
 Ich verhielt
 Du verhieltst
@@ -21,7 +20,6 @@ Ihr verhieltet
 Sie verhielten
 
 # [[Modus - Indikativ]] - Perfekt
-[[Pronomen]] + [[Haben]] + verhalten
 Ich habe verhalten
 Du hast verhalten
 Er/Sie/Es hat verhalten

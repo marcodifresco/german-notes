@@ -11,7 +11,6 @@ Wir schmecken
 Ihr schmeckt
 Sie schmecken
 
-
 # [[Modus - Indikativ]] - Präteritum
 Ich schmeckte
 Du schmecktest
@@ -21,7 +20,6 @@ Ihr schmecktet
 Sie schmeckten
 
 # [[Modus - Indikativ]] - Perfekt
-[[Pronomen]] + [[Haben]] + geschmeckt
 Ich habe geschmeckt
 Du hast geschmeckt
 Er/Sie/Es hat geschmeckt

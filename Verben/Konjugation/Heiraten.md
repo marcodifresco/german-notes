@@ -11,7 +11,6 @@ Wir heiraten
 Ihr heiratet
 Sie heiraten
 
-
 # [[Modus - Indikativ]] - Präteritum
 Ich heiratete
 Du heiratetest

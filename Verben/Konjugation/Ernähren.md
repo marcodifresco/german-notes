@@ -11,7 +11,6 @@ Wir ernähren
 Ihr ernährt
 Sie ernähren
 
-
 # [[Modus - Indikativ]] - Präteritum
 Ich ernährte
 Du ernährtest
@@ -124,11 +123,7 @@ Sie hätten ernährt
 (Sie) Ernähren Sie!
 
 # [[Modus - Partizips]] - Präsens
-Conjugation
-------------
 ernährend
 
 # [[Modus - Partizips]] - Perfekt
-Conjugation
-------------
 ernährt

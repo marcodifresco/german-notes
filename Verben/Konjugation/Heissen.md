@@ -11,7 +11,6 @@ Wir heissen
 Ihr heisst
 Sie heissen
 
-
 # [[Modus - Indikativ]] - Präteritum
 Ich hiess
 Du hiessest
@@ -124,9 +123,7 @@ Sie hätten geheissen
 (Sie) heissen Sie!
 
 # [[Modus - Partizips]] - Präsens
-Form Conjugation
-Partizip I heissend
+heissend
 
 # [[Modus - Partizips]] - Perfekt
-Form Conjugation
-Partizip II geheissen
+geheissen

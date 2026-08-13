@@ -11,7 +11,6 @@ Wir transportieren
 Ihr transportiert
 Sie transportieren
 
-
 # [[Modus - Indikativ]] - Präteritum
 Ich transportierte
 Du transportiertest

@@ -124,11 +124,7 @@ Sie hätten studiert
 (Sie) Studieren Sie!
 
 # [[Modus - Partizips]] - Präsens
-Conjugation
-------------
 studierend
 
 # [[Modus - Partizips]] - Perfekt
-Conjugation
-------------
 studiert

@@ -11,7 +11,6 @@ Wir schauen fern
 Ihr schaut fern
 Sie schauen fern
 
-
 # [[Modus - Indikativ]] - Präteritum
 Ich schaute fern
 Du schautest fern

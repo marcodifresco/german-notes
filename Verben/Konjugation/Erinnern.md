@@ -11,7 +11,6 @@ Wir erinnern
 Ihr erinnert
 Sie erinnern
 
-
 # [[Modus - Indikativ]] - Präteritum
 Ich erinnerte
 Du erinnertest

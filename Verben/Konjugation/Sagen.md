@@ -11,7 +11,6 @@ Wir sagen
 Ihr sagt
 Sie sagen
 
-
 # [[Modus - Indikativ]] - Präteritum
 Ich sagte
 Du sagtest

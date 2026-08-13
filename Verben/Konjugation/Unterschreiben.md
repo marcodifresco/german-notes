@@ -11,7 +11,6 @@ Wir unterschreiben
 Ihr unterschreibt
 Sie unterschreiben
 
-
 # [[Modus - Indikativ]] - Präteritum
 Ich unterschrieb
 Du unterschriebst
@@ -21,7 +20,6 @@ Ihr unterschriebt
 Sie unterschrieben
 
 # [[Modus - Indikativ]] - Perfekt
-[[Pronomen]] + [[Haben]] + unterschrieben
 Ich habe unterschrieben
 Du hast unterschrieben
 Er/Sie/Es hat unterschrieben

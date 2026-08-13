@@ -11,7 +11,6 @@ Wir versehen
 Ihr verseht
 Sie versehen
 
-
 # [[Modus - Indikativ]] - Präteritum
 Ich versah
 Du versahst

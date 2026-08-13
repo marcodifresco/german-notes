@@ -11,7 +11,6 @@ Wir bewerten
 Ihr bewertet
 Sie bewerten
 
-
 # [[Modus - Indikativ]] - Präteritum
 Ich bewertete
 Du bewertetest

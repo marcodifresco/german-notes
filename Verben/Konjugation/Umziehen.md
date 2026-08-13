@@ -11,7 +11,6 @@ Wir ziehen um
 Ihr zieht um
 Sie ziehen um
 
-
 # [[Modus - Indikativ]] - Präteritum
 Ich zog um
 Du zogst um
@@ -21,7 +20,6 @@ Ihr zogt um
 Sie zogen um
 
 # [[Modus - Indikativ]] - Perfekt
-[[Pronomen]] + [[Haben]] + umgezogen (for 'to change clothes')
 
 Ich habe (mich) umgezogen
 Du hast (dich) umgezogen
@@ -30,21 +28,13 @@ Wir haben (uns) umgezogen
 Ihr habt (euch) umgezogen
 Sie haben (sich) umgezogen
 
-Note: For the meaning 'to move (house)', the auxiliary verb 'sein' is used (e.g., Ich bin umgezogen).*
-
-# Examples
-Change dress: Sich um|ziehen --> gehen nach Hause uns [[Umziehen|umzuziehen]]
 # [[Modus - Indikativ]] - Plusquamperfekt
-*Meaning 'to change clothes' (with 'haben'):**
-
 Ich hatte (mich) umgezogen
 Du hattest (dich) umgezogen
 Er/Sie/Es hatte (sich) umgezogen
 Wir hatten (uns) umgezogen
 Ihr hattet (euch) umgezogen
 Sie hatten (sich) umgezogen
-
-*Meaning 'to move (house)' (with 'sein'):**
 
 Ich war umgezogen
 Du warst umgezogen
@@ -62,23 +52,12 @@ Ihr werdet umziehen
 Sie werden umziehen
 
 # [[Modus - Indikativ]] - Futur II
-*Meaning 'to change clothes' (with 'haben'):**
-
 Ich werde (mich) umgezogen haben
 Du wirst (dich) umgezogen haben
 Er/Sie/Es wird (sich) umgezogen haben
 Wir werden (uns) umgezogen haben
 Ihr werdet (euch) umgezogen haben
 Sie werden (sich) umgezogen haben
-
-*Meaning 'to move (house)' (with 'sein'):**
-
-Ich werde umgezogen sein
-Du wirst umgezogen sein
-Er/Sie/Es wird umgezogen sein
-Wir werden umgezogen sein
-Ihr werdet umgezogen sein
-Sie werden umgezogen sein
 
 # [[Modus - Konjunktiv]] 1 - Präsens
 Ich ziehe um
@@ -89,7 +68,6 @@ Ihr ziehet um
 Sie ziehen um
 
 # [[Modus - Konjunktiv]] 1 - Perfekt
-*Meaning 'to change clothes' (with 'haben'):**
 
 Ich habe (mich) umgezogen
 Du habest (dich) umgezogen
@@ -97,15 +75,6 @@ Er/Sie/Es habe (sich) umgezogen
 Wir haben (uns) umgezogen
 Ihr habet (euch) umgezogen
 Sie haben (sich) umgezogen
-
-*Meaning 'to move (house)' (with 'sein'):**
-
-Ich sei umgezogen
-Du seiest umgezogen
-Er/Sie/Es sei umgezogen
-Wir seien umgezogen
-Ihr seiet umgezogen
-Sie seien umgezogen
 
 # [[Modus - Konjunktiv]] 1 - Futur I
 Ich werde umziehen
@@ -116,23 +85,12 @@ Ihr werdet umziehen
 Sie werden umziehen
 
 # [[Modus - Konjunktiv]] 1 - Futur II
-*Meaning 'to change clothes' (with 'haben'):**
-
 Ich werde (mich) umgezogen haben
 Du werdest (dich) umgezogen haben
 Er/Sie/Es werde (sich) umgezogen haben
 Wir werden (uns) umgezogen haben
 Ihr werdet (euch) umgezogen haben
 Sie werden (sich) umgezogen haben
-
-*Meaning 'to move (house)' (with 'sein'):**
-
-Ich werde umgezogen sein
-Du werdest umgezogen sein
-Er/Sie/Es werde umgezogen sein
-Wir werden umgezogen sein
-Ihr werdet umgezogen sein
-Sie werden umgezogen sein
 
 # [[Modus - Konjunktiv]] 2 - Präteritum
 Ich zöge um
@@ -151,8 +109,6 @@ Ihr würdet umziehen
 Sie würden umziehen
 
 # [[Modus - Konjunktiv]] 2 - Futur II
-*Meaning 'to change clothes' (with 'haben'):**
-
 Ich würde (mich) umgezogen haben
 Du würdest (dich) umgezogen haben
 Er/Sie/Es würde (sich) umgezogen haben
@@ -160,33 +116,13 @@ Wir würden (uns) umgezogen haben
 Ihr würdet (euch) umgezogen haben
 Sie würden (sich) umgezogen haben
 
-*Meaning 'to move (house)' (with 'sein'):**
-
-Ich würde umgezogen sein
-Du würdest umgezogen sein
-Er/Sie/Es würde umgezogen sein
-Wir würden umgezogen sein
-Ihr würdet umgezogen sein
-Sie würden umgezogen sein
-
 # [[Modus - Konjunktiv]] 2 - Plusquamperfekt
-*Meaning 'to change clothes' (with 'haben'):**
-
 Ich hätte (mich) umgezogen
 Du hättest (dich) umgezogen
 Er/Sie/Es hätte (sich) umgezogen
 Wir hätten (uns) umgezogen
 Ihr hättet (euch) umgezogen
 Sie hätten (sich) umgezogen
-
-*Meaning 'to move (house)' (with 'sein'):**
-
-Ich wäre umgezogen
-Du wärest umgezogen
-Er/Sie/Es wäre umgezogen
-Wir wären umgezogen
-Ihr wäret umgezogen
-Sie wären umgezogen
 
 # [[Modus - Imperativ]] - Präsens
 (du) Zieh (dich) um!

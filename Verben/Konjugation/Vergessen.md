@@ -11,7 +11,6 @@ Wir vergessen
 Ihr vergesst
 Sie vergessen
 
-
 # [[Modus - Indikativ]] - Präteritum
 Ich vergass
 Du vergasst
@@ -21,7 +20,8 @@ Ihr vergasst
 Sie vergassen
 
 # [[Modus - Indikativ]] - Perfekt
-[[Pronomen]] + [[Haben]] + vergessen
+
+
 # [[Modus - Indikativ]] - Plusquamperfekt
 Ich hatte vergessen
 Du hattest vergessen

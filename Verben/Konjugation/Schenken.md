@@ -11,7 +11,6 @@ Wir schenken
 Ihr schenkt
 Sie schenken
 
-
 # [[Modus - Indikativ]] - Präteritum
 Ich schenkte
 Du schenktest

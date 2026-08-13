@@ -123,11 +123,7 @@ Sie hätten geredet
 (Sie) Reden Sie!
 
 # [[Modus - Partizips]] - Präsens
-Conjugation
-------------
 redend
 
 # [[Modus - Partizips]] - Perfekt
-Conjugation
-------------
 geredet

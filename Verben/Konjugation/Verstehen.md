@@ -11,7 +11,6 @@ Wir verstehen
 Ihr versteht
 Sie verstehen
 
-
 # [[Modus - Indikativ]] - Präteritum
 Ich verstand
 Du verstandest
@@ -21,7 +20,6 @@ Ihr verstandet
 Sie verstanden
 
 # [[Modus - Indikativ]] - Perfekt
-[[Pronomen]] + [[Haben]] + verstanden
 Ich habe verstanden
 Du hast verstanden
 Er/Sie/Es hat verstanden
@@ -30,7 +28,6 @@ Ihr habt verstanden
 Sie haben verstanden
 
 # [[Modus - Indikativ]] - Plusquamperfekt
-[[Pronomen]] + hatte + verstanden
 Ich hatte verstanden
 Du hattest verstanden
 Er/Sie/Es hatte verstanden
@@ -39,7 +36,6 @@ Ihr hattet verstanden
 Sie hatten verstanden
 
 # [[Modus - Indikativ]] - Futur I
-[[Pronomen]] + werden + verstehen
 Ich werde verstehen
 Du wirst verstehen
 Er/Sie/Es wird verstehen
@@ -65,7 +61,6 @@ Ihr verstehet
 Sie verstehen
 
 # [[Modus - Konjunktiv]] 1 - Perfekt
-[[Pronomen]] + habe + verstanden
 Ich habe verstanden
 Du habest verstanden
 Er/Sie/Es habe verstanden
@@ -74,7 +69,6 @@ Ihr habet verstanden
 Sie haben verstanden
 
 # [[Modus - Konjunktiv]] 1 - Futur I
-[[Pronomen]] + werde + verstehen
 Ich werde verstehen
 Du werdest verstehen
 Er/Sie/Es werde verstehen
@@ -83,7 +77,6 @@ Ihr werdet verstehen
 Sie werden verstehen
 
 # [[Modus - Konjunktiv]] 1 - Futur II
-[[Pronomen]] + werde + verstanden haben
 Ich werde verstanden haben
 Du werdest verstanden haben
 Er/Sie/Es werde verstanden haben
@@ -100,7 +93,6 @@ Ihr verstündet
 Sie verstünden
 
 # [[Modus - Konjunktiv]] 2 - Futur I
-[[Pronomen]] + würden + verstehen
 Ich würde verstehen
 Du würdest verstehen
 Er/Sie/Es würde verstehen
@@ -109,7 +101,6 @@ Ihr würdet verstehen
 Sie würden verstehen
 
 # [[Modus - Konjunktiv]] 2 - Futur II
-[[Pronomen]] + würden + verstanden haben
 Ich würde verstanden haben
 Du würdest verstanden haben
 Er/Sie/Es würde verstanden haben
@@ -118,7 +109,6 @@ Ihr würdet verstanden haben
 Sie würden verstanden haben
 
 # [[Modus - Konjunktiv]] 2 - Plusquamperfekt
-[[Pronomen]] + hätte + verstanden
 Ich hätte verstanden
 Du hättest verstanden
 Er/Sie/Es hätte verstanden

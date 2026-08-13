@@ -20,7 +20,6 @@ Ihr lachtet
 Sie lachten
 
 # [[Modus - Indikativ]] - Perfekt
-[[Pronomen]] + [[Haben]] + gelacht
 Ich habe gelacht
 Du hast gelacht
 Er/Sie/Es hat gelacht
@@ -29,7 +28,6 @@ Ihr habt gelacht
 Sie haben gelacht
 
 # [[Modus - Indikativ]] - Plusquamperfekt
-[[Pronomen]] + [[Haben]] (Präteritum) + gelacht
 Ich hatte gelacht
 Du hattest gelacht
 Er/Sie/Es hatte gelacht
@@ -38,7 +36,6 @@ Ihr hattet gelacht
 Sie hatten gelacht
 
 # [[Modus - Indikativ]] - Futur I
-[[Pronomen]] + [[Werden]] + lachen
 Ich werde lachen
 Du wirst lachen
 Er/Sie/Es wird lachen
@@ -47,7 +44,6 @@ Ihr werdet lachen
 Sie werden lachen
 
 # [[Modus - Indikativ]] - Futur II
-[[Pronomen]] + [[Werden]] + gelacht + haben
 Ich werde gelacht haben
 Du wirst gelacht haben
 Er/Sie/Es wird gelacht haben
@@ -64,7 +60,6 @@ Ihr lachet
 Sie lachen
 
 # [[Modus - Konjunktiv]] 1 - Perfekt
-[[Pronomen]] + [[Haben]] (Konjunktiv 1) + gelacht
 Ich habe gelacht
 Du habest gelacht
 Er/Sie/Es habe gelacht
@@ -73,7 +68,6 @@ Ihr habet gelacht
 Sie haben gelacht
 
 # [[Modus - Konjunktiv]] 1 - Futur I
-[[Pronomen]] + [[Werden]] (Konjunktiv 1) + lachen
 Ich werde lachen
 Du werdest lachen
 Er/Sie/Es werde lachen
@@ -82,7 +76,6 @@ Ihr werdet lachen
 Sie werden lachen
 
 # [[Modus - Konjunktiv]] 1 - Futur II
-[[Pronomen]] + [[Werden]] (Konjunktiv 1) + gelacht + haben
 Ich werde gelacht haben
 Du werdest gelacht haben
 Er/Sie/Es werde gelacht haben
@@ -99,7 +92,6 @@ Ihr lachtet
 Sie lachten
 
 # [[Modus - Konjunktiv]] 2 - Futur I
-[[Pronomen]] + [[Werden]] (Konjunktiv 2) + lachen
 Ich würde lachen
 Du würdest lachen
 Er/Sie/Es würde lachen
@@ -108,7 +100,6 @@ Ihr würdet lachen
 Sie würden lachen
 
 # [[Modus - Konjunktiv]] 2 - Futur II
-[[Pronomen]] + [[Werden]] (Konjunktiv 2) + gelacht + haben
 Ich würde gelacht haben
 Du würdest gelacht haben
 Er/Sie/Es würde gelacht haben
@@ -117,7 +108,6 @@ Ihr würdet gelacht haben
 Sie würden gelacht haben
 
 # [[Modus - Konjunktiv]] 2 - Plusquamperfekt
-[[Pronomen]] + [[Haben]] (Konjunktiv 2) + gelacht
 Ich hätte gelacht
 Du hättest gelacht
 Er/Sie/Es hätte gelacht

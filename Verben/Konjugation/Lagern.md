@@ -21,7 +21,6 @@ Ihr lagertet
 Sie lagerten
 
 # [[Modus - Indikativ]] - Perfekt
-[[Pronomen]] + [[Haben]] + gelagert
 Ich habe gelagert
 Du hast gelagert
 Er/Sie/Es hat gelagert
@@ -124,7 +123,7 @@ Sie hätten gelagert
 (Sie) Lagern Sie!
 
 # [[Modus - Partizips]] - Präsens
-Partizip I lagernd
+lagernd
 
 # [[Modus - Partizips]] - Perfekt
-Partizip II gelagert
+gelagert

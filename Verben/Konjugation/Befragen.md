@@ -11,7 +11,6 @@ Wir befragen
 Ihr befragt
 Sie befragen
 
-
 # [[Modus - Indikativ]] - Präteritum
 Ich befragte
 Du befragtest

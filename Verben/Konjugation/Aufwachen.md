@@ -59,7 +59,6 @@ wir wachen auf
 ihr wachet auf
 Sie wachen auf
 
-
 # [[Modus - Konjunktiv]] 1 - Perfekt
 ich sei aufgewacht
 du seiest aufgewacht
@@ -99,7 +98,6 @@ er/sie/es würde aufwachen
 wir würden aufwachen
 ihr würdet aufwachen
 Sie würden aufwachen
-
 
 # [[Modus - Konjunktiv]] 2 - Futur II
 ich würde aufgewacht sein

@@ -11,7 +11,6 @@ Wir bekommen
 Ihr bekommt
 Sie bekommen
 
-
 # [[Modus - Indikativ]] - Präteritum
 Ich bekam
 Du bekamst
@@ -29,7 +28,6 @@ Ihr habt bekommen
 Sie haben bekommen
 
 # [[Modus - Indikativ]] - Plusquamperfekt
-
 Ich hatte bekommen
 Du hattest bekommen
 Er/Sie/Es hatte bekommen

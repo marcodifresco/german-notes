@@ -11,7 +11,6 @@ Wir scheinen
 Ihr scheint
 Sie scheinen
 
-
 # [[Modus - Indikativ]] - Präteritum
 Ich schien
 Du schienst
@@ -124,11 +123,7 @@ Sie hätten geschienen
 (Sie) Scheinen Sie!
 
 # [[Modus - Partizips]] - Präsens
-Conjugation
-------------
 scheinend
 
 # [[Modus - Partizips]] - Perfekt
-Conjugation
-------------
 geschienen

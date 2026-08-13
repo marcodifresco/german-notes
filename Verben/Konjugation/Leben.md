@@ -11,7 +11,6 @@ Wir leben
 Ihr lebt
 Sie leben
 
-
 # [[Modus - Indikativ]] - Präteritum
 Ich lebte
 Du lebtest

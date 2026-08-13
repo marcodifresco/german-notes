@@ -11,7 +11,6 @@ Wir laden ein
 Ihr ladet ein
 Sie laden ein
 
-
 # [[Modus - Indikativ]] - Präteritum
 Ich lud ein
 Du ludst ein

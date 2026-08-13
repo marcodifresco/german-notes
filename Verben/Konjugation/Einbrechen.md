@@ -11,7 +11,6 @@ Wir brechen ein
 Ihr brecht ein
 Sie brechen ein
 
-
 # [[Modus - Indikativ]] - Präteritum
 Ich brach ein
 Du brachst ein

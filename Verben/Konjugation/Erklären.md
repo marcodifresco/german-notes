@@ -11,7 +11,6 @@ Wir erklären
 Ihr erklärt
 Sie erklären
 
-
 # [[Modus - Indikativ]] - Präteritum
 Ich erklärte
 Du erklärtest
@@ -124,11 +123,7 @@ Sie hätten erklärt
 (Sie) Erklären Sie!
 
 # [[Modus - Partizips]] - Präsens
-Conjugation
-------------
 erklärend
 
 # [[Modus - Partizips]] - Perfekt
-Conjugation
-------------
 erklärt

@@ -11,7 +11,6 @@ Wir schlafen
 Ihr schlaft
 Sie schlafen
 
-
 # [[Modus - Indikativ]] - Präteritum
 Ich schlief
 Du schliefst
@@ -124,11 +123,7 @@ Sie hätten geschlafen
 (Sie) Schlafen Sie!
 
 # [[Modus - Partizips]] - Präsens
-Conjugation
-------------
 schlafend
 
 # [[Modus - Partizips]] - Perfekt
-Conjugation
-------------
 geschlafen

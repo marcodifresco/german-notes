@@ -11,7 +11,6 @@ Wir interessieren
 Ihr interessiert
 Sie interessieren
 
-
 # [[Modus - Indikativ]] - Präteritum
 Ich interessierte
 Du interessiertest

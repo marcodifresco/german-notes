@@ -11,7 +11,6 @@ Wir demonstrieren
 Ihr demonstriert
 Sie demonstrieren
 
-
 # [[Modus - Indikativ]] - Präteritum
 Ich demonstrierte
 Du demonstriertest

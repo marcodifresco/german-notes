@@ -11,7 +11,6 @@ Wir ernten
 Ihr erntet
 Sie ernten
 
-
 # [[Modus - Indikativ]] - Präteritum
 Ich erntete
 Du erntetest

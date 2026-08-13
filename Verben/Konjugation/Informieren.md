@@ -11,7 +11,6 @@ Wir informieren
 Ihr informiert
 Sie informieren
 
-
 # [[Modus - Indikativ]] - Präteritum
 Ich informierte
 Du informiertest
@@ -124,11 +123,7 @@ Sie hätten informiert
 (Sie) Informieren Sie!
 
 # [[Modus - Partizips]] - Präsens
-Conjugation
-------------
 informierend
 
 # [[Modus - Partizips]] - Perfekt
-Conjugation
-------------
 informiert

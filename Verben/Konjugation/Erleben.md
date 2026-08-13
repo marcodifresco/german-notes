@@ -11,7 +11,6 @@ Wir erleben
 Ihr erlebt
 Sie erleben
 
-
 # [[Modus - Indikativ]] - Präteritum
 Ich erlebte
 Du erlebtest
@@ -21,7 +20,6 @@ Ihr erlebtet
 Sie erlebten
 
 # [[Modus - Indikativ]] - Perfekt
-[[Pronomen]] + [[Haben]] + erlebt
 Ich habe erlebt
 Du hast erlebt
 Er/Sie/Es hat erlebt
@@ -30,7 +28,6 @@ Ihr habt erlebt
 Sie haben erlebt
 
 # [[Modus - Indikativ]] - Plusquamperfekt
-Pronoun Auxiliary (Präteritum) + Partizip II
 Ich hatte erlebt
 Du hattest erlebt
 Er/Sie/Es hatte erlebt
@@ -39,7 +36,6 @@ Ihr hattet erlebt
 Sie hatten erlebt
 
 # [[Modus - Indikativ]] - Futur I
-Pronoun Auxiliary (Präsens) + Infinitiv
 Ich werde erleben
 Du wirst erleben
 Er/Sie/Es wird erleben
@@ -48,7 +44,6 @@ Ihr werdet erleben
 Sie werden erleben
 
 # [[Modus - Indikativ]] - Futur II
-Pronoun Auxiliary (Präsens) + Partizip II + haben
 Ich werde erlebt haben
 Du wirst erlebt haben
 Er/Sie/Es wird erlebt haben
@@ -83,7 +78,6 @@ Ihr werdet erleben
 Sie werden erleben
 
 # [[Modus - Konjunktiv]] 1 - Futur II
-Pronoun Auxiliary (Konjunktiv 1) + Partizip II + haben
 Ich werde erlebt haben
 Du werdest erlebt haben
 Er/Sie/Es werde erlebt haben
@@ -100,7 +94,6 @@ Ihr erlebtet
 Sie erlebten
 
 # [[Modus - Konjunktiv]] 2 - Futur I
-Pronoun Auxiliary (Konjunktiv 2) + Infinitiv
 Ich würde erleben
 Du würdest erleben
 Er/Sie/Es würde erleben
@@ -109,7 +102,6 @@ Ihr würdet erleben
 Sie würden erleben
 
 # [[Modus - Konjunktiv]] 2 - Futur II
-Pronoun Auxiliary (Konjunktiv 2) + Partizip II + haben
 Ich würde erlebt haben
 Du würdest erlebt haben
 Er/Sie/Es würde erlebt haben
@@ -118,7 +110,6 @@ Ihr würdet erlebt haben
 Sie würden erlebt haben
 
 # [[Modus - Konjunktiv]] 2 - Plusquamperfekt
-Pronoun Auxiliary (Konjunktiv 2) + Partizip II
 Ich hätte erlebt
 Du hättest erlebt
 Er/Sie/Es hätte erlebt

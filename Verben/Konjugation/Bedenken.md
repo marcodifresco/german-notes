@@ -11,7 +11,6 @@ Wir bedenken
 Ihr bedenkt
 Sie bedenken
 
-
 # [[Modus - Indikativ]] - Präteritum
 Ich bedachte
 Du bedachtest

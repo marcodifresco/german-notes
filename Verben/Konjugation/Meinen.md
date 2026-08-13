@@ -21,7 +21,6 @@ Ihr meintet
 Sie meinten
 
 # [[Modus - Indikativ]] - Perfekt
-[[Pronomen]] + [[Haben]] + gemeint
 Ich habe gemeint
 Du hast gemeint
 Er/Sie/Es hat gemeint

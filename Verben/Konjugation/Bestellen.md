@@ -11,7 +11,6 @@ Wir bestellen
 Ihr bestellt
 Sie bestellen
 
-
 # [[Modus - Indikativ]] - Präteritum
 Ich bestellte
 Du bestelltest

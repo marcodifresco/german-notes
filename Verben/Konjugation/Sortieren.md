@@ -11,7 +11,6 @@ Wir sortieren
 Ihr sortiert
 Sie sortieren
 
-
 # [[Modus - Indikativ]] - Präteritum
 Ich sortierte
 Du sortiertest
@@ -21,7 +20,6 @@ Ihr sortiertet
 Sie sortierten
 
 # [[Modus - Indikativ]] - Perfekt
-[[Pronomen]] + [[Haben]] + sortiert
 Ich habe sortiert
 Du hast sortiert
 Er/Sie/Es hat sortiert

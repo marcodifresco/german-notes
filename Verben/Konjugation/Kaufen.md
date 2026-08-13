@@ -11,7 +11,6 @@ Wir kaufen
 Ihr kauft
 Sie kaufen
 
-
 # [[Modus - Indikativ]] - Präteritum
 Ich kaufte
 Du kauftest

@@ -11,7 +11,6 @@ Wir beschweren
 Ihr beschwert
 Sie beschweren
 
-
 # [[Modus - Indikativ]] - Präteritum
 Ich beschwerte
 Du beschwertest

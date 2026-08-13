@@ -21,7 +21,6 @@ Ihr kopiertet
 Sie kopierten
 
 # [[Modus - Indikativ]] - Perfekt
-[[Pronomen]] + [[Haben]] + kopiert
 Ich habe kopiert
 Du hast kopiert
 Er/Sie/Es hat kopiert

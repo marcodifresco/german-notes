@@ -11,7 +11,6 @@ wir entziehen
 ihr entzieht
 Sie entziehen
 
-
 # [[Modus - Indikativ]] - Präteritum
 ich entzog
 du entzogst

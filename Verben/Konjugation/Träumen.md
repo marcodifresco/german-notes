@@ -11,7 +11,6 @@ Wir träumen
 Ihr träumt
 Sie träumen
 
-
 # [[Modus - Indikativ]] - Präteritum
 Ich träumte
 Du träumtest
@@ -21,7 +20,6 @@ Ihr träumtet
 Sie träumten
 
 # [[Modus - Indikativ]] - Perfekt
-[[Pronomen]] + [[Haben]] + geträumt
 Ich habe geträumt
 Du hast geträumt
 Er/Sie/Es hat geträumt

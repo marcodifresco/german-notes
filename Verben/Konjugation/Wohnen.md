@@ -11,7 +11,6 @@ Wir wohnen
 Ihr wohnt
 Sie wohnen
 
-
 # [[Modus - Indikativ]] - Präteritum
 Ich wohnte
 Du wohntest
@@ -122,7 +121,7 @@ Sie hätten gewohnt
 (Sie) - Sie!
 
 # [[Modus - Partizips]] - Präsens
-- wohnend
+wohnend
 
 # [[Modus - Partizips]] - Perfekt
-- gewohnt
+gewohnt

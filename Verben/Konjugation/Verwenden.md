@@ -11,7 +11,6 @@ Wir verwenden
 Ihr verwendet
 Sie verwenden
 
-
 # [[Modus - Indikativ]] - Präteritum
 Ich verwandte
 Du verwandtest
@@ -119,8 +118,8 @@ Sie hätten verwandt
 # [[Modus - Imperativ]] - Präsens
 (du) Verwende!
 (ihr) Verwendet!
-(wir) (wir) Verwenden wir!
-(Sie) (Sie) Verwenden Sie!
+(wir) Verwenden wir!
+(Sie) Verwenden Sie!
 
 # [[Modus - Partizips]] - Präsens
 verwendend

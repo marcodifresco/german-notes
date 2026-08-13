@@ -20,7 +20,6 @@ Ihr glaubtet
 Sie glaubten
 
 # [[Modus - Indikativ]] - Perfekt
-[[Pronomen]] + [[Haben]] + geglaubt
 Ich habe geglaubt
 Du hast geglaubt
 Er/Sie/Es hat geglaubt

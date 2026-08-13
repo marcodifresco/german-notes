@@ -11,7 +11,6 @@ Wir tauchen
 Ihr taucht
 Sie tauchen
 
-
 # [[Modus - Indikativ]] - Präteritum
 Ich tauchte
 Du tauchtest
@@ -21,7 +20,6 @@ Ihr tauchtet
 Sie tauchten
 
 # [[Modus - Indikativ]] - Perfekt
-[[Pronomen]] + [[Sein]] + getaucht
 Ich bin getaucht
 Du bist getaucht
 Er/Sie/Es ist getaucht

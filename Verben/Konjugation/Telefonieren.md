@@ -11,7 +11,6 @@ Wir telefonieren
 Ihr telefoniert
 Sie telefonieren
 
-
 # [[Modus - Indikativ]] - Präteritum
 Ich telefonierte
 Du telefoniertest

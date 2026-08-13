@@ -11,7 +11,6 @@ Wir zitieren
 Ihr zitiert
 Sie zitieren
 
-
 # [[Modus - Indikativ]] - Präteritum
 Ich zitierte
 Du zitiertest
@@ -124,11 +123,7 @@ Sie hätten zitiert
 (Sie) Sie (formal) Zitieren Sie!
 
 # [[Modus - Partizips]] - Präsens
-Conjugation
-------------
 zitierend
 
 # [[Modus - Partizips]] - Perfekt
-Conjugation
-------------
 zitiert

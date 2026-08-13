@@ -11,7 +11,6 @@ Wir sprechen
 Ihr sprecht
 Sie sprechen
 
-
 # [[Modus - Indikativ]] - Präteritum
 Ich sprach
 Du sprachst
@@ -21,7 +20,6 @@ Ihr spracht
 Sie sprachen
 
 # [[Modus - Indikativ]] - Perfekt
-[[Pronomen]] + [[Haben]] + gesprochen
 Ich habe gesprochen
 Du hast gesprochen
 Er/Sie/Es hat gesprochen

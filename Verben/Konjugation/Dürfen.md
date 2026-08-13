@@ -11,7 +11,6 @@ Wir dürfen
 Ihr dürft
 Sie dürfen
 
-
 # [[Modus - Indikativ]] - Präteritum
 Ich durfte
 Du durftest

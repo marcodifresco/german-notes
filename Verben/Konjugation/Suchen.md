@@ -11,7 +11,6 @@ Wir suchen
 Ihr sucht
 Sie suchen
 
-
 # [[Modus - Indikativ]] - Präteritum
 Ich suchte
 Du suchtest
@@ -21,7 +20,6 @@ Ihr suchtet
 Sie suchten
 
 # [[Modus - Indikativ]] - Perfekt
-[[Pronomen]] + [[Haben]] + gesucht
 Ich habe gesucht
 Du hast gesucht
 Er/Sie/Es hat gesucht

@@ -11,7 +11,6 @@ Wir entspannen
 Ihr entspannt
 Sie entspannen
 
-
 # [[Modus - Indikativ]] - Präteritum
 Ich entspannte
 Du entspanntest

@@ -11,7 +11,6 @@ Wir helfen
 Ihr hilft
 Sie helfen
 
-
 # [[Modus - Indikativ]] - Präteritum
 Ich half
 Du halfst

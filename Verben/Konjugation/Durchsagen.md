@@ -11,7 +11,6 @@ Wir sagen durch
 Ihr sagt durch
 Sie sagen durch
 
-
 # [[Modus - Indikativ]] - Präteritum
 Ich sagte durch
 Du sagtest durch

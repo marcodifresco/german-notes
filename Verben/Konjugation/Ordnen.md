@@ -11,7 +11,6 @@ Wir ordnen
 Ihr ordnet
 Sie ordnen
 
-
 # [[Modus - Indikativ]] - Präteritum
 Ich ordnete
 Du ordnetest
@@ -21,7 +20,6 @@ Ihr ordnetet
 Sie ordneten
 
 # [[Modus - Indikativ]] - Perfekt
-[[Pronomen]] + [[Haben]] + geordnet
 Ich habe geordnet
 Du hast geordnet
 Er/Sie/Es hat geordnet
@@ -124,9 +122,7 @@ Sie hätten geordnet
 (Sie) Ordnen Sie!
 
 # [[Modus - Partizips]] - Präsens
-Form Conjugation
- ordnend
+ordnend
 
 # [[Modus - Partizips]] - Perfekt
-Form Conjugation
- geordnet
+geordnet

@@ -11,7 +11,6 @@ Wir nehmen
 Ihr nehmt
 Sie nehmen
 
-
 # [[Modus - Indikativ]] - Präteritum
 Ich nahm
 Du nahmst
@@ -21,7 +20,6 @@ Ihr nahmt
 Sie nahmen
 
 # [[Modus - Indikativ]] - Perfekt
-[[Pronomen]] + [[Haben]] + genommen
 Ich habe genommen
 Du hast genommen
 Er/Sie/Es hat genommen

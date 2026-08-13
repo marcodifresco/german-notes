@@ -11,7 +11,6 @@ Wir schliessen
 Ihr schliesst
 Sie schliessen
 
-
 # [[Modus - Indikativ]] - Präteritum
 Ich schloss
 Du schlossest
@@ -21,7 +20,6 @@ Ihr schlosst
 Sie schlossen
 
 # [[Modus - Indikativ]] - Perfekt
-[[Pronomen]] + [[Haben]] + geschlossen
 Ich habe geschlossen
 Du hast geschlossen
 Er/Sie/Es hat geschlossen

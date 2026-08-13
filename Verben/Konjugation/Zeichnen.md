@@ -11,7 +11,6 @@ Wir zeichnen
 Ihr zeichnet
 Sie zeichnen
 
-
 # [[Modus - Indikativ]] - Präteritum
 Ich zeichnete
 Du zeichnetest

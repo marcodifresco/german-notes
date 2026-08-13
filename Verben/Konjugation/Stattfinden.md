@@ -20,7 +20,6 @@ Ihr fandet statt
 Sie fanden statt
 
 # [[Modus - Indikativ]] - Perfekt
-[[Pronomen]] + [[Haben]] + stattgefunden
 Ich habe stattgefunden
 Du hast stattgefunden
 Er/Sie/Es hat stattgefunden

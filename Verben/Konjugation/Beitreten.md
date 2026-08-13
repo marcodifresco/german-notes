@@ -11,7 +11,6 @@ Wir treten bei
 Ihr tretet bei
 Sie treten bei
 
-
 # [[Modus - Indikativ]] - Präteritum
 Ich trat bei
 Du tratest bei

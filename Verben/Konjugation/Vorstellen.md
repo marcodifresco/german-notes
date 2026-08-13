@@ -20,7 +20,6 @@ ihr stelltet vor
 Sie stellten vor
 
 # [[Modus - Indikativ]] - Perfekt
-[[Pronomen]] + [[Haben]] + vorgestellt
 ich habe vorgestellt
 du hast vorgestellt
 er/sie/es hat vorgestellt
@@ -119,8 +118,8 @@ Sie hätten vorgestellt
 # [[Modus - Imperativ]] - Präsens
 (du) Stell vor!
 (ihr) Stellt vor!
-(wir) (wir) Stellen wir!
-(Sie) (Sie) Stellen Sie!
+(wir) Stellen wir!
+(Sie) Stellen Sie!
 
 # [[Modus - Partizips]] - Präsens
 vorstellend

@@ -11,7 +11,6 @@ wir beraten
 ihr beratet
 Sie beraten
 
-
 # [[Modus - Indikativ]] - Präteritum
 ich beriet
 du berietst

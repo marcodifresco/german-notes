@@ -11,7 +11,6 @@ Wir gehen
 Ihr geht
 Sie gehen
 
-
 # [[Modus - Indikativ]] - Präteritum
 Ich ging
 Du ging(e)st
@@ -19,6 +18,7 @@ Er/Sie/Es ging
 Wir gingen
 Ihr ging(e)t
 Sie gingen
+
 # [[Modus - Indikativ]] - Perfekt
 Ich bin gegangen
 Du bist gegangen
@@ -26,7 +26,6 @@ Er/Sie/Es ist gegangen
 Wir sind gegangen
 Ihr seid gegangen
 Sie sind gegangen
-
 
 # [[Modus - Indikativ]] - Plusquamperfekt
 Ich war gegangen

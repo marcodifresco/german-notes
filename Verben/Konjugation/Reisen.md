@@ -11,7 +11,6 @@ Wir reisen
 Ihr reist
 Sie reisen
 
-
 # [[Modus - Indikativ]] - Präteritum
 Ich reiste
 Du reistest

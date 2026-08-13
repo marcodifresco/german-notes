@@ -11,7 +11,6 @@ Wir fressen
 Ihr fresst
 Sie fressen
 
-
 # [[Modus - Indikativ]] - Präteritum
 Ich frass
 Du frassest

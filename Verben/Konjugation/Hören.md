@@ -11,7 +11,6 @@ Wir hören
 Ihr hört
 Sie hören
 
-
 # [[Modus - Indikativ]] - Präteritum
 Ich hörte
 Du hörtest

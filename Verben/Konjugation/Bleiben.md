@@ -11,7 +11,6 @@ Wir bleiben
 Ihr bleibt
 Sie bleiben
 
-
 # [[Modus - Indikativ]] - Präteritum
 Ich blieb
 Du bliebst

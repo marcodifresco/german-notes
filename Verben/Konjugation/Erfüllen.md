@@ -11,7 +11,6 @@ Wir erfüllen
 Ihr erfüllt
 Sie erfüllen
 
-
 # [[Modus - Indikativ]] - Präteritum
 Ich erfüllte
 Du erfülltest

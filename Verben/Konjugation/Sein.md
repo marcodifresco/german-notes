@@ -11,7 +11,6 @@ Wir sind
 Ihr seid
 Sie sind
 
-
 # [[Modus - Indikativ]] - Präteritum
 Ich war
 Du warst
@@ -19,7 +18,6 @@ Er/Sie/Es war
 Wir waren
 Ihr wart
 Sie waren
-
 
 # [[Modus - Indikativ]] - Perfekt
 Ich bin gewesen
@@ -122,9 +120,7 @@ Sie wären gewesen
 (Sie) Seien Sie!
 
 # [[Modus - Partizips]] - Präsens
-Form Conjugation
-Partizip I seiend
+seiend
 
 # [[Modus - Partizips]] - Perfekt
-Form Conjugation
-Partizip II gewesen
+gewesen

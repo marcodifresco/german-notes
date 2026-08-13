@@ -20,7 +20,6 @@ Ihr passiertet
 Sie passierten
 
 # [[Modus - Indikativ]] - Perfekt
-[[Pronomen]] + [[Sein]] + passiert
 Ich bin passiert
 Du bist passiert
 Er/Sie/Es ist passiert

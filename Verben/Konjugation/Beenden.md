@@ -11,7 +11,6 @@ Wir beenden
 Ihr beendet
 Sie beenden
 
-
 # [[Modus - Indikativ]] - Präteritum
 Ich beendete
 Du beendetest

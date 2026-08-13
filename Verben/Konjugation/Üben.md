@@ -11,7 +11,6 @@ Wir üben
 Ihr übt
 Sie üben
 
-
 # [[Modus - Indikativ]] - Präteritum
 Ich übte
 Du übtest
@@ -21,7 +20,6 @@ Ihr übtet
 Sie übten
 
 # [[Modus - Indikativ]] - Perfekt
-[[Pronomen]] + [[Haben]] + geübt
 Ich habe geübt
 Du hast geübt
 Er/Sie/Es hat geübt
@@ -124,7 +122,7 @@ Sie hätten geübt
 (Sie) Üben Sie!
 
 # [[Modus - Partizips]] - Präsens
-üb_end_
+übend
 
 # [[Modus - Partizips]] - Perfekt
-ge_übt_
+geübt

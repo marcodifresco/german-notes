@@ -11,7 +11,6 @@ Wir lernen
 Ihr lernt
 Sie lernen
 
-
 # [[Modus - Indikativ]] - Präteritum
 Ich lernte
 Du lerntest
@@ -21,7 +20,6 @@ Ihr lerntet
 Sie lernten
 
 # [[Modus - Indikativ]] - Perfekt
-[[Pronomen]] + [[Haben]] + gelernt
 Ich habe gelernt
 Du hast gelernt
 Er/Sie/Es hat gelernt

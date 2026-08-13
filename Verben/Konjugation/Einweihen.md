@@ -11,7 +11,6 @@ Wir weihen ein
 Ihr weiht ein
 Sie weihen ein
 
-
 # [[Modus - Indikativ]] - Präteritum
 Ich weihte ein
 Du weihtest ein

@@ -11,7 +11,6 @@ Wir ergänzen
 Ihr ergänzt
 Sie ergänzen
 
-
 # [[Modus - Indikativ]] - Präteritum
 Ich ergänzte
 Du ergänztest

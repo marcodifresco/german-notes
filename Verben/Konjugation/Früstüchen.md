@@ -11,7 +11,6 @@ Wir frühstücken
 Ihr frühstückt
 Sie frühstücken
 
-
 # [[Modus - Indikativ]] - Präteritum
 Ich frühstückte
 Du frühstücktest

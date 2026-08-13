@@ -11,7 +11,6 @@ Wir besuchen
 Ihr besucht
 Sie besuchen
 
-
 # [[Modus - Indikativ]] - Perfekt 
 Ich habe besucht
 Du hast besucht

@@ -11,7 +11,6 @@ Wir zeigen
 Ihr zeigt
 Sie zeigen
 
-
 # [[Modus - Indikativ]] - Präteritum
 Ich zeigte
 Du zeigtest
@@ -124,11 +123,7 @@ Sie hätten gezeigt
 (Sie) Sie Zeigen Sie!
 
 # [[Modus - Partizips]] - Präsens
-Conjugation
-------------
 zeigend
 
 # [[Modus - Partizips]] - Perfekt
-Conjugation
-------------
 gezeigt

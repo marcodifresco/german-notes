@@ -11,7 +11,6 @@ wir erledigen
 ihr erledigt
 Sie erledigen
 
-
 # [[Modus - Indikativ]] - Präteritum
 ich erledigte
 du erledigtest

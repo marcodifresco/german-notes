@@ -11,7 +11,6 @@ Wir begleiten
 Ihr begleitet
 Sie begleiten
 
-
 # [[Modus - Indikativ]] - Präteritum
 Ich begleitete
 Du begleitetest

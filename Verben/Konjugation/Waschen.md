@@ -11,7 +11,6 @@ Wir waschen
 Ihr wascht
 Sie waschen
 
-
 # [[Modus - Indikativ]] - Präteritum
 Ich wusch
 Du wuschest

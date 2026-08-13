@@ -11,7 +11,6 @@ Wir fallen
 Ihr fallt
 Sie fallen
 
-
 # [[Modus - Indikativ]] - Präteritum
 Ich fiel
 Du fielst

@@ -11,7 +11,6 @@ Wir backen
 Ihr backt
 Sie backen
 
-
 # [[Modus - Indikativ]] - Präteritum
 Ich backte
 Du backtest

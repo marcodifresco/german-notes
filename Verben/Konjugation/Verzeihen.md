@@ -4,7 +4,6 @@ Meaning: to forgive
 ___
 
 # [[Modus - Indikativ]] - Präsens
-
 ich verzeihe
 du verzeihst
 er/sie/es verzeiht
@@ -13,7 +12,6 @@ ihr verzeiht
 Sie verzeihen
 
 # [[Modus - Indikativ]] - Präteritum
-
 ich verzieh
 du verziehst
 er/sie/es verzieh
@@ -22,7 +20,6 @@ ihr verzieht
 Sie verziehen
 
 # [[Modus - Indikativ]] - Perfekt
-[[Pronomen]] + [[Haben]] + verziehen
 ich habe verziehen
 du hast verziehen
 er/sie/es hat verziehen
@@ -31,7 +28,6 @@ ihr habt verziehen
 Sie haben verziehen
 
 # [[Modus - Indikativ]] - Plusquamperfekt
-
 ich hatte verziehen
 du hattest verziehen
 er/sie/es hatte verziehen
@@ -40,7 +36,6 @@ ihr hattet verziehen
 Sie hatten verziehen
 
 # [[Modus - Indikativ]] - Futur I
-
 ich werde verzeihen
 du wirst verzeihen
 er/sie/es wird verzeihen
@@ -49,7 +44,6 @@ ihr werdet verzeihen
 Sie werden verzeihen
 
 # [[Modus - Indikativ]] - Futur II
-
 ich werde verziehen haben
 du wirst verziehen haben
 er/sie/es wird verziehen haben
@@ -58,7 +52,6 @@ ihr werdet verziehen haben
 Sie werden verziehen haben
 
 # [[Modus - Konjunktiv]] 1 - Präsens
-
 ich verzeihe
 du verzeihest
 er/sie/es verzeihe
@@ -67,7 +60,6 @@ ihr verzeihet
 Sie verzeihen
 
 # [[Modus - Konjunktiv]] 1 - Perfekt
-
 ich habe verziehen
 du habest verziehen
 er/sie/es habe verziehen
@@ -76,7 +68,6 @@ ihr habet verziehen
 Sie haben verziehen
 
 # [[Modus - Konjunktiv]] 1 - Futur I
-
 ich werde verzeihen
 du werdest verzeihen
 er/sie/es werde verzeihen
@@ -85,7 +76,6 @@ ihr werdet verzeihen
 Sie werden verzeihen
 
 # [[Modus - Konjunktiv]] 1 - Futur II
-
 ich werde verziehen haben
 du werdest verziehen haben
 er/sie/es werde verziehen haben
@@ -94,7 +84,6 @@ ihr werdet verziehen haben
 Sie werden verziehen haben
 
 # [[Modus - Konjunktiv]] 2 - Präteritum
-
 ich verziehe
 du verziehest
 er/sie/es verziehe
@@ -112,7 +101,6 @@ ihr würdet verzeihen
 Sie würden verzeihen
 
 # [[Modus - Konjunktiv]] 2 - Futur II
-
 ich würde verziehen haben
 du würdest verziehen haben
 er/sie/es würde verziehen haben
@@ -121,7 +109,6 @@ ihr würdet verziehen haben
 Sie würden verziehen haben
 
 # [[Modus - Konjunktiv]] 2 - Plusquamperfekt
-
 ich hätte verziehen
 du hättest verziehen
 er/sie/es hätte verziehen
@@ -132,13 +119,11 @@ Sie hätten verziehen
 # [[Modus - Imperativ]] - Präsens
 (du) verzeih!
 (ihr) verzeiht!
-(wir) (wir) verzeihen wir!
-(Sie) (Sie) verzeihen Sie!
+(wir) verzeihen wir!
+(Sie) verzeihen Sie!
 
 # [[Modus - Partizips]] - Präsens
-
 verzeihend
 
 # [[Modus - Partizips]] - Perfekt
-
 verziehen

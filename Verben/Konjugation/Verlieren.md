@@ -11,7 +11,6 @@ Wir verlieren
 Ihr verliert
 Sie verlieren
 
-
 # [[Modus - Indikativ]] - Präteritum
 Ich verlor
 Du verlorst
