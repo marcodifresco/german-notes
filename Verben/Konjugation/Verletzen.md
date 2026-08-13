@@ -2,6 +2,7 @@ ___
 Links: [[Verben]] [[Typ - Regular verben]] [[Typ - Reflexive Verben]]
 Meaning: to injury / to hurt
 ___
+
 # [[Modus - Indikativ]] - Präsens
 ich verletze
 du verletzt
@@ -50,7 +51,7 @@ nwir werden verletzt haben
 ihr werdet verletzt haben
 Sie werden verletzt haben
 
-# [[Modus - Konjunktiv]] 1 - Present
+# [[Modus - Konjunktiv]] 1 - Präsens
 ich verletze
 du verletzest
 er/sie/es verletze

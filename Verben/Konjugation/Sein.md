@@ -26,6 +26,7 @@ Er/Sie/Es ist gewesen
 Wir sind gewesen
 Ihr seid gewesen
 Sie sind gewesen
+
 # [[Modus - Indikativ]] - Plusquamperfekt
 Ich war gewesen
 Du warst gewesen

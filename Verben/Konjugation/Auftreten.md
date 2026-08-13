@@ -51,7 +51,7 @@ wir werden aufgetreten sein
 ihr werdet aufgetreten sein
 sie/Sie werden aufgetreten sein
 
-# [[Modus - Konjunktiv]] 1 - Present
+# [[Modus - Konjunktiv]] 1 - Präsens
 ich trete auf
 du tretest auf
 er/sie/es trete auf
@@ -120,6 +120,7 @@ sie/Sie wären aufgetreten
 (ihr) Tretet auf!
 (wir) Treten wir auf!
 (Sie) Treten Sie auf!
+
 # [[Modus - Partizips]] - Präsens
 auftretend
 

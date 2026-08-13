@@ -51,7 +51,7 @@ wir werden ausgesucht haben
 ihr werdet ausgesucht haben
 Sie werden ausgesucht haben
 
-# [[Modus - Konjunktiv]] 1 - Present
+# [[Modus - Konjunktiv]] 1 - Präsens
 ich suche aus
 du suchest aus
 er/sie/es suche aus
@@ -120,6 +120,7 @@ Sie würden ausgesucht haben
 (ihr) Sucht aus!
 (wir) Suchen wir aus!
 (Sie) Suchen Sie aus!
+
 # [[Modus - Partizips]] - Präsens
 aussuchend
 

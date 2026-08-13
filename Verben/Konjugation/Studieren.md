@@ -11,7 +11,6 @@ Wir studieren
 Ihr studiert
 Sie studieren
 
-
 # [[Modus - Indikativ]] - Präteritum
 Ich studierte
 Du studiertest

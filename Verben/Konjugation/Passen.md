@@ -11,7 +11,6 @@ Wir passen
 Ihr passt
 Sie passen
 
-
 # [[Modus - Indikativ]] - Präteritum
 Ich passte
 Du passtest

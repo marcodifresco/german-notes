@@ -11,7 +11,6 @@ Wir kümmern
 Ihr kümmert
 Sie kümmern
 
-
 # [[Modus - Indikativ]] - Präteritum
 Ich kümmerte
 Du kümmertest

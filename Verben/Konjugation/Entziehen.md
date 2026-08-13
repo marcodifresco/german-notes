@@ -30,6 +30,7 @@ Sie haben entzogen
 
 # Variants
 [[Ziehen]]
+
 # [[Modus - Indikativ]] - Plusquamperfekt
 ich hatte entzogen
 du hattest entzogen

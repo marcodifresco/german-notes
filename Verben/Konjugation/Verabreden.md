@@ -98,7 +98,7 @@ wir würden verabreden
 ihr würdet verabreden
 Sie würden verabreden
 
-# [[Modus - Konjunktiv]] 2 -  Futur II
+# [[Modus - Konjunktiv]] 2 - Futur II
 ich würde verabredet haben
 du würdest verabredet haben
 er/sie/es würde verabredet haben

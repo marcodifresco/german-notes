@@ -51,7 +51,7 @@ wir werden aufgefordert haben
 ihr werdet aufgefordert haben
 sie/Sie werden aufgefordert haben
 
-# [[Modus - Konjunktiv]] 1 - Present
+# [[Modus - Konjunktiv]] 1 - Präsens
 ich fordere auf
 du forderest auf
 er/sie/es fordere auf

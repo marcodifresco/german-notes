@@ -11,7 +11,6 @@ Wir steigen um
 Ihr steigt um
 Sie steigen um
 
-
 # [[Modus - Indikativ]] - Präteritum
 Ich stieg um
 Du stiegst um

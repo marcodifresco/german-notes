@@ -122,9 +122,9 @@ Sie hätten gesprochen
 (Sie) Sprechen Sie!
 
 # [[Modus - Partizips]] - Präsens
-Conjugation 
-sprechend 
+Conjugation
+sprechend
 
 # [[Modus - Partizips]] - Perfekt
-Conjugation 
-gesprochen 
+Conjugation
+gesprochen

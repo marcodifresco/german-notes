@@ -11,7 +11,6 @@ Wir stehen
 Ihr steht
 Sie stehen
 
-
 # [[Modus - Indikativ]] - Präteritum
 Ich stand
 Du standest

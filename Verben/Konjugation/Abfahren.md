@@ -6,9 +6,9 @@ ___
 # [[Modus - Indikativ]] - Präsens
 Ich fahre ab
 Du fährst ab
-Er/Sie/Es fährt ab 
+Er/Sie/Es fährt ab
 Wir fahren ab
-Ihr fahrt ab 
+Ihr fahrt ab
 Sie fahren ab
 
 # [[Modus - Indikativ]] - Präteritum

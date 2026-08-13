@@ -2,6 +2,7 @@ ___
 Links: [[Verben]] [[Typ - Regular verben]] [[Typ - Trennbare verben]]
 Meaning: to clean up
 ___
+
 # [[Modus - Indikativ]] - Präsens
 Ich räume auf
 Du räumst auf

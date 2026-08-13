@@ -11,7 +11,6 @@ Wir kosten
 Ihr kostet
 Sie kosten
 
-
 # [[Modus - Indikativ]] - Präteritum
 Ich kostete
 Du kostetest

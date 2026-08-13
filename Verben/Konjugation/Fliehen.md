@@ -1,7 +1,8 @@
 ___
-Links: [[Verben]] [[Typ - Irregular verben]] 
+Links: [[Verben]] [[Typ - Irregular verben]]
 Meaning: to flee
 ___
+
 # [[Modus - Indikativ]] - Präsens
 ich fliehe
 du fliehst
@@ -50,7 +51,7 @@ wir werden geflohen sein
 ihr werdet geflohen sein
 Sie werden geflohen sein
 
-# [[Modus - Konjunktiv]] 1 - Present
+# [[Modus - Konjunktiv]] 1 - Präsens
 ich fliehe
 du fliehest
 er/sie/es fliehe

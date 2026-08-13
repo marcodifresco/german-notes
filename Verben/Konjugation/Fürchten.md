@@ -30,6 +30,7 @@ Sie haben gefürchtet
 
 # Uses
 Sich [[Fürchten]] vor
+
 # [[Modus - Indikativ]] - Plusquamperfekt
 ich hatte gefürchtet
 du hattest gefürchtet

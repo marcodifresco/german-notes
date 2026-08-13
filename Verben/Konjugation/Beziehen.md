@@ -30,6 +30,7 @@ sie/Sie haben sich bezogen
 
 # Variations
 [[Ziehen]]
+
 # [[Modus - Indikativ]] - Plusquamperfekt
 ich hatte mich bezogen
 du hattest dich bezogen

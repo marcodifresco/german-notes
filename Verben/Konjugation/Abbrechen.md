@@ -2,7 +2,8 @@ ___
 Links: [[Verben]] [[Typ - Irregular verben]] [[Typ - Trennbare verben]]
 Meaning: to cancel
 ___
-make 
+make
+
 # [[Modus - Indikativ]] - Präsens
 ich breche ab
 du brichst ab

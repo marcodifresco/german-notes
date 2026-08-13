@@ -31,6 +31,7 @@ Sie haben ferngeschaut
 # Rules
 For generic viewing
 EX: Ich schaue heute Abend fern.*
+
 # [[Modus - Indikativ]] - Plusquamperfekt
 Ich hatte ferngeschaut
 Du hattest ferngeschaut

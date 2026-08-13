@@ -18,6 +18,7 @@ Es/sie/es fragte
 Wir fragten
 Ihr fragtet
 Sie fragten
+
 # [[Modus - Indikativ]] - Perfekt
 [[Pronomen]] + [[Haben]] + gefragt
 Ich habe gefragt

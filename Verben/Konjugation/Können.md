@@ -11,7 +11,6 @@ Wir können
 Ihr könnt
 Sie können
 
-
 # [[Modus - Indikativ]] - Präteritum
 Ich konnte
 Du konntest
@@ -91,7 +90,6 @@ Er/Sie/Es könnte
 Wir könnten
 Ihr könntet
 Sie könnten
-
 
 # [[Modus - Konjunktiv]] 2 - Futur I
 Ich würde können

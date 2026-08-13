@@ -11,7 +11,6 @@ Wir lagern
 Ihr lagert
 Sie lagern
 
-
 # [[Modus - Indikativ]] - Präteritum
 Ich lagerte
 Du lagertest

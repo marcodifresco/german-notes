@@ -11,7 +11,6 @@ Wir kopieren
 Ihr kopiert
 Sie kopieren
 
-
 # [[Modus - Indikativ]] - Präteritum
 Ich kopierte
 Du kopiertest

@@ -11,7 +11,6 @@ Wir konfiszieren
 Ihr konfisziert
 Sie konfiszieren
 
-
 # [[Modus - Indikativ]] - Präteritum
 Ich konfiszierte
 Du konfisziertest
@@ -19,7 +18,6 @@ Er/Sie/Es konfiszierte
 Wir konfiszierten
 Ihr konfisziertet
 Sie konfiszierten
-
 
 # [[Modus - Indikativ]] - Perfekt
 Ich habe konfisziert
@@ -29,7 +27,6 @@ Wir haben konfisziert
 Ihr habt konfisziert
 Sie haben konfisziert
 
-
 # [[Modus - Indikativ]] - Plusquamperfekt
 Ich hatte konfisziert
 Du hattest konfisziert
@@ -37,7 +34,6 @@ Er/Sie/Es hatte konfisziert
 Wir hatten konfisziert
 Ihr hattet konfisziert
 Sie hatten konfisziert
-
 
 # [[Modus - Indikativ]] - Futur I
 Ich werde konfiszieren
@@ -47,7 +43,6 @@ Wir werden konfiszieren
 Ihr werdet konfiszieren
 Sie werden konfiszieren
 
-
 # [[Modus - Indikativ]] - Futur II
 Ich werde konfisziert haben
 Du wirst konfisziert haben
@@ -55,7 +50,6 @@ Er/Sie/Es wird konfisziert haben
 Wir werden konfisziert haben
 Ihr werdet konfisziert haben
 Sie werden konfisziert haben
-
 
 # [[Modus - Konjunktiv]] 1 - Präsens
 Ich konfisziere
@@ -65,7 +59,6 @@ Wir konfiszieren
 Ihr konfiszieret
 Sie konfiszieren
 
-
 # [[Modus - Konjunktiv]] 1 - Perfekt
 Ich habe konfisziert
 Du habest konfisziert
@@ -73,7 +66,6 @@ Er/Sie/Es habe konfisziert
 Wir haben konfisziert
 Ihr habet konfisziert
 Sie haben konfisziert
-
 
 # [[Modus - Konjunktiv]] 1 - Futur I
 Ich werde konfiszieren
@@ -83,7 +75,6 @@ Wir werden konfiszieren
 Ihr werdet konfiszieren
 Sie werden konfiszieren
 
-
 # [[Modus - Konjunktiv]] 1 - Futur II
 Ich werde konfisziert haben
 Du werdest konfisziert haben
@@ -91,7 +82,6 @@ Er/Sie/Es werde konfisziert haben
 Wir werden konfisziert haben
 Ihr werdet konfisziert haben
 Sie werden konfisziert haben
-
 
 # [[Modus - Konjunktiv]] 2 - Präteritum
 Ich konfiszierte
@@ -101,7 +91,6 @@ Wir konfiszierten
 Ihr konfisziertet
 Sie konfiszierten
 
-
 # [[Modus - Konjunktiv]] 2 - Futur I
 Ich würde konfiszieren
 Du würdest konfiszieren
@@ -109,7 +98,6 @@ Er/Sie/Es würde konfiszieren
 Wir würden konfiszieren
 Ihr würdet konfiszieren
 Sie würden konfiszieren
-
 
 # [[Modus - Konjunktiv]] 2 - Futur II
 Ich würde konfisziert haben
@@ -119,7 +107,6 @@ Wir würden konfisziert haben
 Ihr würdet konfisziert haben
 Sie würden konfisziert haben
 
-
 # [[Modus - Konjunktiv]] 2 - Plusquamperfekt
 Ich hätte konfisziert
 Du hättest konfisziert
@@ -128,18 +115,15 @@ Wir hätten konfisziert
 Ihr hättet konfisziert
 Sie hätten konfisziert
 
-
 # [[Modus - Imperativ]] - Präsens
 (du) konfisziere!
 (ihr) konfisziert!
 (wir) konfiszieren wir!
 (Sie) konfiszieren Sie!
 
-
 # [[Modus - Partizips]] - Präsens
 Partizip Form
 Präsens konfiszierend
-
 
 # [[Modus - Partizips]] - Perfekt
 Partizip Form

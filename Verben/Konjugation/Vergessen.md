@@ -21,7 +21,6 @@ Sie vergassen
 
 # [[Modus - Indikativ]] - Perfekt
 
-
 # [[Modus - Indikativ]] - Plusquamperfekt
 Ich hatte vergessen
 Du hattest vergessen

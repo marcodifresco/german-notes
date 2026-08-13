@@ -2,6 +2,7 @@ ___
 Links: [[Verben]] [[Typ - Regular verben]] [[Typ - Trennbare verben]]
 Meaning: to produce
 ___
+
 # [[Modus - Indikativ]] - Präsens
 ich stelle her
 du stellst her
@@ -50,7 +51,7 @@ wir werden hergestellt haben
 ihr werdet hergestellt haben
 Sie werden hergestellt haben
 
-# [[Modus - Konjunktiv]] 1 - Present
+# [[Modus - Konjunktiv]] 1 - Präsens
 ich stelle her
 du stellest her
 er/sie/es stelle her

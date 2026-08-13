@@ -11,7 +11,6 @@ Wir läuten
 Ihr läutet
 Sie läuten
 
-
 # [[Modus - Indikativ]] - Präteritum
 Ich läutete
 Du läutetest

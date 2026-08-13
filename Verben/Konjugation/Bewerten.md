@@ -123,9 +123,9 @@ Sie hätten bewertet
 (Sie) bewerten Sie!
 
 # [[Modus - Partizips]] - Präsens
-Form 
-bewertend 
+Form
+bewertend
 
 # [[Modus - Partizips]] - Perfekt
-Form 
-bewertet 
+Form
+bewertet

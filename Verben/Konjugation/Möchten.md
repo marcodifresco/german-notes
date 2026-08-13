@@ -39,7 +39,7 @@ Sie möchten
 (Not typically formed for 'möchten'). Not typically formed
 
 # [[Modus - Konjunktiv]] 2 - Präteritum
-(This is the primary form of 'möchten', as 'möchten' itself is the Konjunktiv II Präteritum of 'mögen'). 
+(This is the primary form of 'möchten', as 'möchten' itself is the Konjunktiv II Präteritum of 'mögen').
 Ich möchte
 Du möchtest
 Er/Sie/Es möchte

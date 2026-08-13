@@ -118,7 +118,6 @@ Sie hätten gewollt
 
 # [[Modus - Imperativ]] - Präsens
 
-
 # [[Modus - Partizips]] - Präsens
 wollend
 

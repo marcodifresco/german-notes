@@ -32,7 +32,7 @@ Wir haben erkannt
 Ihr habt erkannt
 Sie haben erkannt
 
- # [[Modus - Indikativ]] - Plusquamperfekt
+# [[Modus - Indikativ]] - Plusquamperfekt
 Ich hatte erkannt
 Du hattest erkannt
 Er/Sie/Es hatte erkannt

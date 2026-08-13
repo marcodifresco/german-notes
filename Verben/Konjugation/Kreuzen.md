@@ -11,7 +11,6 @@ Wir kreuzen
 Ihr kreuzt
 Sie kreuzen
 
-
 # [[Modus - Indikativ]] - Präteritum
 Ich kreuzte
 Du kreuztest

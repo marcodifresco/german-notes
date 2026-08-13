@@ -26,6 +26,7 @@ Er/Sie/Es hat gehört
 Wir haben gehört
 Ihr habt gehört
 Sie haben gehört
+
 # [[Modus - Indikativ]] - Plusquamperfekt
 Ich hatte gehört
 Du hattest gehört

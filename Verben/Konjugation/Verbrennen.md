@@ -2,6 +2,7 @@ ___
 Links: [[Verben]] [[Typ - Irregular verben]]
 Meaning: to burn
 ___
+
 # [[Modus - Indikativ]] - Präsens
 ich verbrenne
 du verbrennst
@@ -50,7 +51,7 @@ wir werden verbrannt haben
 ihr werdet verbrannt haben
 Sie werden verbrannt haben
 
-# [[Modus - Konjunktiv]] 1 - Present
+# [[Modus - Konjunktiv]] 1 - Präsens
 ich verbrenne
 du verbrennest
 er/sie/es verbrenne

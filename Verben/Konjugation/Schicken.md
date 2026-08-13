@@ -11,7 +11,6 @@ Wir schicken
 Ihr schickt
 Sie schicken
 
-
 # [[Modus - Indikativ]] - Präteritum
 Ich schickte
 Du schicktest

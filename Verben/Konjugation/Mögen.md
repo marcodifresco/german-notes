@@ -11,7 +11,6 @@ Wir mögen
 Ihr mögt
 Sie mögen
 
-
 # [[Modus - Indikativ]] - Präteritum
 Ich mochte
 Du mochtest

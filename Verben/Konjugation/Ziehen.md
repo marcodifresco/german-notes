@@ -68,6 +68,7 @@ Forgive [[Verziehen]]
 # Notes
 an ab hoch ein aus um -> [[Typ - Trennbare verben]]
 be ent ver er -> [[Typ - Regular verben]]
+
 # [[Modus - Konjunktiv]] 1 - Präsens
 ich ziehe
 du ziehest

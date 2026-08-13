@@ -11,8 +11,9 @@ Wir kaufen ein
 Ihr kauft ein
 Sie kaufen ein
 
-# [Indikativ - Perfekt]]
+# [[Modus - Indikativ]] - Perfekt
 [[Pronomen]] + [[Haben]] +  eingekauft
+
 # [[Modus - Indikativ]] - Präteritum
 Ich kaufte ein
 Du kauftest ein

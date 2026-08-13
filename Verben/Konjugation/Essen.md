@@ -85,12 +85,12 @@ Ihr werdet gegessen haben
 Sie werden gegessen haben
 
 # [[Modus - Konjunktiv]] 2 - Präteritum
-Ich äße
-Du äßest
-Er/Sie/Es äße
-Wir äßen
-Ihr äßet
-Sie äßen
+Ich ässe
+Du ässest
+Er/Sie/Es ässe
+Wir ässen
+Ihr ässet
+Sie ässen
 
 # [[Modus - Konjunktiv]] 2 - Futur I
 Ich würde essen

@@ -11,7 +11,6 @@ Wir meinen
 Ihr meint
 Sie meinen
 
-
 # [[Modus - Indikativ]] - Präteritum
 Ich meinte
 Du meintest

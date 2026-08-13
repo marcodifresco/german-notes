@@ -26,6 +26,7 @@ Er/Sie/Es hat gesungen
 Wir haben gesungen
 Ihr habt gesungen
 Sie haben gesungen
+
 # [[Modus - Indikativ]] - Plusquamperfekt
 Ich hatte gesungen
 Du hattest gesungen

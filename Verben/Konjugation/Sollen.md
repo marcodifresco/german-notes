@@ -138,9 +138,10 @@ sollend
 gesollt
 
 ___
-Tags: #Languages/German/Grammar/Verbs/Irregular  
+Tags: #Languages/German/Grammar/Verbs/Irregular
 Links: [[Verben]]
 ___
+
 # [[Modus - Indikativ]] - Präsens
 | Ich       | soll        |
 | Du        | sollst      |
@@ -149,7 +150,6 @@ ___
 | Ihr       | sollt       |
 | Sie       | sollen      |
 
-
 # [[Modus - Konjunktiv]] 2 - Präteritum
 | Ich       | sollte      |
 | Du        | solltest    |
@@ -157,7 +157,6 @@ ___
 | Wir       | sollten     |
 | Ihr       | solltet     |
 | Sie       | sollten     |
-
 
 # [[Modus - Indikativ]] - Perfekt
 [[Pronomen]] + [[Haben]]  gesollt

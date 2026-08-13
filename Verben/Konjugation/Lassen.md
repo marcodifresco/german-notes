@@ -11,7 +11,6 @@ Wir lassen
 Ihr lasst
 Sie lassen
 
-
 # [[Modus - Indikativ]] - Präteritum
 Ich liess
 Du liessest
