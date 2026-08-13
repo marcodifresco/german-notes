@@ -1,6 +1,6 @@
 ___
-Links: [[Verben]]
-Meaning:
+Links: [[Verben]] [[Typ - Trennbare verben]] [[Typ - Regular verben]]
+Meaning: to annunce
 ___
 
 # [[Modus - Indikativ]] - Präsens
