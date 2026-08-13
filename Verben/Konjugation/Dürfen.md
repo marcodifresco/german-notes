@@ -1,6 +1,6 @@
 ___
-Links: [[Verben]]
-Meaning:
+Links: [[Verben]] [[Typ - Irregular verben]] [[Typ - Modal verben]]
+Meaning: to may
 ___
 
 # [[Modus - Indikativ]] - Präsens
@@ -118,6 +118,9 @@ Ihr hättet gedurft
 Sie hätten gedurft
 
 # [[Modus - Imperativ]] - Präsens
+dürfen wir
+dürft ihr
+dürfen Sie
 
 # [[Modus - Partizips]] - Präsens
 dürfend
