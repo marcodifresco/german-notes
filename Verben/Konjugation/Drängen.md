@@ -1,6 +1,6 @@
 ___
 Links: [[Verben]] - [[Typ - Regular verben]]
-Meaning: to Urge
+Meaning: to urge
 ___
 
 # [[Modus - Indikativ]] - Präsens

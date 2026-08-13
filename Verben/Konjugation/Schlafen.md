@@ -1,6 +1,6 @@
 ___
 Links: [[Verben]]
-Meaning:
+Meaning: to sleep
 ___
 
 # [[Modus - Indikativ]] - Präsens

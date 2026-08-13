@@ -1,6 +1,6 @@
 ___
 Links: [[Verben]]
-Meaning:
+Meaning: to get in
 ___
 
 # [[Modus - Indikativ]] - Präsens

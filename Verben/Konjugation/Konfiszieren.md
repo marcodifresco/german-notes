@@ -1,6 +1,6 @@
 ___
 Links: [[Verben]]
-Meaning:
+Meaning: to confiscate
 ___
 
 # [[Modus - Indikativ]] - Präsens

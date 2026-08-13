@@ -1,6 +1,6 @@
 ___
 Links: [[Verben]]
-Meaning:
+Meaning: to photographing
 ___
 
 # [[Modus - Indikativ]] - Präsens

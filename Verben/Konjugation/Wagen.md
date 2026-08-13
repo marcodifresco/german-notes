@@ -1,6 +1,6 @@
 ___
 Links: [[Verben]]
-Meaning:
+Meaning: to dare
 ___
 
 # [[Modus - Indikativ]] - Präsens

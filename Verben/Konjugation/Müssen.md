@@ -1,6 +1,6 @@
 ___
 Links: [[Verben]]
-Meaning:
+Meaning: to must
 ___
 
 # [[Modus - Indikativ]] - Präsens

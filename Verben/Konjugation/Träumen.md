@@ -1,6 +1,6 @@
 ___
 Links: [[Verben]]
-Meaning:
+Meaning: to dream
 ___
 
 # [[Modus - Indikativ]] - Präsens

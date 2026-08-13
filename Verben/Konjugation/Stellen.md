@@ -1,6 +1,6 @@
 ___
 Links: [[Verben]] [[Typ - Regular verben]]
-Meaning: to Position
+Meaning: to position
 ___
 
 # [[Modus - Indikativ]] - Präsens

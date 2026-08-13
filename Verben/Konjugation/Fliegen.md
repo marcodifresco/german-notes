@@ -1,6 +1,6 @@
 ___
 Links: [[Verben]]
-Meaning:
+Meaning: to fly
 ___
 
 # [[Modus - Indikativ]] - Präsens

@@ -1,6 +1,6 @@
 ___
 Links: [[Verben]]
-Meaning:
+Meaning: to steal
 ___
 
 # [[Modus - Indikativ]] - Präsens

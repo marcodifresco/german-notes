@@ -1,6 +1,6 @@
 ___
 Links: [[Verben]]
-Meaning:
+Meaning: to wait
 ___
 
 # [[Modus - Indikativ]] - Präsens

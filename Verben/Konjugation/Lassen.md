@@ -1,6 +1,6 @@
 ___
 Links: [[Verben]]
-Meaning:
+Meaning: to let
 ___
 
 # [[Modus - Indikativ]] - Präsens

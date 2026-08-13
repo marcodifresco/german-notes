@@ -1,6 +1,6 @@
 ___
 Links: [[Verben]]
-Meaning:
+Meaning: to arrange
 ___
 
 # [[Modus - Indikativ]] - Präsens

@@ -1,6 +1,6 @@
 ___
 Links: [[Verben]] [[Dativ]]
-Meaning:
+Meaning: to say
 ___
 
 # [[Modus - Indikativ]] - Präsens

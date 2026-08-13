@@ -1,6 +1,6 @@
 ___
 Links: [[Verben]]
-Meaning:
+Meaning: to happen
 ___
 
 # [[Modus - Indikativ]] - Präsens

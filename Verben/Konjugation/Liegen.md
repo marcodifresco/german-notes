@@ -1,6 +1,6 @@
 ___
 Links: [[Verben]]
-Meaning:
+Meaning: to lay
 ___
 
 # [[Modus - Indikativ]] - Präsens

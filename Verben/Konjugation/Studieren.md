@@ -1,6 +1,6 @@
 ___
 Links: [[Verben]]
-Meaning:
+Meaning: to study
 ___
 
 # [[Modus - Indikativ]] - Präsens

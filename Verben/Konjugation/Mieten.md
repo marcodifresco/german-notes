@@ -1,6 +1,6 @@
 ___
 Links: [[Verben]]
-Meaning:
+Meaning: to rent
 ___
 
 # [[Modus - Indikativ]] - Präsens

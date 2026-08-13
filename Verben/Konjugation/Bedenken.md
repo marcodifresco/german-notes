@@ -1,6 +1,6 @@
 ___
 Links: [[Verben]] [[Typ - Irregular verben]]
-Meaning: To consider
+Meaning: to consider
 ___
 
 # [[Modus - Indikativ]] - Präsens

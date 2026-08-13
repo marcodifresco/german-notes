@@ -1,6 +1,6 @@
 ___
 Links: [[Verben]]
-Meaning:
+Meaning: to believe
 ___
 
 # [[Modus - Indikativ]] - Präsens

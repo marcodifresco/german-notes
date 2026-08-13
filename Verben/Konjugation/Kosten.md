@@ -1,6 +1,6 @@
 ___
 Links: [[Verben]]
-Meaning:
+Meaning: to costs
 ___
 
 # [[Modus - Indikativ]] - Präsens

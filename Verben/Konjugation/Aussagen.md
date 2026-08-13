@@ -1,6 +1,6 @@
 ___
 Links: [[Verben]] [[Typ - Regular verben]] [[Typ - Trennbare verben]]
-Meaning: To testify
+Meaning: to testify
 ___
 
 # [[Modus - Indikativ]] - Präsens

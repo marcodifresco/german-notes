@@ -1,6 +1,6 @@
 ___
 Links: [[Verben]]
-Meaning:
+Meaning: to seem
 ___
 
 # [[Modus - Indikativ]] - Präsens

@@ -1,6 +1,6 @@
 ___
 Links: [[Verben]]
-Meaning:
+Meaning: to seek
 ___
 
 # [[Modus - Indikativ]] - Präsens

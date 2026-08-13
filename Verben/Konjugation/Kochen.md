@@ -1,6 +1,6 @@
 ___
 Links: [[Verben]]
-Meaning:
+Meaning: to cook
 ___
 
 # [[Modus - Indikativ]] - Präsens

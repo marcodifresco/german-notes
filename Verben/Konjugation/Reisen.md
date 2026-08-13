@@ -1,6 +1,6 @@
 ___
 Links: [[Verben]]
-Meaning:
+Meaning: to travel
 ___
 
 # [[Modus - Indikativ]] - Präsens

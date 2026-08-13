@@ -1,6 +1,6 @@
 ___
 Links: [[Verben]]
-Meaning:
+Meaning: to tell
 ___
 
 # [[Modus - Indikativ]] - Präsens

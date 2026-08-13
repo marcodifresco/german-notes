@@ -1,6 +1,6 @@
 ___
 Links: [[Verben]]
-Meaning:
+Meaning: to rain
 ___
 
 # [[Modus - Indikativ]] - Präsens

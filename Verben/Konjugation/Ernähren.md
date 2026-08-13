@@ -1,6 +1,6 @@
 ___
 Links: [[Verben]] [[Typ - Reflexive Verben]]
-Meaning:
+Meaning: to feed
 ___
 
 # [[Modus - Indikativ]] - Präsens

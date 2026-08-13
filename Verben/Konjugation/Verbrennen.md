@@ -1,6 +1,6 @@
 ___
 Links: [[Verben]] [[Typ Irregular verben]]
-Meaning: To burn
+Meaning: to burn
 ___
 # [[Modus - Indikativ]] - Präsens
 ich verbrenne

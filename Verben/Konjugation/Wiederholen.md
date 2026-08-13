@@ -1,6 +1,6 @@
 ___
 Links: [[Verben]] [[Typ - Trennbare verben]]
-Meaning:
+Meaning: to repeat
 ___
 
 # [[Modus - Indikativ]] - Präsens

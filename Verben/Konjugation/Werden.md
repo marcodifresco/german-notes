@@ -1,6 +1,6 @@
 ___
 Links: [[Verben]] [[Typ - Regular verben]] 
-Meaning: to Become
+Meaning: to become
 ___
 
 # [[Modus - Indikativ]] - Präsens

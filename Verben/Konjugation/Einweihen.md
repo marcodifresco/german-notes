@@ -1,6 +1,6 @@
 ___
 Links: [[Verben]]
-Meaning:
+Meaning: to initiate
 ___
 
 # [[Modus - Indikativ]] - Präsens

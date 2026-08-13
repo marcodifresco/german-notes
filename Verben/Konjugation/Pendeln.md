@@ -1,6 +1,6 @@
 ___
 Links: [[Verben]]
-Meaning:
+Meaning: to commute
 ___
 
 # [[Modus - Indikativ]] - Präsens

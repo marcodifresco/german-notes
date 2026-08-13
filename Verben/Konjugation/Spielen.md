@@ -1,6 +1,6 @@
 ___
 Links: [[Verben]]
-Meaning:
+Meaning: to spielen
 ___
 
 # [[Modus - Indikativ]] - Präsens

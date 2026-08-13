@@ -1,6 +1,6 @@
 ___
 Links: [[Verben]]
-Meaning:
+Meaning: to cut
 ___
 
 # [[Modus - Indikativ]] - Präsens

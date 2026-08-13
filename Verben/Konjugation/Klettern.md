@@ -1,6 +1,6 @@
 ___
 Links: [[Verben]]
-Meaning:
+Meaning: to climb
 ___
 
 # [[Modus - Indikativ]] - Präsens

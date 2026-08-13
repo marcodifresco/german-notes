@@ -1,6 +1,6 @@
 ___
 Links: [[Verben]]
-Meaning:
+Meaning: to packaging
 ___
 
 # [[Modus - Indikativ]] - Präsens

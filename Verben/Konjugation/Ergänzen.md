@@ -1,6 +1,6 @@
 ___
 Links: [[Verben]]
-Meaning:
+Meaning: to add to
 ___
 
 # [[Modus - Indikativ]] - Präsens

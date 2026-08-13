@@ -1,6 +1,6 @@
 ___
 Links: [[Verben]]
-Meaning:
+Meaning: to copy
 ___
 
 # [[Modus - Indikativ]] - Präsens

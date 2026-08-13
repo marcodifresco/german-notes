@@ -1,6 +1,6 @@
 ___
 Links: [[Verben]]
-Meaning:
+Meaning: to stand
 ___
 
 # [[Modus - Indikativ]] - Präsens

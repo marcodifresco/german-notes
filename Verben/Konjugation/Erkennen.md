@@ -1,6 +1,6 @@
 ___
 Links: [[Verben]]
-Meaning:
+Meaning: to recognize
 ___
 
 # [[Modus - Indikativ]] - Präsens

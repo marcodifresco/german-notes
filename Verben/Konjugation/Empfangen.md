@@ -1,6 +1,6 @@
 ___
 Links: [[Verben]]
-Meaning:
+Meaning: to received
 ___
 
 # [[Modus - Indikativ]] - Präsens

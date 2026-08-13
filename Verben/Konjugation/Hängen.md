@@ -1,6 +1,6 @@
 ___
 Links: [[Verben]]
-Meaning:
+Meaning: to hang
 ___
 
 # [[Modus - Indikativ]] - Präsens

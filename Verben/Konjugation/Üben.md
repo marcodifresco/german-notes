@@ -1,6 +1,6 @@
 ___
 Links: [[Verben]]
-Meaning:
+Meaning: to practice
 ___
 
 # [[Modus - Indikativ]] - Präsens

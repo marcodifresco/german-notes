@@ -1,6 +1,6 @@
 ___
 Links: [[Verben]]
-Meaning:
+Meaning: to sit
 ___
 
 # [[Modus - Indikativ]] - Präsens

@@ -1,6 +1,6 @@
 ___
 Links: [[Verben]] [[Akkusativ]]
-Meaning:
+Meaning: to kaufen
 ___
 
 # [[Modus - Indikativ]] - Präsens

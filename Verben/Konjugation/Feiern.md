@@ -1,6 +1,6 @@
 ___
 Links: [[Verben]]
-Meaning:
+Meaning: to celebrate
 ___
 
 # [[Modus - Indikativ]] - Präsens

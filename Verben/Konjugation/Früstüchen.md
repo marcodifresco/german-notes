@@ -1,6 +1,6 @@
 ___
 Links: [[Verben]]
-Meaning:
+Meaning: to have breakfast
 ___
 
 # [[Modus - Indikativ]] - Präsens

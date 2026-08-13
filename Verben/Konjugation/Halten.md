@@ -1,6 +1,6 @@
 ___
 Links: [[Verben]]
-Meaning:
+Meaning: to hold
 ___
 
 # [[Modus - Indikativ]] - Präsens

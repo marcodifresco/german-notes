@@ -1,6 +1,6 @@
 ___
 Links: [[Verben]]
-Meaning:
+Meaning: to to swim
 ___
 
 # [[Modus - Indikativ]] - Präsens

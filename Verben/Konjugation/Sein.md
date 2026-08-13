@@ -1,6 +1,6 @@
 ___
 Links: [[Verben]]
-Meaning:
+Meaning: to be
 ___
 
 # [[Modus - Indikativ]] - Präsens

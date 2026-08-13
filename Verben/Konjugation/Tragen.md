@@ -1,6 +1,6 @@
 ___
 Links: [[Verben]]
-Meaning:
+Meaning: to carry
 ___
 
 # [[Modus - Indikativ]] - Präsens

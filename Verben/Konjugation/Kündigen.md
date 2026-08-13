@@ -1,6 +1,6 @@
 ___
 Links: [[Verben]]
-Meaning:
+Meaning: to quit
 ___
 
 # [[Modus - Indikativ]] - Präsens

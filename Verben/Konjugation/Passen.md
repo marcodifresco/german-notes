@@ -1,6 +1,6 @@
 ___
 Links: [[Verben]]
-Meaning:
+Meaning: to to fit
 ___
 
 # [[Modus - Indikativ]] - Präsens

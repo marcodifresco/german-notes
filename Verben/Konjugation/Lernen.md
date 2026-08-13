@@ -1,6 +1,6 @@
 ___
 Links: [[Verben]]
-Meaning:
+Meaning: to learn
 ___
 
 # [[Modus - Indikativ]] - Präsens

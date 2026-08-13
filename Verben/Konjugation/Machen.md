@@ -1,6 +1,6 @@
 ___
 Links: [[Verben]]
-Meaning:
+Meaning: to make
 ___
 
 # [[Modus - Indikativ]] - Präsens

@@ -1,6 +1,6 @@
 ___
 Links: [[Verben]]
-Meaning:
+Meaning: to marry
 ___
 
 # [[Modus - Indikativ]] - Präsens

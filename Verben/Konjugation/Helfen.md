@@ -1,6 +1,6 @@
 ___
 Links: [[Verben]]
-Meaning:
+Meaning: to help
 ___
 
 # [[Modus - Indikativ]] - Präsens

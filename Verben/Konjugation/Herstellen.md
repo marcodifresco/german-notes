@@ -1,6 +1,6 @@
 ___
 Links: [[Verben]] [[Typ - Regular verben]] [[Typ - Trennbare verben]]
-Meaning: To produce
+Meaning: to produce
 ___
 # [[Modus - Indikativ]] - Präsens
 ich stelle her

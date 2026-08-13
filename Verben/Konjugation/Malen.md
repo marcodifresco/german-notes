@@ -1,6 +1,6 @@
 ___
 Links: [[Verben]]
-Meaning:
+Meaning: to grind
 ___
 
 # [[Modus - Indikativ]] - Präsens

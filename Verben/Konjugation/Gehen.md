@@ -1,6 +1,6 @@
 ___
 Links: [[Verben]]
-Meaning:
+Meaning: to go
 ___
 
 # [[Modus - Indikativ]] - Präsens

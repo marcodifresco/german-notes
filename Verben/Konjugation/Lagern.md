@@ -1,6 +1,6 @@
 ___
 Links: [[Verben]]
-Meaning:
+Meaning: to store
 ___
 
 # [[Modus - Indikativ]] - Präsens

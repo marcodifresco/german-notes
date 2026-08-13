@@ -1,6 +1,6 @@
 ___
 Links: [[Verben]]
-Meaning:
+Meaning: to you're sleeping
 ___
 
 # [[Modus - Indikativ]] - Präsens

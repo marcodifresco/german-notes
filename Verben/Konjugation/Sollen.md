@@ -1,6 +1,6 @@
 ___
 Links: [[Verben]] [[Typ - Modal verben]]
-Meaning: to Should
+Meaning: to should
 ___
 
 # [[Modus - Indikativ]] - Präsens

@@ -1,6 +1,6 @@
 ___
 Links: [[Verben]]
-Meaning:
+Meaning: to hear
 ___
 
 # [[Modus - Indikativ]] - Präsens

@@ -1,6 +1,6 @@
 ___
 Links: [[Verben]]
-Meaning:
+Meaning: to behave
 ___
 
 # [[Modus - Indikativ]] - Präsens

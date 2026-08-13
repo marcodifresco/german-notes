@@ -1,6 +1,6 @@
 ___
 Links: [[Verben]]
-Meaning:
+Meaning: to see
 ___
 
 # [[Modus - Indikativ]] - Präsens

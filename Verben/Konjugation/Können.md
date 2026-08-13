@@ -1,6 +1,6 @@
 ___
 Links: [[Verben]]
-Meaning:
+Meaning: to can
 ___
 
 # [[Modus - Indikativ]] - Präsens

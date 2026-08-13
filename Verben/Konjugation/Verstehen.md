@@ -1,6 +1,6 @@
 ___
 Links: [[Verben]]
-Meaning:
+Meaning: to understand
 ___
 
 # [[Modus - Indikativ]] - Präsens

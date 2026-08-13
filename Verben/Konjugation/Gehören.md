@@ -1,6 +1,6 @@
 ___
 Links: [[Verben]]
-Meaning:
+Meaning: to belong
 ___
 
 # [[Modus - Indikativ]] - Präsens

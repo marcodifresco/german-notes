@@ -1,6 +1,6 @@
 ___
 Links: [[Verben]]
-Meaning:
+Meaning: to forget
 ___
 
 # [[Modus - Indikativ]] - Präsens

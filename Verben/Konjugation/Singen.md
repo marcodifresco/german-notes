@@ -1,6 +1,6 @@
 ___
 Links: [[Verben]]
-Meaning:
+Meaning: to sing
 ___
 
 # [[Modus - Indikativ]] - Präsens

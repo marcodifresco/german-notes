@@ -1,6 +1,6 @@
 ___
 Links: [[Verben]]
-Meaning:
+Meaning: to give
 ___
 
 # [[Modus - Indikativ]] - Präsens

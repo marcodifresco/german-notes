@@ -1,6 +1,6 @@
 ___
 Links: [[Verben]] [[Typ - Trennbare verben]]
-Meaning:
+Meaning: to tv
 ___
 
 # [[Modus - Indikativ]] - Präsens

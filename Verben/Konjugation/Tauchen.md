@@ -1,6 +1,6 @@
 ___
 Links: [[Verben]]
-Meaning:
+Meaning: to dive
 ___
 
 # [[Modus - Indikativ]] - Präsens

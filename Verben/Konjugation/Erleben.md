@@ -1,6 +1,6 @@
 ___
 Links: [[Verben]]
-Meaning:
+Meaning: to experience
 ___
 
 # [[Modus - Indikativ]] - Präsens

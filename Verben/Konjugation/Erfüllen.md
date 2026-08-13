@@ -1,6 +1,6 @@
 ___
 Links: [[Verben]]
-Meaning:
+Meaning: to fulfill
 ___
 
 # [[Modus - Indikativ]] - Präsens

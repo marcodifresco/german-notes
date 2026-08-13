@@ -1,6 +1,6 @@
 ___
 Links: [[Verben]]
-Meaning:
+Meaning: to remember
 ___
 
 # [[Modus - Indikativ]] - Präsens

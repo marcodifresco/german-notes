@@ -1,6 +1,6 @@
 ___
 Links: [[Verben]] 
-Meaning:
+Meaning: to complete
 ___
 
 # [[Modus - Indikativ]] - Präsens

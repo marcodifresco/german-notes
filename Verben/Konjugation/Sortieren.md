@@ -1,6 +1,6 @@
 ___
 Links: [[Verben]]
-Meaning:
+Meaning: to sort
 ___
 
 # [[Modus - Indikativ]] - Präsens

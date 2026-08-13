@@ -1,6 +1,6 @@
 ___
 Links: [[Verben]]
-Meaning:
+Meaning: to make a phone call
 ___
 
 # [[Modus - Indikativ]] - Präsens

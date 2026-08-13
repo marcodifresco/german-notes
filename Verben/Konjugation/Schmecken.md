@@ -1,6 +1,6 @@
 ___
 Links: [[Verben]]
-Meaning:
+Meaning: to taste good
 ___
 
 # [[Modus - Indikativ]] - Präsens

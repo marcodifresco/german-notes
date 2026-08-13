@@ -1,6 +1,6 @@
 ___
 Links: [[Verben]]
-Meaning:
+Meaning: to life
 ___
 
 # [[Modus - Indikativ]] - Präsens

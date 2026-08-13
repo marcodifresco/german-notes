@@ -1,6 +1,6 @@
 ___
 Links: [[Verben]]
-Meaning:
+Meaning: to rode
 ___
 
 # [[Modus - Indikativ]] - Präsens

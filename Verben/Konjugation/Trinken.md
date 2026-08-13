@@ -1,6 +1,6 @@
 ___
 Links: [[Verben]]
-Meaning:
+Meaning: to drink
 ___
 
 # [[Modus - Indikativ]] - Präsens

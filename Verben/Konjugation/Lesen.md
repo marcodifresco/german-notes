@@ -1,6 +1,6 @@
 ___
 Links: [[Verben]]
-Meaning:
+Meaning: to to read
 ___
 
 # [[Modus - Indikativ]] - Präsens

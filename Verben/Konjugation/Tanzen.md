@@ -1,6 +1,6 @@
 ___
 Links: [[Verben]]
-Meaning:
+Meaning: to dance
 ___
 
 # [[Modus - Indikativ]] - Präsens

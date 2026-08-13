@@ -1,6 +1,6 @@
 ___
 Links: [[Verben]]
-Meaning:
+Meaning: to inform
 ___
 
 # [[Modus - Indikativ]] - Präsens

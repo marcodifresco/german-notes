@@ -1,6 +1,6 @@
 ___
 Links: [[Verben]]
-Meaning:
+Meaning: to transport
 ___
 
 # [[Modus - Indikativ]] - Präsens

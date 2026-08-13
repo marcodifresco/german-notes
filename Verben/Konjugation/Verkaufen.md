@@ -1,6 +1,6 @@
 ___
 Links: [[Verben]]
-Meaning:
+Meaning: to sell
 ___
 
 # [[Modus - Indikativ]] - Präsens

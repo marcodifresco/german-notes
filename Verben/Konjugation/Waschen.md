@@ -1,6 +1,6 @@
 ___
 Links: [[Verben]]
-Meaning:
+Meaning: to wash
 ___
 
 # [[Modus - Indikativ]] - Präsens

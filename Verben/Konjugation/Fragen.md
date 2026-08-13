@@ -1,6 +1,6 @@
 ___
 Links: [[Verben]] [[Akkusativ]]
-Meaning:
+Meaning: to questions
 ___
 
 # [[Modus - Indikativ]] - Präsens

@@ -1,6 +1,6 @@
 ___
 Links: [[Verben]]
-Meaning:
+Meaning: to like
 ___
 
 # [[Modus - Indikativ]] - Präsens

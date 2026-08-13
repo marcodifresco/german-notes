@@ -1,6 +1,6 @@
 ___
 Links: [[Verben]]
-Meaning:
+Meaning: to essen
 ___
 
 # [[Modus - Indikativ]] - Präsens

@@ -1,6 +1,6 @@
 ___
 Links: [[Verben]]
-Meaning:
+Meaning: to be called
 ___
 
 # [[Modus - Indikativ]] - Präsens

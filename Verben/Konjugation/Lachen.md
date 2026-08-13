@@ -1,6 +1,6 @@
 ___
 Links: [[Verben]]
-Meaning:
+Meaning: to laugh
 ___
 
 # [[Modus - Indikativ]] - Präsens

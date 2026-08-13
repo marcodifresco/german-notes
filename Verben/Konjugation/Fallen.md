@@ -1,6 +1,6 @@
 ___
 Links: [[Verben]]
-Meaning:
+Meaning: to fallen
 ___
 
 # [[Modus - Indikativ]] - Präsens

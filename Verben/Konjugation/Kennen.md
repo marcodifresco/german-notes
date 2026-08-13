@@ -1,6 +1,6 @@
 ___
 Links: [[Verben]]
-Meaning:
+Meaning: to know
 ___
 
 # [[Modus - Indikativ]] - Präsens

@@ -1,6 +1,6 @@
 ___
 Links: [[Verben]]
-Meaning:
+Meaning: to fear
 ___
 
 # [[Modus - Indikativ]] - Präsens

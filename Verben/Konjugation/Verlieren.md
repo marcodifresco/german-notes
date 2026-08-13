@@ -1,6 +1,6 @@
 ___
 Links: [[Verben]]
-Meaning:
+Meaning: to lose
 ___
 
 # [[Modus - Indikativ]] - Präsens

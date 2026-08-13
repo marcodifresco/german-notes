@@ -1,6 +1,6 @@
 ___
 Links: [[Verben]]
-Meaning:
+Meaning: to come
 ___
 
 # [[Modus - Indikativ]] - Präsens

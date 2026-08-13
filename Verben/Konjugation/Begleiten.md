@@ -1,6 +1,6 @@
 ___
 Links: [[Verben]] [[Typ - Regular verben]]
-Meaning: To accompany
+Meaning: to accompany
 ___
 
 # [[Modus - Indikativ]] - Präsens

@@ -1,6 +1,6 @@
 ___
 Links: [[Verben]]
-Meaning:
+Meaning: to close
 ___
 
 # [[Modus - Indikativ]] - Präsens

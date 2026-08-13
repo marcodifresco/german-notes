@@ -1,6 +1,6 @@
 ___
 Links: [[Verben]]
-Meaning:
+Meaning: to explain
 ___
 
 # [[Modus - Indikativ]] - Präsens

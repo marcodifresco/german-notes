@@ -1,6 +1,6 @@
 ___
 Links: [[Verben]]
-Meaning:
+Meaning: to provided
 ___
 
 # [[Modus - Indikativ]] - Präsens

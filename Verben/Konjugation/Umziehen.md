@@ -1,6 +1,6 @@
 ___
 Links: [[Verben]] [[Typ - Reflexive Verben]]
-Meaning:
+Meaning: to move
 ___
 
 # [[Modus - Indikativ]] - Präsens

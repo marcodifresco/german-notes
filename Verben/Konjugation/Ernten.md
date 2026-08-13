@@ -1,6 +1,6 @@
 ___
 Links: [[Verben]]
-Meaning:
+Meaning: to harvest
 ___
 
 # [[Modus - Indikativ]] - Präsens

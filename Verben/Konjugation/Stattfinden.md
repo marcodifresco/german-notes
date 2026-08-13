@@ -1,6 +1,6 @@
 ___
 Links: [[Verben]]
-Meaning:
+Meaning: to take place
 ___
 
 # [[Modus - Indikativ]] - Präsens

@@ -1,6 +1,6 @@
 ___
 Links: [[Verben]]
-Meaning:
+Meaning: to open
 ___
 
 # [[Modus - Indikativ]] - Präsens

@@ -1,6 +1,6 @@
 ___
 Links: [[Verben]]
-Meaning:
+Meaning: to bring along
 ___
 
 # [[Modus - Indikativ]] - Präsens

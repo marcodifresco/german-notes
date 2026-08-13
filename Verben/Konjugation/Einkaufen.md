@@ -1,6 +1,6 @@
 ___
 Links: [[Verben]]
-Meaning:
+Meaning: to shopping
 ___
 
 # [[Modus - Indikativ]] - Präsens

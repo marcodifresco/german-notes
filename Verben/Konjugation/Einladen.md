@@ -1,6 +1,6 @@
 ___
 Links: [[Verben]]
-Meaning:
+Meaning: to invite
 ___
 
 # [[Modus - Indikativ]] - Präsens

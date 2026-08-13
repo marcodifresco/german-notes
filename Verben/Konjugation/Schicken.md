@@ -1,6 +1,6 @@
 ___
 Links: [[Verben]]
-Meaning:
+Meaning: to send
 ___
 
 # [[Modus - Indikativ]] - Präsens

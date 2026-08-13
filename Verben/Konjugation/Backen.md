@@ -1,6 +1,6 @@
 ___
 Links: [[Verben]] [[Typ - Regular verben]]
-Meaning: To bake
+Meaning: to bake
 ___
 
 # [[Modus - Indikativ]] - Präsens

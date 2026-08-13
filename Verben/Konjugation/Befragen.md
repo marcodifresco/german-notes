@@ -1,6 +1,6 @@
 ___
 Links: [[Verben]] [[Typ - Regular verben]]
-Meaning: To question
+Meaning: to question
 ___
 
 # [[Modus - Indikativ]] - Präsens

@@ -1,6 +1,6 @@
 ___
 Links: [[Verben]]
-Meaning:
+Meaning: to mean
 ___
 
 # [[Modus - Indikativ]] - Präsens

@@ -1,6 +1,6 @@
 ___
 Links: [[Verben]]
-Meaning:
+Meaning: to meet
 ___
 
 # [[Modus - Indikativ]] - Präsens

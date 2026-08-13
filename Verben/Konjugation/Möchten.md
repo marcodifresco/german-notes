@@ -1,6 +1,6 @@
 ___
 Links: [[Verben]]
-Meaning:
+Meaning: to want
 ___
 
 # [[Modus - Indikativ]] - Präsens

@@ -1,6 +1,6 @@
 ___
 Links: [[Verben]]
-Meaning:
+Meaning: to speak
 ___
 
 # [[Modus - Indikativ]] - Präsens

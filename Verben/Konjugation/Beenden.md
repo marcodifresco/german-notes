@@ -1,6 +1,6 @@
 ___
 Links: [[Verben]] [[Typ - Regular verben]]
-Meaning: To finish
+Meaning: to finish
 ___
 
 # [[Modus - Indikativ]] - Präsens

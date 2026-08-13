@@ -1,6 +1,6 @@
 ___
 Links: [[Verben]]
-Meaning:
+Meaning: to cross
 ___
 
 # [[Modus - Indikativ]] - Präsens

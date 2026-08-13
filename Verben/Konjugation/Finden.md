@@ -1,6 +1,6 @@
 ___
 Links: [[Verben]]
-Meaning:
+Meaning: to find
 ___
 
 # [[Modus - Indikativ]] - Präsens

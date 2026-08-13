@@ -1,6 +1,6 @@
 ___
 Links: [[Verben]]
-Meaning:
+Meaning: to snow
 ___
 
 # [[Modus - Indikativ]] - Präsens

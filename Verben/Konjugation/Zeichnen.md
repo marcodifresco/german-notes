@@ -1,6 +1,6 @@
 ___
 Links: [[Verben]]
-Meaning:
+Meaning: to draw
 ___
 
 # [[Modus - Indikativ]] - Präsens

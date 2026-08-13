@@ -1,6 +1,6 @@
 ___
 Links: [[Verben]] [[Typ - Irregular verben]]
-Meaning: To descrive
+Meaning: to descrive
 ___
 
 # [[Modus - Indikativ]] - Präsens

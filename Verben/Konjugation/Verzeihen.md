@@ -1,6 +1,6 @@
 ___
 Links: [[Verben]] [[Typ - Irregular verben]] [[Typ - Trennbare verben]]
-Meaning: to Forgive
+Meaning: to forgive
 ___
 
 # [[Modus - Indikativ]] - Präsens
