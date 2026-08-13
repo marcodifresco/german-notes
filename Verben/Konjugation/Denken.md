@@ -1,6 +1,6 @@
 ___
-Links: [[Verben]]
-Meaning:
+Links: [[Verben]] [[Typ - Irregular verben]]
+Meaning: to think
 ___
 
 # [[Modus - Indikativ]] - Präsens
@@ -124,11 +124,7 @@ Sie hätten gedacht
 (Sie) denken Sie!
 
 # [[Modus - Partizips]] - Präsens
-Conjugation
-------------
 denkend
 
 # [[Modus - Partizips]] - Perfekt
-Conjugation
-------------
 gedacht
