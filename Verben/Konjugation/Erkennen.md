@@ -1,5 +1,5 @@
 ___
-Links: [[Verben]]
+Links: [[Verben]] [[Typ - Irregular verben]]
 Meaning: to recognize
 ___
 

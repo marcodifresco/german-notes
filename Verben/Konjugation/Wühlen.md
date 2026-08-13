@@ -1,5 +1,5 @@
 ___
-Links: [[Verben]] [[Verben]] [[Typ - Regular verben]] 
+Links: [[Verben]] [[Typ - Regular verben]]
 Meaning: to dig
 ___
 

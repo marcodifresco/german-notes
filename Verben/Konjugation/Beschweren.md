@@ -1,5 +1,5 @@
 ___
-Links: [[Verben]] [[Typ - Regular verben]]
+Links: [[Verben]] [[Typ - Regular verben]] [[Typ - Reflexive Verben]]
 Meaning: to complain
 ___
 

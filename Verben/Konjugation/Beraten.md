@@ -1,5 +1,5 @@
 ___
-Links: [[Verben]] [[Typ - Regular verben]]
+Links: [[Verben]] [[Typ - Irregular verben]]
 Meaning: to advise
 ___
 

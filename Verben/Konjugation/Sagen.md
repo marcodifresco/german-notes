@@ -1,5 +1,5 @@
 ___
-Links: [[Verben]] [[Dativ]]
+Links: [[Verben]] [[Dativ]] [[Typ - Regular verben]]
 Meaning: to say
 ___
 

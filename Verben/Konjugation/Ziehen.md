@@ -1,5 +1,5 @@
 ___
-Links: [[Verben]] - [[Typ - Irregular verben]]
+Links: [[Verben]] [[Typ - Irregular verben]]
 Meaning: to pull
 ___
 

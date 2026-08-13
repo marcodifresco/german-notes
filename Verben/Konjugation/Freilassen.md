@@ -1,5 +1,5 @@
 ___
-Links: [[Verben]] [[Typ - Trennbare verben]]
+Links: [[Verben]] [[Typ - Trennbare verben]] [[Typ - Irregular verben]]
 Meaning: to release
 ___
 
@@ -13,12 +13,12 @@ Sie lassen frei
 
 
 # [[Modus - Indikativ]] - Präteritum
-Ich ließ frei
-Du ließest frei
-Er/Sie/Es ließ frei
-Wir ließen frei
-Ihr ließt frei
-Sie ließen frei
+Ich liess frei
+Du liessest frei
+Er/Sie/Es liess frei
+Wir liessen frei
+Ihr liesst frei
+Sie liessen frei
 
 # [[Modus - Indikativ]] - Perfekt
 [[Pronomen]] + [[Haben]] + freigelassen
@@ -86,12 +86,12 @@ Ihr werdet freigelassen haben
 Sie werden freigelassen haben
 
 # [[Modus - Konjunktiv]] 2 - Präteritum
-Ich ließe frei
-Du ließest frei
-Er/Sie/Es ließe frei
-Wir ließen frei
-Ihr ließet frei
-Sie ließen frei
+Ich liesse frei
+Du liessest frei
+Er/Sie/Es liesse frei
+Wir liessen frei
+Ihr liesset frei
+Sie liessen frei
 
 # [[Modus - Konjunktiv]] 2 - Futur I
 Ich würde freilassen

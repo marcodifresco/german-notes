@@ -1,5 +1,5 @@
 ___
-Links: [[Verben]]
+Links: [[Verben]] [[Typ - Irregular verben]]
 Meaning: to be called
 ___
 
@@ -86,12 +86,12 @@ Ihr werdet geheissen haben
 Sie werden geheissen haben
 
 # [[Modus - Konjunktiv]] 2 - Präteritum
-Ich hieße
-Du hießest
-Er/Sie/Es hieße
-Wir hießen
-Ihr hießet
-Sie hießen
+Ich hiesse
+Du hiessest
+Er/Sie/Es hiesse
+Wir hiessen
+Ihr hiesset
+Sie hiessen
 
 # [[Modus - Konjunktiv]] 2 - Futur I
 Ich würde heissen

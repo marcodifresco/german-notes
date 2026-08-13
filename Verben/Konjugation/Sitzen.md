@@ -1,5 +1,5 @@
 ___
-Links: [[Verben]]
+Links: [[Verben]] [[Typ - Irregular verben]]
 Meaning: to sit
 ___
 
@@ -13,12 +13,12 @@ Sie sitzen
 
 
 # [[Modus - Indikativ]] - Präteritum
-Ich saß
-Du saßt
-Er/Sie/Es saß
-Wir saßen
-Ihr saßt
-Sie saßen
+Ich sass
+Du sasst
+Er/Sie/Es sass
+Wir sassen
+Ihr sasst
+Sie sassen
 
 # [[Modus - Indikativ]] - Perfekt
 [[Pronomen]] + [[Haben]]  + gesessen (in CH [[Sein]])
@@ -86,12 +86,12 @@ Ihr werdet gesessen haben
 Sie werden gesessen haben
 
 # [[Modus - Konjunktiv]] 2 - Präteritum
-Ich säße
-Du säßest
-Er/Sie/Es säße
-Wir säßen
-Ihr säßet
-Sie säßen
+Ich sässe
+Du sässest
+Er/Sie/Es sässe
+Wir sässen
+Ihr sässet
+Sie sässen
 
 # [[Modus - Konjunktiv]] 2 - Futur I
 Ich würde sitzen

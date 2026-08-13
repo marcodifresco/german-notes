@@ -1,5 +1,5 @@
 ___
-Links: [[Verben]] [[Typ - Modal verben]]
+Links: [[Verben]] [[Typ - Modal verben]] [[Typ - Irregular verben]]
 Meaning: to should
 ___
 

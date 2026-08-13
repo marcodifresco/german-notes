@@ -1,5 +1,5 @@
 ___
-Links: [[Verben]]
+Links: [[Verben]] [[Typ - Irregular verben]]
 Meaning: to eat
 ___
 
@@ -13,12 +13,12 @@ Sie fressen
 
 
 # [[Modus - Indikativ]] - Präteritum
-Ich fraß
-Du fraßest
-Er/Sie/Es fraß
-Wir fraßen
-Ihr fraßt
-Sie fraßen
+Ich frass
+Du frassest
+Er/Sie/Es frass
+Wir frassen
+Ihr frasst
+Sie frassen
 
 # [[Modus - Indikativ]] - Perfekt
 [[Pronomen]] + [[Haben]] + gefressen
@@ -86,12 +86,12 @@ Ihr werdet gefressen haben
 Sie werden gefressen haben
 
 # [[Modus - Konjunktiv]] 2 - Präteritum
-Ich fräße
-Du fräßest
-Er/Sie/Es fräße
-Wir fräßen
-Ihr fräßet
-Sie fräßen
+Ich frässe
+Du frässest
+Er/Sie/Es frässe
+Wir frässen
+Ihr frässet
+Sie frässen
 
 # [[Modus - Konjunktiv]] 2 - Futur I
 Ich würde fressen

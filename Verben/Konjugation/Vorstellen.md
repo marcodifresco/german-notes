@@ -1,5 +1,5 @@
 ___
-Links: [[Verben]] [[Typ - Trennbare verben]]
+Links: [[Verben]] [[Typ - Trennbare verben]] [[Typ - Regular verben]] [[Typ - Reflexive Verben]]
 Meaning: to introduce
 ___
 

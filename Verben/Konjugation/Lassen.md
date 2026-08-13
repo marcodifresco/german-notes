@@ -1,5 +1,5 @@
 ___
-Links: [[Verben]]
+Links: [[Verben]] [[Typ - Irregular verben]]
 Meaning: to let
 ___
 
@@ -13,12 +13,12 @@ Sie lassen
 
 
 # [[Modus - Indikativ]] - Präteritum
-Ich ließ
-Du ließest
-Er/Sie/Es ließ
-Wir ließen
-Ihr ließt
-Sie ließen
+Ich liess
+Du liessest
+Er/Sie/Es liess
+Wir liessen
+Ihr liesst
+Sie liessen
 
 # [[Modus - Indikativ]] - Perfekt
 [[Pronomen]] + [[Haben]] + gelassen
@@ -88,12 +88,12 @@ Ihr werdet gelassen haben
 Sie werden gelassen haben
 
 # [[Modus - Konjunktiv]] 2 - Präteritum
-Ich ließe
-Du ließest
-Er/Sie/Es ließe
-Wir ließen
-Ihr ließet
-Sie ließen
+Ich liesse
+Du liessest
+Er/Sie/Es liesse
+Wir liessen
+Ihr liesset
+Sie liessen
 
 # [[Modus - Konjunktiv]] 2 - Futur I
 Ich würde lassen

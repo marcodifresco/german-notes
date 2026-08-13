@@ -1,16 +1,8 @@
 ___
-Links:
-Meaning: to make a date
-___
-
+Links: [[Verben]] [[Typ - Regular verben]] [[Typ - Reflexive Verben]]
+Meaning: to make a date to make appointment
 trello_plugin_note_id: 8t_ONsf6qIdCFd5op2V2f
 trello_board_card_id: 65341124dca0f2cee54063fb;6791ffa794ebd8fcdadca115
----
-___
-
-Links: [[Verben]] [[Typ - Regular verben]]
-Meaning: to make a date to make appointment
-
 ---
 
 # [[Modus - Indikativ]] - Präsens

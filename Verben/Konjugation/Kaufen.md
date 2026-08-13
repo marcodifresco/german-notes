@@ -1,5 +1,5 @@
 ___
-Links: [[Verben]] [[Akkusativ]]
+Links: [[Verben]] [[Akkusativ]] [[Typ - Regular verben]]
 Meaning: to kaufen
 ___
 

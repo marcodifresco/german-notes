@@ -1,5 +1,5 @@
 ___
-Links: [[Verben]] [[Typ - Regular verben]] [[Typ - Trennbare verben]]
+Links: [[Verben]] [[Typ - Regular verben]] [[Typ - Trennbare verben]] [[Typ - Reflexive Verben]]
 Meaning: to watch/look at
 ___
 

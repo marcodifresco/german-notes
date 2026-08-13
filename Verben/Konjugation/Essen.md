@@ -1,5 +1,5 @@
 ___
-Links: [[Verben]]
+Links: [[Verben]] [[Typ - Irregular verben]]
 Meaning: to essen
 ___
 
@@ -12,12 +12,12 @@ Ihr esst
 Sie essen
 
 # [[Modus - Indikativ]] - Präteritum
-Ich aß
-Du aßt
-Er/Sie/Es aß
-Wir aßen
-Ihr aßt
-Sie aßen
+Ich ass
+Du asst
+Er/Sie/Es ass
+Wir assen
+Ihr asst
+Sie assen
 
 # [[Modus - Indikativ]] - Perfekt
 [[Pronomen]] + [[Haben]] + gegessen

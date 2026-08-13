@@ -1,5 +1,5 @@
 ___
-Links: [[Verben]]
+Links: [[Verben]] [[Typ - Irregular verben]] [[Typ - Reflexive Verben]]
 Meaning: to behave
 ___
 

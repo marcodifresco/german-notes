@@ -1,5 +1,5 @@
 ___
-Links: [[Verben]] [[Typ - Reflexive Verben]]
+Links: [[Verben]] [[Typ - Reflexive Verben]] [[Typ - Regular verben]]
 Meaning: to set
 ___
 

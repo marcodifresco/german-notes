@@ -1,5 +1,5 @@
 ___
-Links: [[Verben]] [[Typ - Irregular verben]]
+Links: [[Verben]] [[Typ - Irregular verben]] [[Typ - Trennbare verben]]
 Meaning: to join
 ___
 

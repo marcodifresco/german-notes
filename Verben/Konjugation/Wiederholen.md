@@ -1,5 +1,5 @@
 ___
-Links: [[Verben]] [[Typ - Trennbare verben]]
+Links: [[Verben]] [[Typ - Regular verben]]
 Meaning: to repeat
 ___
 

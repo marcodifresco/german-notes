@@ -1,5 +1,5 @@
 ___
-Links: [[Verben]] [[Typ - Regular verben]] 
+Links: [[Verben]] [[Typ - Irregular verben]] [[Typ - Hilfs verben]]
 Meaning: to become
 ___
 

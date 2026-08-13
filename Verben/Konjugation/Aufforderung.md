@@ -1,5 +1,5 @@
 ___
-Links: [[Verben]] [[Typ - Regular verben]] [[Typ - Trennbare verben]]
+Links: [[Verben]] [[Typ - Regular verben]] [[Typ - Trennbare verben]]
 Meaning: to request
 ___
 

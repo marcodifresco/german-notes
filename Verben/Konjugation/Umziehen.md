@@ -1,5 +1,5 @@
 ___
-Links: [[Verben]] [[Typ - Reflexive Verben]]
+Links: [[Verben]] [[Typ - Reflexive Verben]] [[Typ - Irregular verben]] [[Typ - Trennbare verben]]
 Meaning: to move
 ___
 

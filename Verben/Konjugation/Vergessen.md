@@ -1,5 +1,5 @@
 ___
-Links: [[Verben]]
+Links: [[Verben]] [[Typ - Irregular verben]]
 Meaning: to forget
 ___
 
@@ -13,12 +13,12 @@ Sie vergessen
 
 
 # [[Modus - Indikativ]] - Präteritum
-Ich vergaß
-Du vergaßt
-Er/Sie/Es vergaß
-Wir vergaßen
-Ihr vergaßt
-Sie vergaßen
+Ich vergass
+Du vergasst
+Er/Sie/Es vergass
+Wir vergassen
+Ihr vergasst
+Sie vergassen
 
 # [[Modus - Indikativ]] - Perfekt
 [[Pronomen]] + [[Haben]] + vergessen
@@ -79,12 +79,12 @@ Ihr werdet vergessen haben
 Sie werden vergessen haben
 
 # [[Modus - Konjunktiv]] 2 - Präteritum
-Ich vergäße
-Du vergäßest
-Er/Sie/Es vergäße
-Wir vergäßen
-Ihr vergäßet
-Sie vergäßen
+Ich vergässe
+Du vergässest
+Er/Sie/Es vergässe
+Wir vergässen
+Ihr vergässet
+Sie vergässen
 
 # [[Modus - Konjunktiv]] 2 - Futur I
 Ich würde vergessen
