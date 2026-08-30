@@ -125,6 +125,7 @@ ___
 | The first time                 | Das erste Mal                            |
 | Business man                   | Kaufmann                                 |
 | Acquaintance                   | Der Bekannter                            |
+| Laugh                          | Das Lachen                               |
 
 
 
