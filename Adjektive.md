@@ -17,9 +17,9 @@ Adjectivedeklination nach dem nullartikle
 | Annoyed               | Genervt                 |
 | Artificia             | Künstliche              |
 | Awake                 | Munter                  |
+| Bad                   | Schlecht                |
 | Balanced              | Ausgeglichen            |
 | Beautiful             | Schön                   |
-| Bad                   | Schlecht                |
 | Big                   | Gross                   |
 | Bored                 | Gelangweilt             |
 | Boring                | Langweilig              |
@@ -30,14 +30,15 @@ Adjectivedeklination nach dem nullartikle
 | Classic               | Klassiker               |
 | Different             | Anders                  |
 | Divorced              | Geschieden              |
-| Expensive             | Teuer                   |
 | Excellent             | Ausgezeichnet           |
+| Expensive             | Teuer                   |
 | Forgiven              | Verziehen               |
 | Generous              | Grosszügig              |
 | Great                 | Toll                    |
 | Happy                 | Glücklich               |
 | Happy                 | Froh                    |
 | Hardly (/ just a bit) | Kaum                    |
+| Insane                | Wahnsinnig              |
 | Know                  | Bekannte                |
 | Last                  | Letzte[^2]              |
 | Little (quantity)     | Wenig                   |
@@ -54,32 +55,34 @@ Adjectivedeklination nach dem nullartikle
 | Possible              | Möglichst               |
 | Pregnant              | Schwanger               |
 | Professional          | Beruflich               |
+| Quite                 | Ziemlich                |
 | Real                  | Echt                    |
-| Reliable              | Zuverlässig             |
 | Relaxed               | Entspannt               |
+| Reliable              | Zuverlässig             |
 | Responsible           | Zuständig               |
 | Restless              | Restlos                 |
 | Round                 | Rund                    |
 | Sad                   | Traurig                 |
 | Satisfied             | Zufrieden               |
-| The same              | Genauso wie bei         |
 | Short                 | Kurz                    |
 | Small                 | Klein                   |
 | Smiling               | Lächelnd                |
 | Sporty                | Sportlich               |
 | Square                | Eckig                   |
+| Standard (average)    | Durchschnittlich        |
 | Stingy                | Geizig                  |
 | Stressed              | Gestresst               |
-| Stressing             | Stessig                 |
 | Stressful             | Anstrengend             |
-| Standard (average)    | Durchschnittlich        |
+| Stressing             | Stessig                 |
 | Sweet                 | Süss                    |
 | Tense                 | Gespannt                |
 | Terrible              | Schlimm                 |
+| The same              | Genauso wie bei         |
 | Thin                  | Mager[^3]               |
 | Thrilling             | Spannend                |
 | Tired                 | Müde                    |
 | Urgent                | Sofort                  |
+| Wise                  | Weise                   |
 
 # Examples
 Ein roh**en** Schinken (der)

@@ -14,6 +14,7 @@ Ich wäre gern -> Wie? [[Adjektive]] | Wer? [[Nominativ]]
 
 ![[case-labels.png]]
 
+![[20260831_182609.png]]
 # Examples
 Ich fahre mit eine**m** Audi = Precise, this moment (Fahrer oder Passagier)
 Ich fahre eine**n** Audi = general (nur der Fahrer)
