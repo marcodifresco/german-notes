@@ -2,7 +2,7 @@ ___
 Tags: #Languages/German/Vocabulary 
 ___
 # Specific categories:
-| [[Farben]] | [[Familie]] | [[Languages/German/Vokabular/Essen]] | [[Geographie]] | [[Gesundheit]] | [[Haus]] | [[Natur]] | [[Zahlen]] | [[Arbeitsplatz]] | [[Menge]] | [[Zeit]] | [[Wetter]] | 
+| [[Farben]] | [[Familie]] | [[Essen]] | [[Geographie]] | [[Gesundheit]] | [[Haus]] | [[Natur]] | [[Zahlen]] | [[Arbeitsplatz]] | [[Menge]] | [[Zeit]] | [[Wetter]] | 
 
 # Phrases
 | [[Gängige Redewendungen]] | [[Synonyme]] | [[Schweizer Varianten]] |
@@ -60,12 +60,10 @@ ___
 | Invoice [^2]                   | Die Rechnung (-en)                       |
 | Joker                          | Der Spassvogel (-)                       |
 | Kettle                         | Der Kessel (-)                           |
-| Key                            | Der Schlüssel (-)                        |
 | Keyword                        | Das Stichwört (-er)                      |
 | Ladder                         | Die Leiter                               |
 | Last name                      | Der Nachname (-n)                        |
 | Laugh                          | Das Lachen                               |
-| Laundry day                    | Der Waschtag                             |
 | Lie                            | Die Lüge (-n)                            |
 | Limit                          | Die limite                               |
 | Man                            | Der Mann (Männer)                        |
