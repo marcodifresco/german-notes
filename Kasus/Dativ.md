@@ -10,7 +10,7 @@ Der | Dem
 Die | Der
 Das | Dem
 Die | Den
-
+	
 [[Nominativ]] | [[Dativ]]
 -----|-----
 Ein | Einem

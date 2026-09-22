@@ -5,4 +5,3 @@ AltGr + p = ö
 AltGr + y = ü
 
 ___
-
