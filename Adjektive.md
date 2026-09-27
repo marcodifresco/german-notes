@@ -7,7 +7,7 @@ Adjectivedeklination nach dem nullartikle
 
 | Case | Maskulin   | Feminin        | Neutral     | Plural      |
 | ---- | ---------- | -------------- | ----------- | ----------- |
-| N    | Alter wein | Frische Milch  | Helles Bier | Hohe Bäume  |
+| N    | Alter Wein | Frische Milch  | Helles Bier | Hohe Bäume  |
 | D    | Altem Wein | Frischer Milch | Hellem Bier | Hohe Bäumen |
 | A    | Alten Wein | Frische Milch  | Helles Bier | Hohe Bäume  |
  
@@ -23,16 +23,23 @@ Adjectivedeklination nach dem nullartikle
 | Big                   | Gross                   |
 | Bored                 | Gelangweilt             |
 | Boring                | Langweilig              |
+| Brave                 | Mutig                   |
 | Careful               | Vorsichtig              |
 | Cheap                 | Billig                  |
 | Cheap                 | Günstig                 |
+| Cheeky                | Frech                   |
 | Cheerful              | Fröhlich                |
 | Classic               | Klassiker               |
+| Considerate           | Aufmerksam              |
+| Creative              | Kreativ                 |
+| Critical              | Kritisch                |
 | Different             | Anders                  |
 | Divorced              | Geschieden              |
 | Excellent             | Ausgezeichnet           |
 | Expensive             | Teuer                   |
+| Fair                  | Fair                    |
 | Forgiven              | Verziehen               |
+| Generous              | Grosszügig              |
 | Generous              | Grosszügig              |
 | Great                 | Toll                    |
 | Happy                 | Glücklich               |
@@ -47,6 +54,7 @@ Adjectivedeklination nach dem nullartikle
 | Modern                | Modern                  |
 | Motivated             | Motiviert               |
 | Motivating            | Motivierend             |
+| Neat                  | Ordentlich              |
 | Old                   | Alt                     |
 | Orientation           | Ausrichtung             |
 | Oversalted            | Versalzen               |
@@ -57,6 +65,8 @@ Adjectivedeklination nach dem nullartikle
 | Professional          | Beruflich               |
 | Quite                 | Ziemlich                |
 | Real                  | Echt                    |
+| Realistic             | Realistisch             |
+| Reasonable            | Vernünftig              |
 | Relaxed               | Entspannt               |
 | Reliable              | Zuverlässig             |
 | Responsible           | Zuständig               |
@@ -64,8 +74,10 @@ Adjectivedeklination nach dem nullartikle
 | Round                 | Rund                    |
 | Sad                   | Traurig                 |
 | Satisfied             | Zufrieden               |
+| Serious               | Ernst                   |
 | Short                 | Kurz                    |
 | Small                 | Klein                   |
+| Smart                 | Klug                    |
 | Smiling               | Lächelnd                |
 | Sporty                | Sportlich               |
 | Square                | Eckig                   |
@@ -74,13 +86,16 @@ Adjectivedeklination nach dem nullartikle
 | Stressed              | Gestresst               |
 | Stressful             | Anstrengend             |
 | Stressing             | Stessig                 |
+| Strictly              | Streng                  |
 | Sweet                 | Süss                    |
 | Tense                 | Gespannt                |
 | Terrible              | Schlimm                 |
 | The same              | Genauso wie bei         |
 | Thin                  | Mager[^3]               |
+| Thrifty               | Sparsam                 |
 | Thrilling             | Spannend                |
 | Tired                 | Müde                    |
+| Treu                  | Loyal                   |
 | Urgent                | Sofort                  |
 | Wise                  | Weise                   |
 
